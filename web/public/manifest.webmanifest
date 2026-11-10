@@ -1,0 +1,15 @@
+{
+  "name": "Diseño de Soluciones de Inteligencia Artificial · CERTUS",
+  "short_name": "Soluciones IA",
+  "description": "Material del curso Diseño de Soluciones de Inteligencia Artificial (2026-2), CERTUS.",
+  "lang": "es-PE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a2a6b",
+  "icons": [
+    { "src": "./icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

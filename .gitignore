@@ -1,0 +1,14 @@
+# Sitio
+web/node_modules/
+web/dist/
+
+# SOLO DOCENTE: el repositorio es publico, nada de esto debe subirse.
+Zona docente*/
+Zona docente*.zip
+Claude outputs/
+*SOLUCIONARIO*
+
+# Sistema
+Thumbs.db
+.DS_Store
+__pycache__/

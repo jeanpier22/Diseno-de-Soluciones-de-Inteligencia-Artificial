@@ -1,0 +1,1531 @@
+﻿id_cliente,edad,departamento,tipo_plan,metodo_pago,fecha_alta,consumo_datos_mb,minutos_llamadas,recargas_mes,monto_factura,velocidad_mbps,caidas_red_mes,llamadas_soporte,satisfaccion,se_fue,particion
+C10294,46.0,Piura,Postpago Ilimitado,Yape/Plin,14/09/2024,4574.0,100.0,0,106.82,23.0,1,2,3.0,0,train
+C10553,23.0,Cusco,Postpago Básico,Efectivo,21/09/2025,4467.0,114.0,0,,14.2,0,1,3.0,0,test
+C11289,29.0,Lima,Prepago,Yape/Plin,10/10/2020,3742.0,16.0,1,33.43,39.3,1,1,2.0,1,test
+C10043,48.0,Piura,Postpago Básico,Débito automático,11/07/2023,3190.0,96.0,0,49.09,27.2,1,3,2.0,0,train
+C10568,39.0,La Libertad,Prepago,Yape/Plin,17/11/2022,751.0,155.0,2,26.49,14.0,1,0,2.0,0,train
+C11225,23.0,La Libertad,Postpago Ilimitado,Efectivo,15/12/2024,9400.0,294.0,0,98.72,40.5,0,0,4.0,1,test
+C11021,24.0,Cuzco,Prepago,Yape/Plin,29/10/2023,4199.0,244.0,5,37.67,22.3,0,1,3.0,1,train
+C10734,23.0,Lima,Prepago,Yape/Plin,22/01/2026,2122.0,121.0,0,9.87,26.5,0,1,2.0,0,train
+C11406,33.0,Lima,Prepago,Efectivo,16/12/2025,1606.0,5.0,2,23.66,25.7,2,0,5.0,0,test
+C10860,31.0,La Libertad,Prepago,Débito automático,24/08/2025,14230.0,131.0,1,34.74,31.7,0,1,3.0,0,train
+C10571,60.0,Junín,Prepago,Débito automático,28/09/2025,5163.0,171.0,2,25.28,15.5,1,0,5.0,0,train
+C10383,47.0,Lima,Prepago,Yape/Plin,12/02/2025,4233.0,152.0,3,22.04,32.6,1,0,3.0,0,test
+C10712,56.0,Lima,Postpago Básico,Tarjeta,21/09/2024,4765.0,113.0,0,62.32,13.4,3,3,2.0,0,train
+C10071,39.0,Arequipa,Postpago Ilimitado,Yape/Plin,16/10/2016,15639.0,238.0,0,123.64,26.3,0,0,4.0,0,train
+C10350,50.0, Lima,Postpago Básico,Débito automático,10/03/2025,4853.0,13.0,0,46.38,28.9,1,1,2.0,1,train
+C10409,19.0,Piura,Prepago,Efectivo,29/04/2023,3817.0,186.0,2,38.82,16.9,2,0,2.0,1,train
+C11128,51.0,La Libertad,Prepago,Efectivo,12/11/2021,901.0,61.0,2,18.16,18.1,2,1,4.0,1,train
+C11082,36.0,Arequipa,Postpago Básico,Tarjeta,12/12/2023,4841.0,186.0,0,51.14,29.1,1,0,4.0,0,test
+C10878,39.0,Lima,Postpago Básico,Efectivo,02/07/2026,9230.0,280.0,0,75.1,29.0,1,2,3.0,1,train
+C10467,51.0,Piura,Prepago,Tarjeta,27/01/2021,7155.0,65.0,2,16.06,18.7,4,2,2.0,0,train
+C10880,31.0,Arequipa,Postpago Ilimitado,Yape/Plin,12/11/2024,36605.0,330.0,0,154.23,31.7,0,0,4.0,0,train
+C10888,34.0,Piura,Postpago Básico,Débito automático,09/02/2025,8774.0,304.0,0,67.42,24.8,3,3,3.0,0,train
+C10606,28.0,Cusco,Postpago Básico,Yape/Plin,13/03/2025,5257.0,135.0,0,49.12,12.3,3,2,3.0,0,train
+C10789,38.0,Arequipa,Postpago Ilimitado,Tarjeta,10/03/2022,11580.0,143.0,0,106.25,38.7,0,0,4.0,0,train
+C10758,53.0,Cusco,Prepago,Efectivo,27/04/2022,15985.0,323.0,4,46.05,29.3,2,0,3.0,0,test
+C11196,30.0,Lima,Postpago Básico,Efectivo,31/08/2024,10887.0,230.0,0,74.49,30.1,1,1,3.0,0,train
+C11085,51.0,La Libertad,Prepago,Tarjeta,28/05/2022,992.0,5.0,2,5.0,12.9,1,3,3.0,1,train
+C11020,41.0,Arequipa,Prepago,Yape/Plin,10/08/2025,2956.0,52.0,2,34.54,44.3,1,3,,1,test
+C10977,55.0,Lima,Postpago Básico,Efectivo,12/10/2022,3871.0,175.0,0,43.45,26.4,0,1,2.0,0,test
+C10474,54.0,Lima,Postpago Ilimitado,Débito automático,22/07/2024,3110.0,196.0,0,91.92,31.4,0,0,1.0,0,train
+C11407,20.0,Lima,Prepago,Yape/Plin,26/01/2025,7794.0,163.0,5,31.88,23.7,1,2,3.0,1,test
+C10140,38.0,La Libertad,Prepago,Tarjeta,09/01/2026,6039.0,95.0,5,31.01,18.0,2,1,4.0,0,test
+C11105,58.0,La Libertad,Postpago Básico,Yape/Plin,10/01/2024,4024.0,329.0,0,62.45,13.4,4,2,2.0,0,train
+C10179,40.0,Lima,Prepago,Tarjeta,29/05/2022,1490.0,5.0,1,13.01,21.7,1,1,3.0,0,train
+C10354,41.0,Lima,Prepago,Débito automático,15/06/2024,4066.0,149.0,0,32.67,10.4,2,3,3.0,0,test
+C10751,27.0,Lima,Prepago,Débito automático,26/08/2026,6605.0,113.0,1,31.52,27.5,2,1,3.0,1,test
+C10951,41.0,Lima,Postpago Básico,Efectivo,31/08/2026,2192.0,66.0,0,55.89,22.4,1,0,5.0,0,test
+C10556,43.0,La Libertad,Postpago Básico,Efectivo,10/05/2023,7350.0,221.0,0,59.18,14.3,2,2,3.0,0,test
+C10740,34.0,Cusco,Postpago Ilimitado,Yape/Plin,30/08/2025,5495.0,123.0,0,94.76,18.1,2,2,5.0,0,train
+C10656,32.0,Junín,Postpago Ilimitado,Efectivo,28/06/2023,6284.0,148.0,0,97.72,23.3,2,0,2.0,0,train
+C10454,48.0,Lima,Prepago,Débito automático,19/11/2024,2305.0,119.0,1,12.72,20.8,2,2,4.0,0,train
+C10856,39.0,Cusco,Postpago Ilimitado,Tarjeta,09/01/2026,2483.0,138.0,0,76.61,18.2,4,1,3.0,1,train
+C10835,30.0,Lima,Postpago Básico,Efectivo,17/11/2022,8765.0,72.0,0,64.41,34.6,0,0,5.0,0,train
+C10837,40.0,Lima,Prepago,Yape/Plin,23/10/2023,2100.0,12.0,1,20.2,38.4,0,1,5.0,0,train
+C10037,33.0,arequipa,Postpago Básico,Efectivo,02/06/2023,6903.0,329.0,0,59.02,27.4,1,0,3.0,0,train
+C11200,32.0,Arequipa,Postpago Ilimitado,Débito automático,30/07/2025,10659.0,354.0,0,116.03,22.8,2,4,2.0,0,train
+C10060,33.0,Arequipa,Prepago,Débito automático,25/11/2025,5091.0,96.0,2,16.13,28.3,0,0,5.0,0,test
+C10797,31.0,Piura,Postpago Básico,Yape/Plin,24/08/2025,1942.0,5.0,0,39.43,14.4,2,3,2.0,0,test
+C10095,32.0,La Libertad,Postpago Básico,Yape/Plin,21/07/2026,6931.0,214.0,0,52.03,20.6,1,2,3.0,1,train
+C10956,22.0,Piura,Prepago,Débito automático,29/07/2023,8588.0,287.0,6,44.45,11.7,2,1,4.0,0,train
+C10263,41.0,Piura,Prepago,Yape/Plin,11/04/2023,7718.0,174.0,1,32.48,14.3,3,1,4.0,0,train
+C11386,41.0,LIMA,Postpago Ilimitado,Efectivo,24/07/2021,8518.0,214.0,0,108.62,31.1,0,2,4.0,0,train
+C10146,34.0,Lima,Prepago,Yape/Plin,26/12/2025,13549.0,200.0,8,51.16,23.2,2,2,3.0,1,train
+C11441,52.0,Lima,Postpago Ilimitado,Efectivo,30/08/2022,11218.0,316.0,0,115.72,18.5,1,4,2.0,0,test
+C11461,50.0,Lima,Prepago,Débito automático,18/11/2024,3357.0,47.0,3,19.65,18.9,2,2,3.0,1,train
+C10407,32.0,Piura,Postpago Básico,Yape/Plin,22/06/2025,3869.0,124.0,0,53.24,26.1,4,8,1.0,1,test
+C10432,,Lima,Postpago Básico,Yape/Plin,16/09/2025,14296.0,236.0,0,61.15,24.4,2,2,2.0,1,train
+C11224,34.0,Arequipa,Postpago Básico,Yape/Plin,26/01/2026,8793.0,225.0,0,72.47,28.6,1,1,4.0,0,train
+C10325,50.0,Piura,Postpago Básico,Yape/Plin,09/12/2023,4047.0,134.0,0,50.22,32.2,0,3,3.0,0,train
+C10414,31.0,Lima,Prepago,Débito automático,21/12/2023,4026.0,226.0,1,27.88,18.9,0,0,3.0,0,train
+C11445,32.0,La Libertad,Prepago,Yape/Plin,02/07/2025,10956.0,259.0,2,42.46,11.5,3,2,4.0,1,train
+C10116,46.0,Lima,Prepago,Yape/Plin,01/10/2024,778.0,5.0,0,5.0,25.6,1,0,4.0,0,test
+C10111,31.0,Lima,Postpago Básico,Yape/Plin,01/03/2023,5636.0,283.0,0,61.52,29.4,2,0,3.0,0,train
+C10101,37.0,Lima,Prepago,Débito automático,29/03/2022,34629.0,59.0,1,72.01,27.5,0,2,2.0,0,train
+C10972,41.0,Cusco,Prepago,Tarjeta,17/11/2025,5628.0,190.0,2,41.95,17.2,2,0,,0,train
+C10363,30.0,Piura,Prepago,Débito automático,25/01/2021,1531.0,65.0,3,23.88,24.8,0,0,2.0,0,train
+C10200,40.0,Piura,Prepago,Efectivo,18/02/2023,1139.0,61.0,3,11.74,21.9,1,3,4.0,0,train
+C11233,26.0,Piura,Prepago,Tarjeta,30/01/2026,4723.0,150.0,4,38.19,23.5,4,1,2.0,0,train
+C10885,49.0,Lima,Postpago Ilimitado,Tarjeta,12/02/2023,8694.0,176.0,0,96.49,30.9,2,1,3.0,0,train
+C11134,57.0,Junín,Prepago,Efectivo,11/03/2025,2346.0,113.0,1,25.91,26.7,0,1,,0,train
+C10488,35.0,Cusco,Prepago,Tarjeta,27/07/2025,1097.0,78.0,5,16.94,15.6,2,3,1.0,1,test
+C10141,31.0,Arequipa,Prepago,Yape/Plin,09/08/2025,8326.0,243.0,4,40.87,31.6,1,0,4.0,0,train
+C11250,33.0,La Libertad,Postpago Ilimitado,Efectivo,09/10/2022,2697.0,74.0,0,89.24,2.0,3,0,2.0,0,train
+C10879,,Arequipa,Postpago Básico,Yape/Plin,28/07/2026,9536.0,195.0,0,63.04,15.8,2,1,3.0,0,train
+C11205,41.0,Piura,Prepago,Yape/Plin,07/01/2026,4113.0,119.0,3,29.12,14.4,0,3,2.0,1,train
+C10172,34.0,La Libertad,Postpago Ilimitado,Tarjeta,22/11/2025,4524.0,206.0,0,109.42,28.5,1,1,4.0,0,test
+C11028,52.0,Junín,Prepago,Efectivo,29/11/2021,5068.0,90.0,3,14.99,33.7,1,1,5.0,0,train
+C10871,27.0,La Libertad,Prepago,Yape/Plin,09/09/2024,4302.0,169.0,2,28.37,24.5,0,0,5.0,0,train
+C10643,20.0,Lima,Postpago Básico,Efectivo,30/09/2025,5103.0,133.0,0,57.81,21.5,0,5,2.0,0,train
+C10127,37.0,Cusco,Postpago Básico,Tarjeta,09/10/2025,5703.0,106.0,0,51.8,31.0,0,1,2.0,0,train
+C10565,41.0,Arequipa,Prepago,Yape/Plin,23/06/2024,7265.0,106.0,3,31.06,36.9,0,1,4.0,0,test
+C10906,23.0,Lima,Prepago,Yape/Plin,11/12/2022,1601.0,118.0,2,14.42,26.3,0,2,3.0,1,train
+C11067,37.0,Lima,Prepago,Tarjeta,28/04/2026,4921.0,96.0,1,29.97,27.3,0,2,,1,train
+C10899,150.0,Piura,Postpago Básico,Tarjeta,20/04/2020,6106.0,124.0,0,52.6,20.2,3,0,2.0,0,train
+C10504,42.0,Lima,Postpago Ilimitado,Tarjeta,28/08/2026,10187.0,198.0,0,108.25,19.6,3,0,4.0,1,test
+C10935,29.0,Piura,Postpago Básico,Yape/Plin,17/08/2024,4845.0,94.0,0,53.82,35.9,0,0,4.0,0,test
+C10063,24.0,Lima,Postpago Básico,Efectivo,21/08/2025,9306.0,273.0,0,50.19,36.4,0,1,3.0,0,train
+C11483,59.0,Lima,Postpago Básico,Yape/Plin,18/02/2024,9801.0,183.0,0,68.75,29.5,0,2,1.0,0,train
+C11459,47.0,Lima,Postpago Ilimitado,Efectivo,10/07/2025,1969.0,61.0,0,85.62,16.8,0,0,3.0,0,train
+C10058,48.0,Lima,Postpago Básico,Efectivo,26/01/2024,5137.0,154.0,0,48.97,28.5,2,1,3.0,0,train
+C10210,53.0,Lima,Prepago,Tarjeta,29/02/2024,2632.0,215.0,2,25.62,17.7,0,0,4.0,0,train
+C11095,18.0,Lima,Postpago Ilimitado,Débito automático,15/05/2026,7812.0,229.0,0,114.29,13.9,1,2,2.0,0,test
+C10452,18.0,Lima,Postpago Ilimitado,Efectivo,15/04/2026,7496.0,192.0,0,102.7,28.6,1,1,3.0,0,train
+C10412,42.0,Cusco,Postpago Básico,Efectivo,09/01/2021,2789.0,192.0,0,49.13,19.0,1,1,3.0,0,train
+C11113,,Piura,Prepago,Yape/Plin,31/05/2024,2539.0,69.0,0,14.05,21.8,0,0,3.0,0,train
+C10374,24.0,Junín,Postpago Básico,Débito automático,20/07/2020,1817.0,90.0,0,32.97,20.6,1,0,4.0,0,test
+C11215,,Lima,Postpago Ilimitado,Efectivo,25/04/2024,8168.0,287.0,0,101.14,30.2,0,2,2.0,0,test
+C10677,51.0,Lima,Postpago Ilimitado,Efectivo,14/04/2026,8626.0,296.0,0,106.39,30.0,0,0,4.0,0,train
+C10117,36.0,La Libertad,Postpago Básico,Débito automático,30/09/2024,1555.0,31.0,0,49.4,20.3,2,5,3.0,1,train
+C11287,31.0,Lima,Prepago,Efectivo,12/04/2025,1589.0,5.0,1,5.06,36.2,0,1,4.0,0,train
+C10704,28.0,Lima,Postpago Ilimitado,Tarjeta,10/11/2023,7739.0,199.0,0,88.41,32.6,2,3,3.0,0,train
+C10206,18.0,Lima,Postpago Básico,Efectivo,21/07/2024,3271.0,155.0,0,44.83,31.3,0,0,4.0,0,train
+C10768,44.0,Lima,Postpago Básico,Yape/Plin,29/05/2023,6514.0,149.0,0,64.31,21.8,0,1,4.0,0,train
+C10611,,Lima,Postpago Básico,Débito automático,16/07/2019,5176.0,185.0,0,55.51,20.9,2,0,2.0,0,train
+C10361,30.0,Lima,Postpago Básico,Efectivo,28/11/2025,4721.0,175.0,0,44.57,34.4,0,1,4.0,0,test
+C10204,52.0,Piura,Postpago Ilimitado,Yape/Plin,28/11/2024,11979.0,247.0,0,112.2,31.3,2,0,3.0,0,train
+C10027,30.0,La Libertad,Postpago Básico,Débito automático,30/11/2019,2702.0,156.0,0,42.97,11.5,1,0,,0,train
+C11149,29.0,Piura,Postpago Básico,Yape/Plin,23/06/2019,3717.0,238.0,0,57.46,25.0,0,1,3.0,0,train
+C10009,29.0,Lima,Prepago,Efectivo,17/07/2026,26651.0,283.0,5,64.68,29.4,2,1,3.0,1,train
+C11402,35.0,Piura,Postpago Ilimitado,Tarjeta,24/12/2024,4481.0,254.0,0,105.11,23.2,1,0,,0,train
+C11086,45.0,Lima,Prepago,Débito automático,17/10/2024,5826.0,80.0,3,29.16,22.5,1,5,1.0,1,train
+C11320,50.0,Lima,Postpago Ilimitado,Efectivo,23/08/2022,5903.0,221.0,0,98.7,23.7,3,1,,0,test
+C10816,37.0,Piura,Postpago Básico,Efectivo,10/08/2020,9042.0,138.0,0,66.44,14.7,1,1,3.0,0,train
+C11315,50.0,Cusco,Prepago,Yape/Plin,24/02/2026,1846.0,103.0,2,27.97,27.2,1,0,3.0,1,train
+C10876,18.0,Lima,Prepago,Tarjeta,23/04/2024,3250.0,226.0,1,36.03,26.4,1,2,3.0,1,test
+C11267,36.0,Arequipa ,Prepago,Débito automático,29/07/2019,1565.0,149.0,3,20.19,38.3,0,1,3.0,0,train
+C10702,52.0,Junín,Prepago,Yape/Plin,23/01/2026,2758.0,166.0,3,19.9,22.7,1,1,3.0,0,train
+C10518,43.0,Arequipa,Postpago Básico,Yape/Plin,13/09/2024,13079.0,287.0,0,75.3,20.4,1,0,2.0,0,train
+C11469,40.0,Lima,Prepago,Tarjeta,30/12/2025,1511.0,5.0,2,11.26,33.6,1,0,5.0,0,test
+C10348,29.0,Lima ,Postpago Básico,Débito automático,27/08/2023,8031.0,216.0,0,59.99,30.6,0,0,4.0,0,train
+C10813,45.0,Lima,Postpago Básico,Débito automático,08/02/2026,2398.0,60.0,0,41.69,17.0,1,1,2.0,0,train
+C11202,27.0,Junín,Prepago,Efectivo,16/10/2025,17452.0,317.0,6,49.23,26.9,0,1,,0,train
+C11270,30.0,La Libertad,Postpago Ilimitado,Efectivo,09/11/2025,3428.0,113.0,0,118.69,22.5,1,2,3.0,0,train
+C10666,28.0,Lima,Prepago,Yape/Plin,20/05/2026,14182.0,233.0,2,53.33,27.4,2,0,3.0,1,train
+C10619,63.0,Lima,Postpago Ilimitado,Efectivo,14/09/2026,6088.0,284.0,0,95.46,31.0,0,1,3.0,1,train
+C10313,53.0,Cusco,Postpago Básico,Yape/Plin,15/02/2023,3629.0,124.0,0,56.47,22.0,0,0,4.0,0,train
+C10167,36.0,LIMA,Prepago,Efectivo,21/10/2025,2724.0,298.0,2,34.98,27.4,1,2,,1,train
+C10358,37.0,Lima,Prepago,Efectivo,27/09/2025,7366.0,292.0,3,36.11,22.9,1,0,3.0,0,train
+C10868,54.0,Lima,Postpago Básico,Débito automático,30/01/2026,6551.0,208.0,0,50.57,20.9,3,5,3.0,1,train
+C10017,45.0,Lima,Prepago,Tarjeta,30/07/2018,2490.0,97.0,6,12.98,32.2,0,1,4.0,0,train
+C11013,44.0,Cuzco,Postpago Básico,Tarjeta,16/09/2026,4431.0,250.0,0,54.88,19.7,4,3,4.0,1,test
+C11171,31.0,la libertad,Postpago Básico,Yape/Plin,23/11/2025,5444.0,169.0,0,50.35,31.2,1,5,2.0,1,test
+C10905,18.0,Junín,Postpago Básico,Débito automático,23/01/2023,10022.0,259.0,0,65.12,15.6,2,1,2.0,0,train
+C10754,63.0,Lima,Prepago,Débito automático,19/10/2025,1554.0,5.0,3,13.05,30.1,0,0,,0,train
+C10118,45.0,Lima,Postpago Ilimitado,Débito automático,17/05/2023,2843.0,224.0,0,96.65,29.6,2,0,4.0,0,train
+C10975,37.0,Lima,Postpago Básico,Yape/Plin,11/02/2026,914.0,5.0,0,30.71,22.6,3,1,1.0,1,train
+C11437,53.0,Lima,Prepago,Yape/Plin,29/04/2024,3323.0,214.0,4,21.33,25.1,1,1,2.0,1,train
+C11072,31.0,Lima,Prepago,Yape/Plin,22/11/2022,2062.0,20.0,0,19.77,31.0,2,0,4.0,0,train
+C10415,40.0,Lima,Postpago Ilimitado,Yape/Plin,15/08/2025,31150.0,484.0,0,145.02,18.6,1,1,4.0,0,train
+C10262,47.0,Arequipa,Postpago Ilimitado,Efectivo,28/02/2026,25149.0,294.0,0,147.67,17.6,2,1,,0,test
+C10510,30.0,Arequipa,Prepago,Yape/Plin,23/05/2024,4945.0,168.0,5,32.4,28.2,2,1,3.0,0,train
+C11210,50.0,Junín,PREPAGO,Débito automático,21/11/2024,3683.0,130.0,2,12.74,24.3,1,2,4.0,0,train
+C11464,18.0,Piura,Postpago Básico,Tarjeta,01/05/2024,5062.0,125.0,0,,13.5,2,0,5.0,0,train
+C11054,18.0,Lima,Postpago Básico,Débito automático,15/04/2025,8693.0,273.0,0,61.43,16.1,2,3,2.0,0,train
+C10742,28.0,Piura,Prepago,Débito automático,17/08/2023,2370.0,5.0,2,13.32,15.0,3,2,3.0,0,train
+C10447,32.0,Lima,Prepago,Tarjeta,20/06/2024,2095.0,165.0,4,18.44,24.5,2,0,3.0,0,train
+C10872,44.0,La Libertad,Prepago,Efectivo,24/10/2020,1999.0,44.0,0,9.5,15.5,0,0,,0,train
+C10023,45.0,Lima,Postpago Básico,,13/08/2025,16111.0,235.0,0,79.8,25.4,0,0,1.0,0,test
+C10241,53.0,Junín,Postpago Básico,Efectivo,15/04/2022,13907.0,174.0,0,56.66,10.2,3,0,4.0,0,train
+C10489,51.0,Lima,Prepago,Efectivo,15/10/2023,2585.0,89.0,3,18.38,17.3,2,0,2.0,0,train
+C11166,18.0,Lima,Prepago,Débito automático,13/06/2024,9375.0,178.0,2,41.13,22.5,1,0,4.0,0,train
+C10506,50.0,Lima,Prepago,Tarjeta,03/07/2023,3367.0,104.0,4,28.82,29.7,4,8,1.0,1,train
+C10252,40.0,Lima,Prepago,Yape/Plin,13/03/2025,14612.0,305.0,3,46.67,29.4,1,1,4.0,0,train
+C11323,45.0,Piura,Postpago Básico,Yape/Plin,19/11/2023,6276.0,212.0,0,63.49,18.8,2,2,1.0,0,train
+C10186,41.0,Piura,Postpago Ilimitado,Débito automático,26/12/2023,5449.0,322.0,0,106.66,16.4,0,0,2.0,0,train
+C11274,,Junín,Prepago,Yape/Plin,13/03/2022,4503.0,68.0,3,34.46,16.1,4,0,,0,test
+C11081,34.0,Arequipa ,Prepago,Débito automático,18/01/2026,9398.0,298.0,2,,25.4,0,2,3.0,0,train
+C11118,25.0,Arequipa,Prepago,Débito automático,21/04/2022,4887.0,115.0,3,22.66,31.7,0,1,4.0,0,train
+C10396,32.0,Lima,Prepago,Débito automático,09/04/2026,7237.0,190.0,2,26.8,23.5,1,1,3.0,1,test
+C11208,54.0, Lima,Prepago,Tarjeta,10/02/2024,2818.0,162.0,0,23.17,23.1,1,1,2.0,0,train
+C11416,32.0,Arequipa,Postpago Ilimitado,Tarjeta,18/01/2024,27058.0,456.0,0,133.9,18.8,2,1,3.0,0,train
+C11478,30.0,Cusco,Postpago Ilimitado,Débito automático,09/08/2023,4873.0,259.0,0,101.04,19.4,4,2,2.0,0,train
+C11127,30.0,Junín,Prepago,Efectivo,13/03/2022,356.0,5.0,1,5.0,13.9,3,2,4.0,1,train
+C10013,46.0,Piura,Postpago Básico,Efectivo,30/01/2024,20084.0,283.0,0,86.8,23.1,1,0,3.0,0,train
+C10108,32.0,La Libertad,Prepago,Yape/Plin,08/12/2025,5705.0,340.0,2,35.04,29.5,1,3,4.0,0,train
+C11268,39.0,Cusco,Prepago,Efectivo,14/01/2026,2345.0,5.0,3,12.22,19.4,0,0,3.0,0,train
+C10392,44.0,La Libertad,Postpago Ilimitado,Yape/Plin,23/08/2024,15141.0,153.0,0,121.21,28.9,0,1,3.0,0,train
+C10918,23.0,La Libertad,Postpago Básico,Efectivo,20/10/2025,5766.0,159.0,0,45.54,15.9,2,0,,1,train
+C10981,22.0,La Libertad,Prepago,Tarjeta,12/05/2022,1651.0,74.0,2,29.98,22.6,0,1,2.0,1,train
+C10034,36.0,Lima,Postpago Básico,Débito automático,27/01/2025,9007.0,225.0,0,64.29,32.1,0,1,3.0,0,train
+C10369,18.0,Lima,Postpago Básico,Tarjeta,27/11/2020,11569.0,368.0,0,72.14,27.2,2,2,4.0,0,train
+C10098,45.0,Lima ,Prepago,Efectivo,21/09/2023,4276.0,137.0,5,22.23,22.6,1,0,3.0,0,test
+C11467,52.0,Lima,Postpago Ilimitado,Débito automático,31/01/2026,4932.0,165.0,0,100.44,28.7,1,0,3.0,0,train
+C11037,20.0,Lima,Postpago Ilimitado,Tarjeta,27/02/2025,6549.0,149.0,0,82.95,20.0,2,1,3.0,1,test
+C10287,22.0,Junín,Postpago Básico,Yape/Plin,09/07/2024,15999.0,269.0,0,83.05,2.2,1,4,1.0,1,train
+C10525,34.0,La Libertad,Prepago,Tarjeta,13/01/2025,1538.0,40.0,2,17.74,25.1,0,1,3.0,0,train
+C11089,44.0,Piura,Prepago,Efectivo,08/06/2025,3921.0,177.0,2,24.99,15.5,3,0,4.0,0,test
+C10445,52.0,Lima,Postpago Básico,Efectivo,18/01/2025,8347.0,256.0,0,68.62,47.2,0,0,3.0,0,train
+C10507,,Lima,Postpago Ilimitado,Efectivo,01/07/2024,8902.0,129.0,0,98.42,33.0,1,1,,0,train
+C10285,38.0,Cusco,Postpago Ilimitado,Tarjeta,30/06/2024,6861.0,145.0,0,86.73,21.6,1,1,3.0,0,train
+C10324,39.0,Arequipa,Prepago,Yape/Plin,15/09/2024,14401.0,133.0,2,38.63,24.9,1,1,,0,test
+C11374,58.0,Lima,Prepago,Efectivo,21/04/2025,3795.0,77.0,2,25.78,27.9,2,0,,1,train
+C10691,38.0,La Libertad,Postpago Ilimitado,Efectivo,10/04/2025,9096.0,346.0,0,105.58,9.6,1,1,4.0,0,test
+C10024,44.0,Arequipa,Postpago Básico,Efectivo,13/07/2022,6683.0,157.0,0,51.9,27.7,1,1,3.0,0,test
+C10110,24.0,La Libertad,Postpago Ilimitado,,30/06/2026,11445.0,122.0,0,106.4,17.6,1,1,,0,train
+C10015,35.0,Cusco,Prepago,Efectivo,21/06/2025,6272.0,87.0,2,25.39,18.7,4,1,2.0,1,train
+C10498,,Lima,Prepago,Yape/Plin,17/07/2024,3029.0,28.0,1,2531.0,28.3,0,0,,0,train
+C10913,27.0,Lima,Prepago,Efectivo,22/04/2025,8975.0,248.0,2,37.42,32.5,0,0,4.0,0,train
+C10715,18.0,Arequipa,Prepago,Yape/Plin,02/07/2025,1587.0,72.0,1,12.44,32.7,2,1,2.0,0,train
+C10757,,Cusco,Prepago,Efectivo,25/05/2023,2053.0,163.0,4,19.17,24.3,1,1,2.0,1,test
+C10147,60.0,Lima,Postpago Básico,Tarjeta,27/07/2023,2784.0,171.0,0,51.64,32.0,0,0,,0,train
+C11039,18.0,Lima,Postpago Ilimitado,Efectivo,23/01/2025,3589.0,239.0,0,102.6,40.1,0,1,3.0,0,train
+C10430,42.0,La Libertad,Prepago,Yape/Plin,08/11/2024,1658.0,14.0,0,23.54,24.0,1,1,3.0,0,train
+C10228,37.0,La Libertad,Prepago,Efectivo,10/02/2025,7663.0,248.0,7,42.95,15.8,2,1,4.0,0,test
+C11355,45.0,Piura,Prepago,Débito automático,11/08/2025,5419.0,273.0,5,37.81,29.4,1,2,3.0,0,train
+C11421,32.0,Arequipa,Prepago,Débito automático,01/06/2025,24615.0,294.0,6,56.56,35.3,0,0,3.0,0,train
+C11313,,Lima,Prepago,Yape/Plin,25/03/2025,1948.0,39.0,7,25.12,14.5,5,1,2.0,1,train
+C10185,58.0,La Libertad,Postpago Básico,Tarjeta,16/08/2025,9973.0,129.0,0,54.19,21.5,2,2,2.0,1,train
+C11400,23.0,La Libertad,Postpago Ilimitado,Tarjeta,16/08/2023,4282.0,252.0,0,,11.1,0,0,3.0,0,train
+C10705,25.0,Lima,Prepago,Efectivo,15/09/2023,4241.0,152.0,3,22.83,30.5,0,1,3.0,0,test
+C10432,,Lima,Postpago Básico,Yape/Plin,16/09/2025,14296.0,236.0,0,61.15,24.4,2,2,2.0,1,train
+C10921,30.0,Arequipa,Prepago,Tarjeta,22/08/2024,485.0,5.0,1,5.0,21.5,1,2,4.0,1,train
+C10099,40.0,La Libertad,Postpago Básico,Yape/Plin,31/03/2025,6098.0,216.0,0,60.29,19.4,2,1,3.0,0,train
+C10004,18.0,Lima,Postpago Ilimitado,Yape/Plin,11/11/2024,8721.0,294.0,0,108.97,28.7,0,1,4.0,0,test
+C11307,37.0,Lima,Postpago Básico,Efectivo,12/02/2024,11518.0,189.0,0,69.21,32.2,1,3,2.0,1,test
+C10046,53.0,La Libertad,Postpago Ilimitado,Yape/Plin,14/05/2026,3278.0,240.0,0,91.7,25.0,1,3,1.0,1,train
+C11330,29.0,Junín,Prepago,Yape/Plin,15/10/2025,2927.0,170.0,2,19.05,15.6,0,2,2.0,1,train
+C10669,31.0,Lima,Prepago,Yape/Plin,24/03/2024,1808.0,34.0,1,12.61,5.9,1,1,2.0,0,train
+C10193,44.0,La Libertad,Prepago,Tarjeta,25/02/2024,5295.0,63.0,6,20.79,7.6,1,0,3.0,0,test
+C10747,48.0,Lima,Postpago Básico,Débito automático,25/07/2026,5324.0,204.0,0,62.8,16.7,2,5,2.0,1,train
+C11236,27.0,Arequipa,Prepago,Tarjeta,27/10/2025,2038.0,58.0,3,17.27,20.9,3,0,,0,train
+C10189,29.0, Lima,Prepago,Débito automático,27/05/2024,7733.0,67.0,2,18.61,25.3,0,1,3.0,0,train
+C10026,58.0,Lima,Prepago,Efectivo,23/09/2025,4042.0,292.0,6,33.14,20.3,2,1,,1,test
+C11395,37.0,Piura,Postpago Básico,Tarjeta,08/02/2024,9380.0,329.0,0,69.29,25.3,0,0,3.0,0,train
+C11049,38.0,Cusco,Prepago,Tarjeta,16/10/2024,13021.0,96.0,3,45.14,19.7,1,4,1.0,1,train
+C11394,27.0,Cusco,Postpago Básico,Débito automático,20/07/2024,6509.0,185.0,0,57.07,24.0,1,2,4.0,0,test
+C11180,58.0,Lima ,Prepago,Efectivo,11/03/2024,8219.0,157.0,3,23.97,26.2,1,1,,0,train
+C10833,0.0,Lima,Postpago Ilimitado,Efectivo,21/04/2024,14723.0,348.0,0,116.04,22.0,3,0,3.0,0,train
+C10922,22.0,Junín,Prepago,Efectivo,02/10/2020,1358.0,56.0,1,15.49,20.1,4,1,,0,train
+C10810,,Lima,Postpago Básico,Efectivo,24/12/2023,1490.0,5.0,0,44.93,18.4,2,2,4.0,0,train
+C10829,35.0, Lima,Prepago,Yape/Plin,09/04/2026,4193.0,164.0,2,31.37,28.1,2,0,,0,train
+C10471,18.0,La Libertad,Postpago Básico,Tarjeta,12/05/2022,5073.0,291.0,0,51.69,16.6,2,1,4.0,0,train
+C11104,35.0,Piura,Postpago Básico,Tarjeta,11/04/2026,2221.0,76.0,0,52.75,14.6,3,0,5.0,0,train
+C10716,34.0,Piura,Postpago Ilimitado,Yape/Plin,11/09/2025,13289.0,181.0,0,113.68,23.5,2,2,1.0,1,train
+C10328,36.0,Cusco,Prepago,Efectivo,13/02/2026,1682.0,66.0,1,22.57,28.2,0,2,3.0,1,train
+C10113,25.0,Lima,Postpago Ilimitado,Tarjeta,13/05/2026,3779.0,286.0,0,101.37,33.5,0,4,3.0,1,train
+C11167,18.0,Junín,Postpago Ilimitado,Tarjeta,28/06/2024,8394.0,114.0,0,108.4,19.6,0,0,3.0,1,train
+C10051,38.0,Lima,Prepago,Débito automático,19/05/2024,9379.0,64.0,1,36.39,27.1,2,0,1.0,0,test
+C11084,22.0,Lima,Prepago,Tarjeta,26/05/2025,4199.0,201.0,5,24.01,23.9,1,0,2.0,0,test
+C10249,37.0,Lima,Prepago,Tarjeta,10/02/2020,4730.0,180.0,4,35.54,38.8,0,3,2.0,0,train
+C10848,55.0,Cusco,Prepago,Tarjeta,02/07/2024,3412.0,170.0,1,24.3,22.9,1,0,2.0,0,train
+C10500,21.0,Cusco,Postpago Básico,Efectivo,23/07/2025,4993.0,227.0,0,60.46,25.6,2,1,3.0,0,train
+C11023,,Arequipa,Postpago Básico,Débito automático,15/06/2021,9073.0,280.0,0,66.73,29.1,0,4,2.0,0,train
+C11384,52.0,Arequipa,Postpago Básico,Tarjeta,11/04/2024,3538.0,157.0,0,53.14,32.9,1,0,,0,train
+C10286,28.0,Piura,Postpago Básico,Tarjeta,02/05/2023,11132.0,257.0,0,67.22,20.9,0,1,4.0,0,test
+C11010,18.0,Piura,Prepago,Tarjeta,26/07/2025,1501.0,62.0,1,24.38,19.0,0,0,4.0,1,test
+C10259,35.0,La Libertad,Prepago,Débito automático,21/08/2025,4042.0,119.0,3,26.43,23.6,1,1,2.0,0,train
+C10945,26.0,Lima,Postpago Básico,Tarjeta,09/04/2025,4118.0,86.0,0,48.1,21.9,3,4,3.0,1,train
+C11058,39.0, Lima,Postpago Básico,Efectivo,26/05/2025,6512.0,220.0,0,60.87,10.2,0,4,2.0,1,test
+C10736,51.0,Lima,Prepago,Efectivo,24/02/2026,5050.0,125.0,2,25.04,39.0,0,2,3.0,1,train
+C10650,24.0,Cusco,Postpago Básico,Yape/Plin,10/03/2025,7003.0,140.0,0,6759.0,18.3,1,1,3.0,1,train
+C11485,26.0,lima,Prepago,Yape/Plin,28/10/2019,3277.0,178.0,1,31.37,31.6,1,0,3.0,0,test
+C11145,34.0,Piura,Prepago,Yape/Plin,21/04/2026,4191.0,248.0,5,25.99,29.2,1,2,1.0,1,train
+C10164,28.0,Lima,Prepago,Efectivo,10/10/2020,7352.0,52.0,3,39.65,32.7,0,1,4.0,0,train
+C10278,33.0,Lima,Postpago Básico,Efectivo,28/04/2026,8310.0,236.0,0,54.9,26.1,1,1,3.0,0,test
+C11492,18.0,Cusco,Postpago Básico,Yape/Plin,30/12/2024,3430.0,270.0,0,50.58,23.6,0,1,2.0,0,test
+C10207,49.0,Lima,Prepago,Efectivo,27/04/2024,10871.0,235.0,1,,37.9,1,0,3.0,1,train
+C10275,68.0,La Libertad,Prepago,Tarjeta,27/07/2025,3138.0,116.0,0,32.23,13.6,2,1,2.0,1,train
+C10840,35.0,La Libertad,Prepago,Efectivo,20/11/2024,13157.0,327.0,5,33.36,36.0,0,0,,0,train
+C10681,29.0,Arequipa,Prepago,Yape/Plin,19/06/2025,4907.0,180.0,5,27.72,48.4,0,1,2.0,1,train
+C10284,38.0,Cusco,Prepago,Débito automático,09/12/2025,5534.0,160.0,3,24.41,10.6,0,1,2.0,1,train
+C11321,30.0,Junín,Prepago,Tarjeta,20/11/2025,1916.0,148.0,3,33.07,18.3,1,1,3.0,0,train
+C10999,31.0,Arequipa,Postpago Básico,Efectivo,25/02/2024,8282.0,43.0,0,56.6,38.7,0,1,3.0,0,train
+C10020,49.0,Arequipa,Prepago,Yape/Plin,11/03/2020,9204.0,227.0,1,37.57,40.7,0,1,3.0,0,train
+C10798,42.0,Lima,Postpago Ilimitado,Tarjeta,16/03/2026,16606.0,335.0,0,123.88,37.9,1,0,4.0,0,test
+C10464,31.0,Lima,Prepago,Efectivo,12/01/2025,4839.0,225.0,4,37.09,15.8,2,3,2.0,1,test
+C11097,33.0,Lima,Postpago Básico,Tarjeta,10/01/2024,3849.0,192.0,0,56.96,24.8,0,3,,0,train
+C10397,25.0,Cusco,Postpago Básico,Débito automático,14/05/2024,2445.0,48.0,0,,24.3,0,4,3.0,1,train
+C10416,38.0,Piura,Prepago,Efectivo,23/08/2021,3248.0,173.0,3,30.61,19.4,1,2,3.0,1,train
+C11262,38.0,Lima,Postpago Básico,Yape/Plin,18/05/2026,12570.0,251.0,0,65.86,28.2,0,1,4.0,0,train
+C10728,18.0,La Libertad,Prepago,Yape/Plin,09/06/2026,857.0,5.0,1,12.2,11.2,4,2,1.0,1,test
+C11253,36.0,La Libertad,Prepago,Efectivo,23/06/2025,1841.0,67.0,0,18.14,24.3,1,2,,1,train
+C11491,29.0,AREQUIPA,Prepago,Tarjeta,08/08/2024,2061.0,153.0,1,23.5,34.7,2,0,,0,train
+C11408,32.0,Arequipa,Postpago Básico,Yape/Plin,01/04/2021,1637.0,5.0,0,42.56,26.6,1,3,,0,train
+C11061,23.0,Cusco,Prepago,Tarjeta,27/05/2022,8467.0,280.0,4,31.85,23.3,3,2,3.0,0,train
+C11203,47.0,La Libertad,Postpago Básico,Débito automático,21/01/2025,2763.0,62.0,0,47.16,24.6,0,2,4.0,0,train
+C11046,53.0,La Libertad,Prepago,Tarjeta,28/02/2025,5785.0,199.0,3,33.92,24.8,1,0,3.0,0,train
+C10378,30.0,lima,Postpago Básico,Yape/Plin,09/06/2026,5419.0,195.0,0,54.3,17.8,1,0,4.0,0,train
+C10128,41.0,Arequipa,Postpago Ilimitado,,16/05/2025,10270.0,320.0,0,113.39,28.3,0,0,5.0,0,train
+C10902,29.0,Arequipa,Prepago,Débito automático,21/11/2025,5566.0,52.0,2,30.31,26.7,0,0,4.0,0,test
+C11408,32.0,Arequipa,Postpago Básico,Yape/Plin,01/04/2021,1637.0,5.0,0,42.56,26.6,1,3,,0,train
+C11194,22.0,Lima,Postpago Básico,Yape/Plin,02/05/2026,1606.0,124.0,0,48.73,24.1,3,2,2.0,1,test
+C10330,47.0,Lima ,Prepago,Débito automático,15/12/2022,5345.0,5.0,0,5.0,39.0,0,0,2.0,0,train
+C10788,45.0,Lima,Postpago Básico,Yape/Plin,27/08/2024,6997.0,167.0,0,53.54,29.0,1,2,4.0,0,train
+C11495,46.0,Arequipa,Postpago Ilimitado,Efectivo,12/06/2024,11721.0,140.0,0,99.14,29.5,1,3,2.0,1,train
+C10151,22.0,Lima,Postpago Ilimitado,Efectivo,02/01/2023,9570.0,124.0,0,107.2,19.3,2,1,3.0,0,test
+C11455,40.0,Junín,Prepago,Yape/Plin,26/04/2025,2054.0,172.0,2,20.52,14.8,1,2,,0,train
+C10326,23.0,Lima,Postpago Básico,Efectivo,15/01/2026,8141.0,118.0,0,65.42,23.5,2,7,,1,test
+C10707,30.0,La Libertad,Prepago,Tarjeta,17/07/2021,14253.0,249.0,2,48.47,22.7,1,0,2.0,0,train
+C11343,35.0,AREQUIPA,Prepago,Efectivo,19/09/2025,10229.0,285.0,3,42.44,26.4,1,0,3.0,0,train
+C10948,31.0,Junín,Postpago Básico,Yape/Plin,02/06/2025,9348.0,381.0,0,69.64,17.6,2,1,2.0,0,test
+C10947,19.0,Lima,Prepago,Yape/Plin,23/01/2025,12617.0,197.0,2,47.39,31.2,2,1,1.0,1,train
+C11424,18.0,Arequipa,Prepago,Débito automático,26/06/2025,2705.0,90.0,2,22.94,37.3,0,0,3.0,0,train
+C11288,38.0,Piura,Postpago Básico,Yape/Plin,23/02/2023,7362.0,196.0,0,71.63,14.0,0,0,3.0,0,train
+C10426,44.0,Lima,Postpago Básico,Efectivo,28/02/2025,14609.0,326.0,0,72.01,27.8,0,3,3.0,1,test
+C11298,18.0,La Libertad,Prepago,Tarjeta,30/05/2026,10465.0,118.0,3,39.98,24.7,1,1,4.0,0,train
+C10729,50.0,Arequipa,prepago,Efectivo,18/09/2026,11476.0,106.0,3,28.79,33.5,0,2,3.0,1,train
+C10674,19.0,Lima,Prepago,Débito automático,15/09/2024,3151.0,89.0,1,19.45,28.5,3,0,2.0,0,train
+C11197,23.0,Lima,Postpago Básico,Débito automático,23/05/2024,9022.0,234.0,0,59.87,18.0,1,1,2.0,0,train
+C10851,39.0,Junín,Prepago,Efectivo,09/10/2025,2193.0,5.0,3,24.49,15.9,2,3,3.0,1,train
+C11237,28.0,Lima,Prepago,Débito automático,10/05/2022,1351.0,5.0,1,10.83,27.3,0,2,3.0,0,train
+C10635,24.0,Junín,Prepago,Efectivo,01/09/2023,3048.0,158.0,4,21.28,20.9,1,1,3.0,0,train
+C10541,26.0,Cusco,Prepago,Débito automático,12/03/2022,9836.0,136.0,3,31.94,11.9,2,2,2.0,0,train
+C10055,35.0,La Libertad,Prepago,Yape/Plin,14/04/2026,2160.0,5.0,2,26.51,13.4,3,3,3.0,1,train
+C11360,19.0,Piura,Prepago,Tarjeta,11/08/2021,3165.0,12.0,2,10.6,11.4,3,1,3.0,0,train
+C10912,36.0,Piura,Postpago Básico,Efectivo,17/07/2023,8072.0,125.0,0,60.99,23.0,3,0,4.0,0,train
+C10739,43.0,Lima,Postpago Ilimitado,Tarjeta,15/12/2025,1224.0,51.0,0,85.53,22.5,1,1,3.0,0,train
+C10351,39.0,Piura,Prepago,Yape/Plin,27/07/2025,5314.0,139.0,1,28.66,14.4,2,3,1.0,1,train
+C10346,47.0,Arequipa,Prepago,Yape/Plin,02/03/2026,2440.0,5.0,2,22.68,29.9,0,0,4.0,1,train
+C10903,33.0,Lima,Postpago Ilimitado,Efectivo,23/05/2026,1397.0,208.0,0,82.73,37.4,0,1,4.0,1,train
+C10170,35.0,Lima,Prepago,Efectivo,21/11/2024,4973.0,202.0,1,43.33,21.0,2,4,3.0,1,test
+C10595,38.0,Lima,Postpago Ilimitado,Yape/Plin,09/03/2026,24883.0,366.0,0,133.68,24.5,0,1,4.0,0,train
+C11188,26.0,La Libertad,Postpago Básico,Efectivo,20/02/2026,9735.0,310.0,0,64.58,22.4,1,2,3.0,0,test
+C11367,21.0,Lima,Prepago,Débito automático,15/08/2023,4254.0,170.0,2,19.19,24.4,1,1,2.0,0,train
+C10308,,Arequipa,Prepago,Yape/Plin,09/11/2025,2973.0,223.0,2,26.09,26.5,0,1,3.0,1,train
+C10264,43.0,La Libertad,Prepago,Yape/Plin,13/02/2026,3871.0,112.0,3,40.32,14.1,6,2,3.0,1,train
+C10738,35.0,Junín,Prepago,Yape/Plin,24/10/2021,5305.0,173.0,1,22.26,27.8,0,0,4.0,0,train
+C11435,28.0,Lima,Postpago Ilimitado,Tarjeta,25/07/2025,14882.0,345.0,0,104.96,35.7,0,1,4.0,0,train
+C10513,36.0, Lima,Prepago,Yape/Plin,02/03/2021,5176.0,173.0,3,25.49,16.9,4,5,2.0,0,train
+C10501,32.0,Lima,Postpago Ilimitado,Débito automático,16/07/2025,5837.0,292.0,0,95.87,11.2,2,0,,0,train
+C11098,58.0,Cusco,Prepago,Débito automático,26/09/2022,2960.0,45.0,3,16.89,21.6,1,1,2.0,0,train
+C10546,23.0,Lima,Postpago Básico,Yape/Plin,01/12/2023,2721.0,124.0,0,54.93,35.5,1,1,5.0,0,test
+C10498,,Lima,Prepago,Yape/Plin,17/07/2024,3029.0,28.0,1,2531.0,28.3,0,0,,0,train
+C11247,,Lima,Postpago Básico,Yape/Plin,25/05/2025,2208.0,161.0,0,38.73,24.9,2,0,3.0,0,train
+C10907,35.0,Junín,Postpago Ilimitado,Efectivo,24/12/2025,18260.0,294.0,0,132.73,18.4,3,0,4.0,0,train
+C10410,29.0,Lima,Prepago,Yape/Plin,19/07/2024,3145.0,274.0,1,32.21,17.0,3,0,4.0,1,test
+C10995,37.0,La Libertad,Postpago Ilimitado,Tarjeta,15/02/2025,22628.0,383.0,0,132.08,17.7,0,0,3.0,0,train
+C11281,,La Libertad,Postpago Ilimitado,Yape/Plin,23/05/2026,3400.0,143.0,0,82.64,8.5,3,3,3.0,1,train
+C10213,,Arequipa,Prepago,Efectivo,31/01/2024,10403.0,177.0,2,36.42,33.0,0,2,4.0,1,train
+C10838,27.0,La Libertad,Postpago Básico,Efectivo,15/04/2026,3112.0,97.0,0,57.73,20.0,4,2,4.0,0,train
+C11169,52.0,La Libertad,Prepago,Tarjeta,02/12/2022,2441.0,106.0,1,15.74,13.8,0,0,,0,train
+C11494,34.0,Lima,Postpago Básico,Efectivo,10/06/2022,4361.0,151.0,0,63.1,20.7,3,2,2.0,0,test
+C10340,54.0,Cusco,Prepago,Efectivo,28/07/2024,2790.0,5.0,2,19.69,7.1,3,2,3.0,0,train
+C10779,32.0,Junín,Postpago Ilimitado,Efectivo,14/10/2025,6469.0,334.0,0,100.16,15.2,2,0,4.0,0,train
+C10701,28.0,Lima,Postpago Básico,Efectivo,14/05/2024,2960.0,113.0,0,57.11,29.6,2,1,3.0,0,test
+C10199,29.0,Lima,Postpago Básico,Efectivo,17/06/2026,5968.0,174.0,0,55.55,24.8,1,4,2.0,1,train
+C10771,18.0,Piura,Postpago Ilimitado,Yape/Plin,02/10/2017,11039.0,168.0,0,116.86,17.4,2,3,3.0,0,train
+C10367,30.0,Lima,Postpago Básico,Débito automático,20/07/2022,2061.0,28.0,0,39.94,40.3,0,2,3.0,0,train
+C10344,35.0,Piura,Postpago Básico,Tarjeta,12/02/2022,12973.0,234.0,0,73.9,18.9,2,2,3.0,0,train
+C11324,,Junín,Postpago Básico,Débito automático,21/02/2026,10450.0,156.0,0,63.02,23.5,1,0,4.0,0,train
+C10463,31.0,Arequipa,Prepago,Tarjeta,24/09/2025,5763.0,263.0,5,44.65,22.5,4,0,3.0,0,test
+C10216,43.0,Lima,Postpago Ilimitado,Efectivo,27/10/2023,9477.0,263.0,0,101.83,29.0,1,6,2.0,1,train
+C10660,50.0,Arequipa,Postpago Básico,Yape/Plin,25/08/2023,16949.0,240.0,0,71.84,22.6,0,0,2.0,0,train
+C10253,47.0,Junín,Postpago Ilimitado,,23/07/2025,14684.0,346.0,0,130.95,25.8,0,1,3.0,0,train
+C10152,18.0,La Libertad,Postpago Básico,Tarjeta,30/10/2025,3458.0,69.0,0,30.56,16.0,1,2,3.0,0,train
+C10194,39.0,La Libertad,Postpago Básico,Débito automático,09/11/2023,3182.0,221.0,0,42.8,23.2,1,0,4.0,0,train
+C11443,58.0,Cuzco,Prepago,Tarjeta,23/10/2022,2546.0,27.0,2,17.55,22.2,2,0,4.0,0,train
+C11292,43.0,Arequipa,Postpago Básico,Tarjeta,03/07/2023,4911.0,160.0,0,,28.7,0,1,2.0,0,train
+C10898,40.0,La Libertad,Postpago Ilimitado,Yape/Plin,21/07/2026,6849.0,370.0,0,105.31,35.2,0,4,1.0,1,train
+C10068,43.0,Piura,Postpago Básico,Débito automático,26/01/2022,23138.0,295.0,0,81.46,13.9,4,3,,0,train
+C10130,26.0,Junín,Prepago,Tarjeta,27/01/2026,2621.0,187.0,2,19.02,12.4,4,0,2.0,1,train
+C10344,35.0,Piura,Postpago Básico,Tarjeta,12/02/2022,12973.0,234.0,0,73.9,18.9,2,2,3.0,0,train
+C11227,37.0,Lima,Prepago,Efectivo,11/08/2018,3766.0,160.0,2,27.49,32.1,0,2,3.0,0,train
+C10300,37.0,Piura,Postpago Básico,Efectivo,11/05/2025,4097.0,185.0,0,46.27,25.0,0,1,3.0,1,train
+C11206,36.0,Lima,Postpago Ilimitado,Tarjeta,08/02/2024,1967.0,130.0,0,86.68,29.1,3,1,4.0,0,train
+C11272,60.0,Lima,Prepago,Efectivo,31/12/2025,8926.0,183.0,3,34.81,39.4,0,0,5.0,0,train
+C10744,45.0,La Libertad,Postpago Ilimitado,Yape/Plin,29/10/2024,8379.0,292.0,0,104.06,23.4,1,0,,0,train
+C10370,33.0,Lima,Postpago Ilimitado,Yape/Plin,15/01/2023,18985.0,281.0,0,104.42,33.0,1,0,,0,train
+C10503,34.0,Lima,Postpago Ilimitado,Tarjeta,26/04/2025,4003.0,276.0,0,104.17,15.6,4,4,1.0,1,test
+C10240,27.0,Piura,Postpago Ilimitado,Yape/Plin,13/12/2025,4714.0,243.0,0,97.04,22.7,2,3,,0,train
+C10587,36.0,Cusco,Postpago Básico,Yape/Plin,16/09/2025,8506.0,204.0,0,56.49,21.6,3,3,2.0,1,test
+C11465,38.0,Lima,Postpago Ilimitado,Efectivo,12/02/2025,2622.0,211.0,0,98.21,17.5,3,0,3.0,0,train
+C10187,39.0,Lima,Postpago Ilimitado,Tarjeta,24/03/2021,4912.0,162.0,0,99.47,28.1,3,3,3.0,0,test
+C10735,46.0,Arequipa,Prepago,Yape/Plin,22/08/2026,1840.0,61.0,1,13.34,13.4,6,5,3.0,1,train
+C11125,54.0,lima,Prepago,Tarjeta,21/07/2024,5900.0,225.0,2,20.6,9.2,2,0,,0,train
+C11062,27.0,Piura,Postpago Básico,Yape/Plin,26/03/2023,3372.0,64.0,0,46.04,24.6,0,1,4.0,0,train
+C10617,27.0,Piura,Prepago,Débito automático,19/10/2025,4576.0,157.0,1,15.77,22.0,0,1,2.0,1,train
+C11005,38.0,Lima,Postpago Básico,Débito automático,29/08/2025,6122.0,176.0,0,57.34,26.8,2,0,4.0,0,train
+C10302,29.0,Lima,Postpago Ilimitado,Efectivo,01/11/2025,15846.0,399.0,0,11399.0,21.4,0,1,4.0,0,train
+C10283,23.0,Piura,Prepago,Débito automático,01/10/2025,3637.0,97.0,1,21.25,12.1,0,1,3.0,0,train
+C11150,28.0,Arequipa,Postpago Básico,Yape/Plin,09/01/2025,12334.0,254.0,0,63.09,27.1,1,0,4.0,0,test
+C10630,42.0,Lima,Postpago Ilimitado,Yape/Plin,31/10/2025,8238.0,326.0,0,107.33,24.6,1,1,,0,train
+C11123,21.0,LIMA,Prepago,Yape/Plin,10/07/2024,2016.0,5.0,2,,23.1,1,1,3.0,1,test
+C10531,57.0,Cusco,Prepago,Efectivo,13/11/2024,2607.0,5.0,1,11.59,22.9,1,2,2.0,1,train
+C11365,26.0,Junín,Prepago,Efectivo,24/08/2026,1189.0,6.0,1,9.68,21.5,0,0,4.0,0,train
+C10109,49.0,Lima,Postpago Básico,Yape/Plin,23/12/2023,6242.0,292.0,0,62.78,26.1,0,0,4.0,0,train
+C11327,40.0,Junín,Postpago Básico,Efectivo,18/04/2024,3111.0,97.0,0,27.64,11.7,2,0,4.0,0,train
+C10122,40.0,Lima,Prepago,Yape/Plin,21/11/2022,1964.0,195.0,1,26.17,27.7,0,0,4.0,0,train
+C10450,29.0,Junín,Prepago,Tarjeta,26/11/2025,5099.0,188.0,6,27.34,27.6,1,0,3.0,1,test
+C10280,47.0,Piura,Prepago,Débito automático,01/04/2024,2215.0,60.0,1,26.38,27.9,1,6,,1,train
+C10672,40.0,Piura,Prepago,Efectivo,13/11/2024,3615.0,242.0,4,30.47,21.0,2,2,2.0,0,train
+C10684,25.0,Arequipa,Prepago,Débito automático,24/02/2025,1207.0,5.0,1,18.71,20.8,2,0,3.0,0,test
+C10928,51.0,La Libertad,Prepago,Yape/Plin,31/12/2023,8624.0,198.0,2,36.21,19.8,2,0,3.0,0,train
+C10756,37.0,Piura,Prepago,Yape/Plin,11/02/2025,3972.0,149.0,5,32.05,3.8,2,1,4.0,0,train
+C10511,32.0,Arequipa,Postpago Básico,Yape/Plin,11/08/2023,3381.0,107.0,0,57.51,33.9,0,1,3.0,0,train
+C10547,36.0, Lima,Postpago Básico,Yape/Plin,18/03/2023,14457.0,100.0,0,68.56,23.9,1,2,3.0,0,train
+C11301,47.0,Junín,Prepago,Efectivo,27/07/2023,947.0,187.0,0,18.23,12.4,3,2,3.0,1,train
+C10610,35.0,Cuzco,Postpago Básico,Tarjeta,01/08/2025,7016.0,87.0,0,68.79,28.5,2,1,5.0,0,train
+C11059,19.0,Arequipa,Postpago Básico,Débito automático,11/01/2026,2471.0,49.0,0,46.75,31.4,0,1,4.0,0,train
+C10699,,Piura,Postpago Ilimitado,Débito automático,12/04/2024,9181.0,100.0,0,106.92,19.7,2,1,1.0,0,train
+C10652,38.0,Arequipa,Prepago,Efectivo,15/11/2025,6813.0,173.0,5,31.55,27.2,4,6,1.0,1,train
+C11458,20.0,Arequipa,Postpago Básico,Yape/Plin,17/05/2026,2642.0,258.0,0,51.74,17.5,4,1,3.0,1,test
+C10067,43.0,Lima,PREPAGO,Yape/Plin,08/01/2025,9816.0,253.0,4,56.52,30.1,2,1,3.0,1,test
+C10651,58.0,Junín,Prepago,Tarjeta,26/08/2023,10389.0,183.0,3,37.02,12.1,0,0,2.0,0,train
+C10572,41.0,la libertad,Prepago,Efectivo,20/08/2025,7776.0,256.0,3,40.75,11.2,1,0,4.0,0,test
+C10562,23.0,Lima,Postpago Ilimitado,Yape/Plin,29/05/2024,6401.0,251.0,0,101.08,24.1,2,1,,0,train
+C10694,41.0,Piura,Prepago,Yape/Plin,19/01/2024,4644.0,113.0,2,29.77,17.4,2,0,4.0,0,test
+C10832,44.0,Lima,Postpago Ilimitado,Tarjeta,13/09/2024,23318.0,338.0,0,127.77,24.0,0,1,3.0,0,train
+C11252,46.0,Cusco,Postpago Básico,Efectivo,08/10/2024,1775.0,101.0,0,37.11,5.4,5,1,3.0,1,train
+C10389,23.0,lima,Postpago Ilimitado,Yape/Plin,30/10/2024,7407.0,329.0,0,102.28,29.9,0,0,4.0,0,train
+C11079,41.0,Lima,Postpago Básico,Yape/Plin,03/05/2022,1582.0,74.0,0,50.44,28.4,0,1,3.0,0,test
+C10920,47.0,Lima ,Postpago Básico,Yape/Plin,21/05/2022,14747.0,243.0,0,,26.4,3,2,2.0,1,train
+C10372,26.0,Cusco,PREPAGO,Yape/Plin,01/06/2026,6016.0,196.0,6,39.67,24.7,0,0,4.0,1,test
+C10957,18.0,Junín,Prepago,Débito automático,30/03/2024,2203.0,11.0,0,18.22,15.5,3,8,1.0,1,train
+C10791,,Arequipa,Prepago,Efectivo,16/06/2025,7655.0,198.0,1,31.47,34.6,0,1,3.0,0,train
+C10318,31.0,Lima,Prepago,Débito automático,30/08/2024,2468.0,85.0,1,25.51,22.4,3,0,3.0,0,train
+C10964,39.0,Junín,Prepago,Tarjeta,19/05/2024,1175.0,51.0,0,9.32,16.5,3,4,2.0,1,train
+C11216,38.0,Lima,Postpago Ilimitado,Efectivo,11/05/2025,16318.0,221.0,0,114.91,37.6,0,0,4.0,0,test
+C10683,18.0,La Libertad,Prepago,Tarjeta,24/12/2022,1062.0,39.0,2,14.99,26.7,1,0,4.0,0,train
+C10558,39.0,Arequipa,Postpago Básico,Efectivo,29/09/2025,4748.0,181.0,0,55.64,41.5,0,0,4.0,0,train
+C10132,57.0,Piura,Prepago,Tarjeta,30/06/2025,4472.0,192.0,4,24.41,17.6,1,0,3.0,0,train
+C11131,49.0,Junín,Postpago Ilimitado,Yape/Plin,07/01/2025,7498.0,206.0,0,102.89,8.6,1,1,2.0,0,test
+C10664,24.0,Junín,Postpago Básico,Yape/Plin,19/06/2026,5004.0,331.0,0,53.76,23.6,4,1,2.0,1,train
+C10809,45.0,Junín,Prepago,Débito automático,20/05/2024,7031.0,147.0,2,34.0,26.1,1,1,4.0,0,train
+C10492,44.0,Piura,Postpago Básico,Tarjeta,01/12/2025,7032.0,252.0,0,68.27,25.6,0,1,3.0,1,train
+C11306,18.0,Lima,Postpago Básico,Efectivo,10/02/2023,6533.0,293.0,0,65.3,26.7,0,0,3.0,0,train
+C10717,54.0,la libertad,Postpago Ilimitado,Yape/Plin,17/05/2021,15403.0,227.0,0,113.03,21.9,2,2,3.0,0,test
+C10465,43.0,Lima,Postpago Básico,Efectivo,31/01/2025,2323.0,122.0,0,51.54,30.9,1,1,4.0,0,train
+C11038,25.0,La Libertad,Postpago Básico,Yape/Plin,03/08/2023,4902.0,283.0,0,69.11,4.9,5,6,2.0,1,train
+C10125,47.0,Lima,Postpago Básico,Yape/Plin,30/03/2024,8277.0,113.0,0,65.3,35.5,2,2,3.0,0,test
+C11368,39.0,Cusco,Prepago,Tarjeta,21/04/2026,2642.0,114.0,3,34.43,17.1,2,0,4.0,0,train
+C11499,18.0,Piura,Postpago Ilimitado,Efectivo,23/07/2024,7329.0,304.0,0,109.05,29.9,2,2,2.0,0,train
+C10748,32.0,Arequipa ,Prepago,Yape/Plin,12/07/2023,3567.0,5.0,0,-15.39,31.0,1,2,1.0,0,train
+C10590,45.0,Arequipa,Postpago Ilimitado,Yape/Plin,13/05/2024,4372.0,182.0,0,100.83,34.6,1,1,1.0,0,train
+C11051,38.0,Lima,Postpago Básico,Efectivo,26/08/2024,3957.0,144.0,0,64.87,36.7,1,1,3.0,0,test
+C10386,26.0,Lima,Postpago Básico,Débito automático,15/03/2019,5090.0,131.0,0,59.85,30.2,1,2,2.0,0,train
+C10289,21.0,Piura,Prepago,Efectivo,23/05/2026,3639.0,232.0,3,36.48,25.2,0,1,2.0,1,train
+C11351,33.0,Lima,Prepago,Yape/Plin,01/11/2025,9171.0,387.0,6,50.33,38.3,0,1,3.0,0,test
+C10887,29.0,Lima,Prepago,Débito automático,02/04/2026,2647.0,122.0,5,25.38,36.1,0,0,4.0,0,train
+C10870,37.0,Piura,Postpago Básico,Yape/Plin,17/06/2024,2464.0,217.0,0,53.21,20.3,1,2,3.0,1,train
+C10053,22.0,Arequipa,Postpago Básico,Débito automático,09/07/2026,2890.0,75.0,0,39.9,32.9,0,0,4.0,0,train
+C10597,44.0,Lima,Prepago,Débito automático,17/07/2024,6613.0,173.0,5,28.51,23.7,1,5,,1,test
+C10620,5.0,Piura,Prepago,Yape/Plin,20/03/2025,5628.0,144.0,1,31.62,10.6,1,2,,0,train
+C10830,43.0,Junín,Postpago Ilimitado,Tarjeta,26/10/2022,12221.0,336.0,0,111.77,5.8,4,1,1.0,0,train
+C10755,35.0,Lima,Prepago,Efectivo,11/10/2022,8403.0,217.0,2,39.85,21.3,1,3,4.0,0,train
+C10040,45.0,Piura,Prepago,Tarjeta,18/09/2026,6743.0,293.0,5,39.92,18.4,0,1,5.0,1,train
+C10339,32.0,Junín,Prepago,Tarjeta,28/08/2025,3658.0,241.0,7,36.33,17.1,0,0,3.0,0,train
+C10731,28.0,La Libertad,Prepago,Débito automático,01/07/2025,3049.0,124.0,2,19.6,17.5,3,0,,0,test
+C11346,,Arequipa,Postpago Ilimitado,Débito automático,09/11/2020,4680.0,235.0,0,98.56,22.8,0,0,3.0,0,train
+C11141,38.0,Cusco,Postpago Básico,Efectivo,22/09/2024,3913.0,132.0,0,64.68,15.9,3,2,,1,train
+C10993,18.0,Piura,Postpago Ilimitado,Tarjeta,24/03/2026,8876.0,275.0,0,,24.4,2,2,3.0,0,train
+C10083,26.0,Lima,Postpago Ilimitado,Efectivo,26/11/2025,8230.0,169.0,0,96.6,26.6,1,1,3.0,0,train
+C10115,32.0,Lima,Postpago Básico,,14/05/2023,6612.0,144.0,0,50.44,32.3,0,0,5.0,0,train
+C11178,41.0,Lima,Postpago Básico,Yape/Plin,17/06/2025,2285.0,24.0,0,45.59,32.2,1,4,,0,train
+C10353,47.0,Arequipa,Prepago,Tarjeta,09/02/2023,1885.0,123.0,2,27.54,19.8,2,3,4.0,1,train
+C10451,20.0,Lima,Postpago Ilimitado,Tarjeta,18/09/2025,9106.0,186.0,0,110.73,24.1,1,2,2.0,0,train
+C10799,18.0,LIMA,Prepago,Efectivo,14/02/2026,1990.0,60.0,1,19.11,31.2,0,1,4.0,0,train
+C10693,37.0,Arequipa,Postpago Básico,Yape/Plin,10/02/2024,2063.0,136.0,0,55.33,20.3,0,0,3.0,0,train
+C10270,18.0,Lima,Postpago Básico,Tarjeta,24/01/2026,2388.0,252.0,0,62.15,30.9,1,2,3.0,0,train
+C10961,38.0,Arequipa,Prepago,Tarjeta,20/07/2026,2462.0,5.0,4,15.74,22.2,3,0,3.0,1,train
+C11275,49.0,Piura,Postpago Básico,Tarjeta,12/10/2025,2740.0,75.0,0,44.23,20.7,0,0,3.0,1,train
+C11291,35.0, Lima,Prepago,Tarjeta,13/02/2025,16221.0,388.0,5,41.85,22.2,0,0,,0,train
+C11139,42.0,Lima,Postpago Ilimitado,Yape/Plin,30/12/2021,3126.0,139.0,0,92.06,27.0,2,1,3.0,0,train
+C10377,32.0,Lima,Postpago Ilimitado,Efectivo,26/08/2023,20838.0,349.0,0,129.07,29.6,0,0,2.0,0,train
+C10925,35.0,Piura,Postpago Básico,Efectivo,29/03/2022,11392.0,155.0,0,66.44,18.5,3,2,2.0,0,train
+C10096,51.0,Arequipa,Postpago Básico,Yape/Plin,14/11/2022,3416.0,208.0,0,56.17,21.6,2,4,3.0,0,test
+C11245,36.0,Cusco,PREPAGO,Débito automático,01/07/2020,4314.0,63.0,1,34.97,16.7,2,3,1.0,0,train
+C10484,18.0,Lima,Postpago Ilimitado,Yape/Plin,25/01/2024,34021.0,359.0,0,148.08,22.9,2,1,3.0,0,train
+C11392,41.0,Lima,Postpago Ilimitado,Yape/Plin,15/05/2025,9106.0,395.0,0,103.85,22.3,1,1,,0,train
+C10581,19.0,Lima,Prepago,Tarjeta,12/09/2025,7667.0,182.0,2,35.45,26.7,1,1,2.0,0,train
+C10048,73.0,Piura,Prepago,Tarjeta,31/12/2021,7775.0,127.0,5,35.75,15.2,1,2,3.0,1,train
+C10804,60.0,Lima,Prepago,Tarjeta,28/03/2026,14983.0,309.0,11,53.19,25.7,1,2,5.0,0,train
+C11137,30.0,Piura,Prepago,Débito automático,24/07/2025,2770.0,124.0,1,,3.6,4,4,3.0,1,train
+C11074,46.0,Lima,Postpago Básico,Efectivo,01/01/2025,4248.0,125.0,0,35.04,25.1,2,2,3.0,1,train
+C10153,35.0,Lima,Postpago Ilimitado,Efectivo,27/02/2025,2670.0,231.0,0,93.34,36.6,0,1,3.0,0,train
+C10237,24.0,La Libertad,Prepago,Efectivo,09/04/2025,7845.0,264.0,3,26.77,11.2,3,3,1.0,1,train
+C10054,,Arequipa,Postpago Básico,Yape/Plin,15/02/2025,7902.0,312.0,0,69.8,30.9,3,2,2.0,0,train
+C10394,30.0,La Libertad,Postpago Ilimitado,Débito automático,29/03/2023,6198.0,159.0,0,117.55,32.8,1,0,3.0,0,train
+C10123,46.0,Lima,Prepago,Efectivo,14/03/2022,5348.0,257.0,2,41.81,26.8,0,2,3.0,0,test
+C10355,18.0,la libertad,Postpago Básico,Tarjeta,29/09/2026,7919.0,206.0,0,60.89,14.8,2,1,3.0,0,train
+C10431,36.0,Lima,Prepago,Efectivo,16/02/2024,3030.0,126.0,2,25.72,38.9,0,0,5.0,0,train
+C10134,58.0,Lima,Prepago,Yape/Plin,22/10/2024,3216.0,163.0,4,28.3,39.0,0,1,2.0,0,train
+C10268,46.0,Cusco,Prepago,Yape/Plin,02/06/2025,2292.0,143.0,4,25.25,17.9,2,4,2.0,1,train
+C10385,42.0,Lima,Postpago Básico,Débito automático,03/10/2022,6669.0,67.0,0,53.73,13.4,2,1,2.0,0,train
+C10097,44.0,Junín,Prepago,Yape/Plin,17/06/2021,4355.0,106.0,4,20.58,15.2,2,1,,0,train
+C10220,43.0,arequipa,Postpago Ilimitado,Tarjeta,29/06/2026,18063.0,287.0,0,119.2,30.3,0,2,2.0,0,train
+C10041,42.0,Lima,Prepago,Débito automático,18/02/2026,2328.0,188.0,0,28.13,44.1,0,0,5.0,0,test
+C10219,20.0,Lima,Prepago,Tarjeta,09/11/2025,3063.0,105.0,3,34.06,31.7,1,0,3.0,0,train
+C10540,33.0,La Libertad,Postpago Básico,Yape/Plin,15/02/2026,7556.0,347.0,0,64.15,22.9,0,2,2.0,1,test
+C11002,28.0,Piura,Prepago,Débito automático,16/06/2026,5582.0,194.0,5,23.62,13.6,0,0,3.0,1,test
+C10765,23.0,Arequipa,Prepago,Efectivo,24/04/2026,7605.0,176.0,0,24.39,28.7,4,3,,1,train
+C10861,47.0,La Libertad,Postpago Básico,Yape/Plin,12/08/2024,13469.0,279.0,0,81.3,17.5,2,2,2.0,0,train
+C10687,18.0,Arequipa,Postpago Ilimitado,Yape/Plin,01/06/2026,5595.0,228.0,0,100.31,24.6,1,3,,1,train
+C10915,43.0,Lima,Postpago Básico,Tarjeta,12/11/2021,7577.0,34.0,0,48.7,18.6,2,3,2.0,0,train
+C10012,22.0,La Libertad,Postpago Ilimitado,Efectivo,19/06/2025,6919.0,169.0,0,104.78,27.0,0,0,3.0,0,train
+C10355,18.0,la libertad,Postpago Básico,Tarjeta,29/09/2026,7919.0,206.0,0,60.89,14.8,2,1,3.0,0,train
+C10593,33.0,Lima,Postpago Básico,Efectivo,16/09/2026,18373.0,262.0,0,74.87,28.2,0,0,3.0,0,train
+C11078,33.0,Lima,Prepago,Yape/Plin,12/04/2026,4357.0,120.0,3,26.53,28.9,1,1,3.0,0,train
+C11463,18.0,Lima,Postpago Básico,Yape/Plin,01/08/2026,2004.0,154.0,0,35.49,23.8,2,0,,0,train
+C10609,36.0,La Libertad,Postpago Básico,Yape/Plin,27/12/2025,1502.0,185.0,0,,12.8,1,5,1.0,1,train
+C11278,23.0,Lima,Postpago Básico,Débito automático,13/07/2025,1937.0,90.0,0,57.17,30.1,1,1,3.0,0,train
+C10665,33.0,Lima,Postpago Ilimitado,Yape/Plin,09/08/2022,9255.0,255.0,0,-105.11,28.6,1,1,3.0,0,test
+C10954,37.0,Arequipa,Prepago,Tarjeta,24/04/2026,6053.0,18.0,3,30.05,20.5,0,2,3.0,1,test
+C11361,27.0,La Libertad,Prepago,Yape/Plin,18/09/2025,3504.0,145.0,5,30.01,15.6,2,2,4.0,0,train
+C10680,46.0,Lima,Postpago Básico,Débito automático,17/06/2025,2284.0,79.0,0,33.19,25.4,0,0,3.0,0,train
+C10983,45.0,Lima,Prepago,Yape/Plin,28/11/2024,7537.0,161.0,3,34.09,14.9,1,2,2.0,1,train
+C10637,47.0,Piura,Prepago,Tarjeta,23/08/2023,9714.0,255.0,2,37.51,26.4,1,2,2.0,0,train
+C11353,38.0,Lima,Prepago,Efectivo,14/06/2023,2491.0,132.0,1,24.16,29.1,0,1,3.0,0,train
+C10869,44.0,La Libertad,Prepago,Yape/Plin,16/11/2024,5189.0,215.0,7,30.91,24.3,0,2,2.0,0,train
+C11382,47.0,Junín,Prepago,Efectivo,17/09/2022,2090.0,44.0,1,32.23,30.9,0,2,3.0,0,train
+C10603,18.0,Arequipa,Postpago Ilimitado,Tarjeta,30/04/2022,23843.0,389.0,0,141.01,32.8,1,0,2.0,0,train
+C10517,36.0,La Libertad,Postpago Básico,Tarjeta,15/07/2018,5649.0,134.0,0,53.56,16.3,2,1,1.0,0,train
+C10224,29.0,Arequipa,Prepago,Tarjeta,01/06/2026,1697.0,115.0,0,21.4,32.5,0,0,4.0,1,train
+C10336,49.0,Cusco,Postpago Básico,Efectivo,19/06/2024,12199.0,277.0,0,70.45,8.8,3,0,3.0,0,test
+C10232,39.0,Cusco,Prepago,Débito automático,25/12/2025,13083.0,278.0,3,50.45,15.8,1,0,3.0,0,train
+C10586,42.0,Lima,Postpago Básico,Débito automático,28/08/2025,17546.0,230.0,0,74.77,28.9,1,2,3.0,0,train
+C10648,38.0,Piura,Postpago Ilimitado,Débito automático,09/02/2023,7840.0,455.0,0,106.88,16.2,0,0,3.0,0,train
+C10820,45.0,Lima,Postpago Básico,Efectivo,20/02/2025,3005.0,182.0,0,51.35,30.8,0,0,4.0,0,train
+C10468,31.0,Lima,Prepago,Efectivo,14/04/2025,5729.0,216.0,4,32.05,22.5,1,0,3.0,1,test
+C11090,23.0,Junín,Prepago,Efectivo,02/01/2024,4113.0,118.0,2,24.07,26.0,0,2,3.0,1,test
+C10769,51.0,La Libertad,Postpago Básico,Tarjeta,18/11/2021,15753.0,248.0,0,,15.6,1,0,4.0,0,train
+C10658,45.0,Junín,Prepago,Tarjeta,13/05/2025,3308.0,36.0,3,11.74,19.7,2,1,3.0,0,test
+C10297,59.0,Lima,Postpago Básico,Débito automático,09/09/2021,11795.0,185.0,0,68.34,26.5,2,2,3.0,0,train
+C10895,32.0,Piura,Prepago,Débito automático,23/04/2025,2534.0,95.0,2,21.03,15.7,6,1,2.0,1,train
+C11088,34.0,Lima,Prepago,Débito automático,29/09/2023,8500.0,138.0,1,33.66,28.3,3,1,3.0,0,train
+C10473,47.0,Cusco,Postpago Básico,Efectivo,30/04/2024,61912.0,324.0,0,147.69,21.3,1,3,3.0,0,train
+C10713,48.0,Junín,Prepago,Débito automático,23/01/2026,8434.0,230.0,4,46.67,9.1,2,1,4.0,0,test
+C10205,30.0,Piura,Prepago,Débito automático,23/11/2023,4240.0,181.0,5,,7.2,2,0,3.0,1,train
+C10003,28.0,Lima,Postpago Ilimitado,Efectivo,23/06/2021,6448.0,220.0,0,108.22,27.6,1,1,3.0,0,train
+C11015,48.0,Arequipa,Postpago Básico,Efectivo,13/09/2024,3658.0,176.0,0,64.26,25.4,2,5,2.0,1,test
+C10530,18.0,Piura,Postpago Básico,Débito automático,29/05/2023,8427.0,264.0,0,66.45,16.2,1,3,3.0,0,test
+C10732,26.0,La Libertad,Prepago,Tarjeta,25/02/2025,7462.0,65.0,2,36.8,28.2,2,0,3.0,0,train
+C11401,36.0,Cusco,Prepago,Débito automático,22/05/2025,15479.0,216.0,1,45.98,20.5,0,1,3.0,1,train
+C11364,18.0,La Libertad,Postpago Ilimitado,Débito automático,12/09/2022,3956.0,170.0,0,95.77,23.6,3,1,3.0,0,train
+C10777,,La Libertad,Postpago Ilimitado,Efectivo,29/11/2023,27033.0,338.0,0,138.24,23.2,3,0,2.0,0,test
+C11259,45.0,arequipa,Prepago,Débito automático,25/12/2023,5118.0,242.0,4,44.78,21.7,3,0,3.0,0,train
+C10739,43.0,Lima,Postpago Ilimitado,Tarjeta,15/12/2025,1224.0,51.0,0,85.53,22.5,1,1,3.0,0,train
+C11196,30.0,Lima,Postpago Básico,Efectivo,31/08/2024,10887.0,230.0,0,74.49,30.1,1,1,3.0,0,train
+C10673,40.0,La Libertad,Postpago Básico,Débito automático,12/06/2023,2624.0,5.0,0,46.28,25.0,1,0,2.0,0,test
+C10640,45.0,Cusco,Pre-pago,Efectivo,13/06/2025,14419.0,349.0,5,52.96,18.6,5,3,2.0,1,train
+C10708,37.0,Arequipa,Prepago,Yape/Plin,26/09/2023,6825.0,254.0,4,40.3,35.3,0,0,5.0,0,test
+C10825,27.0,La Libertad,Postpago Básico,Tarjeta,17/11/2022,30835.0,237.0,0,104.56,18.5,0,1,3.0,0,train
+C10157,46.0,Arequipa,Postpago Ilimitado,Yape/Plin,21/04/2026,6620.0,312.0,0,106.29,37.7,0,0,3.0,0,train
+C11476,40.0,Junín,Postpago Básico,Tarjeta,15/05/2025,4088.0,196.0,0,54.09,18.9,1,3,3.0,1,train
+C10462,32.0,Junín,Prepago,Yape/Plin,25/09/2023,3190.0,93.0,1,20.91,27.4,0,1,4.0,0,train
+C10160,57.0,La Libertad,Postpago Básico,Yape/Plin,20/02/2025,14472.0,338.0,0,78.11,8.9,3,0,3.0,0,train
+C10305,29.0,Lima,Prepago,Yape/Plin,08/01/2024,1973.0,235.0,3,17.21,28.9,0,3,3.0,1,train
+C10395,25.0,Piura,Postpago Ilimitado,Tarjeta,18/06/2026,6084.0,323.0,0,112.42,9.8,4,5,2.0,1,test
+C10399,51.0,la libertad,Postpago Ilimitado,Débito automático,31/08/2024,33344.0,313.0,0,135.15,13.5,2,0,,0,train
+C11170,58.0,AREQUIPA,Prepago,Tarjeta,15/06/2020,6303.0,185.0,4,36.35,27.2,1,0,4.0,0,train
+C10621,55.0,Cusco,Prepago,Tarjeta,20/07/2025,5682.0,64.0,4,27.24,13.9,1,2,2.0,1,train
+C11047,45.0,Lima,Prepago,Débito automático,13/10/2023,721.0,5.0,0,5.0,26.2,1,2,3.0,0,test
+C11276,56.0,Lima,Postpago Ilimitado,Yape/Plin,28/06/2025,11119.0,218.0,0,124.73,23.2,1,0,3.0,0,train
+C11370,40.0,Junín,Prepago,Tarjeta,09/05/2024,13603.0,190.0,5,43.12,25.1,0,0,,0,test
+C10782,33.0,Cusco,Postpago Ilimitado,Yape/Plin,22/05/2022,8666.0,184.0,0,100.85,22.6,4,1,2.0,0,test
+C11016,20.0,La Libertad,Prepago,Yape/Plin,09/07/2025,8218.0,5.0,3,22.7,10.7,3,2,3.0,1,test
+C10564,24.0,Arequipa,Postpago Ilimitado,Tarjeta,26/04/2025,3706.0,194.0,0,94.94,28.5,0,1,4.0,0,train
+C10457,48.0,Piura,Postpago Básico,Efectivo,15/09/2025,4341.0,164.0,0,47.98,25.0,2,1,3.0,1,test
+C10995,37.0,La Libertad,Postpago Ilimitado,Tarjeta,15/02/2025,22628.0,383.0,0,132.08,17.7,0,0,3.0,0,train
+C10478,36.0,Lima,Postpago Básico,Tarjeta,01/12/2024,2116.0,75.0,0,49.14,35.1,0,0,2.0,0,train
+C11179,56.0,Lima,Postpago Ilimitado,Efectivo,22/04/2025,29633.0,260.0,0,128.04,24.3,0,1,,0,test
+C11130,47.0,Cusco,Postpago Básico,Débito automático,18/02/2021,8501.0,282.0,0,58.65,12.2,4,4,1.0,0,train
+C11410,54.0,LIMA,Prepago,Tarjeta,27/01/2023,7817.0,142.0,5,43.46,27.1,0,2,3.0,0,train
+C11454,18.0,Lima,Postpago Ilimitado,Tarjeta,15/02/2025,28796.0,323.0,0,130.86,25.3,0,1,3.0,0,train
+C11083,,Lima,Postpago Básico,Tarjeta,10/11/2025,10040.0,161.0,0,65.22,41.2,0,1,2.0,0,train
+C11238,46.0,Arequipa,Prepago,Yape/Plin,09/06/2026,3057.0,29.0,1,12.8,26.9,2,2,3.0,1,train
+C10347,30.0,Lima,Prepago,Yape/Plin,27/03/2025,6381.0,150.0,1,27.15,31.0,2,2,4.0,1,train
+C10446,,Piura,Prepago,Efectivo,16/07/2025,11759.0,160.0,1,42.47,20.5,1,0,3.0,0,test
+C11363,18.0,Cuzco,Postpago Básico,Tarjeta,14/07/2026,4548.0,113.0,0,44.56,2.0,4,2,3.0,0,train
+C10379,22.0,La Libertad,Postpago Básico,Yape/Plin,25/01/2026,1953.0,162.0,0,45.1,4.0,6,1,3.0,1,train
+C11319,30.0,Junín,Postpago Básico,Yape/Plin,08/10/2025,1636.0,91.0,0,55.33,24.0,1,0,4.0,0,train
+C10638,31.0,Lima,Postpago Básico,Tarjeta,16/01/2021,13977.0,209.0,0,87.89,22.2,2,0,4.0,0,test
+C10806,49.0,Piura,Postpago Básico,Débito automático,20/06/2024,3268.0,137.0,0,53.68,18.5,3,3,2.0,0,train
+C10231,35.0,Lima,prepago,Tarjeta,24/01/2023,1518.0,5.0,1,,24.9,0,0,3.0,0,test
+C10382,18.0,Arequipa,Postpago Básico,Efectivo,14/02/2024,1456.0,11.0,0,52.16,30.6,1,1,1.0,0,train
+C10698,39.0,Piura,Postpago Ilimitado,Débito automático,10/11/2025,6929.0,293.0,0,101.85,25.9,0,0,3.0,0,train
+C10072,37.0,Piura,Prepago,Efectivo,23/09/2022,8259.0,189.0,4,41.2,20.8,2,3,3.0,1,train
+C10070,23.0,La Libertad,Postpago Básico,Efectivo,24/06/2026,4820.0,146.0,0,49.16,11.7,0,0,3.0,0,test
+C10700,18.0,Lima,Prepago,Yape/Plin,27/11/2021,2018.0,185.0,4,13.33,18.6,2,1,3.0,0,train
+C10602,27.0,Arequipa,Prepago,Yape/Plin,03/09/2020,4727.0,127.0,2,,11.6,3,3,1.0,0,train
+C10171,38.0,Lima ,Postpago Básico,Efectivo,13/02/2024,3938.0,156.0,0,55.15,32.2,1,1,3.0,0,train
+C10168,27.0,Lima,Prepago,Yape/Plin,25/08/2023,4043.0,116.0,3,28.63,25.8,3,1,4.0,0,train
+C10493,52.0,Piura,Prepago,Efectivo,31/10/2024,16328.0,256.0,8,53.14,12.5,6,3,,1,train
+C11480,43.0,Arequipa,Prepago,Tarjeta,09/01/2022,1218.0,5.0,3,12.16,40.2,0,2,,0,train
+C10585,46.0,La Libertad,Postpago Básico,Yape/Plin,18/12/2022,3670.0,207.0,0,,25.4,1,0,2.0,0,train
+C10272,,Junín,Prepago,Efectivo,08/09/2025,6076.0,66.0,1,35.08,8.4,2,5,2.0,1,train
+C10960,39.0,Piura,Postpago Básico,Efectivo,02/08/2024,2478.0,49.0,0,39.37,19.3,2,0,3.0,0,test
+C10420,28.0,lima,Postpago Ilimitado,Efectivo,23/12/2023,8458.0,250.0,0,107.11,26.7,0,0,4.0,0,train
+C10094,22.0,La Libertad,Postpago Ilimitado,Yape/Plin,17/10/2025,6199.0,254.0,0,104.95,21.0,0,1,3.0,0,train
+C11042,57.0,La Libertad,Postpago Básico,Tarjeta,28/10/2025,5920.0,168.0,0,51.0,15.6,3,0,4.0,0,test
+C11497,50.0,Lima,Postpago Ilimitado,Débito automático,21/01/2026,6558.0,228.0,0,107.66,36.6,0,0,,0,train
+C10042,,Lima,Prepago,Débito automático,28/12/2023,6102.0,69.0,4,26.53,15.3,0,5,3.0,0,train
+C10056,,La Libertad,Prepago,Efectivo,09/10/2025,4214.0,96.0,1,24.38,16.4,3,0,4.0,1,train
+C11217,28.0,Lima,Prepago,Débito automático,23/11/2024,7007.0,107.0,3,39.93,24.3,1,0,3.0,0,train
+C10930,39.0,Lima ,Prepago,Efectivo,18/10/2024,2005.0,44.0,2,18.8,25.8,2,1,3.0,1,train
+C10653,33.0,Arequipa,Prepago,Tarjeta,29/10/2024,8441.0,132.0,1,41.89,27.9,0,3,3.0,1,train
+C10038,19.0,Cusco,Postpago Básico,Tarjeta,20/01/2023,9112.0,230.0,0,67.12,21.9,3,1,,0,train
+C10306,38.0,La Libertad,Prepago,Efectivo,21/12/2024,6682.0,61.0,2,26.02,31.6,0,0,3.0,0,test
+C11076,36.0,Lima,Prepago,Yape/Plin,28/07/2026,6181.0,196.0,2,34.14,22.5,3,3,3.0,1,test
+C10642,27.0,Lima,Postpago Básico,Yape/Plin,23/03/2025,7785.0,320.0,0,77.44,53.8,0,1,5.0,0,train
+C10408,43.0,Lima,Prepago,Tarjeta,09/05/2026,8120.0,97.0,4,43.85,19.0,1,1,3.0,1,train
+C10166,44.0,Junín,Postpago Básico,Yape/Plin,16/08/2025,12254.0,219.0,0,65.25,12.0,1,0,3.0,0,train
+C10534,38.0,Piura,Prepago,Yape/Plin,01/06/2022,5152.0,42.0,3,38.29,27.7,0,1,3.0,0,test
+C10901,47.0,Junín,Postpago Ilimitado,Débito automático,10/10/2022,10318.0,258.0,0,100.43,15.2,1,1,1.0,0,train
+C11448,36.0,Junín,Postpago Básico,Tarjeta,30/05/2024,12069.0,219.0,0,67.26,31.8,0,0,,0,train
+C11087,31.0,lima,Postpago Ilimitado,Yape/Plin,20/09/2025,7554.0,244.0,0,97.99,25.3,1,1,2.0,0,test
+C11438,38.0,Arequipa,Prepago,Tarjeta,09/01/2025,3907.0,175.0,0,31.36,31.5,1,1,2.0,1,train
+C10720,22.0,Cusco,Prepago,Tarjeta,29/07/2021,2889.0,228.0,4,28.97,27.5,2,1,2.0,1,train
+C10649,49.0, Lima,Prepago,Débito automático,15/02/2026,3399.0,327.0,3,26.35,28.1,0,1,2.0,0,train
+C10316,42.0,Lima,Prepago,Débito automático,01/09/2024,3128.0,120.0,5,20.01,37.1,0,2,3.0,0,train
+C11432,47.0,La Libertad,Postpago Ilimitado,Débito automático,11/05/2025,6193.0,260.0,0,93.49,28.5,1,1,,0,train
+C11457,18.0,Cusco,Prepago,Tarjeta,15/03/2020,10243.0,238.0,4,43.86,15.8,1,2,4.0,0,train
+C10516,43.0,Arequipa,Prepago,Tarjeta,01/04/2026,9673.0,121.0,5,34.62,31.0,1,3,3.0,1,train
+C10760,39.0,Cuzco,Prepago,Débito automático,15/03/2023,12467.0,151.0,2,31.22,18.2,1,0,3.0,0,train
+C10533,42.0,Junín,Postpago Básico,Tarjeta,14/12/2023,5333.0,66.0,0,49.53,19.0,6,3,2.0,1,train
+C10866,37.0,Piura,Prepago,Tarjeta,20/08/2025,5144.0,88.0,3,25.66,12.7,4,2,2.0,1,train
+C11153,56.0,Junín,Postpago Básico,Yape/Plin,29/10/2025,5264.0,256.0,0,57.0,22.7,2,6,1.0,1,train
+C11474,18.0,La Libertad,Postpago Básico,Débito automático,22/10/2023,2444.0,41.0,0,50.77,31.8,2,3,,1,train
+C10548,24.0,Arequipa,Postpago Ilimitado,Tarjeta,27/09/2023,12494.0,295.0,0,109.78,25.6,4,3,2.0,1,train
+C10453,48.0,La Libertad,Postpago Básico,Tarjeta,13/06/2023,12395.0,270.0,0,78.09,13.3,2,1,3.0,0,train
+C11244,37.0,Junín,Prepago,Yape/Plin,14/10/2023,1928.0,38.0,0,31.77,16.9,0,1,4.0,0,train
+C10598,18.0,Junín,Postpago Básico,Débito automático,15/09/2025,2014.0,29.0,0,49.81,27.7,1,0,5.0,0,train
+C11093,25.0,Lima,Prepago,Efectivo,01/03/2024,4282.0,76.0,0,22.89,30.5,0,0,5.0,0,train
+C10570,48.0,Piura,Prepago,Tarjeta,14/03/2021,4772.0,126.0,3,20.26,15.4,3,1,4.0,0,train
+C10668,18.0,Junín,Prepago,Efectivo,24/03/2025,1658.0,25.0,4,22.02,16.5,1,2,2.0,1,test
+C10061,32.0,Lima,Postpago Básico,Yape/Plin,30/05/2023,17411.0,248.0,0,81.53,16.9,1,0,2.0,0,train
+C11053,30.0,La Libertad,Prepago,Tarjeta,11/08/2024,2426.0,98.0,0,8.77,15.4,1,1,2.0,1,train
+C10536,36.0,Arequipa,Prepago,Efectivo,01/12/2025,6442.0,281.0,2,19.7,25.9,2,1,3.0,1,test
+C11434,44.0,Lima,Prepago,Efectivo,09/02/2026,2925.0,41.0,3,16.77,30.4,1,2,3.0,1,train
+C11041,28.0,La Libertad,Postpago Básico,Efectivo,26/12/2021,7774.0,290.0,0,73.14,28.8,0,0,2.0,0,train
+C10244,18.0,Lima,Prepago,Yape/Plin,14/06/2022,3029.0,78.0,1,32.25,24.9,2,2,3.0,0,train
+C10025,26.0,Lima,Postpago Básico,Débito automático,09/09/2021,4156.0,300.0,0,63.39,28.3,1,2,3.0,0,train
+C10222,,La Libertad,Postpago Básico,Efectivo,10/10/2023,4329.0,144.0,0,53.14,31.9,2,3,,0,train
+C10955,20.0,Lima,Postpago Ilimitado,Yape/Plin,13/04/2022,29868.0,376.0,0,139.37,29.0,1,1,,0,train
+C10105,40.0,Lima,Postpago Básico,Yape/Plin,27/11/2025,5538.0,103.0,0,57.94,41.5,1,1,4.0,0,train
+C10971,20.0,Piura,Postpago Básico,Tarjeta,28/03/2024,1735.0,187.0,0,48.6,26.0,2,2,,1,train
+C10509,21.0,Piura,Postpago Ilimitado,Yape/Plin,27/10/2024,20590.0,403.0,0,130.12,13.9,2,2,,0,test
+C10131,40.0,Piura,Prepago,Efectivo,27/08/2023,11148.0,128.0,5,44.97,18.9,1,3,,1,train
+C11033,18.0,La Libertad,Postpago Básico,Yape/Plin,04/05/2023,9430.0,245.0,0,65.5,13.7,0,0,3.0,0,train
+C10444,18.0,Lima,Prepago,Efectivo,18/01/2024,3013.0,93.0,1,15.03,26.2,1,1,4.0,0,test
+C10671,,Cusco,Postpago Básico,Efectivo,10/08/2022,29445.0,306.0,0,98.68,13.3,1,0,3.0,0,test
+C10508,22.0,Arequipa,Postpago Básico,Efectivo,25/07/2026,930.0,36.0,0,39.65,28.7,0,0,3.0,1,train
+C10102,40.0,La Libertad,Prepago,Débito automático,31/03/2023,13161.0,109.0,5,39.69,13.1,3,4,1.0,0,train
+C10075,36.0,La Libertad,Prepago,Yape/Plin,21/01/2026,3934.0,47.0,1,25.46,14.7,0,0,3.0,1,train
+C10036,25.0,La Libertad,Prepago,Débito automático,12/09/2023,2961.0,91.0,3,25.58,18.4,1,1,4.0,0,train
+C11345,27.0,Arequipa,Prepago,Yape/Plin,02/03/2025,3968.0,224.0,2,30.43,25.1,1,0,3.0,0,test
+C10057,,Arequipa,Prepago,Tarjeta,23/01/2026,4425.0,145.0,1,31.18,12.8,1,4,1.0,1,train
+C10196,43.0,Cusco,Postpago Ilimitado,Tarjeta,13/12/2024,9506.0,176.0,0,97.49,23.5,2,2,3.0,0,train
+C11263,60.0,Arequipa,Prepago,Débito automático,29/04/2025,11142.0,280.0,2,35.06,22.6,3,4,4.0,1,train
+C10737,44.0,la libertad,Prepago,Débito automático,23/06/2023,18119.0,454.0,4,56.09,26.7,1,0,3.0,0,test
+C11152,18.0,Piura,Postpago Básico,Efectivo,08/09/2025,3732.0,41.0,0,51.88,11.4,2,3,3.0,1,train
+C11305,20.0,Junín,prepago,Tarjeta,18/04/2026,2318.0,94.0,6,28.67,18.2,0,1,5.0,0,train
+C10477,31.0,Cusco,Postpago Ilimitado,Yape/Plin,24/07/2023,5321.0,263.0,0,106.16,32.0,1,1,4.0,0,test
+C10086,29.0,Arequipa,Postpago Básico,Tarjeta,01/03/2025,4361.0,164.0,0,62.28,31.8,1,1,,1,train
+C10561,31.0,Lima,Prepago,Efectivo,13/10/2024,4445.0,79.0,3,31.38,24.9,1,0,4.0,0,test
+C10334,32.0,Piura,Prepago,,08/04/2025,12819.0,284.0,10,42.12,17.2,1,2,3.0,1,test
+C11475,21.0,Arequipa,Postpago Básico,Débito automático,26/01/2026,5828.0,137.0,0,55.24,21.7,2,0,3.0,0,train
+C11050,41.0,Lima,Postpago Básico,Yape/Plin,24/03/2026,2436.0,67.0,0,42.39,23.1,2,1,4.0,1,train
+C11008,22.0,Cusco,Prepago,Tarjeta,26/07/2025,2703.0,72.0,0,23.25,16.5,0,0,5.0,0,train
+C11182,28.0,arequipa,Prepago,Efectivo,30/07/2026,4076.0,128.0,3,21.86,25.4,0,1,,1,train
+C11187,31.0,Piura,Postpago Ilimitado,Tarjeta,24/11/2025,16744.0,261.0,0,114.74,16.7,1,1,2.0,0,test
+C10538,21.0,Piura,Prepago,Efectivo,26/09/2025,1898.0,139.0,4,6.07,28.2,2,2,3.0,1,train
+C11481,37.0,Lima,Postpago Básico,Yape/Plin,12/08/2021,3655.0,218.0,0,58.58,18.1,1,0,5.0,0,train
+C11326,51.0,Lima,Postpago Básico,Débito automático,24/09/2024,3171.0,23.0,0,53.45,28.7,1,3,3.0,1,train
+C10418,36.0,Lima,Prepago,Yape/Plin,08/11/2025,4213.0,150.0,1,22.38,11.7,2,5,3.0,1,train
+C11393,33.0,Lima ,Postpago Ilimitado,Efectivo,26/01/2026,3340.0,253.0,0,86.31,27.6,1,3,2.0,0,train
+C11426,38.0,La Libertad,Postpago Ilimitado,Yape/Plin,20/10/2024,11455.0,146.0,0,95.12,19.9,6,1,3.0,0,train
+C11403,31.0,Lima,Prepago,Efectivo,10/05/2025,3822.0,15.0,3,26.25,21.9,0,0,,0,train
+C10573,37.0,La Libertad,Prepago,Débito automático,01/10/2025,2716.0,169.0,4,26.48,24.0,1,4,,1,train
+C11376,18.0,La Libertad,Prepago,Efectivo,16/06/2026,5003.0,245.0,4,32.65,11.4,1,0,4.0,1,train
+C11293,47.0,Lima,Postpago Básico,Débito automático,30/06/2023,2691.0,116.0,0,46.06,22.1,1,2,2.0,0,train
+C10332,39.0,Lima,Postpago Básico,Efectivo,12/04/2026,3239.0,171.0,0,66.8,27.3,3,1,4.0,0,train
+C10858,21.0,Lima,Postpago Básico,Débito automático,24/09/2025,679.0,5.0,0,31.35,33.7,1,2,2.0,0,train
+C10574,42.0,Lima,Postpago Ilimitado,Efectivo,21/08/2026,42428.0,384.0,0,151.93,28.9,1,0,4.0,0,train
+C11308,41.0,Junín,Postpago Ilimitado,Débito automático,29/03/2026,7073.0,243.0,0,107.52,19.7,0,0,3.0,0,train
+C11117,18.0,Arequipa,Postpago Básico,Efectivo,22/07/2023,7372.0,197.0,0,55.93,26.5,2,3,2.0,0,train
+C11260,36.0,Junín,Postpago Ilimitado,Efectivo,17/07/2026,21231.0,295.0,0,134.65,33.0,0,2,2.0,1,train
+C11390,18.0,Lima,Postpago Básico,Yape/Plin,15/03/2026,3644.0,181.0,0,63.18,23.3,0,3,2.0,0,train
+C11232,31.0,Lima,Postpago Ilimitado,Yape/Plin,09/03/2026,2120.0,132.0,0,85.37,36.2,0,0,,0,test
+C10974,44.0,La Libertad,Postpago Ilimitado,Yape/Plin,01/08/2024,11871.0,270.0,0,113.37,17.5,3,1,2.0,0,test
+C11195,40.0,Piura,Postpago Básico,Débito automático,16/11/2022,3017.0,167.0,0,41.16,13.6,2,1,4.0,0,train
+C10008,29.0,La Libertad,Postpago Básico,Efectivo,08/02/2026,6263.0,227.0,0,50.13,18.8,1,1,2.0,1,train
+C10963,55.0,Lima,Postpago Básico,Efectivo,29/08/2024,5732.0,210.0,0,64.98,26.0,0,0,,0,train
+C11347,48.0,Lima,Postpago Ilimitado,Efectivo,10/01/2022,9208.0,165.0,0,95.62,23.1,4,2,3.0,0,test
+C11124,42.0,Lima,Postpago Básico,Efectivo,23/04/2022,3090.0,9.0,0,43.02,25.2,0,3,1.0,0,train
+C10304,25.0,Lima,Prepago,Yape/Plin,29/05/2022,2175.0,145.0,1,22.4,26.4,1,1,3.0,0,train
+C11151,53.0,La Libertad,Prepago,Yape/Plin,08/06/2025,2968.0,144.0,1,36.12,9.6,2,2,3.0,0,train
+C10828,33.0,Cusco,Prepago,Yape/Plin,23/10/2024,2345.0,43.0,2,16.27,15.0,2,2,,1,train
+C10074,39.0,Cusco,Postpago Básico,Débito automático,01/03/2022,2505.0,60.0,0,49.39,15.6,3,0,3.0,0,train
+C11018,41.0,Piura,Prepago,Efectivo,09/04/2024,1739.0,149.0,5,25.71,15.9,2,3,,1,train
+C10522,61.0,Junín,Postpago Básico,Débito automático,21/01/2026,6066.0,114.0,0,51.85,18.5,1,1,3.0,0,train
+C10335,36.0,Arequipa,Postpago Básico,Tarjeta,02/05/2023,31446.0,301.0,0,90.38,32.9,1,2,3.0,0,test
+C10569,,Junín,Prepago,Tarjeta,27/08/2022,3681.0,15.0,3,23.1,22.4,0,4,3.0,0,train
+C10590,45.0,Arequipa,Postpago Ilimitado,Yape/Plin,13/05/2024,4372.0,182.0,0,100.83,34.6,1,1,1.0,0,train
+C10088,30.0,La Libertad,Prepago,Efectivo,26/01/2026,7416.0,264.0,1,35.02,15.2,0,1,3.0,1,train
+C11470,42.0,La Libertad,Postpago Ilimitado,Efectivo,17/10/2024,44123.0,341.0,0,152.22,24.5,2,2,2.0,0,test
+C10217,,Junín,Postpago Básico,Tarjeta,11/11/2023,1851.0,78.0,0,57.36,20.6,2,1,,0,train
+C11102,38.0,Lima,Postpago Básico,Tarjeta,19/03/2026,5394.0,160.0,0,43.7,21.0,1,0,3.0,0,train
+C10173,40.0,Junín,Prepago,Yape/Plin,30/03/2025,3264.0,24.0,1,19.83,10.3,2,0,,0,train
+C11404,31.0,Arequipa,Postpago Ilimitado,Débito automático,19/03/2026,9052.0,321.0,0,105.07,24.3,0,0,5.0,0,test
+C10221,21.0,Arequipa,Postpago Básico,Yape/Plin,13/02/2025,5626.0,143.0,0,50.46,28.2,1,2,4.0,0,train
+C10319,26.0,Lima,prepago,Yape/Plin,14/07/2023,5387.0,232.0,1,27.65,30.4,0,1,4.0,0,train
+C11329,23.0,Lima,Postpago Básico,Tarjeta,19/12/2023,9213.0,147.0,0,63.08,33.4,0,0,4.0,0,train
+C11366,41.0,LIMA,Postpago Básico,Débito automático,19/08/2023,3654.0,103.0,0,39.63,35.7,0,3,3.0,0,train
+C11436,37.0,Arequipa,Postpago Ilimitado,Yape/Plin,20/03/2024,10298.0,272.0,0,105.3,23.6,2,3,3.0,1,test
+C10266,55.0,Arequipa,Prepago,Débito automático,20/09/2024,14357.0,186.0,2,54.85,24.7,1,1,3.0,0,train
+C10006,55.0,Cusco,Postpago Ilimitado,Débito automático,28/12/2024,21757.0,309.0,0,122.59,7.8,2,0,4.0,0,train
+C11027,36.0,Lima,Prepago,Débito automático,15/01/2024,6869.0,252.0,3,32.68,26.5,2,1,3.0,0,test
+C10138,45.0,Lima,Prepago,Yape/Plin,17/07/2026,6120.0,174.0,3,31.74,24.8,3,1,3.0,0,train
+C10163,40.0,Piura,Prepago,Tarjeta,21/10/2025,3331.0,210.0,3,28.28,27.9,2,1,1.0,0,train
+C11257,20.0,lima,Prepago,Tarjeta,19/07/2026,3999.0,179.0,4,14.52,18.9,2,2,2.0,1,train
+C10594,51.0,Lima,Prepago,Yape/Plin,19/05/2023,4395.0,80.0,5,27.57,31.5,0,1,,1,train
+C11440,34.0,Lima,Postpago Básico,Yape/Plin,21/05/2024,5556.0,225.0,0,57.34,35.1,1,1,3.0,0,train
+C11348,65.0,Lima,Postpago Básico,Tarjeta,12/11/2025,2149.0,140.0,0,33.45,28.2,0,3,4.0,1,train
+C11198,42.0,Lima,Postpago Básico,Tarjeta,24/03/2026,22782.0,229.0,0,97.47,35.1,1,3,3.0,1,train
+C11450,30.0,Arequipa,Postpago Ilimitado,Yape/Plin,27/10/2025,6114.0,70.0,0,87.5,33.6,3,1,3.0,0,train
+C10523,18.0,La Libertad,Prepago,Efectivo,12/07/2024,16954.0,219.0,2,53.39,28.0,0,0,5.0,0,train
+C10883,21.0,Piura,Postpago Ilimitado,Débito automático,30/04/2025,5440.0,114.0,0,82.95,21.1,1,1,,0,test
+C10986,33.0,Lima,Prepago,Efectivo,29/09/2025,769.0,19.0,1,7.09,46.9,1,2,3.0,1,test
+C10578,41.0,Lima,Postpago Ilimitado,Tarjeta,17/12/2024,7170.0,162.0,0,91.99,25.3,0,2,2.0,0,test
+C10927,34.0,Lima,Postpago Básico,Efectivo,10/08/2021,3784.0,112.0,0,,28.5,1,1,,0,train
+C10019,33.0,Lima,Prepago,Yape/Plin,22/07/2026,5042.0,86.0,2,25.05,26.8,1,0,3.0,1,test
+C10718,33.0,Piura,Prepago,Tarjeta,10/03/2026,5748.0,157.0,2,28.53,31.2,0,0,5.0,0,train
+C10633,52.0,La Libertad,Prepago,Débito automático,27/03/2026,2226.0,132.0,1,14.83,12.0,4,0,3.0,0,train
+C11460,41.0,La Libertad,Postpago Ilimitado,Débito automático,30/03/2025,2903.0,157.0,0,94.12,27.2,0,1,2.0,0,train
+C10618,32.0,Lima,Prepago,Efectivo,14/09/2023,2670.0,28.0,3,27.42,28.1,2,7,1.0,1,train
+C10882,,Cusco,Postpago Básico,Tarjeta,11/08/2023,12692.0,161.0,0,73.29,21.4,1,1,2.0,0,train
+C10655,39.0,Lima,Prepago,Tarjeta,17/05/2024,5101.0,110.0,2,24.09,30.9,0,4,,1,train
+C10982,,la libertad,Postpago Básico,Yape/Plin,30/01/2025,4041.0,159.0,0,57.98,11.9,4,0,3.0,0,train
+C10857,32.0,Piura,Postpago Básico,Yape/Plin,10/03/2025,11036.0,322.0,0,53.99,25.4,0,0,5.0,0,test
+C10137,43.0,Cusco,Postpago Básico,Efectivo,29/05/2025,3133.0,5.0,0,53.44,28.4,1,1,4.0,1,train
+C10557,54.0,Lima,Prepago,Tarjeta,23/06/2024,7401.0,262.0,4,27.99,36.1,0,1,3.0,0,train
+C10697,31.0,Arequipa,Postpago Básico,Yape/Plin,27/04/2026,5267.0,155.0,0,69.31,30.1,2,0,2.0,0,train
+C11251,42.0,Lima,Postpago Ilimitado,Débito automático,20/08/2024,7868.0,116.0,0,105.63,22.9,3,2,,0,train
+C10746,50.0,Cusco,Postpago Básico,Débito automático,26/09/2023,4572.0,88.0,0,45.1,15.3,2,1,3.0,0,train
+C10893,38.0,Cusco,Prepago,Tarjeta,12/03/2025,6366.0,191.0,6,31.37,13.7,2,1,,0,test
+C11354,28.0,Lima,Postpago Básico,Débito automático,08/09/2024,2916.0,150.0,0,47.68,26.2,2,3,2.0,1,train
+C10368,45.0,Junín,Prepago,Débito automático,02/07/2025,1761.0,77.0,3,12.8,37.3,0,0,5.0,0,train
+C11435,28.0,Lima,Postpago Ilimitado,Tarjeta,25/07/2025,14882.0,345.0,0,104.96,35.7,0,1,4.0,0,train
+C10800,35.0,Piura,Prepago,Tarjeta,12/09/2024,8672.0,131.0,0,31.87,16.8,2,2,,0,train
+C10327,24.0,Arequipa,Prepago,Efectivo,08/09/2026,1529.0,19.0,4,7.84,30.3,3,0,3.0,1,train
+C10317,,Arequipa,Postpago Ilimitado,Efectivo,20/09/2023,5405.0,171.0,0,90.27,28.7,1,2,2.0,0,train
+C11489,39.0,Arequipa,Prepago,Tarjeta,11/04/2022,5063.0,239.0,7,33.2,35.7,1,0,2.0,0,test
+C11126,32.0,Arequipa,Prepago,Tarjeta,24/08/2023,2428.0,5.0,3,25.48,21.7,2,0,3.0,0,test
+C10528,23.0,Lima,Postpago Básico,Débito automático,08/04/2026,13004.0,327.0,0,87.24,28.2,1,0,2.0,0,train
+C10526,53.0,Junín,PREPAGO,Yape/Plin,13/02/2023,3110.0,140.0,2,9.02,20.4,1,0,3.0,0,train
+C10087,38.0,La Libertad,Prepago,Débito automático,16/02/2024,2909.0,39.0,1,25.09,9.4,1,0,5.0,0,train
+C10479,35.0,Cusco,Prepago,Yape/Plin,24/01/2025,4938.0,156.0,2,25.64,25.9,0,1,,1,train
+C10338,30.0,Junín,Postpago Básico,Tarjeta,22/03/2024,11223.0,309.0,0,76.96,24.8,2,1,2.0,0,train
+C10781,39.0,Piura,Prepago,Yape/Plin,21/12/2022,630.0,5.0,1,5.0,28.0,1,0,3.0,0,train
+C10657,37.0,Junín,Postpago Ilimitado,Yape/Plin,28/02/2025,7644.0,298.0,0,108.98,26.8,1,2,1.0,1,train
+C10148,43.0,Lima,Prepago,Efectivo,22/07/2023,5571.0,189.0,6,31.01,35.0,0,1,3.0,0,train
+C11300,50.0,Cusco,Postpago Básico,Tarjeta,27/06/2024,4173.0,123.0,0,61.79,22.5,2,0,3.0,0,train
+C11409,42.0,Lima,Prepago,Yape/Plin,06/02/2025,6265.0,190.0,1,33.02,21.5,0,3,3.0,1,train
+C10028,48.0,Arequipa,Postpago Ilimitado,Débito automático,27/05/2024,7318.0,392.0,0,110.83,25.5,1,0,4.0,0,train
+C10246,43.0,Arequipa,Postpago Ilimitado,Tarjeta,21/09/2025,2983.0,139.0,0,99.04,23.4,0,1,5.0,0,train
+C10365,41.0,Lima,Postpago Ilimitado,Yape/Plin,15/04/2026,18543.0,310.0,0,122.02,29.8,0,0,4.0,0,train
+C10783,18.0,La Libertad,Prepago,Efectivo,18/07/2023,3590.0,58.0,1,27.68,17.8,1,2,4.0,0,test
+C10845,20.0,Cusco,Prepago,Débito automático,17/12/2025,2749.0,62.0,4,20.29,36.0,0,0,4.0,0,test
+C11212,40.0,La Libertad,Postpago Ilimitado,Tarjeta,24/06/2025,18454.0,403.0,0,121.64,11.4,2,3,2.0,0,train
+C10198,40.0,Lima,Prepago,Tarjeta,19/02/2026,8818.0,129.0,3,39.25,28.4,1,2,,1,train
+C11378,52.0,Lima,Prepago,Yape/Plin,17/05/2023,1274.0,23.0,1,19.45,31.8,4,2,2.0,0,test
+C11302,50.0,Junín,Postpago Básico,Tarjeta,25/03/2024,10159.0,182.0,0,67.77,11.8,3,3,4.0,0,test
+C10404,40.0,Lima,Postpago Básico,Efectivo,14/09/2023,4902.0,230.0,0,55.03,32.9,0,1,4.0,0,train
+C11265,46.0,Lima,Postpago Ilimitado,Efectivo,24/07/2023,5801.0,331.0,0,93.12,12.4,2,1,3.0,0,test
+C10483,18.0,Arequipa,Postpago Ilimitado,Débito automático,21/01/2025,3281.0,185.0,0,98.83,29.5,3,0,,0,test
+C10158,32.0,Lima,Prepago,Yape/Plin,24/03/2025,5957.0,117.0,5,35.46,19.9,4,3,1.0,1,train
+C10315,38.0,Lima,Postpago Ilimitado,Débito automático,16/08/2026,11485.0,277.0,0,118.95,34.3,0,1,4.0,0,test
+C10256,42.0,lima,Postpago Ilimitado,Yape/Plin,09/02/2025,22513.0,246.0,0,123.8,27.9,1,1,2.0,0,train
+C10007,25.0,Lima,Prepago,Yape/Plin,23/03/2026,2993.0,36.0,5,24.66,27.8,2,2,,1,test
+C11211,,Junín,Prepago,Efectivo,18/06/2025,11665.0,81.0,4,39.15,18.4,1,2,,1,train
+C10384,32.0,Arequipa,Prepago,Efectivo,29/04/2025,4758.0,213.0,4,35.23,36.2,0,0,3.0,0,train
+C11371,18.0,Piura,Prepago,Efectivo,15/06/2025,5956.0,5.0,2,17.6,17.2,0,0,4.0,0,train
+C10177,33.0,Lima,Postpago Básico,Efectivo,15/06/2019,4364.0,338.0,0,58.83,28.7,0,0,5.0,0,train
+C10984,66.0,Lima,Prepago,Yape/Plin,27/12/2025,1013.0,106.0,2,11.22,30.7,0,2,3.0,1,train
+C10314,19.0,Cusco,Prepago,Efectivo,09/11/2020,7089.0,271.0,8,37.77,11.1,5,2,4.0,0,train
+C10357,58.0,Arequipa,Postpago Ilimitado,Efectivo,19/05/2022,10140.0,345.0,0,116.94,20.5,0,0,4.0,0,train
+C10298,35.0,Arequipa,Prepago,Yape/Plin,22/09/2021,7923.0,236.0,2,40.19,25.3,1,2,3.0,1,train
+C10455,38.0,Lima,Prepago,Débito automático,18/03/2025,10721.0,322.0,5,38.53,35.9,1,1,3.0,1,train
+C10543,27.0,Lima,Prepago,Tarjeta,20/02/2023,3410.0,107.0,3,20.59,24.7,2,2,3.0,1,train
+C10662,45.0,Arequipa,Postpago Básico,Efectivo,16/11/2023,2397.0,141.0,0,40.15,27.4,1,3,3.0,0,train
+C10596,42.0,Piura,Prepago,Yape/Plin,15/02/2025,3541.0,215.0,1,22.37,18.2,4,1,3.0,0,train
+C10875,21.0,Arequipa,Pre-pago,Tarjeta,10/05/2026,2540.0,179.0,2,20.74,16.9,2,0,2.0,1,train
+C11357,31.0,Lima,Postpago Ilimitado,Débito automático,29/09/2025,8634.0,343.0,0,11345.0,40.1,0,0,3.0,0,train
+C10936,37.0,Arequipa,Postpago Ilimitado,Tarjeta,26/07/2024,7760.0,88.0,0,81.08,24.0,0,0,2.0,0,train
+C10527,56.0,Junín,Postpago Ilimitado,Tarjeta,18/01/2026,10388.0,312.0,0,110.2,10.7,1,1,2.0,1,train
+C11277,50.0,Lima,Postpago Básico,Débito automático,01/06/2025,5032.0,251.0,0,57.41,27.7,0,0,2.0,0,train
+C10159,42.0,Piura,Prepago,Débito automático,15/11/2024,6030.0,213.0,2,24.39,18.5,1,2,4.0,0,train
+C10967,29.0,Lima,PREPAGO,Efectivo,27/06/2024,3607.0,114.0,3,24.38,24.1,2,0,5.0,0,train
+C10360,31.0,La Libertad,Prepago,Yape/Plin,25/11/2025,4988.0,151.0,5,26.74,22.6,1,1,4.0,1,train
+C11344,30.0,Piura,Postpago Básico,Efectivo,12/06/2025,3971.0,149.0,0,47.18,5.8,2,0,3.0,0,train
+C10202,18.0,Lima,prepago,Tarjeta,07/09/2025,14298.0,133.0,3,43.25,12.3,0,4,2.0,1,train
+C10946,49.0,Lima,Postpago Básico,Yape/Plin,15/06/2025,7753.0,196.0,0,66.72,11.4,2,2,4.0,0,train
+C10802,48.0,Piura,Postpago Básico,Tarjeta,23/01/2022,10671.0,202.0,0,75.34,11.1,2,4,3.0,0,train
+C10112,29.0,La Libertad,Prepago,Débito automático,15/11/2024,9146.0,233.0,5,39.37,17.9,4,0,4.0,0,train
+C11132,34.0,La Libertad,Postpago Básico,Tarjeta,19/04/2026,6237.0,166.0,0,54.06,28.7,0,1,3.0,0,train
+C10307,61.0,Lima ,Postpago Básico,Yape/Plin,19/04/2024,6251.0,165.0,0,62.91,33.6,1,3,4.0,0,test
+C10874,37.0,La Libertad,Postpago Ilimitado,Yape/Plin,15/12/2024,9468.0,270.0,0,107.73,16.9,2,1,3.0,0,train
+C10422,50.0,La Libertad,PREPAGO,Tarjeta,20/02/2025,5387.0,191.0,3,25.98,20.3,1,1,4.0,1,train
+C10817,44.0,Cusco,Postpago Básico,Yape/Plin,23/01/2026,3925.0,157.0,0,54.75,39.3,0,1,,1,train
+C11299,45.0,Junín,Postpago Ilimitado,Tarjeta,16/01/2024,15101.0,415.0,0,121.06,12.9,0,0,2.0,0,train
+C10980,43.0,Cusco,Postpago Básico,Yape/Plin,24/11/2021,4659.0,277.0,0,58.59,23.6,4,2,2.0,1,train
+C10459,32.0,Lima,Postpago Básico,Efectivo,11/06/2021,5683.0,130.0,0,48.44,16.7,2,1,3.0,0,train
+C11017,32.0,lima,Postpago Ilimitado,Tarjeta,01/07/2025,11588.0,298.0,0,106.34,33.5,2,4,1.0,0,train
+C11318,51.0,Piura,Prepago,Débito automático,18/05/2025,2000.0,86.0,2,5.35,12.3,4,1,4.0,0,test
+C10762,34.0,Arequipa,Postpago Básico,Débito automático,26/01/2023,8354.0,253.0,0,64.43,17.4,5,2,2.0,0,train
+C11397,22.0,Piura,Postpago Básico,Tarjeta,31/05/2024,14508.0,209.0,0,74.28,27.0,0,0,4.0,0,train
+C10953,55.0,Arequipa,Postpago Básico,Débito automático,18/01/2026,5074.0,200.0,0,58.09,15.7,3,0,3.0,0,train
+C10449,,La Libertad,Postpago Básico,Débito automático,25/05/2023,17070.0,301.0,0,82.39,13.6,3,1,3.0,0,train
+C11193,,Lima,Postpago Ilimitado,Tarjeta,23/10/2024,3356.0,226.0,0,91.3,27.3,1,2,2.0,0,train
+C10679,31.0,Lima,Prepago,Yape/Plin,30/08/2024,4527.0,121.0,2,19.44,34.0,2,0,3.0,0,train
+C10692,22.0,Piura,Postpago Ilimitado,Efectivo,30/03/2026,27032.0,341.0,0,129.96,14.9,3,0,5.0,0,train
+C11146,43.0,arequipa,Prepago,Tarjeta,25/12/2022,1971.0,113.0,1,14.96,25.0,1,0,4.0,0,train
+C10080,42.0,Lima,Postpago Básico,Efectivo,16/06/2025,6754.0,170.0,0,65.74,29.9,1,4,3.0,1,train
+C11333,56.0,La Libertad,Postpago Básico,Efectivo,10/02/2022,3656.0,85.0,0,49.69,29.5,0,1,3.0,0,test
+C11025,,Lima,Prepago,Efectivo,30/08/2025,19038.0,169.0,4,55.29,30.7,2,0,4.0,0,test
+C10933,45.0,Junín,Postpago Básico,Tarjeta,29/12/2020,23003.0,275.0,0,88.83,7.8,4,2,3.0,0,train
+C10215,54.0,Lima,Postpago Ilimitado,Tarjeta,12/03/2026,7681.0,111.0,0,89.14,19.9,1,1,2.0,0,train
+C10992,42.0,Piura,Prepago,Yape/Plin,17/01/2025,1474.0,98.0,0,29.85,9.2,5,2,,1,train
+C10030,26.0,Lima,Prepago,Débito automático,25/09/2026,4821.0,220.0,2,27.5,26.9,0,1,3.0,1,train
+C10242,35.0,Junín,Postpago Básico,Yape/Plin,29/10/2024,6754.0,188.0,0,59.03,27.1,0,1,4.0,0,train
+C11022,24.0,Lima ,Prepago,Tarjeta,08/06/2024,1237.0,123.0,2,12.78,22.7,3,0,,0,train
+C10641,28.0,Arequipa,Prepago,Efectivo,16/09/2025,1397.0,168.0,1,30.33,22.6,1,0,3.0,1,train
+C10696,29.0,Piura,Prepago,Tarjeta,19/04/2022,4098.0,154.0,1,22.34,25.7,2,2,,1,train
+C10209,,Cusco,Postpago Ilimitado,,30/07/2024,38154.0,278.0,0,141.68,20.7,4,1,3.0,0,train
+C10862,34.0,Lima,Postpago Básico,Yape/Plin,19/08/2024,19577.0,383.0,0,91.97,25.4,1,0,4.0,0,train
+C10770,38.0,Junín,Postpago Básico,Débito automático,25/05/2023,15534.0,215.0,0,69.25,23.2,1,1,4.0,0,train
+C10752,33.0,Cusco,Postpago Básico,Tarjeta,23/03/2026,14305.0,178.0,0,70.28,12.5,1,3,3.0,0,train
+C11328,22.0,La Libertad,Prepago,Yape/Plin,24/06/2024,5656.0,96.0,1,32.05,8.9,2,4,,0,test
+C10435,21.0,Lima,Postpago Básico,Efectivo,01/03/2025,2536.0,140.0,0,53.66,34.4,0,3,2.0,1,test
+C11336,18.0,Arequipa,Postpago Básico,Efectivo,11/11/2022,4265.0,89.0,0,51.43,30.8,0,2,2.0,0,train
+C11428,22.0,Cusco,Prepago,Tarjeta,28/01/2024,7819.0,203.0,2,31.85,23.4,2,1,3.0,1,train
+C11114,28.0,Piura,Prepago,Tarjeta,29/12/2023,5963.0,54.0,1,26.19,15.6,0,1,4.0,0,train
+C11391,18.0,La Libertad,Prepago,Yape/Plin,26/11/2025,8038.0,203.0,5,25.05,17.3,0,1,3.0,0,train
+C10688,28.0,La Libertad,Prepago,Yape/Plin,23/08/2025,2711.0,5.0,1,9.72,12.9,0,0,3.0,1,train
+C10551,44.0,Lima,Postpago Básico,Tarjeta,21/12/2023,5354.0,214.0,0,70.34,19.3,1,2,3.0,0,test
+C10544,18.0,Piura,Postpago Básico,Débito automático,24/01/2026,4090.0,158.0,0,55.2,26.7,1,1,3.0,0,train
+C11063,23.0,Cusco,Postpago Básico,Tarjeta,21/04/2025,1635.0,103.0,0,40.2,22.3,3,1,2.0,1,train
+C11070,18.0,Lima,Postpago Ilimitado,Débito automático,22/03/2026,10853.0,249.0,0,,37.3,0,1,3.0,0,train
+C10126,49.0,La Libertad,Prepago,Efectivo,14/11/2024,4107.0,28.0,1,22.69,31.3,1,1,3.0,0,train
+C10714,32.0,Lima,Prepago,Yape/Plin,01/10/2020,5609.0,12.0,0,30.21,23.5,2,2,3.0,1,train
+C10403,37.0,Lima,Prepago,Efectivo,20/09/2020,6601.0,146.0,2,37.14,29.1,1,1,3.0,0,train
+C10106,33.0,La Libertad,Prepago,Yape/Plin,15/08/2023,4546.0,125.0,1,29.85,15.0,1,0,3.0,1,train
+C10362,50.0,Piura,Postpago Básico,Débito automático,10/08/2021,26937.0,423.0,0,92.06,29.7,0,0,3.0,0,train
+C10271,43.0,Junín,Prepago,Débito automático,23/10/2021,4549.0,207.0,1,29.24,20.4,3,1,2.0,0,train
+C10466,41.0,Arequipa,Prepago,Efectivo,21/11/2025,1717.0,16.0,1,17.44,25.8,2,1,2.0,1,train
+C11361,27.0,La Libertad,Prepago,Yape/Plin,18/09/2025,3504.0,145.0,5,30.01,15.6,2,2,4.0,0,train
+C11121,27.0,Lima,Prepago,Yape/Plin,14/04/2025,2364.0,92.0,5,27.7,39.5,1,0,4.0,0,test
+C11430,41.0,Lima,Postpago Ilimitado,Débito automático,23/08/2024,5369.0,97.0,0,84.49,28.9,0,0,5.0,0,test
+C10277,47.0,Lima,Postpago Ilimitado,Efectivo,30/04/2023,12864.0,272.0,0,114.74,25.7,0,1,3.0,0,train
+C11359,23.0,Piura,Postpago Ilimitado,Yape/Plin,15/09/2022,7672.0,277.0,0,100.55,15.0,2,0,,0,train
+C11446,29.0,Junín,Prepago,Tarjeta,02/11/2023,1993.0,105.0,1,,18.3,2,0,4.0,0,train
+C11138,53.0,Arequipa,Postpago Básico,Yape/Plin,24/03/2025,3728.0,121.0,0,53.1,17.0,0,2,2.0,1,train
+C10441,27.0,Arequipa,Prepago,Yape/Plin,11/04/2024,4948.0,278.0,2,27.46,26.8,0,2,3.0,0,train
+C10722,30.0,Junín,Postpago Ilimitado,Débito automático,22/12/2023,9957.0,256.0,0,103.6,20.1,2,1,3.0,0,train
+C10786,33.0,Cusco,Postpago Básico,Efectivo,13/11/2023,10362.0,238.0,0,66.02,24.3,1,1,3.0,0,test
+C11172,36.0,Cusco,Postpago Básico,Débito automático,30/07/2024,6737.0,362.0,0,58.85,12.4,1,2,2.0,0,train
+C10442,999.0,Cusco,Prepago,Efectivo,30/06/2021,4599.0,72.0,3,29.41,14.8,1,3,2.0,0,train
+C10299,38.0,Piura,Postpago Ilimitado,Yape/Plin,27/05/2023,7773.0,210.0,0,106.41,16.9,0,2,2.0,0,train
+C10976,36.0,Junín,Prepago,Efectivo,13/02/2023,6468.0,226.0,2,35.38,27.5,3,2,3.0,0,train
+C10375,26.0,Lima,PREPAGO,Efectivo,27/02/2025,5320.0,101.0,5,39.11,17.4,1,1,3.0,0,train
+C11462,24.0,Piura,Prepago,Efectivo,16/02/2026,3036.0,208.0,3,25.8,14.6,3,2,2.0,1,train
+C11140,20.0,Lima,Postpago Básico,Yape/Plin,17/10/2024,11704.0,284.0,0,65.81,36.3,0,1,3.0,0,test
+C11414,35.0,La Libertad,Postpago Básico,Débito automático,09/10/2024,2061.0,115.0,0,46.53,26.8,1,0,4.0,0,train
+C11109,40.0,Lima,Postpago Básico,Efectivo,15/08/2022,3058.0,54.0,0,46.7,29.6,2,1,3.0,0,train
+C11026,49.0,La Libertad,Postpago Básico,Débito automático,10/10/2025,8901.0,242.0,0,70.85,23.7,0,2,5.0,0,test
+C10472,24.0,Lima,Prepago,Efectivo,28/05/2024,2508.0,157.0,4,34.22,18.3,2,2,,1,train
+C11241,28.0,Cuzco,Postpago Ilimitado,,12/08/2022,8018.0,179.0,0,104.27,25.0,4,6,2.0,1,train
+C10563,,Piura,Postpago Básico,Tarjeta,10/03/2024,6020.0,329.0,0,57.63,40.7,1,0,3.0,0,train
+C11383,65.0,Lima,Postpago Básico,Débito automático,29/10/2024,16752.0,236.0,0,74.29,25.3,2,1,2.0,0,train
+C10750,20.0,Piura,Postpago Básico,Tarjeta,13/03/2025,1122.0,124.0,0,44.44,18.6,0,0,3.0,0,train
+C10388,35.0,La Libertad,Prepago,Tarjeta,23/07/2020,5031.0,133.0,4,22.79,16.8,3,0,3.0,0,train
+C10022,22.0,La Libertad,Postpago Ilimitado,Efectivo,28/05/2023,7001.0,153.0,0,97.19,16.3,0,1,3.0,0,train
+C11488,26.0,La Libertad,Postpago Básico,Yape/Plin,27/10/2023,5049.0,242.0,0,71.94,14.7,0,1,,0,train
+C11201,54.0,Arequipa,Prepago,Yape/Plin,17/06/2024,1845.0,35.0,2,25.22,25.5,2,1,2.0,1,test
+C10124,,Lima,Postpago Ilimitado,Débito automático,16/02/2026,31398.0,373.0,0,139.8,25.2,1,0,4.0,0,train
+C10423,32.0,Cusco,Prepago,Débito automático,24/08/2025,7222.0,279.0,1,40.81,26.6,0,0,3.0,0,train
+C10773,,Arequipa,Prepago,Débito automático,26/12/2024,431.0,5.0,2,15.02,33.4,0,1,3.0,0,train
+C11369,35.0,Lima,Prepago,Tarjeta,25/08/2025,7105.0,80.0,4,45.53,25.9,0,0,4.0,0,train
+C10470,37.0,Arequipa,Postpago Básico,Débito automático,09/01/2023,3213.0,44.0,0,56.06,40.0,0,1,4.0,0,train
+C10721,57.0,La Libertad,Prepago,Tarjeta,13/11/2024,1756.0,80.0,3,18.88,18.4,0,0,4.0,0,train
+C11048,18.0,Junín,Postpago Básico,Yape/Plin,14/10/2022,3839.0,150.0,0,40.66,17.2,4,1,,0,train
+C10377,32.0,Lima,Postpago Ilimitado,Efectivo,26/08/2023,20838.0,349.0,0,129.07,29.6,0,0,2.0,0,train
+C10142,29.0,Lima,Postpago Básico,Tarjeta,26/11/2025,22984.0,388.0,0,,14.9,1,3,2.0,1,train
+C10050,43.0,La Libertad,Prepago,Efectivo,22/07/2024,4767.0,98.0,4,19.65,12.9,0,1,3.0,0,train
+C10863,56.0,La Libertad,Postpago Ilimitado,Efectivo,11/11/2018,3742.0,101.0,0,94.92,21.9,0,0,4.0,0,train
+C11423,23.0,Cusco,Postpago Básico,Yape/Plin,11/07/2024,8155.0,188.0,0,,11.6,0,0,2.0,0,train
+C11064,21.0,Piura,PREPAGO,Tarjeta,10/10/2024,1943.0,25.0,2,6.73,14.7,2,1,3.0,1,train
+C10623,38.0,Arequipa,Postpago Ilimitado,Débito automático,28/12/2025,10301.0,211.0,0,104.49,28.2,1,1,,0,train
+C11452,27.0,Arequipa,Postpago Ilimitado,Yape/Plin,27/10/2024,14268.0,409.0,0,124.36,30.3,1,0,4.0,0,train
+C10081,28.0,La Libertad,Postpago Básico,Yape/Plin,23/02/2026,8818.0,220.0,0,60.94,11.2,2,2,3.0,1,test
+C10703,51.0,Arequipa,Prepago,Débito automático,22/12/2022,2565.0,130.0,1,27.8,27.6,1,1,3.0,0,train
+C10482,37.0,Lima,Prepago,Tarjeta,07/01/2026,7702.0,101.0,0,40.74,18.1,2,0,2.0,1,train
+C10321,28.0,Cusco,Prepago,Débito automático,09/11/2023,1357.0,43.0,1,11.93,27.6,1,1,4.0,0,test
+C11273,42.0,Arequipa,Postpago Básico,Débito automático,27/03/2025,3396.0,141.0,0,44.44,19.1,3,4,3.0,1,train
+C10505,28.0,Lima,Postpago Ilimitado,,17/04/2023,4345.0,60.0,0,88.24,20.2,1,0,,0,train
+C11449,40.0,La Libertad,Postpago Ilimitado,Tarjeta,12/08/2022,8372.0,237.0,0,100.87,24.1,1,0,4.0,0,train
+C10841,22.0,Arequipa,Postpago Básico,Efectivo,10/02/2026,5034.0,293.0,0,55.86,27.8,1,0,4.0,0,train
+C10066,33.0,Lima,Prepago,Efectivo,25/07/2023,7336.0,237.0,3,45.93,37.4,0,3,2.0,1,train
+C11304,25.0,Junín,Prepago,Yape/Plin,24/06/2025,5729.0,217.0,0,23.36,19.2,0,0,2.0,0,train
+C11177,34.0,Arequipa,Prepago,Efectivo,23/12/2023,2061.0,89.0,1,11.96,19.7,0,1,4.0,1,train
+C11350,24.0,Lima,Prepago,Efectivo,12/04/2025,4342.0,71.0,1,,22.3,1,0,3.0,0,train
+C10801,35.0,Piura,Postpago Ilimitado,Efectivo,20/02/2026,7704.0,199.0,0,101.09,12.6,2,0,,0,test
+C11221,52.0,Cusco,Postpago Básico,Yape/Plin,23/09/2023,5334.0,285.0,0,62.59,26.2,1,2,3.0,0,test
+C10031,34.0,Cuzco,Postpago Ilimitado,Débito automático,01/04/2026,18108.0,453.0,0,123.92,15.0,2,1,4.0,0,train
+C10795,39.0,Piura,Prepago,Tarjeta,15/04/2024,5365.0,231.0,4,30.84,7.7,4,1,2.0,1,train
+C10417,36.0,La Libertad,Prepago,Efectivo,30/03/2026,5899.0,218.0,5,,25.1,0,0,4.0,1,train
+C10881,31.0,Piura,Postpago Ilimitado,Efectivo,14/07/2026,2280.0,117.0,0,89.6,16.0,0,1,,0,train
+C10632,43.0,Cuzco,Postpago Básico,Efectivo,26/08/2023,8022.0,287.0,0,70.8,25.7,0,0,3.0,0,train
+C11342,33.0,Lima,Postpago Básico,Tarjeta,10/07/2022,12489.0,94.0,0,55.18,32.3,1,0,4.0,0,train
+C11094,38.0,Lima,Postpago Básico,Efectivo,23/07/2024,3442.0,149.0,0,49.13,32.6,3,2,3.0,1,train
+C10064,,Cusco,Prepago,Yape/Plin,09/05/2025,4368.0,207.0,2,23.08,18.2,1,0,3.0,1,train
+C10139,30.0,Piura,Postpago Ilimitado,Yape/Plin,16/03/2025,8024.0,313.0,0,104.81,23.7,0,0,4.0,0,train
+C11228,32.0,Piura,Prepago,Yape/Plin,14/12/2024,4884.0,272.0,7,25.57,23.5,0,3,2.0,1,train
+C11240,25.0,Piura,Prepago,Débito automático,12/01/2024,7330.0,160.0,6,34.25,19.4,2,4,2.0,1,test
+C10077,55.0,Junín,Prepago,Efectivo,24/06/2025,2374.0,5.0,2,16.75,16.7,5,4,2.0,1,train
+C10491,18.0,Arequipa,Prepago,Débito automático,20/07/2024,6149.0,211.0,1,23.31,24.1,1,0,3.0,0,train
+C11075,34.0,Lima,Prepago,Efectivo,30/05/2022,3007.0,178.0,0,9.35,8.2,1,1,3.0,0,train
+C11157,33.0,La Libertad,Postpago Básico,Tarjeta,29/09/2025,2272.0,144.0,0,48.3,17.1,1,1,2.0,0,test
+C10532,29.0,Lima,Postpago Básico,Tarjeta,14/01/2026,1767.0,72.0,0,44.05,40.8,0,0,4.0,0,train
+C10065,18.0,Junín,Postpago Básico,Tarjeta,17/01/2026,12603.0,256.0,0,79.02,21.7,2,3,2.0,0,train
+C11285,35.0,Arequipa,Prepago,Efectivo,15/10/2023,2338.0,232.0,2,,23.1,3,2,3.0,0,train
+C10943,52.0,Lima,Postpago Básico,Yape/Plin,18/12/2023,5812.0,206.0,0,54.28,25.2,2,1,2.0,0,train
+C11280,46.0,Junín,Postpago Ilimitado,Efectivo,11/02/2025,8132.0,309.0,0,94.2,15.2,2,1,3.0,0,test
+C10296,24.0,Lima,Postpago Ilimitado,Débito automático,19/05/2026,2849.0,29.0,0,93.74,32.8,0,1,1.0,1,test
+C10591,47.0,la libertad,Postpago Básico,Tarjeta,11/03/2026,12310.0,235.0,0,74.55,15.4,1,1,3.0,0,train
+C10419,39.0,La Libertad,Prepago,Tarjeta,19/01/2025,4362.0,256.0,2,,21.0,1,2,4.0,0,train
+C10767,52.0,Junín,Prepago,,17/02/2025,1670.0,5.0,1,12.8,32.0,1,1,3.0,0,test
+C10892,25.0,Lima,Postpago Ilimitado,Tarjeta,12/03/2025,5973.0,148.0,0,91.69,28.7,1,0,3.0,0,test
+C10438,54.0,AREQUIPA,Postpago Ilimitado,Tarjeta,15/02/2025,30865.0,479.0,0,139.63,30.8,1,1,3.0,0,train
+C10261,,Arequipa,Postpago Ilimitado,Tarjeta,07/11/2024,5261.0,286.0,0,99.5,21.7,2,4,2.0,0,train
+C11011,28.0,Lima,Postpago Ilimitado,Débito automático,13/05/2026,4065.0,98.0,0,99.73,25.6,4,6,2.0,1,test
+C10724,29.0,Piura,PREPAGO,Yape/Plin,30/06/2023,5604.0,235.0,6,27.35,21.4,0,1,4.0,0,train
+C11412,18.0,Lima,Postpago Básico,Débito automático,15/09/2022,7059.0,297.0,0,64.25,31.3,0,3,3.0,0,train
+C10281,46.0,Lima,Prepago,Efectivo,26/02/2023,6715.0,263.0,2,38.02,29.2,0,0,,0,test
+C10626,43.0, Lima,Prepago,Efectivo,11/05/2026,1697.0,95.0,3,24.04,37.3,0,3,3.0,1,train
+C11256,53.0,Arequipa,Prepago,Yape/Plin,23/01/2024,7070.0,129.0,3,33.18,23.4,3,3,3.0,0,train
+C11073,39.0,Cusco,Prepago,Débito automático,30/10/2024,19208.0,252.0,3,47.68,18.9,0,1,3.0,0,train
+C11477,36.0,Cusco,Prepago,Tarjeta,24/02/2023,3282.0,137.0,4,24.73,9.6,1,1,,0,test
+C10188,41.0,La Libertad,Prepago,Débito automático,29/08/2025,1486.0,65.0,4,15.35,13.1,1,1,,0,train
+C11226,45.0,Piura,Postpago Básico,Efectivo,01/05/2020,5301.0,256.0,0,58.21,28.9,1,3,3.0,0,train
+C10251,28.0,lima,Postpago Ilimitado,Efectivo,13/07/2021,10119.0,313.0,0,116.93,25.7,1,0,2.0,0,train
+C10583,52.0,La Libertad,Prepago,Tarjeta,15/04/2026,2285.0,130.0,2,32.73,16.3,1,3,,0,train
+C11116,50.0,Lima,Prepago,Efectivo,27/12/2025,3052.0,86.0,1,16.9,36.7,0,3,3.0,1,test
+C11380,2.0,Arequipa,Prepago,Efectivo,11/09/2024,2210.0,5.0,1,9.94,18.4,1,1,2.0,1,train
+C11286,39.0,Piura,Postpago Ilimitado,Tarjeta,21/04/2026,3443.0,239.0,0,106.49,20.6,1,2,2.0,0,train
+C10514,48.0,Arequipa,Prepago,Tarjeta,14/07/2021,1005.0,15.0,2,,22.0,0,0,3.0,0,train
+C11165,42.0,Junín,Prepago,Yape/Plin,20/07/2025,6905.0,135.0,5,34.98,11.9,2,0,3.0,0,test
+C10985,37.0,Piura,Prepago,Efectivo,27/12/2024,6518.0,190.0,5,37.14,12.7,4,3,2.0,1,train
+C11442,19.0,Lima,Postpago Básico,Tarjeta,02/05/2022,5662.0,95.0,0,49.79,32.3,1,0,3.0,0,train
+C10706,23.0,Lima,Postpago Básico,Yape/Plin,11/02/2022,6156.0,154.0,0,53.5,24.2,0,1,2.0,0,train
+C10487,37.0,Arequipa,Prepago,Tarjeta,29/05/2023,4125.0,35.0,0,26.92,13.0,2,0,4.0,0,test
+C10663,37.0,Lima,Prepago,Yape/Plin,24/09/2025,6305.0,75.0,4,31.51,23.0,1,0,4.0,0,train
+C11156,33.0,Lima,Prepago,Tarjeta,31/10/2022,7936.0,110.0,3,32.31,23.7,1,1,,0,train
+C11164,47.0,Lima,Postpago Básico,Tarjeta,10/12/2024,4752.0,134.0,0,52.27,40.8,0,1,4.0,0,train
+C10273,26.0,Piura,Prepago,Efectivo,12/12/2021,3448.0,102.0,0,20.46,29.9,0,0,,0,train
+C10685,33.0,Piura,Postpago Básico,Tarjeta,16/06/2020,2299.0,103.0,0,39.92,21.0,2,0,2.0,0,train
+C11143,45.0,Lima,Prepago,Yape/Plin,14/01/2025,5032.0,231.0,2,24.35,27.8,0,1,2.0,0,train
+C11269,30.0,Lima,Prepago,Efectivo,17/04/2017,1744.0,34.0,2,21.86,36.7,1,4,3.0,0,train
+C10877,32.0,Piura,Postpago Básico,Yape/Plin,01/08/2025,2423.0,198.0,0,52.86,25.8,0,0,,0,train
+C11069,21.0,La Libertad,Postpago Ilimitado,Yape/Plin,02/07/2024,11324.0,281.0,0,102.75,22.7,2,1,3.0,0,train
+C11375,27.0,Cusco,Prepago,Yape/Plin,21/12/2025,5899.0,71.0,2,39.13,15.3,0,2,5.0,0,test
+C10448,26.0,La Libertad,Postpago Ilimitado,Efectivo,21/05/2024,27242.0,277.0,0,121.67,23.2,4,0,3.0,0,train
+C10411,40.0,Cusco,Prepago,Yape/Plin,16/07/2024,3457.0,106.0,3,21.91,9.0,3,0,5.0,0,train
+C10458,36.0,Lima,Prepago,Yape/Plin,22/12/2019,6713.0,152.0,4,19.83,16.5,1,0,3.0,0,train
+C10376,25.0,Cusco,Prepago,Efectivo,21/09/2022,2891.0,67.0,4,16.21,17.1,1,1,4.0,0,train
+C11332,20.0,Junín,Postpago Ilimitado,Débito automático,21/10/2023,12574.0,258.0,0,105.95,12.9,3,0,4.0,0,train
+C10667,44.0,Junín,Prepago,Débito automático,18/04/2022,5161.0,226.0,1,33.45,15.5,4,2,3.0,0,test
+C11264,55.0,Lima,Postpago Básico,Yape/Plin,30/12/2025,1981.0,98.0,0,58.57,16.1,2,1,4.0,1,train
+C10149,,Lima,Postpago Ilimitado,Débito automático,14/04/2025,3894.0,206.0,0,106.19,30.8,0,1,2.0,0,train
+C11271,38.0,Lima,Postpago Ilimitado,Yape/Plin,10/02/2026,12399.0,146.0,0,115.09,22.7,0,0,4.0,0,test
+C11159,59.0,Arequipa,Postpago Básico,Débito automático,23/06/2025,13317.0,281.0,0,53.76,27.2,1,3,2.0,1,train
+C10733,52.0,Lima,Postpago Ilimitado,Tarjeta,13/03/2024,12592.0,262.0,0,118.14,28.6,1,0,3.0,0,train
+C10218,52.0,La Libertad,Prepago,Efectivo,22/07/2022,14871.0,200.0,3,57.88,25.2,2,0,4.0,0,train
+C10239,23.0,Arequipa,Prepago,Tarjeta,13/01/2023,16730.0,259.0,4,49.18,17.4,1,1,3.0,0,test
+C11377,38.0,Piura,Postpago Ilimitado,Yape/Plin,23/11/2025,13027.0,190.0,0,105.9,31.3,0,1,4.0,0,train
+C10867,35.0,Lima,Prepago,,15/08/2023,4274.0,83.0,3,33.28,31.0,1,0,3.0,0,train
+C10725,28.0,Cusco,Postpago Ilimitado,Débito automático,14/10/2024,12954.0,262.0,0,104.31,30.0,1,1,3.0,0,train
+C10192,38.0,Arequipa,Prepago,Efectivo,23/11/2025,5624.0,202.0,4,30.02,31.9,0,0,3.0,1,test
+C10792,18.0,Arequipa,Postpago Básico,Efectivo,23/07/2024,1046.0,43.0,0,42.9,35.3,0,2,3.0,0,train
+C10191,26.0,Arequipa,Prepago,Efectivo,07/02/2025,9826.0,251.0,4,38.27,29.1,1,0,4.0,1,train
+C10970,48.0,Lima,Prepago,Yape/Plin,16/08/2023,2024.0,67.0,1,14.29,32.2,1,1,3.0,1,train
+C10997,22.0,Lima,Postpago Ilimitado,Tarjeta,29/11/2024,14071.0,211.0,0,115.35,29.7,4,4,2.0,1,test
+C11413,47.0,Arequipa,Prepago,Tarjeta,31/01/2025,3299.0,109.0,1,20.06,26.7,0,0,4.0,0,test
+C10962,37.0,Lima,Postpago Básico,Efectivo,25/01/2026,5608.0,81.0,0,49.94,24.3,1,2,4.0,0,train
+C10644,41.0,Lima,Postpago Ilimitado,Tarjeta,01/02/2023,4140.0,122.0,0,97.55,24.0,0,1,2.0,0,train
+C10359,43.0,Arequipa,Prepago,Tarjeta,21/03/2026,2319.0,81.0,2,16.63,26.2,1,0,4.0,0,train
+C11173,22.0,Lima,Postpago Básico,Débito automático,19/12/2024,6226.0,228.0,0,58.65,25.5,0,2,3.0,0,train
+C11479,25.0, Lima,Postpago Básico,Tarjeta,14/12/2025,3564.0,112.0,0,48.06,34.7,0,1,3.0,0,train
+C10016,59.0,Arequipa,Prepago,Yape/Plin,10/09/2023,3978.0,35.0,2,8.94,20.4,3,3,2.0,1,train
+C10333,50.0,Piura,Prepago,Efectivo,09/12/2025,7955.0,123.0,2,39.73,22.5,2,3,4.0,0,train
+C11229,44.0,Lima,Prepago,Efectivo,01/12/2020,5180.0,146.0,1,23.36,22.3,1,0,4.0,0,train
+C10582,42.0,Lima,Prepago,Yape/Plin,17/02/2026,11391.0,192.0,0,29.4,24.6,2,0,3.0,1,train
+C11447,37.0,La Libertad,Prepago,Débito automático,19/03/2025,7240.0,198.0,5,34.31,22.0,1,2,,0,train
+C11120,53.0,Piura,Prepago,Débito automático,14/09/2025,1398.0,27.0,1,21.14,41.6,0,1,,1,test
+C10839,29.0,La Libertad,Prepago,Efectivo,09/06/2025,3531.0,168.0,1,25.4,11.6,1,2,2.0,1,train
+C10627,42.0,Piura,Postpago Básico,Yape/Plin,20/11/2018,8407.0,149.0,0,64.89,18.5,1,0,3.0,0,train
+C11417,50.0,Lima,Postpago Ilimitado,Efectivo,12/03/2024,6936.0,216.0,0,103.68,22.7,0,2,4.0,0,test
+C10323,28.0,Piura,Prepago,Yape/Plin,16/08/2024,18250.0,196.0,1,36.88,28.1,0,1,3.0,0,train
+C10824,35.0,Lima,Prepago,Efectivo,29/05/2020,10581.0,168.0,2,37.1,24.9,1,1,4.0,0,train
+C11249,55.0,Piura,Prepago,Yape/Plin,29/06/2024,5007.0,217.0,3,29.91,10.7,1,2,2.0,1,train
+C10631,50.0,La Libertad,Postpago Ilimitado,Yape/Plin,27/02/2024,8272.0,336.0,0,118.31,14.4,6,5,2.0,0,train
+C11056,23.0,La Libertad,Prepago,Yape/Plin,15/08/2022,6527.0,132.0,3,22.0,24.2,0,0,2.0,0,test
+C11199,35.0,Lima,Prepago,Efectivo,28/03/2025,3495.0,160.0,5,27.63,17.7,3,0,,1,train
+C10778,23.0,Piura,Postpago Ilimitado,Yape/Plin,15/09/2024,23101.0,319.0,0,134.97,23.8,1,2,4.0,0,train
+C11296,18.0,Lima,Postpago Ilimitado,Tarjeta,15/02/2025,2467.0,200.0,0,79.22,28.9,1,1,4.0,0,train
+C10939,45.0,Lima,Prepago,Efectivo,01/11/2025,5267.0,208.0,2,47.7,32.5,1,1,1.0,1,train
+C10855,46.0,La Libertad,Postpago Ilimitado,Yape/Plin,17/09/2024,16443.0,189.0,0,118.16,14.8,1,0,4.0,0,train
+C10437,32.0,Lima,Postpago Básico,Yape/Plin,02/04/2026,2715.0,336.0,0,72.41,22.4,3,2,4.0,1,train
+C10119,33.0,Arequipa,Postpago Básico,Efectivo,26/01/2024,10617.0,243.0,0,74.43,28.3,1,3,5.0,0,train
+C11077,27.0,Lima,Postpago Básico,Débito automático,25/04/2026,5671.0,159.0,0,,29.7,0,1,5.0,0,train
+C11034,40.0,Cusco,Postpago Básico,Efectivo,14/02/2022,12499.0,194.0,0,66.13,27.1,2,3,3.0,0,train
+C11186,41.0,Junín,Postpago Ilimitado,Efectivo,09/11/2025,9375.0,265.0,0,102.24,20.7,1,0,4.0,0,train
+C10790,41.0,Lima,Prepago,Yape/Plin,27/05/2026,2945.0,155.0,4,32.62,24.3,0,2,3.0,1,train
+C10341,36.0,Cusco,Prepago,Yape/Plin,19/06/2025,1325.0,108.0,1,24.37,21.8,0,0,4.0,0,train
+C10815,40.0,Lima,Postpago Ilimitado,Débito automático,09/08/2025,15708.0,253.0,0,105.97,32.4,1,2,3.0,1,test
+C10002,27.0,arequipa,Postpago Básico,Efectivo,11/07/2024,20536.0,213.0,0,76.17,19.3,2,0,4.0,0,train
+C10229,24.0,Cusco,Postpago Básico,Tarjeta,24/12/2025,9178.0,203.0,0,68.79,9.2,2,2,3.0,1,train
+C11144,33.0,Piura,Postpago Básico,Efectivo,04/03/2023,2612.0,170.0,0,56.36,25.7,2,1,,0,train
+C11014,52.0,Lima,Prepago,Efectivo,20/10/2024,1030.0,5.0,4,22.08,37.3,0,0,4.0,1,train
+C10076,24.0,lima,Postpago Básico,Yape/Plin,11/05/2026,2187.0,5.0,0,48.88,17.3,1,1,4.0,1,train
+C11411,52.0,Cusco,Postpago Básico,Débito automático,25/12/2023,10561.0,219.0,0,6953.0,15.5,4,1,3.0,0,train
+C10900,34.0,La Libertad,Postpago Básico,Efectivo,22/04/2026,4747.0,155.0,0,64.95,26.7,0,0,3.0,0,train
+C11231,27.0,Junín,Prepago,Efectivo,24/11/2025,3203.0,206.0,5,30.23,23.5,1,2,4.0,0,test
+C10371,30.0,Lima,Postpago Básico,Efectivo,23/05/2020,6304.0,334.0,0,54.57,27.7,4,1,3.0,0,train
+C10180,46.0,Piura,Postpago Ilimitado,Yape/Plin,14/12/2024,10945.0,206.0,0,112.59,14.7,0,1,3.0,0,test
+C11453,22.0,Lima,Prepago,Yape/Plin,29/06/2025,1693.0,57.0,3,23.47,35.6,0,3,3.0,1,train
+C10803,30.0,Lima,Postpago Ilimitado,Tarjeta,16/07/2026,7839.0,252.0,0,112.27,31.5,0,1,4.0,1,train
+C10941,44.0,Junín,Postpago Básico,Yape/Plin,15/01/2025,4377.0,238.0,0,62.02,29.3,0,1,3.0,0,train
+C10577,27.0,Lima,Postpago Básico,Efectivo,11/10/2025,2687.0,94.0,0,47.69,26.4,1,2,,0,train
+C10978,44.0,Lima,Postpago Básico,Tarjeta,26/03/2023,5241.0,191.0,0,57.24,24.3,0,1,3.0,0,test
+C10819,41.0,Junín,Postpago Básico,Efectivo,15/03/2025,15365.0,345.0,0,72.88,16.0,2,0,5.0,0,train
+C11115,35.0,Lima,Prepago,Tarjeta,19/04/2025,3246.0,236.0,2,28.13,37.7,1,2,3.0,1,train
+C11133,47.0,Piura,Postpago Básico,Yape/Plin,19/03/2022,4376.0,78.0,0,46.59,24.0,0,2,,0,train
+C11312,130.0,La Libertad,Prepago,Tarjeta,23/07/2025,3552.0,5.0,2,,18.7,3,1,2.0,1,train
+C11303,48.0,Cusco,Prepago,,23/02/2025,3829.0,167.0,4,34.23,21.2,2,0,5.0,0,train
+C10062,,Arequipa,Prepago,Tarjeta,21/12/2018,14524.0,258.0,8,56.28,18.6,2,0,4.0,0,train
+C10589,,Lima,Postpago Básico,Efectivo,27/10/2025,7286.0,133.0,0,55.95,22.9,1,0,3.0,0,test
+C10886,54.0,Arequipa,prepago,Yape/Plin,12/12/2023,3000.0,86.0,5,31.71,19.4,2,0,,0,test
+C10968,34.0,Junín,Prepago,Tarjeta,22/02/2026,2735.0,132.0,0,21.96,18.0,1,1,4.0,1,train
+C11142,29.0,Cusco,Postpago Básico,Tarjeta,30/05/2023,3310.0,208.0,0,49.61,20.7,4,3,3.0,0,test
+C10785,40.0,Piura,Postpago Ilimitado,Yape/Plin,30/03/2026,5409.0,236.0,0,100.93,18.9,3,2,3.0,0,test
+C11168,29.0,Lima,Prepago,Débito automático,21/12/2023,1706.0,36.0,1,17.14,33.1,0,1,4.0,0,train
+C10311,26.0,Cusco,Postpago Básico,Efectivo,08/06/2025,2087.0,63.0,0,42.24,21.1,1,0,3.0,0,train
+C11223,24.0,Lima,Prepago,Yape/Plin,24/07/2023,3238.0,152.0,0,25.89,36.1,1,1,1.0,0,train
+C10301,44.0,Lima,Prepago,Yape/Plin,17/08/2024,3483.0,52.0,4,24.28,12.3,3,1,3.0,0,train
+C10689,47.0,Junín,Postpago Básico,Efectivo,15/05/2025,2995.0,316.0,0,62.36,14.9,1,0,,0,train
+C10812,33.0,Junín,Postpago Básico,Efectivo,20/12/2023,3230.0,285.0,0,48.76,20.0,1,0,4.0,0,train
+C10236,28.0,Lima,Prepago,Yape/Plin,16/03/2026,5634.0,136.0,3,29.99,22.9,3,1,3.0,1,train
+C11334,24.0,Lima,Postpago Básico,Tarjeta,30/04/2023,3685.0,95.0,0,50.98,23.1,3,1,2.0,0,test
+C10499,30.0,Lima,Postpago Ilimitado,Yape/Plin,14/06/2024,8039.0,280.0,0,112.12,17.9,2,2,2.0,0,train
+C11261,18.0,Piura,Postpago Ilimitado,Tarjeta,30/07/2024,8677.0,163.0,0,103.38,16.7,1,2,4.0,0,train
+C10794,38.0,Junín,Prepago,Tarjeta,12/09/2023,2234.0,119.0,2,13.96,6.5,3,1,2.0,1,train
+C11162,37.0,Lima,Prepago,Yape/Plin,14/05/2021,8168.0,223.0,6,36.09,28.1,2,2,2.0,0,train
+C10990,,lima,Postpago Ilimitado,Efectivo,19/08/2022,18790.0,345.0,0,129.07,39.4,0,0,2.0,0,train
+C11044,33.0,Cusco,Postpago Básico,Yape/Plin,26/03/2025,1339.0,127.0,0,51.98,16.1,0,2,3.0,0,train
+C10934,27.0,Lima,Postpago Básico,Efectivo,14/09/2021,3439.0,68.0,0,50.05,20.8,0,1,2.0,0,train
+C10387,,Junín,Prepago,Yape/Plin,16/07/2026,2292.0,129.0,1,29.66,17.3,1,0,4.0,1,train
+C10390,47.0,Piura,Postpago Básico,Efectivo,30/10/2024,5290.0,306.0,0,58.43,10.9,2,0,4.0,0,test
+C10743,58.0,Lima ,Postpago Ilimitado,Efectivo,19/03/2025,11529.0,171.0,0,108.35,30.4,0,1,4.0,0,train
+C10352,18.0,Lima,Postpago Básico,Yape/Plin,11/09/2026,3377.0,113.0,0,46.27,28.0,1,2,4.0,1,test
+C10235,30.0,Lima,Postpago Básico,Débito automático,12/11/2023,1380.0,149.0,0,,30.6,0,0,5.0,0,train
+C11295,33.0,La Libertad,Prepago,Débito automático,09/10/2025,4083.0,93.0,5,35.87,10.3,5,2,3.0,1,train
+C10480,39.0, Lima,Postpago Ilimitado,Yape/Plin,22/11/2023,1927.0,198.0,0,87.74,30.0,1,1,4.0,0,train
+C10567,38.0,La Libertad,Postpago Básico,Yape/Plin,16/03/2025,4057.0,207.0,0,45.99,7.0,5,5,3.0,1,train
+C11279,56.0,La Libertad,Prepago,Tarjeta,02/01/2020,437.0,5.0,1,5.0,7.5,4,0,4.0,0,train
+C11473,39.0,Lima,Postpago Básico,Tarjeta,19/06/2024,8338.0,249.0,0,66.21,24.0,1,2,3.0,0,train
+C11189,34.0,Lima,Prepago,Tarjeta,24/07/2022,11524.0,324.0,4,36.07,29.5,1,0,3.0,0,test
+C10120,36.0,La Libertad,Prepago,Yape/Plin,20/06/2022,2782.0,125.0,1,16.2,23.0,1,4,2.0,1,test
+C11309,39.0,Lima,Postpago Ilimitado,Efectivo,22/01/2022,7751.0,249.0,0,10654.0,26.4,3,1,2.0,0,train
+C11024,30.0,Lima,Postpago Ilimitado,Débito automático,11/05/2023,5128.0,235.0,0,108.2,36.4,0,0,5.0,0,test
+C10926,33.0,Lima,Postpago Básico,Efectivo,30/12/2023,6870.0,226.0,0,61.86,23.8,1,0,3.0,0,train
+C10515,29.0,Junín,Prepago,Yape/Plin,16/03/2026,3589.0,162.0,1,16.74,15.0,4,7,1.0,1,train
+C10223,26.0,Arequipa,Postpago Básico,Tarjeta,21/10/2025,52040.0,414.0,0,121.5,23.1,0,2,3.0,0,test
+C11122,42.0,Junín,Prepago,Efectivo,23/03/2025,5771.0,154.0,6,32.49,16.0,0,3,3.0,1,train
+C10613,51.0,Piura,Prepago,Débito automático,29/08/2024,7772.0,191.0,5,36.52,7.8,3,0,3.0,0,train
+C10843,49.0,Lima,Postpago Básico,Yape/Plin,20/11/2025,3923.0,181.0,0,52.3,29.7,0,1,2.0,0,train
+C10052,32.0,Arequipa,Prepago,Yape/Plin,15/03/2021,1260.0,93.0,4,20.97,24.1,2,1,3.0,0,test
+C11399,44.0,Cusco,Prepago,Débito automático,16/06/2025,2081.0,151.0,3,30.2,18.7,4,2,3.0,1,train
+C10485,48.0,Junín,Prepago,Yape/Plin,17/08/2023,5955.0,166.0,1,32.57,18.3,3,1,3.0,0,train
+C11451,21.0,Piura,Prepago,Efectivo,14/04/2025,4485.0,132.0,2,35.75,18.7,3,3,2.0,1,train
+C10818,38.0,Lima,Prepago,Tarjeta,20/09/2023,3812.0,116.0,2,32.42,33.5,0,0,3.0,0,train
+C10155,47.0,Lima,Prepago,Débito automático,27/01/2024,1553.0,89.0,0,13.37,15.7,3,1,5.0,0,train
+C10600,43.0,Arequipa,Prepago,Tarjeta,29/09/2021,10543.0,287.0,4,,31.1,0,1,3.0,1,train
+C11218,44.0,Cusco,Prepago,Tarjeta,18/10/2024,1692.0,240.0,3,33.2,19.9,0,0,3.0,0,train
+C10248,,Lima,Postpago Ilimitado,Efectivo,21/05/2026,17605.0,382.0,0,119.03,31.6,1,0,4.0,0,train
+C10761,35.0,Junín,Prepago,Débito automático,27/10/2024,1277.0,5.0,2,12.43,18.9,1,0,2.0,0,train
+C11387,34.0,Piura,Postpago Ilimitado,Efectivo,28/12/2024,3669.0,182.0,0,97.4,14.3,3,3,3.0,0,train
+C10542,48.0,Piura,Prepago,Débito automático,01/08/2024,1650.0,140.0,1,18.5,3.8,3,3,,1,train
+C10793,52.0,Lima,Prepago,Efectivo,23/04/2026,3720.0,236.0,1,19.93,12.0,2,0,4.0,0,train
+C11106,40.0, Lima,Prepago,Tarjeta,27/02/2026,2239.0,176.0,4,36.11,25.5,1,2,3.0,1,test
+C10628,26.0,Junín,Prepago,Efectivo,27/09/2023,2761.0,81.0,3,23.7,17.0,2,0,4.0,1,test
+C10150,45.0,Junín,Prepago,Débito automático,21/10/2023,1761.0,91.0,2,10.79,25.5,0,1,4.0,1,train
+C10291,26.0,Lima,Prepago,Yape/Plin,24/07/2026,1783.0,8.0,2,22.03,37.9,0,0,,1,train
+C10381,38.0,arequipa,Prepago,Yape/Plin,25/03/2025,2589.0,119.0,2,16.58,28.4,0,3,3.0,1,train
+C10686,18.0,Cusco,Postpago Básico,Tarjeta,14/08/2024,33480.0,357.0,0,111.01,30.9,1,1,4.0,0,train
+C10897,18.0,Piura,Postpago Básico,Efectivo,06/02/2025,7665.0,226.0,0,62.53,19.2,2,2,,1,train
+C10854,62.0,Lima,Postpago Básico,Yape/Plin,31/01/2021,5604.0,296.0,0,,27.9,0,0,4.0,0,train
+C11071,28.0,Cusco,Postpago Básico,,11/12/2025,9722.0,219.0,0,69.11,17.6,2,2,3.0,1,train
+C10569,,Junín,Prepago,Tarjeta,27/08/2022,3681.0,15.0,3,23.1,22.4,0,4,3.0,0,train
+C11159,59.0,Arequipa,Postpago Básico,Débito automático,23/06/2025,13317.0,281.0,0,53.76,27.2,1,3,2.0,1,train
+C11389,33.0,La Libertad,Prepago,Efectivo,20/02/2024,1458.0,24.0,0,27.05,13.5,3,1,,1,train
+C10891,27.0,La Libertad,Postpago Básico,Efectivo,14/05/2022,10242.0,258.0,0,71.44,23.4,0,0,4.0,0,test
+C10542,48.0,Piura,Prepago,Débito automático,01/08/2024,1650.0,140.0,1,18.5,3.8,3,3,,1,train
+C10615,38.0,La Libertad,Prepago,Tarjeta,14/04/2024,1719.0,131.0,1,11.19,26.1,0,0,4.0,0,train
+C10154,52.0,La Libertad,Prepago,Tarjeta,09/10/2024,2859.0,213.0,5,26.66,24.8,1,2,2.0,1,test
+C11190,47.0,Lima,Prepago,Tarjeta,11/05/2025,1042.0,49.0,2,26.37,22.1,0,3,1.0,1,train
+C10322,46.0,Lima,Prepago,Yape/Plin,09/12/2024,1982.0,140.0,1,11.66,28.8,3,1,3.0,0,train
+C11174,39.0,La Libertad,Prepago,Yape/Plin,16/10/2023,7507.0,196.0,3,27.74,21.9,1,1,2.0,1,train
+C10082,45.0,Arequipa,Postpago Básico,Débito automático,28/09/2024,2958.0,83.0,0,50.8,20.6,2,0,4.0,0,train
+C10512,40.0,Junín,Prepago,Débito automático,23/10/2025,7056.0,108.0,5,28.03,21.5,0,0,3.0,0,train
+C11158,28.0,Lima,Postpago Ilimitado,Yape/Plin,12/06/2025,24998.0,222.0,0,135.51,26.6,1,0,4.0,0,train
+C10929,20.0,Arequipa,Postpago Ilimitado,Yape/Plin,24/07/2024,6473.0,154.0,0,104.8,35.3,0,4,,1,train
+C11242,54.0,Cusco,Postpago Básico,Débito automático,11/01/2024,6179.0,251.0,0,64.03,22.6,2,2,3.0,0,test
+C10010,26.0,Junín,Prepago,,28/01/2025,799.0,5.0,2,14.33,21.4,0,1,3.0,1,train
+C10831,42.0,Arequipa,Postpago Básico,Tarjeta,23/12/2019,4658.0,159.0,0,50.33,23.1,3,3,4.0,0,test
+C10032,18.0,Piura,Postpago Básico,Yape/Plin,28/05/2024,12144.0,260.0,0,73.57,8.9,1,2,3.0,0,test
+C10413,36.0,Piura,Postpago Ilimitado,Débito automático,03/10/2022,8520.0,320.0,0,101.78,20.7,0,0,4.0,0,test
+C10580,54.0,La Libertad,Prepago,Débito automático,19/04/2026,5119.0,57.0,5,30.31,11.8,1,1,4.0,0,train
+C11246,20.0,Arequipa ,Postpago Básico,Efectivo,18/06/2026,4780.0,67.0,0,64.51,27.5,0,0,4.0,0,train
+C11444,31.0,La Libertad,Prepago,Efectivo,02/11/2022,2722.0,210.0,3,24.15,7.8,4,1,5.0,0,train
+C10614,36.0,Cuzco,Postpago Ilimitado,Efectivo,14/08/2025,4788.0,243.0,0,96.01,11.8,2,1,4.0,0,train
+C11045,33.0,Arequipa,Postpago Básico,Yape/Plin,14/03/2022,4283.0,210.0,0,48.79,25.5,1,2,2.0,0,train
+C11014,52.0,Lima,Prepago,Efectivo,20/10/2024,1030.0,5.0,4,22.08,37.3,0,0,4.0,1,train
+C10089,22.0,Cusco,Postpago Ilimitado,Tarjeta,12/06/2024,14372.0,334.0,0,120.82,7.0,3,1,2.0,0,train
+C11337,33.0,Arequipa,prepago,Efectivo,24/03/2025,8184.0,270.0,5,37.83,22.1,1,0,3.0,0,train
+C10601,58.0,Piura,Postpago Básico,Efectivo,17/03/2025,6756.0,62.0,0,52.88,22.1,0,2,3.0,1,train
+C10133,28.0,Cusco,Prepago,Yape/Plin,15/08/2026,1249.0,5.0,1,13.9,13.8,2,2,,1,train
+C10555,42.0,Cusco,Prepago,Tarjeta,02/04/2023,7297.0,211.0,6,,11.9,4,1,4.0,0,test
+C11031,73.0,La Libertad,Prepago,Yape/Plin,30/08/2024,1672.0,73.0,3,18.35,26.0,3,0,4.0,0,test
+C11190,47.0,Lima,Prepago,Tarjeta,11/05/2025,1042.0,49.0,2,26.37,22.1,0,3,1.0,1,train
+C10320,30.0,Cusco,Postpago Básico,Débito automático,08/12/2024,9807.0,263.0,0,67.51,14.0,2,0,4.0,0,train
+C11340,29.0,Lima,Postpago Básico,Tarjeta,25/06/2024,12849.0,199.0,0,68.78,35.9,1,1,2.0,0,train
+C11317,18.0,Cusco,Prepago,Efectivo,13/07/2021,568.0,5.0,0,5.0,10.6,2,1,3.0,1,train
+C10634,27.0,Junín,Postpago Ilimitado,Yape/Plin,27/09/2025,39542.0,396.0,0,154.9,19.8,0,4,3.0,0,train
+C10552,28.0,Arequipa,Postpago Básico,Tarjeta,25/08/2024,3494.0,25.0,0,60.24,33.4,1,2,2.0,0,train
+C11055,49.0,Lima,Prepago,Yape/Plin,21/09/2024,6778.0,143.0,5,26.49,28.4,0,0,4.0,0,test
+C11183,18.0,Arequipa,Postpago Ilimitado,Yape/Plin,17/12/2023,6333.0,236.0,0,90.55,39.3,0,1,2.0,0,train
+C10796,50.0,Lima,Postpago Ilimitado,Efectivo,24/11/2024,23657.0,398.0,0,141.85,21.5,1,0,2.0,0,train
+C11266,36.0,Cuzco,Prepago,Débito automático,29/11/2024,4160.0,56.0,4,33.92,27.0,1,0,3.0,0,test
+C11297,41.0,Piura,Postpago Ilimitado,Yape/Plin,18/12/2019,10835.0,279.0,0,109.24,34.1,0,1,3.0,0,train
+C10174,36.0,Junín,Postpago Ilimitado,Yape/Plin,25/08/2023,12910.0,133.0,0,113.12,15.5,3,0,3.0,0,train
+C10766,48.0,Lima,Postpago Ilimitado,,16/03/2025,4987.0,170.0,0,98.71,7.8,8,9,1.0,1,train
+C10245,45.0,Lima,Postpago Ilimitado,Efectivo,25/05/2024,36413.0,289.0,0,139.06,23.4,3,0,,0,train
+C11080,24.0,Junín,Postpago Básico,Efectivo,09/08/2023,6814.0,161.0,0,61.84,15.0,0,1,3.0,0,train
+C11316,41.0,Lima,Postpago Ilimitado,Yape/Plin,30/05/2023,40266.0,379.0,0,154.22,32.5,1,3,3.0,0,train
+C10145,26.0,Lima,Postpago Ilimitado,Tarjeta,13/01/2025,18164.0,283.0,0,119.04,30.5,0,0,3.0,0,train
+C10090,18.0,Junín,Postpago Básico,Débito automático,13/03/2024,12638.0,282.0,0,79.26,26.4,3,1,2.0,0,train
+C10682,23.0,Piura,Prepago,Tarjeta,12/11/2022,841.0,5.0,2,5.0,9.1,2,3,3.0,1,test
+C10310,30.0,lima,Postpago Ilimitado,Efectivo,30/11/2023,6471.0,205.0,0,97.65,27.8,2,4,3.0,0,train
+C10093,18.0,Piura,Postpago Básico,Efectivo,10/05/2025,4432.0,179.0,0,50.18,32.2,1,2,3.0,0,train
+C11192,35.0,Piura,Prepago,Tarjeta,11/07/2026,3513.0,158.0,1,16.66,28.9,0,1,1.0,1,train
+C10924,46.0,La libertad,Prepago,Efectivo,14/05/2025,13366.0,218.0,4,45.87,15.4,1,2,1.0,1,test
+C11283,18.0,Lima,Postpago Ilimitado,Yape/Plin,31/03/2026,6358.0,110.0,0,108.31,21.1,2,0,3.0,0,train
+C11035,43.0,Cusco,Postpago Básico,Efectivo,15/12/2022,2627.0,138.0,0,47.72,30.6,1,0,4.0,0,test
+C10243,57.0,Arequipa,Postpago Ilimitado,Efectivo,11/09/2023,13129.0,159.0,0,120.34,32.2,1,1,3.0,0,test
+C11111,52.0,Cusco,PREPAGO,Débito automático,23/10/2025,4177.0,154.0,1,26.21,16.6,0,2,,1,train
+C10214,28.0,Lima,Postpago Básico,Efectivo,24/12/2024,2417.0,181.0,0,37.84,24.4,1,5,2.0,1,train
+C10998,,Lima,Prepago,Yape/Plin,19/12/2024,7892.0,321.0,7,44.65,18.6,0,1,4.0,1,train
+C10853,40.0,Lima,Postpago Básico,Débito automático,13/04/2024,4630.0,143.0,0,56.51,36.3,0,2,4.0,0,train
+C10425,21.0,Lima,Postpago Básico,Tarjeta,18/02/2024,2861.0,274.0,0,50.72,34.5,0,2,3.0,0,train
+C11335,23.0,La Libertad,Prepago,Efectivo,31/10/2023,3642.0,202.0,6,31.93,17.4,2,2,2.0,0,test
+C10226,40.0,La Libertad,Postpago Básico,Yape/Plin,18/10/2022,13914.0,309.0,0,,18.6,3,3,3.0,0,train
+C11431,57.0,Cusco,Prepago,Yape/Plin,20/07/2025,11167.0,302.0,10,39.84,12.4,2,0,2.0,1,train
+C10000,33.0,Lima,Prepago,Efectivo,20/01/2025,4078.0,178.0,3,29.07,29.6,1,0,4.0,0,train
+C10401,44.0,Lima,Postpago Básico,Efectivo,23/12/2025,11905.0,194.0,0,69.7,34.3,1,3,,1,train
+C11103,24.0,Cusco,Postpago Ilimitado,Débito automático,08/07/2025,1744.0,64.0,0,89.6,35.3,0,0,5.0,0,train
+C10084,21.0,Lima,Postpago Ilimitado,Yape/Plin,14/04/2026,12765.0,189.0,0,107.46,34.2,1,3,,0,train
+C10162,18.0,Lima,Postpago Básico,Yape/Plin,17/11/2022,7105.0,171.0,0,63.89,31.5,0,0,2.0,0,train
+C10114,27.0,Lima,Postpago Ilimitado,Débito automático,22/12/2022,2409.0,71.0,0,84.5,33.8,1,1,3.0,0,train
+C10670,42.0,Junín,Prepago,Efectivo,26/06/2025,6851.0,119.0,3,,21.7,3,0,4.0,1,train
+C11160,,Lima,Postpago Básico,Yape/Plin,02/06/2025,9585.0,143.0,0,70.97,26.5,3,3,4.0,0,train
+C10889,59.0,Arequipa,Prepago,Yape/Plin,20/04/2026,8163.0,215.0,5,30.62,25.1,0,1,2.0,1,train
+C10625,39.0,Piura,Postpago Ilimitado,Débito automático,19/03/2022,25792.0,481.0,0,141.38,9.6,3,2,2.0,0,train
+C11487,23.0,Junín,Prepago,Efectivo,20/10/2024,6823.0,137.0,2,34.18,9.9,1,2,3.0,1,train
+C10952,38.0,Lima,Postpago Básico,Tarjeta,22/06/2024,2457.0,116.0,0,53.68,26.8,2,2,2.0,1,train
+C10807,18.0,Cusco,Prepago,Yape/Plin,25/09/2025,2109.0,25.0,3,17.15,13.8,2,2,,1,train
+C10258,46.0,Junín,Prepago,Débito automático,13/08/2022,5055.0,98.0,1,21.34,29.0,0,2,3.0,0,train
+C10624,29.0,Piura,Postpago Básico,Tarjeta,25/06/2022,4640.0,27.0,0,5343.0,21.4,3,1,4.0,0,train
+C10826,43.0,Lima,Prepago,Tarjeta,27/09/2025,5890.0,288.0,4,34.75,21.9,1,1,3.0,0,train
+C10234,,Arequipa,Prepago,Débito automático,02/05/2026,1976.0,46.0,2,11.57,29.5,0,1,3.0,0,train
+C10135,37.0,La Libertad,Prepago,Efectivo,14/11/2021,1788.0,76.0,5,23.62,13.1,2,1,3.0,0,train
+C10616,40.0,Arequipa,Prepago,Yape/Plin,17/04/2023,11761.0,174.0,5,41.87,14.6,3,0,3.0,0,train
+C10836,,Cusco,Postpago Básico,Yape/Plin,14/11/2024,3614.0,151.0,0,52.97,26.6,1,1,3.0,0,train
+C10842,34.0,Lima,Prepago,Tarjeta,25/05/2026,6812.0,156.0,1,40.11,16.0,2,0,3.0,1,train
+C10959,34.0,Lima,Prepago,Yape/Plin,08/04/2024,8018.0,251.0,8,49.26,38.8,0,0,2.0,1,train
+C10592,34.0,Junín,Postpago Básico,Tarjeta,03/04/2020,2676.0,20.0,0,42.39,12.3,1,1,4.0,0,train
+C10343,41.0,La Libertad,Prepago,Yape/Plin,30/01/2024,3588.0,87.0,1,22.71,5.8,2,2,2.0,1,train
+C11325,30.0,La Libertad,Postpago Básico,Efectivo,29/05/2022,33248.0,246.0,0,105.16,15.0,1,0,4.0,0,train
+C10293,18.0,Arequipa,Postpago Ilimitado,Débito automático,20/04/2022,8521.0,330.0,0,100.39,28.7,3,0,2.0,0,train
+C10364,30.0,Junín,Postpago Ilimitado,Yape/Plin,24/02/2024,3458.0,275.0,0,104.44,12.3,2,1,2.0,0,train
+C10178,30.0,Cusco,Prepago,Efectivo,21/02/2021,1706.0,5.0,2,10.24,21.9,1,0,4.0,0,train
+C10659,55.0,Cusco,Postpago Ilimitado,Débito automático,28/09/2025,8410.0,119.0,0,99.8,11.0,3,1,2.0,0,train
+C10996,41.0,Cusco,Prepago,Efectivo,24/03/2026,2537.0,120.0,0,12.34,15.2,3,2,2.0,1,train
+C10014,43.0,Arequipa,Prepago,Yape/Plin,11/12/2025,2045.0,14.0,2,16.3,42.6,0,1,3.0,1,train
+C11110,34.0,Cusco,Prepago,Yape/Plin,21/08/2021,10786.0,105.0,3,32.21,20.8,2,1,,0,train
+C10165,47.0,Lima,Postpago Básico,Efectivo,17/04/2026,2736.0,110.0,0,54.09,17.0,0,1,4.0,0,train
+C11427,18.0,Junín,Prepago,Débito automático,12/09/2025,2175.0,189.0,2,15.34,11.9,2,2,3.0,0,train
+C10059,23.0,Piura,Prepago,Débito automático,19/08/2024,2057.0,189.0,3,23.32,20.3,0,2,2.0,0,train
+C10709,44.0,Lima,Postpago Ilimitado,Tarjeta,01/06/2025,5556.0,242.0,0,97.1,35.1,0,2,3.0,1,train
+C10676,46.0,Lima,Postpago Básico,Tarjeta,24/09/2025,8018.0,164.0,0,55.48,31.7,1,1,2.0,0,train
+C10780,32.0,La Libertad,Prepago,Débito automático,15/07/2024,3858.0,115.0,1,19.84,16.9,0,0,5.0,0,train
+C10424,18.0,Lima,Postpago Básico,Débito automático,25/10/2023,3430.0,145.0,0,64.63,33.9,0,1,3.0,0,train
+C10292,43.0,Junín,Prepago,Débito automático,24/05/2026,11667.0,144.0,4,38.03,22.6,2,0,4.0,0,train
+C11065,45.0,Cusco,Prepago,Débito automático,09/08/2025,1736.0,5.0,3,7.97,23.0,1,1,4.0,0,train
+C11358,25.0,Piura,Prepago,Efectivo,01/01/2025,1743.0,17.0,6,12.26,28.4,0,2,,1,train
+C10329,29.0,Cusco,Prepago,Efectivo,27/01/2025,13273.0,337.0,11,35.72,23.3,3,0,4.0,0,train
+C10429,20.0,Cusco,Prepago,Yape/Plin,12/12/2023,3282.0,34.0,4,25.34,23.9,2,1,,1,train
+C11012,35.0,Lima,Postpago Básico,Débito automático,28/09/2025,6205.0,136.0,0,48.07,36.5,0,1,2.0,0,test
+C10079,21.0,Lima,Prepago,Efectivo,01/08/2024,3639.0,14.0,5,19.84,30.4,0,0,3.0,0,test
+C11052,47.0,Cusco,Prepago,Efectivo,26/01/2025,4342.0,199.0,6,27.72,16.5,0,1,4.0,0,train
+C10937,35.0,Piura,Prepago,Efectivo,21/11/2024,12072.0,246.0,7,44.59,27.7,2,0,3.0,0,test
+C10834,20.0,Lima,Postpago Ilimitado,Tarjeta,23/08/2025,2507.0,138.0,0,91.37,23.8,1,0,4.0,0,train
+C10749,22.0,Cusco,Postpago Básico,Efectivo,17/01/2023,19941.0,389.0,0,86.64,22.6,1,1,2.0,0,train
+C10890,52.0,Arequipa,Postpago Ilimitado,Tarjeta,12/10/2023,13471.0,333.0,0,120.82,30.7,2,2,3.0,0,test
+C10254,23.0,La Libertad,Postpago Básico,Yape/Plin,19/01/2026,1961.0,28.0,0,38.46,27.4,0,0,3.0,0,train
+C11314,18.0,La Libertad,Prepago,Tarjeta,23/10/2016,5420.0,5.0,0,33.44,10.1,5,6,1.0,1,train
+C11493,49.0,Cusco,Postpago Ilimitado,Tarjeta,17/07/2022,18325.0,327.0,0,128.86,2.0,2,0,4.0,0,train
+C11108,32.0,La Libertad,Prepago,Efectivo,24/07/2024,6413.0,126.0,3,39.13,40.5,0,2,3.0,1,test
+C10136,28.0,Piura,Postpago Ilimitado,Yape/Plin,10/01/2024,8215.0,238.0,0,102.47,8.5,0,1,4.0,0,test
+C11135,31.0,Lima,Prepago,Efectivo,12/07/2025,8013.0,178.0,2,25.65,22.8,0,0,4.0,0,train
+C10852,22.0,Arequipa,Postpago Básico,Débito automático,09/11/2020,23750.0,170.0,0,99.33,28.2,2,1,,0,train
+C10723,24.0,Junín,Prepago,Efectivo,07/09/2025,2131.0,166.0,0,24.35,26.0,0,0,2.0,1,train
+C10859,20.0,Lima,Postpago Básico,Débito automático,17/06/2024,8645.0,220.0,0,63.84,29.0,1,0,3.0,0,train
+C10969,18.0,Lima,Postpago Básico,Tarjeta,17/03/2023,9224.0,391.0,0,69.88,39.8,0,2,2.0,0,train
+C10496,56.0,La Libertad,Postpago Básico,Débito automático,24/03/2020,8538.0,320.0,0,63.12,23.7,4,0,4.0,0,train
+C10950,48.0,Arequipa,Postpago Básico,Efectivo,19/10/2023,3785.0,172.0,0,53.59,27.9,1,0,3.0,0,train
+C10805,,Arequipa,Prepago,Efectivo,12/05/2023,3002.0,184.0,2,22.26,24.9,0,1,3.0,1,train
+C10129,58.0,La libertad,Postpago Ilimitado,Yape/Plin,10/06/2024,36259.0,380.0,0,158.47,10.8,3,1,4.0,0,test
+C10337,64.0,Arequipa,Postpago Básico,Yape/Plin,28/08/2025,2230.0,40.0,0,50.52,21.1,1,0,3.0,0,test
+C10055,35.0,La Libertad,Prepago,Yape/Plin,14/04/2026,2160.0,5.0,2,26.51,13.4,3,3,3.0,1,train
+C10608,20.0,La Libertad,Postpago Ilimitado,Efectivo,12/06/2025,6977.0,271.0,0,106.05,17.3,5,1,4.0,0,train
+C11148,18.0,Lima,Postpago Básico,Débito automático,26/09/2019,3830.0,216.0,0,44.08,19.9,3,0,4.0,0,train
+C10195,32.0,Arequipa,Prepago,Yape/Plin,27/03/2024,2487.0,148.0,0,14.96,21.1,0,0,3.0,0,train
+C11496,41.0,Lima,Postpago Básico,Yape/Plin,23/12/2024,4099.0,96.0,0,43.94,30.0,2,0,3.0,0,train
+C10909,33.0,Junín,Prepago,Débito automático,15/07/2026,5551.0,145.0,1,44.82,22.6,2,3,3.0,1,train
+C10584,,Arequipa,Postpago Básico,Efectivo,30/06/2025,3957.0,271.0,0,56.3,16.6,3,2,1.0,0,train
+C10103,28.0,Arequipa,Postpago Ilimitado,Yape/Plin,20/04/2023,4963.0,168.0,0,109.48,35.0,1,0,3.0,0,train
+C11405,34.0,Lima,Prepago,Efectivo,12/01/2026,6598.0,185.0,1,27.28,22.6,1,1,3.0,1,test
+C11419,29.0,Lima,Postpago Básico,Efectivo,08/01/2023,12999.0,147.0,0,65.24,31.8,1,0,4.0,0,train
+C10719,56.0,Lima,Prepago,Tarjeta,12/05/2025,8330.0,81.0,3,36.92,28.2,2,2,3.0,0,train
+C10884,30.0,lima,Prepago,Tarjeta,11/07/2025,3495.0,228.0,4,24.2,37.9,1,1,3.0,0,train
+C10776,40.0,Piura,Prepago,Tarjeta,13/10/2025,10314.0,248.0,9,43.86,26.1,2,0,5.0,0,test
+C10849,20.0,Lima,Prepago,Efectivo,17/06/2025,1180.0,5.0,1,10.12,31.8,1,2,3.0,1,train
+C10894,26.0,Piura,Postpago Básico,Tarjeta,29/07/2023,1087.0,77.0,0,49.4,23.4,1,1,4.0,0,train
+C10227,40.0,Junín,Prepago,Tarjeta,27/06/2025,9080.0,268.0,5,44.33,19.3,2,3,2.0,1,test
+C11429,63.0,Cusco,Prepago,Débito automático,18/10/2021,2726.0,138.0,3,24.1,22.6,1,0,3.0,0,train
+C10126,49.0,La Libertad,Prepago,Efectivo,14/11/2024,4107.0,28.0,1,22.69,31.3,1,1,3.0,0,train
+C10405,37.0,La Libertad,Postpago Básico,Tarjeta,10/02/2026,3422.0,98.0,0,49.45,3.1,3,1,3.0,0,train
+C10775,37.0,La Libertad,Postpago Básico,Tarjeta,22/03/2021,6048.0,330.0,0,62.71,14.1,1,1,3.0,0,train
+C10821,44.0,Piura,Prepago,Yape/Plin,28/04/2023,974.0,126.0,1,16.55,18.1,1,7,,1,train
+C10711,33.0,Junín,Prepago,Efectivo,11/10/2023,6458.0,191.0,3,40.02,22.7,2,0,2.0,1,train
+C11433,47.0,Lima,Prepago,Yape/Plin,31/05/2023,2543.0,270.0,3,19.2,23.3,1,2,2.0,0,train
+C11060,34.0,Cusco,Postpago Básico,,09/07/2025,4764.0,179.0,0,54.33,31.1,1,0,3.0,0,train
+C11163,36.0,Lima ,prepago,Yape/Plin,13/04/2024,3377.0,31.0,3,8.55,15.0,2,0,2.0,1,train
+C10303,54.0,Arequipa,Postpago Ilimitado,Efectivo,24/12/2025,8511.0,258.0,0,107.55,37.3,1,0,2.0,1,train
+C10267,26.0,Lima,Prepago,Yape/Plin,17/04/2025,9181.0,167.0,4,32.64,29.7,0,1,3.0,1,train
+C10545,44.0,Arequipa,Postpago Básico,Tarjeta,29/08/2026,10268.0,268.0,0,72.58,25.2,2,0,,0,test
+C10212,35.0,Lima,Postpago Básico,Yape/Plin,25/09/2026,6223.0,79.0,0,60.62,24.0,1,1,2.0,1,train
+C10896,41.0,Junín,Prepago,Débito automático,10/06/2026,2462.0,80.0,3,21.4,28.3,0,0,3.0,0,train
+C11222,33.0,Piura,Postpago Ilimitado,Débito automático,11/02/2024,13382.0,319.0,0,111.33,19.6,1,1,3.0,0,test
+C10916,20.0,Lima,Prepago,Efectivo,24/06/2026,7127.0,134.0,2,28.77,23.4,1,2,,1,train
+C10675,52.0,Lima,Prepago,Efectivo,08/07/2025,5607.0,183.0,3,26.09,25.4,2,2,2.0,1,train
+C10814,30.0,lima,Postpago Ilimitado,Yape/Plin,02/04/2024,11396.0,255.0,0,114.09,28.3,2,2,1.0,0,train
+C10342,18.0,Lima,Postpago Básico,Yape/Plin,11/01/2026,8584.0,304.0,0,78.06,14.5,4,3,5.0,0,train
+C10549,,Cusco,Postpago Ilimitado,Efectivo,22/03/2026,11990.0,248.0,0,118.36,14.2,1,1,3.0,1,train
+C11214,29.0,Lima,Postpago Ilimitado,Yape/Plin,15/09/2024,1943.0,260.0,0,96.31,23.7,0,1,2.0,1,train
+C10966,29.0,Arequipa,Postpago Básico,Débito automático,20/02/2025,4737.0,140.0,0,54.04,10.5,1,4,2.0,0,train
+C11230,34.0,La Libertad,Prepago,Yape/Plin,12/08/2024,2239.0,55.0,2,10.2,24.9,2,0,2.0,0,train
+C10295,31.0,Arequipa,Postpago Ilimitado,Yape/Plin,17/07/2026,2362.0,5.0,0,81.65,16.5,3,4,,1,train
+C10695,19.0,Cusco,Postpago Ilimitado,Débito automático,24/11/2023,14684.0,161.0,0,114.68,12.0,1,0,2.0,0,train
+C10073,32.0,Junín,Postpago Básico,Efectivo,20/06/2025,8509.0,188.0,0,68.55,40.2,0,1,3.0,0,train
+C10605,18.0,Arequipa,Postpago Básico,Yape/Plin,22/08/2024,4722.0,163.0,0,55.76,19.2,1,0,3.0,0,train
+C10104,18.0,Piura,Prepago,Débito automático,13/07/2023,3834.0,94.0,2,32.28,23.0,0,1,3.0,0,train
+C10645,36.0,La Libertad,Postpago Ilimitado,,21/06/2020,18715.0,241.0,0,125.18,22.1,2,1,,0,test
+C11490,55.0,Piura,Prepago,Débito automático,19/02/2023,3330.0,163.0,1,26.17,16.1,1,3,2.0,0,train
+C11040,36.0,Junín,Postpago Ilimitado,Yape/Plin,28/03/2024,5990.0,226.0,0,91.77,17.5,1,1,3.0,0,train
+C10439,18.0,Arequipa,Postpago Básico,Débito automático,28/02/2026,737.0,5.0,0,32.88,34.4,0,1,3.0,0,train
+C11019,,Junín,Postpago Básico,Tarjeta,16/04/2025,11429.0,155.0,0,62.77,10.6,3,1,2.0,0,train
+C10091,47.0,Lima,Prepago,Tarjeta,22/12/2023,5836.0,150.0,3,24.01,36.4,0,1,3.0,0,train
+C11112,30.0,Arequipa,Postpago Ilimitado,Yape/Plin,02/10/2022,6064.0,348.0,0,103.65,20.0,2,3,2.0,1,train
+C11331,33.0,Cuzco,Prepago,Yape/Plin,29/09/2025,3085.0,232.0,2,34.17,25.7,1,3,3.0,0,train
+C10908,36.0,Lima,Postpago Ilimitado,Efectivo,07/02/2026,4351.0,140.0,0,87.5,36.6,0,0,2.0,0,train
+C10102,40.0,La Libertad,Prepago,Débito automático,31/03/2023,13161.0,109.0,5,39.69,13.1,3,4,1.0,0,train
+C10238,24.0,Lima,Prepago,Débito automático,26/10/2025,2081.0,98.0,2,29.38,12.7,1,3,3.0,0,train
+C11294,,La Libertad,Prepago,Tarjeta,16/10/2024,1996.0,140.0,2,17.54,16.1,3,3,2.0,1,train
+C10942,35.0,Piura,Postpago Básico,Débito automático,15/01/2024,2646.0,172.0,0,46.63,21.8,4,0,2.0,0,train
+C10938,,Arequipa,Prepago,Efectivo,27/01/2022,2740.0,173.0,3,30.29,25.8,2,0,3.0,0,train
+C11181,66.0,Piura,Prepago,Tarjeta,19/07/2021,2687.0,100.0,0,16.9,19.3,1,1,3.0,0,train
+C10005,55.0,Piura,Prepago,Efectivo,21/12/2023,3106.0,23.0,0,23.48,22.7,2,1,3.0,0,train
+C11379,37.0,Lima,Prepago,Tarjeta,18/11/2025,4925.0,79.0,4,25.3,18.8,2,2,2.0,1,train
+C10965,25.0,Piura,Prepago,Tarjeta,19/02/2024,1692.0,53.0,2,16.37,31.9,1,0,3.0,0,train
+C10018,31.0,Lima,Prepago,Tarjeta,02/05/2026,11475.0,237.0,5,36.2,27.4,1,2,2.0,1,train
+C10121,18.0,Cusco,Postpago Ilimitado,Tarjeta,16/08/2022,15950.0,99.0,0,111.39,16.0,2,1,3.0,0,train
+C10661,52.0,Piura,prepago,Yape/Plin,25/06/2026,6183.0,265.0,7,33.66,15.4,3,0,3.0,1,train
+C11282,32.0,Piura,Postpago Básico,Tarjeta,14/12/2022,9657.0,185.0,0,72.12,24.8,0,1,4.0,0,train
+C10274,33.0,Arequipa,Postpago Básico,Efectivo,13/01/2026,2371.0,137.0,0,55.47,29.9,1,0,3.0,0,train
+C10433,30.0,Junín,Postpago Básico,Efectivo,22/03/2024,3909.0,170.0,0,52.19,22.1,0,3,2.0,0,train
+C10811,31.0,Cusco,Postpago Básico,Débito automático,26/03/2026,4580.0,55.0,0,53.36,15.4,3,1,2.0,0,train
+C11420,25.0,Lima,Prepago,Tarjeta,10/09/2022,2129.0,127.0,2,35.47,32.4,0,0,2.0,0,train
+C11434,44.0,Lima,Prepago,Efectivo,09/02/2026,2925.0,41.0,3,16.77,30.4,1,2,3.0,1,train
+C10181,38.0,Piura,Prepago,Efectivo,22/04/2021,5929.0,71.0,0,29.29,24.1,1,2,3.0,0,train
+C10184,45.0,Lima,Prepago,Débito automático,22/04/2023,3318.0,102.0,4,10.67,35.9,0,6,3.0,0,train
+C10406,25.0,Lima,Prepago,Tarjeta,02/01/2019,8394.0,161.0,2,40.93,28.8,2,3,2.0,0,train
+C10865,23.0,Lima,Postpago Ilimitado,Yape/Plin,29/03/2022,3352.0,5.0,0,86.41,37.7,0,0,,0,test
+C10520,45.0,Piura,Postpago Ilimitado,Yape/Plin,01/09/2024,49549.0,463.0,0,180.49,27.6,0,0,4.0,0,train
+C11003,44.0,La Libertad,Prepago,Efectivo,16/07/2024,3034.0,139.0,7,31.48,24.1,0,1,4.0,0,train
+C10380,39.0,Lima,Prepago,Yape/Plin,30/12/2025,3377.0,73.0,3,19.24,26.3,1,4,2.0,1,test
+C10427,23.0,Lima,Prepago,Tarjeta,21/05/2026,2319.0,67.0,5,25.63,20.1,0,0,3.0,1,train
+C10078,55.0, Lima,Prepago,Yape/Plin,30/07/2026,4640.0,95.0,2,20.33,21.3,0,1,3.0,0,train
+C11009,41.0,Lima,Postpago Básico,Efectivo,21/03/2025,1662.0,77.0,0,,24.0,2,1,3.0,0,train
+C11498,36.0,Lima,Postpago Básico,Yape/Plin,18/08/2025,25621.0,261.0,0,,29.6,0,0,4.0,0,test
+C10607,35.0,Lima,Prepago,Efectivo,22/12/2024,1904.0,152.0,2,2647.0,30.2,0,2,,0,train
+C11352,45.0,Arequipa,Prepago,Tarjeta,07/09/2024,5008.0,122.0,3,33.43,30.1,2,3,2.0,1,train
+C10874,37.0,La Libertad,Postpago Ilimitado,Yape/Plin,15/12/2024,9468.0,270.0,0,107.73,16.9,2,1,3.0,0,train
+C11385,43.0,Cusco,Prepago,Débito automático,26/06/2023,5153.0,99.0,3,17.57,14.0,0,2,3.0,0,train
+C11057,30.0,Piura,Postpago Ilimitado,Yape/Plin,23/03/2025,1057.0,89.0,0,83.71,28.4,4,4,2.0,0,train
+C11091,35.0,Lima,Prepago,Débito automático,08/02/2023,4912.0,188.0,0,45.95,15.7,2,1,2.0,0,test
+C11101,41.0,Piura,Postpago Básico,Yape/Plin,09/02/2023,13146.0,95.0,0,70.86,14.4,4,0,3.0,0,train
+C11129,44.0,Arequipa,Prepago,Tarjeta,18/03/2023,2451.0,143.0,3,34.78,32.0,0,2,3.0,0,test
+C11235,42.0,Lima,Prepago,Efectivo,22/06/2026,5495.0,99.0,3,20.92,27.2,0,0,,0,train
+C11338,31.0,Lima,Prepago,Tarjeta,18/07/2025,1469.0,48.0,0,17.94,17.9,0,1,3.0,1,train
+C10958,35.0,Lima,Prepago,Yape/Plin,20/02/2026,2996.0,127.0,3,33.17,19.5,3,1,4.0,1,train
+C10559,54.0,Arequipa,Postpago Ilimitado,Tarjeta,27/04/2023,6644.0,298.0,0,100.14,33.1,0,2,2.0,0,train
+C10846,48.0,Arequipa,Postpago Básico,Efectivo,29/08/2025,3164.0,110.0,0,55.61,27.2,3,2,2.0,0,train
+C10690,31.0,Lima,Postpago Básico,Tarjeta,11/09/2024,3580.0,230.0,0,53.78,29.5,0,1,,0,train
+C11471,48.0,Lima,Prepago,Débito automático,14/11/2024,772.0,5.0,3,7.84,22.1,2,0,2.0,1,train
+C11418,37.0,Cusco,Prepago,Efectivo,24/02/2025,4081.0,133.0,1,22.39,23.5,1,2,4.0,0,train
+C10436,39.0,Piura,Prepago,Efectivo,21/09/2024,4199.0,160.0,3,,23.6,2,1,2.0,0,train
+C10490,19.0,La Libertad,Postpago Básico,Débito automático,28/06/2023,5590.0,144.0,0,46.76,17.8,5,3,2.0,0,train
+C11304,25.0,Junín,Prepago,Yape/Plin,24/06/2025,5729.0,217.0,0,23.36,19.2,0,0,2.0,0,train
+C11396,37.0,Lima,Prepago,Débito automático,23/06/2024,2340.0,63.0,3,29.22,21.6,0,0,3.0,0,train
+C10069,49.0,lima,Prepago,Yape/Plin,14/12/2021,1954.0,190.0,1,32.57,22.9,0,0,3.0,0,train
+C10808,48.0,Cusco,Prepago,Yape/Plin,17/01/2025,3699.0,97.0,2,19.21,18.8,1,0,3.0,0,train
+C11184,36.0,La Libertad,Postpago Básico,Débito automático,01/03/2025,15821.0,310.0,0,77.88,14.7,4,0,4.0,0,train
+C10011,42.0,Junín,Postpago Ilimitado,Yape/Plin,23/06/2025,29852.0,352.0,0,146.47,19.4,5,1,3.0,1,test
+C10144,47.0,Junín,Prepago,Tarjeta,31/12/2025,1311.0,54.0,1,9.5,19.9,1,2,2.0,1,train
+C10917,54.0,Cusco,Prepago,Efectivo,27/04/2020,2420.0,5.0,1,28.28,21.3,0,3,2.0,0,train
+C10639,,Lima,Prepago,Tarjeta,10/07/2025,4736.0,162.0,3,22.23,23.5,4,3,2.0,1,test
+C10176,18.0,Cusco,Prepago,Tarjeta,09/04/2026,2068.0,37.0,4,16.83,24.0,1,3,3.0,1,train
+C10994,30.0,Lima,Prepago,Efectivo,10/11/2022,13511.0,329.0,6,42.09,32.3,0,1,,0,test
+C10440,37.0,Piura,Prepago,Yape/Plin,12/04/2025,1229.0,5.0,1,8.58,30.3,1,2,1.0,1,train
+C10521,23.0,Junín,Prepago,Yape/Plin,30/01/2026,1124.0,82.0,6,13.21,25.6,1,2,3.0,0,train
+C10929,20.0,Arequipa,Postpago Ilimitado,Yape/Plin,24/07/2024,6473.0,154.0,0,104.8,35.3,0,4,,1,train
+C11004,50.0,Piura,Postpago Básico,Tarjeta,17/09/2023,11828.0,286.0,0,72.4,20.9,2,1,,1,train
+C11255,59.0,Cusco,Prepago,Débito automático,11/03/2026,3079.0,322.0,3,25.86,13.6,1,2,4.0,0,train
+C11234,22.0,Lima ,Postpago Ilimitado,Yape/Plin,18/05/2026,5527.0,266.0,0,105.13,17.5,0,0,4.0,0,test
+C10143,40.0,Lima,Prepago,Yape/Plin,20/11/2019,2732.0,19.0,4,18.57,25.7,1,1,2.0,0,train
+C10753,34.0,Lima,Postpago Básico,Débito automático,18/03/2024,4597.0,86.0,0,49.78,27.0,3,1,3.0,1,train
+C10519,,Lima,Postpago Ilimitado,Yape/Plin,22/05/2025,9100.0,271.0,0,112.13,15.9,2,0,4.0,0,train
+C11322,49.0,Lima ,Postpago Ilimitado,Tarjeta,15/07/2024,9036.0,267.0,0,113.86,14.2,2,2,3.0,0,train
+C10822,44.0,Lima,Prepago,Yape/Plin,10/02/2026,2932.0,104.0,5,7.55,20.4,1,0,4.0,0,test
+C10428,41.0,Junín,Postpago Básico,Yape/Plin,16/10/2024,4115.0,186.0,0,46.04,11.5,3,1,3.0,0,train
+C10612,29.0,Cusco,Postpago Ilimitado,Efectivo,22/03/2025,4509.0,249.0,0,106.03,16.6,1,0,4.0,0,train
+C11032,,Lima,Postpago Básico,Tarjeta,01/07/2025,7642.0,198.0,0,54.79,35.2,0,1,,0,train
+C10156,53.0,Piura,Prepago,Tarjeta,11/06/2026,2621.0,211.0,4,18.93,14.5,0,2,3.0,1,train
+C10539,40.0,La Libertad,Postpago Básico,Yape/Plin,14/05/2025,7583.0,198.0,0,50.62,24.9,0,2,2.0,0,train
+C11290,41.0,Lima,Prepago,Efectivo,28/04/2017,805.0,5.0,2,5.0,41.1,0,0,3.0,0,train
+C10461,36.0,La Libertad,Postpago Básico,Efectivo,17/12/2025,11110.0,115.0,0,65.68,23.7,1,0,4.0,0,train
+C10576,25.0,Arequipa,Prepago,Tarjeta,14/06/2025,2004.0,34.0,6,29.34,23.4,2,1,3.0,1,train
+C10255,30.0,Piura,Prepago,Yape/Plin,11/09/2024,817.0,68.0,1,10.47,14.4,0,0,,0,train
+C10979,20.0,La Libertad,Prepago,Yape/Plin,20/12/2023,21326.0,215.0,1,50.63,20.4,1,1,3.0,0,train
+C11185,21.0,Lima,Postpago Básico,Efectivo,22/08/2023,2227.0,192.0,0,56.15,16.0,2,1,,0,train
+C11006,,Junín,Postpago Básico,Yape/Plin,28/06/2022,23005.0,283.0,0,75.71,15.9,1,0,4.0,0,train
+C10560,22.0,Cusco,Postpago Básico,Efectivo,22/07/2018,3392.0,225.0,0,55.28,21.7,2,1,3.0,0,train
+C10208,37.0,Cusco,Postpago Básico,Efectivo,17/09/2024,11736.0,238.0,0,73.48,18.4,2,0,,0,train
+C10910,,Lima,Prepago,Efectivo,21/06/2023,5142.0,218.0,0,29.96,23.2,0,0,4.0,0,train
+C11311,47.0,Junín,Postpago Ilimitado,Efectivo,26/04/2026,5855.0,61.0,0,90.04,20.4,1,0,3.0,1,train
+C10001,18.0,La Libertad,Postpago Básico,Yape/Plin,18/10/2020,2209.0,236.0,0,51.79,8.4,0,0,3.0,0,test
+C10269,34.0,Arequipa ,Postpago Ilimitado,Tarjeta,29/09/2022,24982.0,289.0,0,133.78,27.7,2,2,3.0,0,train
+C10265,27.0,Lima,Postpago Ilimitado,Efectivo,08/06/2026,2340.0,169.0,0,80.19,38.3,0,3,4.0,0,train
+C10914,,Arequipa,Postpago Ilimitado,Tarjeta,23/12/2025,50299.0,426.0,0,165.46,17.4,1,2,3.0,0,train
+C10230,33.0,Lima,Prepago,Yape/Plin,18/11/2024,4254.0,107.0,4,22.13,27.1,0,0,4.0,0,train
+C10615,38.0,La Libertad,Prepago,Tarjeta,14/04/2024,1719.0,131.0,1,11.19,26.1,0,0,4.0,0,train
+C11119,42.0,Piura,Postpago Básico,Efectivo,26/11/2025,4610.0,162.0,0,,12.0,4,2,2.0,1,train
+C11496,41.0,Lima,Postpago Básico,Yape/Plin,23/12/2024,4099.0,96.0,0,43.94,30.0,2,0,3.0,0,train
+C10864,25.0,Piura,Prepago,Débito automático,20/08/2024,2183.0,105.0,2,15.03,15.9,1,0,2.0,0,train
+C11066,43.0,Lima,Postpago Básico,Débito automático,20/11/2020,4365.0,219.0,0,50.53,27.7,1,1,4.0,0,train
+C10873,65.0,Lima,Postpago Ilimitado,Tarjeta,13/07/2021,7880.0,285.0,0,109.53,47.8,0,0,4.0,0,test
+C11362,26.0,Lima,Postpago Básico,Tarjeta,15/06/2026,7292.0,270.0,0,78.83,29.7,1,3,3.0,1,train
+C10398,28.0,La Libertad,Postpago Básico,Yape/Plin,12/02/2026,3426.0,172.0,0,50.44,23.3,0,1,2.0,0,train
+C11388,37.0,Cusco,Prepago,Tarjeta,20/01/2026,5376.0,28.0,1,21.18,17.2,3,2,2.0,1,test
+C10045,18.0,AREQUIPA,Postpago Básico,Efectivo,28/04/2025,4640.0,199.0,0,46.31,36.1,0,1,4.0,0,train
+C10161,60.0,AREQUIPA,Postpago Ilimitado,Yape/Plin,31/03/2026,18469.0,363.0,0,117.16,30.9,0,1,5.0,0,train
+C10991,50.0,Junín,Prepago,Efectivo,28/08/2023,2676.0,80.0,1,19.94,15.8,0,0,4.0,1,train
+C10727,25.0,Piura,Prepago,Tarjeta,25/07/2023,806.0,5.0,0,15.79,36.0,0,1,3.0,0,train
+C10629,,Lima,Prepago,Tarjeta,25/07/2022,7388.0,154.0,1,33.68,42.1,0,1,4.0,0,train
+C10288,50.0,Arequipa,Prepago,Tarjeta,26/01/2025,7001.0,265.0,4,36.01,42.8,0,0,3.0,0,test
+C11059,19.0,Arequipa,Postpago Básico,Débito automático,11/01/2026,2471.0,49.0,0,46.75,31.4,0,1,4.0,0,train
+C11484,31.0,Arequipa,Postpago Básico,Yape/Plin,08/05/2026,4955.0,215.0,0,51.01,26.8,3,5,1.0,1,test
+C10575,28.0,lima,Postpago Básico,Efectivo,20/03/2026,3945.0,208.0,0,52.8,20.9,1,3,2.0,0,train
+C10850,48.0,La Libertad,Prepago,Tarjeta,01/12/2025,1773.0,50.0,4,22.24,13.1,1,2,2.0,1,train
+C11339,44.0,Lima,Postpago Ilimitado,Efectivo,31/08/2024,6063.0,202.0,0,81.52,24.8,1,2,2.0,0,train
+C10911,35.0,Lima,Postpago Básico,Tarjeta,30/06/2026,2347.0,62.0,0,39.44,24.4,0,1,3.0,0,train
+C11254,60.0,Lima,Prepago,Tarjeta,20/03/2026,10897.0,237.0,7,34.0,20.6,2,2,2.0,1,train
+C11381,27.0,Piura,Postpago Básico,Efectivo,08/04/2026,7764.0,181.0,0,59.36,28.5,0,3,3.0,1,train
+C10932,36.0,Lima,Prepago,Débito automático,12/10/2025,4913.0,157.0,5,36.11,26.0,1,1,4.0,1,test
+C11100,29.0,Arequipa,Prepago,Efectivo,18/09/2026,8126.0,231.0,6,26.12,14.7,5,4,1.0,1,train
+C11207,,Piura,Prepago,,03/05/2023,11864.0,212.0,6,49.91,20.9,1,0,2.0,0,train
+C10247,18.0,Lima,Postpago Básico,Tarjeta,21/06/2022,14027.0,153.0,0,64.49,26.4,0,3,3.0,0,train
+C10476,37.0,Cusco,Postpago Ilimitado,Débito automático,14/03/2025,16099.0,455.0,0,121.55,31.8,0,1,2.0,0,train
+C10085,41.0,La Libertad,Prepago,Yape/Plin,18/12/2025,4510.0,231.0,2,38.76,3.9,0,1,1.0,1,train
+C10469,20.0,Lima,Postpago Básico,Efectivo,18/01/2026,4905.0,204.0,0,56.81,22.9,2,4,1.0,1,train
+C10225,39.0,Lima ,Postpago Básico,Efectivo,17/12/2025,9918.0,284.0,0,60.29,29.2,1,0,3.0,0,train
+C10774,18.0,lima,Postpago Ilimitado,Yape/Plin,28/02/2026,8513.0,132.0,0,,13.1,1,0,4.0,0,test
+C10331,45.0,Cusco,Postpago Básico,Yape/Plin,14/09/2023,4212.0,50.0,0,57.7,12.1,1,1,3.0,0,train
+C10233,28.0,La Libertad,Postpago Básico,Efectivo,20/08/2026,24583.0,250.0,0,83.99,22.5,2,3,1.0,1,train
+C10588,18.0,Lima,Prepago,Yape/Plin,10/08/2024,3496.0,115.0,0,32.56,34.6,0,2,2.0,0,train
+C10475,40.0,Cusco,Postpago Ilimitado,Efectivo,28/01/2025,10439.0,278.0,0,110.19,21.6,0,0,4.0,0,test
+C11284,26.0,Piura,Prepago,Efectivo,12/01/2025,3759.0,5.0,0,5.0,18.1,1,1,2.0,0,train
+C10599,72.0,Lima,Prepago,Efectivo,30/05/2025,3938.0,114.0,3,16.03,39.9,0,0,3.0,0,train
+C10421,47.0,Arequipa,Postpago Básico,Débito automático,24/10/2023,3683.0,268.0,0,57.39,27.3,2,1,4.0,0,train
+C10182,37.0,Cusco,Postpago Ilimitado,Efectivo,23/10/2021,10450.0,179.0,0,105.84,28.0,1,0,4.0,0,test
+C10988,43.0,Junín,Prepago,Yape/Plin,21/01/2026,4350.0,148.0,4,28.4,20.6,0,2,3.0,0,train
+C11000,47.0,Cusco,Prepago,Débito automático,12/07/2025,5338.0,224.0,7,31.29,22.7,2,2,2.0,0,train
+C11356,19.0,Lima,Prepago,Efectivo,14/10/2022,6056.0,209.0,4,45.08,25.7,1,1,2.0,1,test
+C10049,58.0,Arequipa,Prepago,Yape/Plin,26/09/2025,2338.0,81.0,0,,17.6,3,1,3.0,0,test
+C11425,23.0,Junín,Postpago Ilimitado,Tarjeta,26/02/2026,10137.0,296.0,0,109.37,21.1,0,0,5.0,0,train
+C11029,67.0,Piura,Prepago,Efectivo,08/02/2023,4594.0,143.0,3,36.87,15.6,3,0,3.0,1,train
+C10529,49.0,Junín,Prepago,Yape/Plin,26/02/2026,6004.0,32.0,0,35.13,17.6,2,0,3.0,0,train
+C11258,,Arequipa,Prepago,Tarjeta,09/08/2024,9292.0,161.0,3,40.87,31.2,1,3,2.0,1,train
+C10486,71.0,Lima,Postpago Ilimitado,Tarjeta,21/05/2024,6310.0,380.0,0,106.3,21.4,1,0,4.0,0,train
+C11482,30.0,Cusco,Prepago,Tarjeta,18/10/2020,3113.0,126.0,2,19.42,20.9,3,1,3.0,1,train
+C10497,29.0,Lima,Prepago,Yape/Plin,22/11/2025,3102.0,209.0,0,19.76,33.3,2,4,2.0,1,train
+C10106,33.0,La Libertad,Prepago,Yape/Plin,15/08/2023,4546.0,125.0,1,29.85,15.0,1,0,3.0,1,train
+C10443,46.0,Arequipa,Postpago Básico,Débito automático,27/11/2022,1775.0,172.0,0,52.3,27.1,0,2,2.0,0,train
+C10646,46.0,Junín,Prepago,Yape/Plin,23/08/2024,5227.0,124.0,9,35.73,22.2,2,0,5.0,0,test
+C11036,21.0,Lima ,Prepago,Efectivo,08/06/2025,6090.0,148.0,3,37.46,18.0,1,0,,0,train
+C10726,18.0,Junín,Postpago Ilimitado,Yape/Plin,21/11/2025,6951.0,241.0,0,95.41,22.9,1,1,2.0,0,train
+C10190,26.0,Lima,Prepago,Tarjeta,25/01/2024,13066.0,224.0,2,35.97,35.2,0,0,5.0,0,train
+C10282,40.0,Lima,Postpago Básico,Yape/Plin,15/12/2023,8895.0,330.0,0,56.83,35.2,1,1,5.0,0,train
+C10029,41.0,Lima,Postpago Ilimitado,Tarjeta,27/08/2022,3941.0,194.0,0,98.04,27.3,0,0,3.0,0,train
+C10169,41.0,Arequipa,Prepago,Tarjeta,19/04/2022,1805.0,165.0,4,17.18,25.7,0,0,2.0,0,train
+C11001,46.0,Lima,Prepago,Yape/Plin,18/06/2024,505.0,5.0,0,11.26,38.5,0,0,4.0,0,train
+C11204,37.0,Lima,Prepago,Tarjeta,10/06/2024,3061.0,114.0,1,18.42,28.5,1,0,3.0,0,train
+C10100,35.0,Cusco,Postpago Ilimitado,Yape/Plin,10/05/2025,5767.0,208.0,0,104.69,26.0,0,0,3.0,0,train
+C10197,32.0,Lima,Postpago Básico,Efectivo,19/12/2025,3527.0,145.0,0,53.57,25.4,0,1,4.0,1,train
+C10495,33.0,Piura,Postpago Básico,Yape/Plin,09/09/2026,25771.0,266.0,0,8706.0,13.3,3,2,,1,train
+C10647,31.0,LIMA,Postpago Ilimitado,Efectivo,07/01/2025,21640.0,406.0,0,133.39,19.0,3,1,4.0,0,test
+C10987,32.0,Junín,Prepago,Débito automático,27/03/2024,5837.0,159.0,3,16.34,22.2,2,3,2.0,0,train
+C10044,37.0,Lima,Prepago,Yape/Plin,19/08/2024,3423.0,178.0,3,23.51,25.1,1,2,2.0,1,test
+C10710,55.0,Lima,Postpago Ilimitado,Débito automático,09/02/2025,10916.0,246.0,0,117.8,29.6,1,1,3.0,0,train
+C10373,20.0,Arequipa,Postpago Ilimitado,Efectivo,30/03/2024,6179.0,217.0,0,118.5,28.4,0,0,2.0,0,test
+C10678,39.0,Lima,Postpago Básico,Yape/Plin,10/06/2024,16596.0,265.0,0,,27.2,1,0,4.0,0,train
+C10566,35.0,Junín,Postpago Ilimitado,Tarjeta,24/08/2025,4601.0,233.0,0,101.5,21.7,0,1,4.0,1,train
+C10847,34.0,Lima,Prepago,Yape/Plin,28/04/2025,3514.0,177.0,2,21.9,20.4,1,5,,1,train
+C10460,25.0,Cusco,Postpago Ilimitado,Efectivo,21/06/2025,11869.0,252.0,0,116.16,28.2,0,0,,0,train
+C11155,40.0,Lima,Postpago Básico,Yape/Plin,29/08/2024,4548.0,45.0,0,58.87,20.1,4,2,2.0,1,train
+C10039,26.0,Lima,Prepago,Tarjeta,10/05/2026,2494.0,147.0,3,27.46,18.6,3,2,4.0,1,train
+C10434,40.0,Lima,Prepago,Débito automático,02/11/2023,5421.0,124.0,3,36.57,15.7,3,2,3.0,0,train
+C10973,46.0,Lima,Postpago Ilimitado,Débito automático,09/07/2024,6156.0,141.0,0,94.17,21.6,3,5,,0,test
+C11239,19.0,La Libertad,Postpago Básico,Tarjeta,30/10/2023,6764.0,84.0,0,53.93,9.3,2,1,2.0,0,train
+C11007,,Lima,Prepago,Yape/Plin,14/01/2025,2922.0,55.0,2,20.56,30.7,2,2,2.0,1,train
+C10456,23.0,Cusco,Prepago,Efectivo,14/08/2021,10540.0,276.0,3,41.66,23.1,0,2,2.0,1,train
+C10260,46.0,Junín,Prepago,Efectivo,24/12/2024,5910.0,153.0,2,36.92,22.7,1,0,3.0,0,test
+C10035,47.0,Junín,Prepago,Tarjeta,23/05/2025,5476.0,149.0,2,21.06,21.3,1,1,4.0,0,train
+C10827,25.0,La Libertad,Postpago Ilimitado,Tarjeta,16/04/2022,9274.0,380.0,0,106.25,26.7,1,2,4.0,0,train
+C10309,40.0,Lima,Prepago,Débito automático,25/08/2026,46753.0,333.0,6,93.69,27.9,0,1,3.0,0,train
+C10276,27.0,Lima,Postpago Básico,Tarjeta,15/04/2018,4851.0,167.0,0,62.07,19.8,1,3,4.0,0,train
+C10636,31.0,Piura,Postpago Básico,Efectivo,16/10/2024,3080.0,89.0,0,56.67,10.2,4,3,2.0,1,train
+C10654,42.0,Cusco,Postpago Básico,Efectivo,25/11/2021,2202.0,106.0,0,45.67,24.2,4,3,2.0,1,train
+C10622,18.0,Cusco,Postpago Ilimitado,Débito automático,12/12/2025,6772.0,155.0,0,93.32,18.0,4,1,2.0,0,train
+C10844,21.0,Piura,Postpago Ilimitado,Yape/Plin,12/01/2025,8779.0,167.0,0,102.71,5.2,4,0,2.0,0,train
+C10393,35.0,Lima,Prepago,Efectivo,31/10/2023,4631.0,117.0,1,36.12,25.6,3,2,2.0,1,train
+C10107,18.0,Cusco,Postpago Ilimitado,Yape/Plin,15/05/2023,2786.0,5.0,0,79.54,25.3,1,2,4.0,0,train
+C10349,27.0,Piura,Postpago Básico,Efectivo,15/03/2024,2557.0,125.0,0,35.01,27.5,1,0,5.0,0,test
+C10524,29.0,Lima,Postpago Básico,Yape/Plin,11/08/2025,9237.0,331.0,0,75.69,6.8,3,0,2.0,0,train
+C10784,64.0,Lima,Postpago Básico,Débito automático,01/01/2024,10032.0,214.0,0,73.04,30.0,1,3,4.0,0,test
+C10047,38.0,Lima,Postpago Ilimitado,Efectivo,21/11/2023,2211.0,101.0,0,83.52,36.4,1,1,2.0,0,train
+C10203,42.0,Piura,Prepago,Tarjeta,13/12/2025,2817.0,99.0,3,,11.0,2,3,2.0,1,train
+C10021,26.0,Arequipa,Prepago,Yape/Plin,23/04/2025,6836.0,219.0,1,43.0,29.8,0,1,3.0,0,train
+C10402,47.0,Lima,Postpago Ilimitado,Yape/Plin,21/10/2025,3616.0,220.0,0,93.24,13.1,2,2,2.0,1,train
+C11107,18.0,Lima ,Postpago Básico,Tarjeta,09/12/2025,3516.0,179.0,0,50.5,30.9,0,2,4.0,1,train
+C11154,37.0,Piura,Prepago,Yape/Plin,19/01/2025,6683.0,174.0,3,-31.98,33.6,2,2,1.0,1,train
+C11439,31.0,Lima,Postpago Básico,Yape/Plin,10/05/2023,2660.0,58.0,0,48.91,34.6,0,0,4.0,0,train
+C10989,42.0,La Libertad,PREPAGO,Yape/Plin,17/07/2023,2753.0,5.0,1,14.49,11.7,5,5,3.0,1,test
+C10741,49.0,Lima,Postpago Ilimitado,Yape/Plin,22/09/2025,19011.0,356.0,0,137.29,24.1,0,0,4.0,0,train
+C11310,34.0,Cusco,Prepago,Yape/Plin,16/05/2023,4488.0,144.0,1,14.88,8.7,6,9,1.0,1,test
+C11147,30.0,Lima,Prepago,Efectivo,18/06/2020,9666.0,301.0,2,41.92,24.6,0,0,4.0,0,train
+C10033,47.0,La Libertad,Prepago,Efectivo,11/09/2025,4196.0,67.0,1,19.99,20.0,1,0,3.0,0,test
+C10787,29.0,Junín,Prepago,Yape/Plin,11/06/2022,5869.0,165.0,4,29.11,15.6,1,0,,0,train
+C10923,,Cusco,Postpago Ilimitado,Tarjeta,31/10/2022,51408.0,395.0,0,166.59,17.3,3,0,3.0,0,train
+C11043,49.0,Piura,Postpago Ilimitado,Yape/Plin,02/07/2026,15053.0,277.0,0,106.62,24.6,2,4,3.0,1,train
+C11466,18.0,Lima,Postpago Básico,Yape/Plin,12/11/2025,7883.0,178.0,0,59.35,30.9,1,2,2.0,0,test
+C11243,33.0,arequipa,Prepago,Débito automático,18/01/2026,2014.0,39.0,3,20.85,24.2,0,0,,1,test
+C10579,39.0,Piura,Prepago,Yape/Plin,26/06/2023,4238.0,77.0,1,23.84,10.8,2,1,3.0,1,train
+C10481,25.0,Lima,Prepago,Efectivo,23/11/2025,2033.0,90.0,0,18.56,9.8,2,0,4.0,0,train
+C10931,64.0,Piura,Prepago,Débito automático,29/09/2023,6197.0,154.0,5,26.13,16.4,2,1,3.0,1,train
+C10356,55.0,Lima,Postpago Básico,Débito automático,11/01/2025,11910.0,315.0,0,72.48,37.8,1,1,4.0,0,train
+C11248,45.0,Lima,Postpago Básico,Yape/Plin,29/10/2022,10827.0,333.0,0,66.35,26.8,1,1,3.0,0,train
+C10759,,Piura,Prepago,Efectivo,01/02/2024,2042.0,13.0,4,13.13,11.8,2,2,2.0,1,train
+C10092,39.0,Junín,Prepago,Yape/Plin,12/07/2024,4512.0,142.0,1,21.74,17.8,2,4,3.0,1,train
+C11175,39.0,Lima,Postpago Ilimitado,Efectivo,27/11/2024,8394.0,284.0,0,102.09,25.0,2,2,4.0,0,train
+C11415,22.0,Lima,Postpago Básico,Débito automático,15/11/2025,26845.0,267.0,0,108.2,41.9,0,1,1.0,0,train
+C11341,34.0,LIMA,Prepago,Tarjeta,30/03/2026,5285.0,151.0,2,35.29,28.6,1,0,3.0,1,train
+C11472,36.0,Lima,Postpago Básico,Débito automático,17/06/2025,9443.0,239.0,0,59.09,32.4,0,4,2.0,0,train
+C10803,30.0,Lima,Postpago Ilimitado,Tarjeta,16/07/2026,7839.0,252.0,0,112.27,31.5,0,1,4.0,1,train
+C10745,34.0,Arequipa,Prepago,Efectivo,12/06/2023,3753.0,45.0,2,18.97,22.5,1,2,2.0,1,test
+C10279,37.0,Arequipa,Prepago,Yape/Plin,14/01/2026,2652.0,39.0,3,7.52,37.9,0,0,3.0,1,train
+C10764,29.0,Junín,Prepago,Efectivo,30/11/2023,9277.0,353.0,5,40.19,21.9,1,0,5.0,0,train
+C10604,42.0,Cusco,Prepago,,27/12/2024,1979.0,55.0,1,25.02,3.0,7,0,3.0,0,train
+C11422,31.0,Piura,Postpago Básico,Tarjeta,26/04/2024,5061.0,166.0,0,56.6,20.8,0,0,4.0,0,train
+C11373,42.0,La Libertad,Postpago Básico,Yape/Plin,15/09/2024,47365.0,404.0,0,122.72,7.8,1,1,2.0,0,train
+C11398,20.0,La Libertad,Prepago,Efectivo,17/03/2025,7220.0,189.0,4,36.12,19.7,1,0,2.0,1,train
+C10400,31.0,Lima,Postpago Básico,Tarjeta,31/01/2026,3200.0,196.0,0,57.52,23.1,0,1,3.0,0,test
+C10257,24.0,Junín,Postpago Básico,Yape/Plin,25/08/2023,7182.0,256.0,0,48.28,17.0,1,0,2.0,0,train
+C10944,34.0,Lima,Prepago,Tarjeta,10/09/2022,5608.0,270.0,5,29.86,20.7,1,0,3.0,0,test
+C11096,36.0,Cusco,Prepago,Débito automático,27/02/2021,1550.0,42.0,0,7.73,37.7,0,1,4.0,0,test
+C11219,18.0,Lima ,Prepago,Efectivo,30/01/2024,2506.0,217.0,3,22.32,31.2,2,0,4.0,0,test
+C11161,,Lima,Prepago,Tarjeta,15/08/2023,5480.0,158.0,1,29.13,19.3,2,2,3.0,0,test
+C10494,42.0,Cuzco,Prepago,Yape/Plin,12/04/2025,1112.0,5.0,1,23.17,15.2,3,4,,1,train
+C10772,24.0,La Libertad,Prepago,Débito automático,12/08/2022,3182.0,167.0,2,24.61,5.1,3,0,2.0,0,train
+C10550,37.0,Cusco,Prepago,Efectivo,24/03/2022,2630.0,95.0,1,20.11,18.4,2,2,,1,train
+C11486,49.0,Lima ,Prepago,Efectivo,30/09/2025,2966.0,77.0,3,22.69,23.5,0,0,4.0,0,train
+C10201,24.0,La Libertad,Prepago,Débito automático,13/04/2026,6728.0,278.0,2,38.86,14.2,1,3,4.0,1,train
+C10312,39.0,Arequipa,Postpago Ilimitado,Débito automático,16/01/2023,9287.0,249.0,0,92.77,28.8,3,1,4.0,0,train
+C10290,43.0,Arequipa,Postpago Básico,Efectivo,18/07/2022,3943.0,175.0,0,44.45,22.9,0,0,3.0,0,train
+C11213,39.0,Lima,PREPAGO,Yape/Plin,21/03/2025,14045.0,239.0,5,52.0,24.2,2,1,5.0,0,train
+C10763,36.0,La Libertad,Postpago Ilimitado,Efectivo,19/08/2026,9400.0,197.0,0,96.47,20.3,2,0,4.0,0,train
+C11136,46.0,La Libertad,Postpago Ilimitado,Tarjeta,10/08/2022,6222.0,152.0,0,104.65,22.8,0,0,,0,train
+C10949,32.0,Lima,Prepago,Tarjeta,17/08/2021,859.0,17.0,2,5.0,16.4,0,1,3.0,0,train
+C10183,30.0,Junín,Prepago,Efectivo,19/09/2020,4067.0,230.0,7,32.24,37.6,2,1,,0,train
+C11176,28.0,Piura,Prepago,Efectivo,19/11/2020,5282.0,207.0,2,30.88,19.6,2,1,3.0,0,train
+C11349,22.0,Lima,Prepago,Efectivo,15/06/2023,5774.0,205.0,5,39.13,28.1,1,0,4.0,0,test
+C11068,28.0,Lima,Postpago Básico,Tarjeta,22/11/2025,2601.0,100.0,0,49.3,19.1,1,2,1.0,1,test
+C11468,35.0,Junín,Postpago Básico,Yape/Plin,02/04/2025,5617.0,232.0,0,53.74,22.4,0,0,,0,test
+C11030,39.0,Lima,Prepago,Efectivo,21/10/2024,3040.0,114.0,2,34.15,27.8,1,3,2.0,1,test
+C10250,40.0,Junín,Prepago,Efectivo,17/06/2024,5321.0,33.0,4,,18.1,1,1,,0,train
+C10823,34.0,Piura,Prepago,Efectivo,23/03/2020,2879.0,190.0,4,,9.1,2,1,4.0,0,train
+C11099,38.0,Lima,Prepago,Débito automático,16/12/2025,2852.0,80.0,0,5.28,14.6,1,3,2.0,0,test
+C10940,,La Libertad,Prepago,Efectivo,02/04/2024,1163.0,20.0,3,19.93,17.9,3,1,3.0,1,train
+C10391,60.0,Lima,Prepago,Efectivo,11/03/2020,4831.0,167.0,2,27.68,31.3,0,0,4.0,0,train
+C11456,40.0,Lima,Postpago Básico,Tarjeta,15/03/2024,6648.0,180.0,0,56.04,27.0,1,1,3.0,0,test
+C11092,45.0,Lima,Postpago Ilimitado,,26/08/2025,9395.0,455.0,0,-105.8,20.9,0,0,,0,train
+C11191,40.0,Lima,Prepago,Efectivo,18/04/2026,2640.0,5.0,3,11.48,27.0,0,0,2.0,1,train
+C10904,18.0,Lima,Postpago Básico,Efectivo,26/10/2023,6819.0,217.0,0,56.13,21.7,3,1,4.0,0,train
+C10730,42.0,Arequipa ,Postpago Básico,Yape/Plin,21/06/2025,2839.0,123.0,0,60.07,22.6,0,1,3.0,0,train
+C10554,34.0,La Libertad,Prepago,Débito automático,19/11/2025,3405.0,99.0,5,18.06,14.2,1,0,,0,train
+C10366,18.0,Cuzco,Postpago Ilimitado,Efectivo,28/05/2025,8431.0,259.0,0,106.34,25.2,0,0,3.0,0,train
+C10345,37.0,Arequipa,Postpago Ilimitado,Tarjeta,29/09/2023,4244.0,188.0,0,83.55,28.4,1,0,3.0,0,train
+C10535,25.0,Lima,prepago,Efectivo,28/08/2023,3962.0,119.0,2,21.5,20.4,1,0,3.0,0,test
+C11422,31.0,Piura,Postpago Básico,Tarjeta,26/04/2024,5061.0,166.0,0,56.6,20.8,0,0,4.0,0,train
+C11209,19.0,La Libertad,Postpago Básico,Débito automático,02/03/2026,2305.0,318.0,0,52.49,17.4,2,1,2.0,0,train
+C11372,24.0,Lima,Prepago,Efectivo,09/07/2025,4120.0,136.0,1,24.91,19.8,2,0,4.0,0,train
+C10919,32.0,Piura,Prepago,Yape/Plin,21/09/2024,6338.0,129.0,0,30.99,7.5,0,2,,1,test
+C10211,29.0,La Libertad,Prepago,Débito automático,19/12/2024,4429.0,209.0,2,35.6,17.7,1,2,3.0,0,train
+C10502,33.0,Cusco,Prepago,Tarjeta,20/01/2026,9822.0,264.0,8,45.39,10.4,5,2,3.0,1,train
+C10537,40.0, Lima,Postpago Básico,Tarjeta,02/11/2019,5494.0,183.0,0,47.26,23.0,1,1,2.0,0,train
+C11220,33.0,Lima,Postpago Básico,Tarjeta,13/01/2026,6585.0,228.0,0,68.4,20.0,2,1,4.0,0,train
+C10175,46.0,Lima,Prepago,Débito automático,10/11/2024,6000.0,209.0,4,18.48,27.7,0,0,3.0,0,train
