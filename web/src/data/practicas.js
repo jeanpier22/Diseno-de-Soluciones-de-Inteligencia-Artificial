@@ -100,6 +100,74 @@ export const getPractica = (id) => PRACTICAS.find((p) => p.id === id)
  */
 export const MATERIAL_CLASE = [
   {
+    id: 'sesion1',
+    titulo: 'Sesión 1 · Regresión con ayuda de IA',
+    subtitulo: 'Prompts para Colab: de la regresión lineal a la polinómica',
+    estado: 'disponible',
+    tipo: 'Prompts',
+    extension: '10 prompts',
+    resumen: "Secuencia de prompts que se usó en clase, bajo supervisión del docente, para que el asistente de Colab construya un ejercicio completo: datos de edad y peso con un patrón conocido, división en entrenamiento y prueba, regresión lineal, tablas de error y regresión polinómica variando el grado de 1 a 10 para ver el sobreajuste.",
+    introPrompts: "Los prompts están escritos para ejecutarse en orden, en una misma sesión de Colab: cada uno usa las variables del anterior. Revisa siempre el código y el resultado antes de pasar al siguiente. Si algo falla, pega el error y pide la corrección en lugar de reescribir el prompt.",
+    objetivos: ["Generar datos sintéticos con un patrón conocido y visualizarlos con un diagrama de dispersión.", "Dividir los datos en entrenamiento (70 %) y prueba (30 %) y entrenar una regresión lineal.", "Calcular y comparar el error en entrenamiento y en prueba con MAE, MSE, RMSE y R².", "Ajustar una regresión polinómica, obtener su ecuación y comparar grados del 1 al 10.", "Reconocer el subajuste y el sobreajuste a partir de la curva de error contra el grado."],
+    temas: ['Regresión lineal', 'Regresión polinómica', 'Train/test', 'Error', 'Sobreajuste', 'Prompting'],
+    documento: null,
+    prompts: [
+      {
+        titulo: "Generar los datos de edad y peso",
+        prompt:
+          "Genera un DataFrame de pandas llamado df con 200 filas y dos columnas: \"edad\" (años, entre 0 y 18) y \"peso\" (kg). El peso debe seguir un patrón no lineal y realista: crece rápido en los primeros años y luego se desacelera. Construye el patrón con una función cuadrática o polinómica de la edad y súmale ruido gaussiano. Fija la semilla aleatoria (np.random.seed(42)) para que el resultado sea reproducible. Muestra df.head() y df.describe().",
+        nota: "El original pedía \"dos DF\"; aquí es un solo DataFrame con las dos variables, que es lo que necesita el resto de la sesión.",
+      },
+      {
+        titulo: "Graficar la dispersión",
+        prompt:
+          "Con matplotlib, grafica un diagrama de dispersión de edad (eje x) contra peso (eje y) usando df. Agrega título, etiquetas de ejes con unidades, cuadrícula suave y transparencia en los puntos (alpha=0.6). Después, en una línea, describe qué patrón se observa.",
+      },
+      {
+        titulo: "Dividir en entrenamiento y prueba",
+        prompt:
+          "Define X = df[[\"edad\"]] e y = df[\"peso\"]. Divide los datos con train_test_split en 70 % para entrenamiento y 30 % para prueba, con random_state=42. Nómbralos x_train, x_test, y_train, y_test e imprime el tamaño de cada uno.",
+      },
+      {
+        titulo: "Entrenar la regresión lineal",
+        prompt:
+          "Entrena un modelo LinearRegression de scikit-learn usando únicamente x_train e y_train. Imprime la pendiente (coef_) y el intercepto (intercept_), y escribe la ecuación en la forma peso = m·edad + b.",
+      },
+      {
+        titulo: "Graficar la recta del modelo con los puntos",
+        prompt:
+          "Grafica en una sola figura: los puntos de entrenamiento (azul), los puntos de prueba (naranja) y la recta que predice el modelo lineal sobre un rango de edades ordenado y continuo. Incluye leyenda, título y etiquetas de ejes.",
+      },
+      {
+        titulo: "Tabla de entrenamiento y error",
+        prompt:
+          "Calcula y_train_pred con el modelo. Crea una tabla (DataFrame) con tres columnas: \"y_train\" (real), \"y_train_pred\" (predicho) y \"diferencia\" (real − predicho). Muestra las primeras 10 filas. Luego calcula e imprime el error de entrenamiento con MAE, MSE, RMSE y R², explicando en una línea qué significa cada uno.",
+      },
+      {
+        titulo: "Predecir en prueba y comparar",
+        prompt:
+          "Predice y_test_pred con x_test. Crea la misma tabla (real, predicho, diferencia) para el conjunto de prueba y muestra las primeras 10 filas. Calcula MAE, MSE, RMSE y R² de prueba, y presenta una tabla comparativa con las métricas de entrenamiento y de prueba. Concluye si el modelo lineal generaliza bien.",
+      },
+      {
+        titulo: "Entrenar el modelo polinómico (sin graficar)",
+        prompt:
+          "Entrena una regresión polinómica de grado 2: usa un Pipeline con PolynomialFeatures(degree=2, include_bias=False) y LinearRegression, ajustado con x_train e y_train. No grafiques todavía; solo imprime las métricas MAE y R² en entrenamiento y en prueba.",
+        nota: "El original decía \"regresor logístico\". La regresión logística sirve para clasificar categorías; para predecir un peso (variable continua) y variar el grado se usa regresión polinómica, que es una regresión lineal sobre potencias de la edad.",
+      },
+      {
+        titulo: "Graficar la curva polinómica e imprimir la ecuación",
+        prompt:
+          "Grafica la curva que genera el modelo polinómico sobre un rango continuo de edades, junto con los puntos de entrenamiento y de prueba. Imprime la ecuación del modelo con coeficientes redondeados a 4 decimales, en la forma peso = b + c1·edad + c2·edad² (obtén los coeficientes del paso LinearRegression del pipeline).",
+      },
+      {
+        titulo: "Variar el grado de 1 a 10 y graficar el error",
+        prompt:
+          "Dentro de un bucle for, recorre los grados del 1 al 10. En cada iteración entrena el pipeline polinómico y calcula el RMSE de entrenamiento y el de prueba. Guarda los resultados en una tabla con las columnas \"grado\", \"rmse_train\" y \"rmse_test\". Grafica ambos errores contra el grado en una misma figura (con marcadores y leyenda) y marca con una línea vertical el grado que minimiza el error de prueba. Al final indica qué grado elegirías y explica, con lo que muestra la gráfica, dónde hay subajuste y dónde sobreajuste.",
+      },
+    ],
+    descargas: [],
+  },
+  {
     id: 'sesion3',
     titulo: 'Sesión 3 · Python, calidad de datos y EDA',
     subtitulo: 'Bloque 2 · Temas 4, 5 y 6',

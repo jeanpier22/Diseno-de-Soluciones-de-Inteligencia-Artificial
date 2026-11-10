@@ -2,6 +2,7 @@ import { Link, Navigate, useParams } from 'react-router-dom'
 import { ArrowLeft, BookText, CheckCircle2, Download, Target } from 'lucide-react'
 import Descargas from '../components/Descargas'
 import VisorPDF from '../components/VisorPDF'
+import Prompts from '../components/Prompts'
 import { getMaterial } from '../data/practicas'
 
 /**
@@ -56,11 +57,17 @@ export default function Material() {
 
         <div className="mt-7">
           <a
-            href="#descargas"
+            href={material.prompts ? '#prompts' : '#descargas'}
+            onClick={(e) => {
+              e.preventDefault()
+              document
+                .getElementById(material.prompts ? 'prompts' : 'descargas')
+                ?.scrollIntoView({ behavior: 'smooth' })
+            }}
             className="inline-flex items-center gap-2 rounded-xl bg-gradient-to-br from-brand-500 to-brand-700 px-5 py-2.5 text-sm font-bold text-white shadow-glow shadow-soft transition hover:-translate-y-0.5 hover:shadow-lift"
           >
             <Download className="h-4 w-4" />
-            Descargar
+            {material.prompts ? 'Ver los prompts' : 'Descargar'}
           </a>
         </div>
       </header>
@@ -73,6 +80,12 @@ export default function Material() {
             peso={material.documento.peso}
             descarga={material.descargas[0]?.nombre}
           />
+        </div>
+      )}
+
+      {material.prompts && (
+        <div className="mt-10">
+          <Prompts items={material.prompts} intro={material.introPrompts} />
         </div>
       )}
 

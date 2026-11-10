@@ -16,6 +16,10 @@ function BotonAncla({ href, icono: Icono, children, primario }) {
   return (
     <a
       href={href}
+      onClick={(e) => {
+        e.preventDefault()
+        document.getElementById(href.slice(1))?.scrollIntoView({ behavior: 'smooth' })
+      }}
       className={[
         'inline-flex items-center gap-2 rounded-xl px-5 py-2.5 text-sm font-bold shadow-soft transition hover:-translate-y-0.5 hover:shadow-lift',
         primario
