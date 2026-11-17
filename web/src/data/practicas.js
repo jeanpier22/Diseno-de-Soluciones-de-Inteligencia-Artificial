@@ -100,6 +100,52 @@ export const getPractica = (id) => PRACTICAS.find((p) => p.id === id)
  */
 export const MATERIAL_CLASE = [
   {
+    id: 'examen',
+    titulo: 'Examen · Bases de datos',
+    subtitulo: 'Regresión, clasificación y clustering',
+    estado: 'disponible',
+    tipo: 'Datasets',
+    extension: '3 bases de datos',
+    resumen:
+      'Tres bases de datos de 1 000 registros cada una para el examen: una para regresión lineal (el docente indica las parejas de columnas; en una de ellas no hay linealidad y debes justificarlo con la correlación), una para clasificación (entrenar, reportar el error y la matriz de confusión) y una para clustering.',
+    objetivos: [
+      'Aplicar regresión lineal a las parejas indicadas y decidir con el coeficiente de correlación si es válido hacerlo.',
+      'Entrenar un modelo de clasificación y reportar el error y la matriz de confusión.',
+      'Agrupar los clientes con clustering e interpretar los grupos obtenidos.',
+    ],
+    temas: ['Regresión lineal', 'Correlación', 'Clasificación', 'Matriz de confusión', 'Clustering'],
+    documento: null,
+    descargas: [
+      {
+        etiqueta: 'Dataset 1: regresión',
+        detalle: '1 000 filas y 8 columnas. Las parejas a usar las indica el docente',
+        archivo: 'material/examen/dataset1_regresion.csv',
+        nombre: 'dataset1_regresion.csv',
+        tipo: 'CSV',
+        peso: '50 KB',
+        destacado: true,
+      },
+      {
+        etiqueta: 'Dataset 2: clasificación',
+        detalle: '1 000 filas y 6 columnas. Variable objetivo: credito_aprobado',
+        archivo: 'material/examen/dataset2_clasificacion.csv',
+        nombre: 'dataset2_clasificacion.csv',
+        tipo: 'CSV',
+        peso: '26 KB',
+        destacado: true,
+      },
+      {
+        etiqueta: 'Dataset 3: clustering',
+        detalle: '1 000 filas y 4 columnas, sin etiqueta. Excluye id_cliente del modelo',
+        archivo: 'material/examen/dataset3_clustering.csv',
+        nombre: 'dataset3_clustering.csv',
+        tipo: 'CSV',
+        peso: '17 KB',
+        destacado: true,
+      },
+    ],
+  },
+  {
     id: 'sesion1',
     titulo: 'Sesión 1 · Regresión con ayuda de IA',
     subtitulo: 'Prompts para Colab: de la regresión lineal a la polinómica',
