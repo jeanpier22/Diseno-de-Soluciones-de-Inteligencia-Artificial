@@ -1,0 +1,2061 @@
+﻿id_socio,edad,sede,plan,meses_antiguedad,visitas_mes,clases_grupales_mes,cuota_mensual,peso_kg,talla_m,imc,pago_automatico,objetivo,fecha_inscripcion,quejas_6m,abandono
+S11706,29.0,Callao,Estándar,1.0,10.0,4,109.0,63.5,1.74,21.0,No,Ganar músculo,2025-01-06,0,1
+S10110,24.0,Surco,Estándar,1.0,6.0,2,119.0,68.8,1.68,,Sí,Bajar de peso,15/01/2024,0,0
+S11464,30.0,San Borja,BÁSICO,14.0,7.0,0,79.0,51.6,1.72,17.4,No,Bajar de peso,16/12/2022,0,0
+S10196,17.0,Surco,Básico,9.0,7.0,3,79.0,76.8,1.82,23.2,No,Ganar músculo,10/03/2022,0,0
+S10572,29.0,San Borja,Básico,10.0,,4,79.0,66.7,1.59,26.4,No,Ganar músculo,20/06/2024,0,0
+S11533,21.0,San Borja,Estándar,6.0,2.0,4,119.0,57.3,1.68,20.3,Sí,,13/09/2025,0,0
+S10975,31.0,Surco,Estándar,18.0,8.0,4,109.0,84.7,1.78,26.7,Sí,Bajar de peso,15/09/2025,0,0
+S10492,19.0,Lima Centro,Premium,2.0,10.0,0,169.0,70.4,1.7,24.4,Sí,,13-03-22,0,0
+S11127,39.0,Lima Centro,Estándar,16.0,9.0,4,109.0,88.4,1.63,33.3,No,Competencia,15/02/2025,1,0
+S11470,16.0,Miraflores,Estándar,58.0,15.0,2,119.0,75.0,1.72,25.4,Sí,,06-06-24,2,0
+S10360,52.0,Callao,Premium ,9.0,7.0,1,179.0,54.1,1.63,20.4,No,Salud general,31/03/2022,1,0
+S10430,47.0,miraflores,ESTÁNDAR,2.0,14.0,3,119.0,67.6,1.76,21.8,No,Salud general,21/02/2023,1,1
+S10328,26.0,Surco,Básico,46.0,10.0,3,69.0,,1.78,22.9,Sí,Ganar músculo,2023-04-05,0,0
+S10565,34.0,Los Olivos,Estándar,40.0,9.0,1,119.0,74.3,1.65,27.3,Sí,Salud general,16/09/2023,0,0
+S10957,40.0,San Borja,Estándar,5.0,9.0,2,119.0,79.8,1.84,23.6,Sí,Ganar músculo,10/05/2024,0,1
+S10755,30.0,Callao,básico,1.0,16.0,2,79.0,67.4,1.72,,No,Ganar músculo,17/01/2022,0,0
+S11606,25.0,San Borja,Estándar,6.0,3.0,0,109.0,68.0,1.56,27.9,Sí,Salud general,26/09/2025,2,0
+S11303,33.0,Miraflores,Básico,29.0,6.0,1,69.0,80.0,1.53,34.2,Sí,Bajar de peso,14/02/2023,0,0
+S10875,44.0,Miraflores,Premium,1.0,8.0,1,169.0,86.5,1.72,29.2,Sí,,19/04/2024,2,1
+S11807,27.0,San Borja,Estándar,34.0,9.0,5,119.0,58.3,1.72,19.7,Sí,Ganar músculo,29/05/2023,0,0
+S11543,37.0,Callao,Estándar,12.0,6.0,8,119.0,76.8,1.66,27.9,No,Ganar músculo,2023-04-12,1,1
+S11085,30.0,Surco,Básico,39.0,12.0,2,79.0,85.8,1.6,,Sí,Bajar de peso,2025-07-27,1,1
+S10901,16.0,Miraflores,Básico,6.0,4.0,4,79.0,72.1,1.78,22.8,Sí,,2023-08-07,0,0
+S10640,32.0,Los Olivos,Estándar,38.0,4.0,4,129.0,60.9,1.61,23.5,No,Salud general,19/05/2024,1,1
+S10593,25.0,San Borja,Básico,15.0,6.0,2,79.0,77.2,1.77,24.6,No,Salud general,17-04-25,0,0
+S11313,29.0,Los Olivos,Premium,1.0,10.0,1,169.0,80.5,1.67,28.9,Sí,Bajar de peso,2025-08-19,0,0
+S11789,51.0,Miraflores,Estándar,6.0,9.0,2,109.0,60.0,1.76,19.4,No,Salud general,13/12/2023,0,0
+S11883,26.0,Lima Centro,Básico,34.0,14.0,3,89.0,76.1,1.73,25.4,Sí,Bajar de peso,28/10/2025,0,1
+S11518,48.0,LIMA CENTRO,Premium,26.0,3.0,2,159.0,88.4,1.77,28.2,No,,28/02/2023,0,0
+S11494,16.0,Los Olivos,Básico,26.0,,0,79.0,87.8,1.63,33.0,No,Bajar de peso,2022-04-28,1,0
+S11264,37.0, Callao,Estándar,60.0,16.0,0,119.0,54.4,1.6,,si,Salud general,2023-02-27,0,0
+S10817,33.0,San Borja,Básico,1.0,10.0,1,79.0,62.6,1.46,29.4,Sí,Bajar de peso,2023-06-12,0,0
+S11780,16.0,Surco,Premium,12.0,8.0,5,169.0,67.0,1.75,21.9,No,Bajar de peso,2025-02-23,0,1
+S11908,46.0,Lima Centro,Básico,8.0,11.0,5,79.0,66.2,1.68,23.5,Sí,Bajar de peso,22/12/2022,0,0
+S11177,27.0,Surco,Premium,15.0,7.0,2,S/ 169,69.8,1.7,24.2,Sí,Competencia,20/07/2022,1,0
+S11118,20.0,Surco,Estándar,11.0,7.0,3,129.0,90.8,1.75,29.6,Sí,Ganar músculo,2024-12-05,0,0
+S11948,42.0,Callao,Estándar,18.0,15.0,3,129.0,78.8,1.45,37.5,Sí,Ganar músculo,2025-09-27,0,0
+S10927,25.0,Surco,Premium,8.0,7.0,4,179.0,78.9,1.64,29.3,Sí,Ganar músculo,30/11/2024,0,0
+S11751,34.0,Lima Centro,Estándar,2.0,,4,119.0,87.7,1.64,32.6,No,,27/10/2025,0,0
+S10204,35.0,MIRAFLORES,Estándar,22.0,5.0,3,129.0,82.2,1.78,25.9,Sí,Bajar de peso,2022-12-08,0,0
+S11594,32.0,Callao,Básico,41.0,7.0,2,79.0,93.0,1.67,33.3,No,Bajar de peso,2025-03-27,1,0
+S10172,25.0,Callao,Básico,28.0,,2,79.0,,1.64,26.3,No,Competencia,2022-01-09,4,0
+S10527,30.0,Lima Centro,Estándar,14.0,5.0,0,109.0,56.5,1.6,22.1,No,,28/11/2024,0,0
+S11162,,Lima Centro,estándar,3.0,8.0,1,119.0,72.7,1.73,24.3,Sí,Bajar de peso,17/08/2025,0,0
+S10887,28.0,Los Olivos,Básico,10.0,5.0,5,89.0,87.3,1.64,32.5,No,Salud general,03-07-24,0,0
+S11958,29.0,Callao,Estándar,19.0,5.0,2,119.0,67.6,1.59,26.7,Sí,,21/09/2025,1,0
+S11078,36.0,Los Olivos,Premium,9.0,7.0,1,179.0,,1.67,22.9,Sí,Salud general,24/04/2022,0,0
+S11382,25.0,Lima Centro,Básico ,2.0,11.0,2,79.0,79.2,1.5,35.2,No,Bajar de peso,17/07/2023,0,0
+S11977,38.0,Miraflores,Premium,7.0,10.0,4,169.0,78.2,1.57,31.7,No,Ganar músculo,05-12-24,0,0
+S10140,47.0,San Borja,Estándar,39.0,4.0,4,109.0,89.7,1.67,32.2,Sí,,2025-01-17,1,0
+S10185,43.0,Callao,Estándar,3.0,6.0,3,119.0,71.8,1.45,34.1,No,Bajar de peso,2023-08-15,0,1
+S11813,17.0,Miraflores,Básico,3.0,6.0,4,69.0,69.7,1.58,27.9,No,,06/11/2023,0,0
+S11886,37.0,Lima Centro,Estándar,6.0,12.0,0,119.0,74.5,1.7,,Sí,Bajar de peso,06/07/2023,1,1
+S11426,38.0,San Borja,Básico,8.0,4.0,2,69.0,74.0,1.83,22.1,No,Salud general,11/01/2026,2,1
+S11628,30.0,LOS OLIVOS,Básico,17.0,13.0,2,69.0,74.0,1.75,24.2,No,Bajar de peso,29/08/2024,2,0
+S11640,,san borja,Básico,13.0,14.0,5,79.0,65.5,1.66,23.8,Sí,Bajar de peso,05-03-23,0,0
+S10241,42.0,Miraflores,Premium,8.0,,3,159.0,,1.74,21.0,Sí,Bajar de peso,15/03/2022,0,0
+S10544,49.0,Lima Centro,Premium,16.0,5.0,4,179.0,84.1,1.68,29.8,No,Bajar de peso,2022-05-16,1,0
+S10674,29.0,Miraflores,Estándar,13.0,4.0,3,109.0,73.4,1.73,24.5,No,Salud general,2025-01-24,1,1
+S11037,43.0,Surco,Premium,5.0,9.0,1,179.0,77.2,1.87,22.1,No,Ganar músculo,04/02/2023,2,1
+S10447,22.0,Miraflores,Básico,13.0,6.0,2,79.0,55.8,1.75,18.2,No,Competencia,09/09/2024,0,0
+S10840,30.0,San Borja,Estándar,12.0,5.0,2,129.0,81.4,1.86,23.5,Sí,Bajar de peso,2023-12-24,1,0
+S11508,20.0,Miraflores,Estándar,10.0,,3,109.0,59.1,1.74,19.5,No,Bajar de peso,2024-11-26,0,1
+S10002,16.0,Los Olivos,Estándar,40.0,10.0,3,119.0,64.5,1.73,21.6,No,Bajar de peso,18/05/2023,2,0
+S11425,36.0,Miraflores,Estándar,3.0,9.0,2,129.0,100.5,1.59,39.8,Sí,Bajar de peso,26/02/2024,1,0
+S10375,32.0,Los Olivos,Premium,6.0,9.0,4,169.0,53.1,1.56,21.8,Sí,Salud general,21/01/2025,0,1
+S10372,31.0,Surco,Estándar,2.0,5.0,2,109.0,,1.53,,Sí,,2022-04-21,0,0
+S10955,40.0,Miraflores,Básico,1.0,3.0,3,89.0,46.5,1.7,16.1,Sí,Competencia,24/07/2025,0,1
+S10108,37.0, Surco,Estándar,2.0,12.0,4,119.0,67.6,1.67,24.2,no,Salud general,2023-12-17,0,1
+S10816,,San Borja,Estándar,14.0,5.0,3,129.0,60.5,1.71,20.7,No,Ganar músculo,2023-12-26,1,1
+S11828,23.0,Surco,Estándar,16.0,7.0,3,109.0,81.6,1.61,31.5,No,Salud general,2022-02-06,0,0
+S11301,34.0,Surco,Estándar,33.0,5.0,4,109.0,69.1,1.48,,No,Ganar músculo,08/11/2024,1,0
+S10892,38.0,Miraflores,Estándar,3.0,10.0,1,109.0,65.8,1.72,22.2,Sí,Salud general,2026-01-04,0,0
+S10610,19.0,Surco,Básico,14.0,13.0,0,89.0,70.5,1.45,33.5,Sí,Bajar de peso,21/02/2023,0,0
+S11787,17.0,Miraflores,básico,9.0,7.0,0,89.0,65.3,1.62,24.9,No,,14/12/2025,2,1
+S10071,25.0,Los Olivos,Estándar,7.0,7.0,1,119.0,71.4,1.85,20.9,Sí,Salud general,01-05-24,0,0
+S10192,,SURCO,Básico,43.0,3.0,2,79.0,78.7,1.64,29.3,SI,Ganar músculo,26/08/2023,1,0
+S11273,,Miraflores,Estándar,13.0,6.0,2,109.0,101.4,1.55,42.2,No,,13/04/2023,1,1
+S10034,23.0,lima centro,Premium,8.0,7.0,3,169.0,75.9,1.55,31.6,Sí,Competencia,2025-08-13,0,0
+S10386,26.0,Lima Centro,Básico,3.0,11.0,2,89.0,77.7,1.62,29.6,No,Bajar de peso,10-11-25,0,0
+S10037,27.0,Surco,Premium,3.0,1.0,3,169.0,73.4,1.78,23.2,Sí,Ganar músculo,2023-07-10,2,0
+S11813,17.0,Miraflores,Básico,3.0,6.0,4,69.0,69.7,1.58,27.9,No,,06/11/2023,0,0
+S10056,29.0,Surco,Estándar,38.0,9.0,3,129.0,89.3,1.76,28.8,Sí,Bajar de peso,2023-05-09,1,0
+S10895,23.0,Callao,Estandar,4.0,15.0,3,129.0,55.1,1.83,16.5,No,Salud general,09/08/2022,0,0
+S10754,47.0,Callao,Básico,12.0,,2,79.0,92.3,1.81,28.2,No,Ganar músculo,2022-10-09,1,1
+S10903,37.0,Lima Centro,Estándar,12.0,6.0,0,S/ 119,93.7,1.78,29.6,Sí,Bajar de peso,2025-10-07,0,1
+S11794,37.0,Surco,Premium,1.0,9.0,3,179.0,65.3,1.65,24.0,Sí,Salud general,20/04/2023,1,0
+S11039,25.0,Lima Centro,Estándar,6.0,6.0,4,109.0,69.4,1.77,22.2,Sí,Competencia,22/08/2023,0,1
+S11934,35.0,Surco,Básico,37.0,2.0,1,79.0,83.5,1.71,28.6,No,Salud general,02/03/2024,0,0
+S11684,43.0,Miraflores,Estándar,14.0,12.0,1,129.0,65.8,1.69,23.0,Sí,Bajar de peso,2025-12-21,1,0
+S11225,25.0,San Borja,Básico,14.0,18.0,1,69.0,72.6,1.79,22.7,No,Bajar de peso,2022-11-13,0,0
+S11446,23.0,Miraflores,Estándar,10.0,10.0,3,129.0,65.1,1.64,24.2,No,Bajar de peso,2023-07-25,1,1
+S10415,27.0,Surco,Estándar,13.0,4.0,5,119.0,78.7,1.72,26.6,Sí,Bajar de peso,01/08/2023,0,0
+S10507,16.0,Miraflores,Estándar,46.0,,1,119.0,90.5,1.73,30.2,Sí,Ganar músculo,23/01/2022,0,0
+S11479,39.0,Surco,Premium,9.0,6.0,1,169.0,85.1,1.69,29.8,No,Bajar de peso,25/12/2025,0,1
+S10127,48.0,Miraflores,Estándar,32.0,9.0,5,119.0,51.6,1.83,15.4,Sí,Salud general,28/07/2022,0,0
+S10504,22.0,SURCO,Básico,38.0,5.0,2,79.0,54.3,1.56,22.3,Sí,,20/08/2025,0,1
+S11976,,Miraflores,Básico,19.0,,2,69.0,,1.52,34.1,Sí,Bajar de peso,20/08/2025,1,0
+S10630,35.0,San Borja,Básico,7.0,16.0,2,79.0,,1.63,35.3,Sí,Ganar músculo,26/05/2024,0,0
+S11509,30.0,Surco,Básico,6.0,6.0,2,79.0,65.8,1.64,24.5,Sí,Salud general,01/05/2024,0,0
+S11587,38.0,Lima Centro,Básico,500.0,15.0,4,79.0,70.7,1.64,26.3,Sí,Salud general,11/01/2025,0,0
+S11821,21.0,Surco,Premium,14.0,3.0,2,169.0,64.1,1.74,21.2,Sí,Bajar de peso,07/12/2025,2,1
+S11734,31.0,San Borja,Estándar,31.0,5.0,3,119.0,67.0,1.55,27.9,Sí,Ganar músculo,06/06/2024,0,0
+S10660,25.0,Los Olivos,Premium,1.0,6.0,1,159.0,89.6,1.77,28.6,Sí,,12/03/2022,2,1
+S11906,20.0,Lima Centro,Básico,60.0,13.0,2,79.0,68.1,1.75,22.2,No,Bajar de peso,14/02/2023,1,0
+S10795,44.0,Miraflores,Basico,6.0,12.0,1,79.0,51.8,1.77,16.5,No,Salud general,19/03/2025,1,1
+S10217,,Callao,Estándar,10.0,7.0,1,109.0,66.2,1.58,26.5,Sí,Bajar de peso,2024-07-29,0,0
+S10396,29.0,Los Olivos,Estándar,9.0,10.0,2,119.0,79.8,1.66,29.0,Sí,Ganar músculo,29/07/2024,0,0
+S10881,48.0,Callao,Básico,1.0,,6,79.0,68.0,1.66,24.7,No,Ganar músculo,09/02/2024,0,0
+S10674,29.0,Miraflores,Estándar,13.0,4.0,3,109.0,73.4,1.73,24.5,No,Salud general,2025-01-24,1,1
+S11441,40.0,San Borja,Estándar,21.0,5.0,5,119.0,84.7,1.71,29.0,Sí,Competencia,11/11/2023,0,0
+S10596,40.0,surco,premium,6.0,9.0,1,179.0,61.7,1.65,22.7,Sí,Ganar músculo,2024-06-22,0,0
+S10976,32.0,Los Olivos,Estándar,10.0,8.0,1,109.0,74.9,1.61,28.9,Sí,,16/01/2024,1,0
+S10804,39.0,Lima Centro,Estándar,19.0,7.0,3,119.0,45.0,1.75,14.7,No,Bajar de peso,2023-03-13,0,1
+S10479,38.0,San Borja,Básico,6.0,7.0,0,89.0,57.1,1.69,20.0,No,Bajar de peso,09/09/2024,0,0
+S10412,52.0, San Borja,Básico,1.0,9.0,3,79.0,68.0,1.57,27.6,S,Bajar de peso,04/03/2023,2,0
+S11048,43.0,Los Olivos,Básico,11.0,7.0,3,69.0,103.5,1.63,39.0,No,Ganar músculo,01/08/2025,0,1
+S11810,37.0,Los Olivos,Estándar,22.0,15.0,2,119.0,45.0,1.53,19.2,No,Bajar de peso,11/11/2024,0,0
+S10350,21.0,Los Olivos,Premium,7.0,,2,169.0,76.2,1.63,28.7,Sí,Bajar de peso,2023-10-12,0,0
+S10744,41.0,Miraflores,Estándar,8.0,9.0,3,119.0,97.7,1.72,33.0,Sí,Salud general,02/01/2025,1,0
+S10561,37.0,Lima Centro,Estándar,14.0,13.0,2,129.0,86.6,1.58,34.7,No,,05/12/2025,0,0
+S11950,20.0,Los Olivos,Estándar,6.0,10.0,6,119.0,49.8,1.73,16.6,si,Salud general,26/04/2024,1,0
+S11816,32.0,San Borja,Básico,10.0,10.0,2,89.0,88.6,1.76,28.6,No,Ganar músculo,28-01-25,1,1
+S11825,27.0,Surco,PREMIUM,1.0,12.0,0,169.0,77.0,1.65,28.3,Sí,Salud general,03/11/2023,1,0
+S10339,16.0, Miraflores,Básico,7.0,9.0,3,69.0,96.6,1.51,42.4,Sí,Bajar de peso,27-06-23,2,0
+S11157,33.0,Callao,Premium,5.0,10.0,1,169.0,79.6,1.74,26.3,no,,28-06-23,1,1
+S10259,18.0,San Borja,Estándar,15.0,11.0,3,129.0,,1.5,35.3,Sí,Bajar de peso,2022-05-01,1,0
+S11955,23.0,Miraflores,Estándar,21.0,7.0,4,129.0,54.5,1.83,16.3,No,Ganar músculo,20/05/2024,0,0
+S10869,23.0,Surco,Básico,16.0,8.0,4,89.0,80.2,1.6,31.3,Sí,Salud general,30/11/2025,0,0
+S11874,,San Borja,Básico,5.0,4.0,2,79.0,78.0,1.76,25.2,No,Bajar de peso,2025-03-28,0,1
+S10788,19.0,Surco,Premium,8.0,8.0,3,169.0,61.8,1.85,18.1,No,,2023-10-07,0,1
+S10506,45.0,Los Olivos,Básico,16.0,11.0,1,79.0,86.7,1.62,33.0,Sí,Ganar músculo,06/02/2026,2,0
+S11278,32.0,Miraflores,Básico,6.0,4.0,3,S/ 1690,71.3,1.72,24.1,Sí,Bajar de peso,21/06/2024,0,0
+S11417,27.0,Surco,básico,1.0,10.0,1,89.0,73.6,1.63,27.7,Sí,Bajar de peso,08/05/2025,2,1
+S10058,45.0,Los Olivos,Básico,1.0,9.0,0,89.0,73.1,168.0,24.7,Sí,Bajar de peso,03/02/2026,1,1
+S10325,30.0,Surco,Estándar,8.0,5.0,1,S/ 129,54.8,1.76,17.7,Sí,Salud general,2024-03-08,0,1
+S11534,25.0,San Borja,Básico,9.0,4.0,5,79.0,,1.7,26.2,No,Competencia,2025-12-24,0,1
+S11583,21.0,Surco,Estándar,2.0,9.0,1,119.0,52.9,1.8,16.3,No,Bajar de peso,07/02/2025,0,0
+S10740,45.0, Lima Centro,Básico,21.0,8.0,1,79.0,55.2,1.65,20.3,Sí,Salud general,2024-02-28,0,0
+S10681,36.0,Lima Centro,Estándar,4.0,10.0,4,129.0,95.6,1.87,27.3,No,Bajar de peso,14-07-22,1,0
+S11806,16.0,Los Olivos,Premium,9.0,13.0,0,169.0,72.0,1.62,27.4,No,,31/10/2024,2,1
+S10858,20.0,Surco,Básico,6.0,8.0,2,79.0,70.0,1.62,26.7,Sí,Salud general,25/01/2022,0,0
+S11309,16.0,Los Olivos,Estándar,20.0,7.0,1,119.0,74.2,1.67,26.6,Sí,Salud general,2025-01-31,1,0
+S10278,22.0,LOS OLIVOS,Premium,1.0,7.0,4,179.0,97.2,1.58,38.9,Sí,,29/12/2022,0,0
+S10669,29.0,Lima Centro,Estándar,26.0,11.0,2,129.0,76.3,1.59,30.2,No,,26/06/2023,0,0
+S10928,24.0,miraflores,Básico,3.0,5.0,5,89.0,78.1,1.71,,Sí,Ganar músculo,17/12/2022,0,0
+S11343,36.0,Callao,Estándar,34.0,,3,129.0,77.5,1.59,30.7,No,,26/09/2023,1,1
+S10007,35.0,Lima Centro,Estándar,26.0,12.0,2,119.0,62.7,1.6,,No,Salud general,20/07/2024,0,0
+S11819,31.0,Surco,Básico ,8.0,10.0,1,89.0,70.7,1.56,29.1,No,Bajar de peso,08/07/2023,0,1
+S10200,34.0,Lima Centro,Estándar,3.0,11.0,3,109.0,68.0,1.57,27.6,No,Ganar músculo,29/10/2024,1,0
+S11420,34.0,Callao,Estándar ,26.0,9.0,2,129.0,,1.67,31.1,Sí,Bajar de peso,2024-07-19,1,0
+S11025,39.0,Lima Centro,Premium,7.0,15.0,1,179.0,53.5,1.53,22.9,Sí,Ganar músculo,31/10/2025,0,0
+S11318,31.0,San Borja,Estándar,1.0,13.0,4,109.0,80.6,1.73,26.9,No,Competencia,25/02/2022,1,0
+S10142,33.0,Lima Centro,Básico,1.0,8.0,0,69.0,69.9,1.66,25.4,No,Ganar músculo,28/03/2025,1,1
+S11595,44.0,Callao,Estándar,1.0,14.0,4,119.0,100.2,1.55,41.7,No,Salud general,08/06/2022,1,0
+S10020,27.0,Los Olivos,Básico,9.0,2.0,0,79.0,74.2,1.94,19.7,Sí,Bajar de peso,07/08/2023,0,1
+S11238,38.0,Los Olivos,Estándar,10.0,10.0,5,129.0,51.3,1.74,16.9,No,Ganar músculo,08/05/2025,0,0
+S10206,27.0,Lima Centro,Básico,33.0,7.0,3,69.0,72.6,1.53,31.0,Sí,Bajar de peso,2023-07-11,0,0
+S11513,41.0,San Borja,Premium,5.0,15.0,2,179.0,71.2,1.6,27.8,No,Salud general,11-01-25,0,0
+S10899,38.0,Lima Centro,Básico,11.0,8.0,3,69.0,54.6,1.49,24.6,Sí,Salud general,2025-07-02,1,0
+S11374,23.0,Miraflores,Estándar,11.0,5.0,2,129.0,64.1,1.65,,No,Ganar músculo,2024-08-20,0,0
+S10450,30.0,Surco,Estándar,14.0,9.0,1,109.0,50.1,1.59,19.8,NO,Ganar músculo,26/10/2023,0,0
+S11123,38.0,Miraflores ,Estándar,12.0,15.0,3,119.0,71.2,1.74,23.5,No,Salud general,21/11/2024,0,0
+S10848,18.0,Los Olivos,Básico,7.0,4.0,2,69.0,71.5,1.69,25.0,Sí,Salud general,2024-01-09,0,1
+S11450,,Surco,Básico,34.0,6.0,3,89.0,107.2,1.59,42.4,Sí,Bajar de peso,01/01/2024,1,0
+S11698,,Surco,Básico,6.0,9.0,1,79.0,68.5,1.72,23.2,Sí,Salud general,03/05/2024,0,0
+S10361,26.0,Surco,Premium,14.0,3.0,3,169.0,72.7,1.64,27.0,Sí,,2025-12-07,1,1
+S11149,30.0,Surco,Básico,3.0,8.0,1,89.0,65.5,1.48,29.9,Sí,Bajar de peso,29/10/2024,0,1
+S10687,24.0,los olivos,Premium,16.0,9.0,3,169.0,45.0,1.74,14.9,si,Salud general,2024-08-09,0,0
+S11221,43.0,Surco,básico,10.0,,3,79.0,72.2,1.81,22.0,No,Ganar músculo,2024-05-20,1,0
+S10455,16.0,Surco,Estándar,15.0,8.0,3,119.0,66.7,1.71,22.8,No,,06/03/2023,0,0
+S11423,31.0,San Borja,Básico,40.0,14.0,5,79.0,76.8,1.79,24.0,No,Salud general,02/02/2025,0,0
+S11967,34.0,Surco,Básico,17.0,7.0,2,79.0,,1.58,29.0,No,Salud general,28/11/2025,0,0
+S11666,19.0,Surco,PREMIUM,2.0,7.0,2,179.0,900.0,1.62,36.1,No,,01/02/2022,0,0
+S10701,28.0,Miraflores,Estándar,27.0,3.0,2,109.0,51.3,1.7,17.8,Sí,Bajar de peso,21-02-23,1,1
+S11469,23.0,Miraflores,Básico,11.0,5.0,3,69.0,79.7,1.64,29.6,Sí,Ganar músculo,29/04/2024,0,0
+S11167,34.0,San Borja,Estándar,1.0,10.0,0,109.0,86.3,1.56,35.5,no,Salud general,21/02/2022,0,0
+S10587,16.0,Surco,Básico,6.0,,3,S/ 79,75.8,1.74,25.0,Sí,Bajar de peso,14/10/2024,0,0
+S11296,27.0,Los Olivos,Estándar,7.0,9.0,2,129.0,84.4,1.58,33.8,No,Salud general,29/05/2022,2,0
+S11122,42.0,surco,Estándar,19.0,11.0,3,119.0,87.9,1.58,35.2,Sí,Bajar de peso,30/10/2024,1,0
+S11405,41.0,Miraflores,Premium,3.0,14.0,2,169.0,88.4,1.67,31.7,No,Bajar de peso,2022-08-02,0,0
+S11851,32.0,Callao,Estándar,26.0,,2,119.0,75.5,1.57,30.6,Sí,Bajar de peso,06/12/2022,2,1
+S10441,37.0,Los Olivos,Básico,1.0,9.0,4,79.0,56.4,1.62,21.5,No,,28/07/2022,0,0
+S11791,37.0,Callao,Básico,11.0,4.0,3,69.0,79.5,1.57,32.3,No,Salud general,2023-03-20,0,0
+S11233,30.0,San Borja,Estándar,8.0,3.0,1,119.0,62.0,1.87,17.7,Sí,Bajar de peso,2025-01-30,0,1
+S10556,37.0,Miraflores,Estándar,6.0,9.0,1,119.0,74.4,1.81,22.7,Sí,,2025-02-06,1,0
+S11737,16.0,Miraflores,Premium,9.0,7.0,2,169.0,,1.6,35.5,No,Salud general,02-02-26,1,1
+S11797,33.0,Lima Centro,Básico,310.0,5.0,2,79.0,73.0,1.78,23.0,No,Salud general,29/10/2022,0,1
+S10051,40.0,Surco,Básico,7.0,6.0,2,69.0,81.6,1.65,30.0,Sí,Bajar de peso,25/07/2023,0,0
+S10036,27.0,Callao,Básico,31.0,8.0,3,79.0,,1.59,30.9,No,Bajar de peso,04/09/2025,1,1
+S10945,31.0, Los Olivos,Premium,4.0,7.0,0,169.0,60.3,1.76,19.5,Sí,Salud general,2022-08-15,1,0
+S11889,27.0,San Borja,Estándar,15.0,8.0,1,109.0,69.0,1.62,26.3,No,Ganar músculo,22/10/2025,1,1
+S11178,36.0,Callao,Estándar,2.0,11.0,3,109.0,63.0,1.92,17.1,no,Bajar de peso,28/05/2024,0,1
+S11876,27.0,Miraflores,Básico,10.0,4.0,2,79.0,62.8,1.73,21.0,No,Bajar de peso,31/07/2025,0,0
+S11929,16.0,Surco,Estándar,8.0,5.0,3,129.0,75.3,1.68,26.7,No,Bajar de peso,03/04/2023,0,0
+S11688,38.0,Los Olivos,Premium,12.0,,2,179.0,81.2,1.65,29.8,Sí,Ganar músculo,2023-04-16,0,0
+S11968,33.0,Surco,Básico,20.0,7.0,3,89.0,73.9,1.69,25.9,Sí,,2023-09-05,1,0
+S10845,44.0,San Borja,Premium,1.0,6.0,2,169.0,60.4,1.74,19.9,No,Salud general,07/09/2025,0,1
+S10606,32.0,Surco,Estándar,30.0,4.0,1,109.0,,1.56,25.8,Sí,,17/12/2024,0,0
+S11348,32.0,San Borja,Básico,1.0,6.0,6,79.0,93.9,1.69,32.9,No,Bajar de peso,10/05/2023,0,0
+S11190,50.0,San Borja,Básico,2.0,8.0,1,79.0,66.1,1.9,18.3,si,Bajar de peso,2022-03-17,0,1
+S11912,26.0,Callao,Básico,6.0,13.0,4,89.0,69.0,1.83,20.6,No,Bajar de peso,31/12/2022,1,0
+S11740,16.0,Surco,Básico,5.0,11.0,1,79.0,86.8,1.75,28.3,Sí,Salud general,18/01/2026,0,0
+S10637,42.0,Miraflores,Básico,18.0,3.0,2,69.0,52.1,1.7,18.0,S,Bajar de peso,08/03/2022,0,0
+S11578,16.0,Miraflores,Premium,24.0,11.0,1,159.0,89.2,1.78,28.2,No,Salud general,29/03/2023,0,0
+S11260,24.0,Miraflores,Estándar,1.0,8.0,2,119.0,,1.65,23.0,Sí,Salud general,14/11/2022,0,0
+S11269,37.0,San Borja,Básico,11.0,9.0,1,89.0,72.2,1.72,24.4,Sí,Bajar de peso,15/03/2025,0,0
+S10146,47.0,Lima Centro,Premium ,1.0,5.0,0,169.0,53.0,1.6,20.7,Sí,Salud general,2026-01-11,0,1
+S10410,27.0,Miraflores,estándar,3.0,6.0,3,129.0,58.8,1.67,21.1,No,Bajar de peso,23/04/2022,1,0
+S10918,29.0,San Borja,Estándar,1.0,7.0,2,129.0,58.4,1.67,20.9,Sí,Competencia,22/12/2024,0,0
+S11317,50.0,Lima Centro,Básico,4.0,12.0,2,89.0,63.5,1.47,29.4,Sí,Bajar de peso,19/01/2026,1,0
+S10666,16.0, Surco,Estándar,18.0,6.0,2,129.0,68.3,1.73,22.8,Sí,Salud general,17/09/2025,0,0
+S11201,35.0,Surco,Estándar,7.0,5.0,3,109.0,92.5,1.78,29.2,si,Ganar músculo,11/06/2025,0,0
+S10300,,Los Olivos,Premium,14.0,5.0,3,169.0,59.9,1.67,21.5,No,Bajar de peso,20/10/2022,1,1
+S10375,32.0,Los Olivos,Premium,6.0,9.0,4,169.0,53.1,1.56,21.8,Sí,Salud general,21/01/2025,0,1
+S10888,46.0,Surco,Básico,3.0,12.0,3,69.0,74.1,1.64,27.6,Sí,Bajar de peso,2022-10-31,0,0
+S11907,33.0,Los Olivos,BÁSICO,9.0,3.0,2,89.0,82.3,1.65,30.2,No,Salud general,13/02/2025,0,0
+S10229,30.0,San Borja,Estándar,17.0,13.0,2,S/ 119,86.4,1.59,34.2,Sí,,30-11-24,0,0
+S11552,16.0,San Borja,Básico,4.0,9.0,2,79.0,66.7,1.82,20.1,No,Salud general,15/01/2026,2,1
+S11831,,Los Olivos,Básico,9.0,10.0,2,89.0,84.1,1.77,26.8,No,Salud general,2022-08-21,1,1
+S10694,38.0,Surco,Estándar,5.0,,2,129.0,81.4,1.72,27.5,Sí,Bajar de peso,15/09/2023,0,0
+S11354,36.0,Surco,Premium,3.0,7.0,4,169.0,67.5,1.77,21.5,No,Salud general,08/07/2025,0,0
+S11480,,San Borja,Básico,9.0,6.0,3,79.0,77.3,1.45,36.8,Sí,Salud general,2025-09-09,1,0
+S10721,41.0,Surco,Básico ,6.0,9.0,2,89.0,84.9,1.61,,No,Bajar de peso,02/06/2025,0,0
+S10474,45.0,Miraflores,Estándar,30.0,10.0,2,129.0,79.3,1.63,29.8,Sí,Competencia,11/07/2023,1,0
+S11675,31.0,Miraflores,Básico,1.0,8.0,1,89.0,65.3,1.68,23.1,Sí,Bajar de peso,07/05/2024,0,0
+S10737,36.0,San Borja,Básico,12.0,11.0,1,79.0,64.8,1.69,22.7,Sí,Ganar músculo,20/01/2023,0,0
+S11165,36.0,Los Olivos,Estándar,10.0,10.0,1,119.0,65.3,1.73,21.8,No,Salud general,21/04/2023,0,1
+S11241,37.0,Surco,Básico,2.0,10.0,1,79.0,47.8,1.64,,Sí,,13/06/2022,1,0
+S11496,27.0,LIMA CENTRO,Estándar,1.0,4.0,2,129.0,69.4,1.52,30.0,Sí,Salud general,02/06/2022,2,0
+S10586,33.0,Surco,Estándar,60.0,10.0,5,109.0,54.9,1.47,25.4,No,Salud general,04/06/2022,1,0
+S10141,18.0,Los Olivos,Premium,14.0,7.0,8,159.0,76.3,1.78,24.1,No,Ganar músculo,17-03-24,0,0
+S10377,,Lima Centro,Básico,18.0,8.0,2,79.0,73.0,1.71,25.0,Sí,Bajar de peso,24/03/2023,0,0
+S10397,27.0,San Borja,Básico,1.0,5.0,4,89.0,64.0,1.65,23.5,NO,Salud general,13/02/2023,0,0
+S11911,32.0,Surco,Básico,18.0,6.0,1,79.0,67.0,1.58,26.8,Sí,Ganar músculo,19-12-22,0,0
+S10237,40.0,Miraflores,Estándar,1.0,10.0,4,119.0,66.9,1.63,25.2,No,Bajar de peso,16/02/2024,0,0
+S11156,23.0,Surco,estándar,25.0,8.0,3,119.0,86.6,1.73,28.9,Sí,Salud general,25/10/2024,0,0
+S10562,16.0,San Borja,Estándar,12.0,4.0,4,119.0,79.6,1.63,30.0,No,Bajar de peso,29/06/2024,0,1
+S11990,38.0,Surco,Estándar,3.0,7.0,4,129.0,,1.73,15.0,Sí,Bajar de peso,07/02/2024,1,0
+S11910,22.0,Surco,Estándar,12.0,11.0,1,119.0,70.3,1.62,26.8,Sí,Ganar músculo,31-12-22,0,0
+S11523,,Miraflores,Básico,1.0,8.0,2,89.0,92.4,1.71,31.6,No,Bajar de peso,27/04/2022,0,0
+S11891,33.0,SURCO,Estándar,3.0,16.0,3,109.0,82.3,1.67,29.5,Sí,Salud general,2024-06-30,0,0
+S10838,27.0,Los Olivos,Estándar,3.0,4.0,2,119.0,,1.48,33.1,NO,Bajar de peso,01/12/2025,0,1
+S11369,16.0,Callao,Estándar,24.0,9.0,1,119.0,73.9,1.57,30.0,No,,05-07-22,0,0
+S10558,21.0,Callao,Basico,13.0,8.0,2,79.0,,1.5,26.0,Sí,Bajar de peso,2025-09-18,1,0
+S11483,44.0,Surco,Premium ,999.0,14.0,1,169.0,57.5,1.87,16.4,No,,06-12-23,0,0
+S10262,16.0,San Borja,Estándar,9.0,2.0,2,119.0,88.5,1.76,28.6,Sí,Bajar de peso,05-04-24,1,1
+S11084,28.0,San Borja,Estándar,30.0,16.0,0,129.0,68.1,1.6,26.6,Sí,Bajar de peso,2026-01-13,0,0
+S10367,37.0,lima centro,Premium,15.0,8.0,2,159.0,,1.6,23.7,Sí,Salud general,2022-07-08,1,1
+S10454,44.0,Lima Centro,Premium,12.0,7.0,5,169.0,68.8,1.49,31.0,Sí,Competencia,2023-01-02,0,0
+S11196,37.0,Lima Centro,Estándar,18.0,5.0,1,119.0,,1.57,38.7,Sí,Salud general,2025-01-25,0,1
+S10284,56.0,San Borja,Estándar,10.0,11.0,1,109.0,82.3,1.6,32.1,Sí,Bajar de peso,25-05-25,0,0
+S11896,24.0,Miraflores,Básico,6.0,6.0,6,89.0,70.9,1.72,24.0,Sí,Ganar músculo,2024-09-21,0,0
+S10179,51.0,Callao,Estándar,6.0,9.0,2,119.0,64.9,1.72,21.9,No,Bajar de peso,05-02-22,1,1
+S11246,45.0,Miraflores,Estándar,34.0,3.0,6,129.0,76.3,1.57,31.0,No,Bajar de peso,23/01/2022,1,1
+S10488,25.0,San Borja,Premium,6.0,9.0,3,159.0,56.5,1.76,18.2,No,Ganar músculo,2023-05-19,2,0
+S11125,27.0,Surco,Estandar,3.0,11.0,2,129.0,83.7,1.63,31.5,Sí,Ganar músculo,15-02-22,1,0
+S10431,39.0,Miraflores,Estandar,2.0,17.0,1,119.0,85.5,1.7,29.6,No,Salud general,26/01/2025,0,0
+S10735,40.0,Miraflores,Premium,13.0,8.0,2,169.0,69.8,1.71,23.9,No,Bajar de peso,03/12/2025,0,0
+S10308,25.0, Surco,Estándar,24.0,7.0,3,109.0,67.0,1.68,23.7,No,Salud general,2025-10-04,0,1
+S10299,35.0,LOS OLIVOS,básico,2.0,11.0,2,79.0,87.7,1.54,37.0,Sí,Salud general,11/01/2023,2,0
+S11198,34.0,Miraflores,Premium,1.0,5.0,5,169.0,,1.71,26.4,Sí,Salud general,26/02/2025,0,0
+S10863,34.0,Los Olivos,Estándar,7.0,12.0,2,109.0,81.1,1.71,27.7,Sí,Bajar de peso,30/05/2023,0,0
+S11680,35.0,Miraflores,Estándar,13.0,4.0,0,109.0,67.9,1.6,26.5,No,Bajar de peso,2022-06-14,2,1
+S10829,32.0,Surco,Básico,6.0,8.0,2,79.0,76.4,1.72,,Sí,Salud general,2023-02-04,0,0
+S11730,18.0,Callao,Estándar,13.0,11.0,2,1690.0,59.2,1.86,17.1,No,Competencia,2022-08-16,1,0
+S11137,38.0,Miraflores,Básico,17.0,8.0,3,69.0,84.2,1.65,30.9,Sí,Salud general,09/12/2025,0,0
+S11561,27.0,Los Olivos,Básico,34.0,9.0,4,79.0,105.6,1.6,,No,Ganar músculo,27/06/2025,0,0
+S11151,39.0,Los Olivos,Básico,2.0,6.0,0,89.0,83.4,1.73,27.9,No,Salud general,2023-11-14,1,1
+S11342,28.0,Callao,Premium,4.0,4.0,1,179.0,75.9,1.74,25.1,Sí,Bajar de peso,26/01/2026,0,1
+S10528,50.0,Surco,Premium,60.0,6.0,3,159.0,,1.62,33.7,No,Bajar de peso,14/04/2025,0,0
+S11720,35.0,San Borja,Básico,6.0,7.0,1,89.0,75.9,1.65,27.9,No,Bajar de peso,2025-11-20,0,1
+S10438,23.0,San Borja,Básico,8.0,14.0,2,69.0,70.1,1.73,23.4,No,Ganar músculo,20-04-25,0,0
+S11062,,Surco,Estándar,10.0,7.0,2,109.0,82.3,1.74,27.2,No,Salud general,29/05/2025,0,0
+S10116,,Lima Centro,Estándar,5.0,11.0,0,119.0,64.9,1.68,23.0,No,Salud general,01/06/2022,0,0
+S11713,,Los Olivos,Premium,12.0,18.0,2,169.0,72.4,1.73,24.2,Sí,Competencia,2023-03-27,0,0
+S11186,37.0,Miraflores,Estándar,7.0,11.0,4,109.0,51.8,1.63,19.5,Sí,Salud general,21/01/2023,1,0
+S10004,38.0,San Borja,Básico,2.0,9.0,0,69.0,73.7,1.64,27.4,Sí,Salud general,29/10/2024,0,0
+S11991,33.0,Miraflores,Premium,6.0,12.0,5,169.0,,1.73,22.3,No,Ganar músculo,2023-01-04,0,0
+S10046,54.0,Miraflores,Básico,19.0,6.0,2,79.0,68.9,1.66,,Sí,Bajar de peso,18/09/2022,0,0
+S10594,28.0,San Borja,Básico,14.0,,3,89.0,88.3,1.6,34.5,No,Salud general,15/11/2024,0,0
+S10298,40.0,San Borja,Estándar,1.0,6.0,4,119.0,79.1,1.58,31.7,No,Salud general,2024-05-28,1,1
+S11916,34.0,San Borja,Básico,2.0,9.0,2,89.0,92.9,1.8,28.7,No,Salud general,2025-07-07,0,0
+S10675,16.0,SAN BORJA,Estándar,25.0,13.0,0,119.0,74.1,1.78,23.4,Sí,Ganar músculo,2022-11-30,1,0
+S11517,27.0,Callao,Estándar,6.0,12.0,1,119.0,59.5,1.79,18.6,Sí,Ganar músculo,30/01/2022,1,1
+S10419,40.0,Los Olivos,Estándar,1.0,4.0,1,129.0,72.2,1.45,34.3,N,Salud general,12/12/2025,0,1
+S10340,28.0,Surco,Premium,11.0,13.0,0,159.0,70.7,1.7,24.5,No,Bajar de peso,07/04/2023,0,0
+S11651,27.0,Miraflores,Estándar,11.0,8.0,2,119.0,78.3,1.52,33.9,No,Bajar de peso,18/12/2024,1,0
+S10613,55.0,Callao,Básico,18.0,9.0,5,79.0,64.3,1.83,,No,Bajar de peso,22/07/2025,0,0
+S10517,36.0,surco,Estándar,4.0,6.0,3,119.0,78.6,1.76,25.4,no,,14-10-23,0,0
+S11321,43.0,Lima Centro,Premium,6.0,10.0,1,169.0,,1.67,23.3,No,Bajar de peso,07/03/2022,1,0
+S11044,42.0, Lima Centro,Estándar,2.0,5.0,2,109.0,80.0,1.6,31.2,No,,2024-05-01,0,1
+S10194,,Lima Centro,Estándar,7.0,7.0,1,119.0,78.3,1.57,31.8,S,Salud general,15/05/2022,0,0
+S11409,26.0,Surco,Premium,6.0,9.0,2,159.0,111.1,1.79,34.7,Sí,Bajar de peso,2024-09-10,2,1
+S11736,24.0, San Borja,Premium,9.0,3.0,2,169.0,75.9,1.5,33.7,No,Bajar de peso,31-01-22,1,1
+S10571,30.0,Miraflores,Básico,60.0,5.0,2,S/ 89,,1.76,21.2,No,Salud general,2023-11-29,0,0
+S11665,37.0,Los Olivos ,Premium,9.0,3.0,1,159.0,74.1,1.92,20.1,Sí,Ganar músculo,11/06/2025,0,1
+S10374,41.0,LIMA CENTRO,Estándar,1.0,10.0,4,109.0,63.3,1.67,22.7,Sí,Bajar de peso,03/11/2023,0,0
+S11381,,Miraflores,Básico,14.0,7.0,4,69.0,45.0,1.76,14.5,Sí,Salud general,11-05-22,1,1
+S10113,,Lima Centro,Estándar,2.0,5.0,4,119.0,80.4,1.54,33.9,No,Bajar de peso,2023-05-22,1,1
+S11839,33.0,Los Olivos,Premium,5.0,2.0,3,179.0,88.2,1.66,32.0,Sí,Bajar de peso,17/02/2022,4,1
+S10426,33.0,Surco,ESTÁNDAR,11.0,14.0,3,129.0,,1.76,,N,Salud general,19/11/2023,0,1
+S11183,31.0,Lima Centro,Estándar,1.0,6.0,4,119.0,70.2,1.77,22.4,Sí,Bajar de peso,23-11-24,0,1
+S11542,42.0,san borja,Estándar,27.0,5.0,2,129.0,79.9,1.89,22.4,No,Competencia,12/03/2022,0,1
+S10423,25.0,Surco,Estándar,12.0,9.0,1,129.0,85.4,1.92,23.2,Sí,Ganar músculo,2022-02-08,0,0
+S10620,39.0,Miraflores,Estándar,3.0,6.0,3,109.0,62.7,1.75,20.5,Sí,Salud general,2022-02-17,1,0
+S11545,,Miraflores,Estándar,9.0,6.0,2,129.0,,1.78,20.8,Sí,Ganar músculo,07/05/2022,0,0
+S10109,43.0,Lima Centro,Estándar,10.0,16.0,1,119.0,68.7,1.65,25.2,Sí,Ganar músculo,19/09/2022,0,0
+S10833,23.0,Callao,Premium,33.0,11.0,0,159.0,58.0,1.79,18.1,Sí,Bajar de peso,06-08-25,2,0
+S11820,42.0,Miraflores,Premium,23.0,7.0,4,169.0,93.9,1.57,38.1,Sí,Salud general,2024-08-12,1,0
+S11011,19.0,Los Olivos,básico,7.0,,2,79.0,79.1,1.63,29.8,No,Competencia,2024-06-10,1,0
+S11894,35.0,Miraflores,Estándar,7.0,17.0,2,109.0,,1.69,23.7,Sí,Ganar músculo,21/04/2023,0,0
+S11852,19.0,San Borja,BÁSICO,47.0,4.0,2,89.0,78.2,1.62,29.8,Sí,Ganar músculo,25/10/2022,0,0
+S11192,51.0,Surco,Estándar,3.0,3.0,1,109.0,66.7,1.56,27.4,NO,Salud general,04/10/2025,1,1
+S11279,19.0,Lima Centro,Estándar,11.0,16.0,1,119.0,66.8,1.75,21.8,Sí,Ganar músculo,2022-01-20,0,0
+S10311,38.0,Callao,Básico,4.0,7.0,2,79.0,60.7,1.46,28.5,No,Bajar de peso,20/09/2025,0,1
+S10095,52.0,Miraflores,Estándar,30.0,9.0,2,119.0,45.0,1.64,16.7,No,Bajar de peso,2024-02-14,0,0
+S10972,29.0,Miraflores,Básico,6.0,7.0,1,79.0,70.2,1.7,24.3,Sí,Salud general,27/08/2024,0,1
+S11449,16.0,Surco,Estándar,4.0,5.0,3,109.0,59.7,1.64,22.2,No,Bajar de peso,25/11/2022,1,1
+S10019,18.0,Lima Centro,Premium,17.0,7.0,1,169.0,52.6,1.61,20.3,Sí,Bajar de peso,29-06-23,0,1
+S10705,39.0,San Borja,Estándar,1.0,16.0,1,109.0,80.0,1.89,22.4,Sí,Bajar de peso,2023-07-18,0,0
+S11064,34.0,Los Olivos,Premium,2.0,8.0,3,179.0,86.6,1.71,,No,,27/01/2022,2,1
+S11812,18.0,Surco,Estándar,9.0,365,1,119.0,91.9,1.68,32.6,Sí,Salud general,11-12-25,2,0
+S10330,27.0,Lima Centro,Estándar,18.0,5.0,1,109.0,76.1,1.59,30.1,NO,Ganar músculo,05-02-26,3,0
+S11297,30.0,San Borja,Estándar,7.0,6.0,0,119.0,62.6,1.81,19.1,No,Bajar de peso,2022-03-06,0,0
+S11621,,Lima Centro,Estándar ,3.0,3.0,4,119.0,90.0,1.63,33.9,Sí,Ganar músculo,2022-06-24,0,1
+S11634,38.0,San Borja,Básico,4.0,6.0,5,79.0,70.4,1.74,23.3,No,Competencia,20/12/2024,1,0
+S11168,16.0,Miraflores,Estándar,15.0,13.0,1,119.0,94.9,1.76,30.6,No,Bajar de peso,2024-05-10,0,0
+S11882,39.0,Surco,estándar,3.0,5.0,4,109.0,67.0,1.64,24.9,No,Salud general,28-08-22,0,0
+S10222,26.0,Miraflores,Estándar,6.0,6.0,2,119.0,102.8,1.64,38.2,No,Bajar de peso,11/11/2022,1,1
+S10824,31.0,Lima Centro,Premium,28.0,5.0,4,169.0,67.7,1.65,24.9,No,Salud general,2022-06-05,0,1
+S11223,35.0,Lima Centro,Básico,4.0,6.0,1,79.0,75.0,1.69,26.3,No,Ganar músculo,23/05/2022,0,1
+S11095,21.0,Callao,Básico,1.0,16.0,3,69.0,,1.66,19.7,No,Bajar de peso,28/10/2022,0,0
+S10728,36.0,Surco,Básico,12.0,10.0,2,79.0,81.7,1.66,29.6,Sí,Bajar de peso,27/04/2022,0,0
+S10111,16.0,Los Olivos,Estándar,4.0,14.0,5,119.0,66.7,1.61,25.7,No,Ganar músculo,24/11/2023,0,0
+S10698,31.0,Los Olivos,ESTÁNDAR,23.0,10.0,2,119.0,63.2,1.64,23.5,Sí,Bajar de peso,21-10-22,0,1
+S10463,16.0, Callao,Premium,10.0,5.0,4,169.0,,1.7,37.8,No,Bajar de peso,27/10/2024,1,0
+S10358,34.0,San Borja,Premium,1.0,5.0,3,169.0,71.4,1.69,25.0,Sí,Bajar de peso,2025-07-24,0,0
+S11153,26.0,Lima Centro,Básico,7.0,6.0,2,89.0,75.5,1.69,26.4,Sí,Bajar de peso,09/12/2023,1,0
+S10313,31.0,Lima Centro,Premium,4.0,11.0,3,159.0,92.2,1.61,35.6,Sí,Bajar de peso,05/02/2022,1,0
+S10287,33.0,Surco,Estándar ,34.0,1.0,2,129.0,87.0,1.71,29.8,No,Salud general,10-01-25,0,1
+S11256,37.0,Lima Centro,Básico,18.0,15.0,2,89.0,83.1,1.66,30.2,No,Bajar de peso,2022-08-08,3,0
+S11985,16.0,Miraflores,Estándar,16.0,6.0,1,129.0,68.2,1.78,21.5,No,Bajar de peso,01/09/2025,0,0
+S11033,34.0,Callao,Básico,24.0,9.0,1,69.0,91.7,1.77,29.3,Sí,Salud general,18-04-25,0,0
+S10751,35.0,Miraflores,Estándar,1.0,11.0,1,119.0,68.9,1.76,22.2,No,Salud general,26/05/2023,0,1
+S10341,35.0,Lima Centro,Estándar,3.0,3.0,6,119.0,73.2,1.62,27.9,No,Salud general,27/09/2024,1,0
+S10471,33.0,San Borja,Premium,1.0,15.0,5,169.0,75.9,1.76,24.5,Sí,Bajar de peso,2024-08-31,0,0
+S10768,30.0,Los Olivos,Premium,29.0,6.0,2,159.0,93.4,1.62,35.6,Sí,Salud general,19/07/2022,0,1
+S10649,24.0,San Borja,Estándar,1.0,11.0,3,119.0,79.9,1.7,27.6,Sí,Salud general,24/02/2022,3,0
+S11648,40.0,San Borja,Básico,15.0,9.0,5,69.0,76.9,1.7,26.6,Sí,Salud general,02/07/2022,0,0
+S11386,39.0,San Borja,Estándar,23.0,6.0,4,119.0,65.5,1.64,24.4,Sí,Bajar de peso,03-01-26,0,0
+S10353,,Los Olivos,Básico,29.0,2.0,2,S/ 89,81.9,1.71,28.0,No,Ganar músculo,2023-07-18,1,1
+S10501,39.0,Lima Centro,Básico ,5.0,10.0,1,79.0,76.4,1.65,28.1,Sí,Ganar músculo,24/11/2022,0,1
+S11922,26.0,Miraflores,Estándar,16.0,2.0,0,119.0,83.4,1.65,30.6,si,Ganar músculo,06-06-22,0,0
+S10837,25.0,Miraflores,Básico,4.0,5.0,4,89.0,86.5,1.61,33.4,no,Salud general,2023-02-27,0,0
+S10017,37.0,Lima Centro,Básico,1.0,9.0,5,89.0,91.8,1.52,39.7,No,Salud general,2024-09-28,0,0
+S11969,28.0,Los Olivos,Básico,28.0,13.0,5,79.0,70.1,1.73,23.4,No,Salud general,03/05/2024,0,0
+S11757,31.0,los olivos,Estandar,11.0,3.0,4,119.0,60.3,1.61,23.3,Sí,,2023-04-23,0,0
+S10392,16.0,Surco,Estándar ,24.0,4.0,0,119.0,70.9,1.69,24.8,No,Bajar de peso,22/03/2024,0,1
+S10525,40.0,Surco,Básico,11.0,15.0,1,79.0,79.1,1.6,30.9,Sí,Bajar de peso,2025-10-12,0,0
+S10351,46.0,Surco,Básico,24.0,10.0,3,69.0,87.3,1.76,28.2,Sí,Salud general,14/08/2025,0,0
+S11016,16.0,Lima Centro,Básico,7.0,5.0,4,79.0,69.9,1.69,24.5,Sí,Ganar músculo,24/02/2022,1,0
+S10830,36.0,Surco,ESTÁNDAR,2.0,7.0,2,129.0,75.0,1.49,33.8,Sí,Salud general,01/05/2025,1,0
+S11240,34.0,San Borja,Estándar,8.0,5.0,1,129.0,80.1,1.74,26.5,No,Salud general,03-10-23,0,1
+S10806,26.0,Lima Centro,Estándar,1.0,5.0,3,109.0,64.6,1.64,24.0,No,Bajar de peso,2022-12-25,1,1
+S11870,18.0,Lima Centro,Básico,1.0,9.0,2,69.0,89.7,1.69,31.4,Sí,Bajar de peso,2022-05-29,0,0
+S10054,28.0,Callao,BÁSICO,21.0,12.0,6,79.0,55.7,1.7,19.3,Sí,Ganar músculo,2025-05-08,1,1
+S10263,39.0,San Borja,Básico,15.0,13.0,5,89.0,69.0,1.75,22.5,No,Bajar de peso,24/10/2022,1,0
+S10101,32.0, Lima Centro,Básico,46.0,10.0,1,79.0,78.9,1.77,25.2,Sí,Salud general,2022-06-03,1,1
+S10275,27.0,Lima Centro,Estándar,10.0,12.0,3,109.0,74.4,1.79,23.2,Sí,Bajar de peso,26-07-23,0,0
+S10286,34.0,Lima Centro,Estándar,9.0,10.0,5,119.0,,1.65,27.6,Sí,Ganar músculo,11/04/2025,2,0
+S11116,16.0,Miraflores,Básico,1.0,5.0,2,69.0,76.8,1.71,26.3,Sí,Salud general,2024-01-25,1,0
+S10249,36.0,Callao,Premium,11.0,10.0,5,159.0,60.5,1.81,18.5,NO,Salud general,12/11/2024,1,0
+S11072,27.0,Miraflores,Premium,14.0,8.0,3,169.0,54.1,1.69,18.9,no,Bajar de peso,2024-09-06,1,0
+S11760,41.0, Miraflores,Básico,15.0,6.0,0,69.0,105.9,1.75,34.6,Sí,Bajar de peso,03/07/2023,0,0
+S10578,33.0,San Borja,Premium,2.0,14.0,2,179.0,64.5,1.67,23.1,Sí,Ganar músculo,2022-12-29,0,0
+S11974,23.0,Miraflores,Básico,18.0,9.0,3,69.0,76.3,1.74,25.2,S,,03/01/2022,2,1
+S10704,27.0,Miraflores,Básico,13.0,6.0,2,69.0,76.0,1.67,27.3,Sí,Ganar músculo,2024-05-03,0,0
+S10344,29.0,Callao,Básico,3.0,4.0,2,79.0,71.7,1.58,28.7,No,Bajar de peso,13/02/2024,0,1
+S11654,28.0,San Borja,Estandar,2.0,10.0,3,119.0,69.1,1.62,,Sí,Ganar músculo,29/03/2023,1,0
+S10653,35.0,San Borja,Estándar ,7.0,11.0,4,109.0,76.5,1.8,23.6,Sí,Salud general,2022-11-29,0,0
+S11169,36.0,Surco,Estándar,11.0,8.0,6,109.0,63.7,1.59,25.2,No,Bajar de peso,2025-05-28,1,0
+S10574,36.0,Lima Centro,Básico,5.0,4.0,2,69.0,82.3,1.89,23.0,No,Bajar de peso,2025-06-24,0,0
+S11845,50.0,Surco,Básico,22.0,7.0,1,89.0,94.2,1.66,34.2,No,Salud general,06/04/2025,0,0
+S10060,22.0,Los Olivos,Estándar,13.0,6.0,2,119.0,55.7,1.53,23.8,Sí,Salud general,10/10/2023,0,0
+S11304,40.0,Lima Centro,Básico,1.0,3.0,2,69.0,65.9,1.66,23.9,Sí,Ganar músculo,2023-10-19,2,0
+S10603,16.0, Surco,básico,2.0,9.0,3,79.0,81.7,1.72,27.6,No,Ganar músculo,14-12-23,0,0
+S10540,,Surco,Premium,12.0,11.0,3,179.0,52.0,1.71,17.8,No,Salud general,2025-11-19,0,0
+S11944,47.0,Miraflores,Básico,15.0,,1,79.0,51.0,1.74,16.8,Sí,Ganar músculo,2023-09-28,1,0
+S10363,35.0,San Borja,Básico,16.0,5.0,2,79.0,75.0,1.7,26.0,Sí,,2023-11-17,0,0
+S11179,,Lima Centro,Básico,9.0,12.0,3,79.0,55.8,1.61,21.5,Sí,Bajar de peso,01/01/2024,0,0
+S10210,27.0,Miraflores,Estándar,1.0,12.0,2,119.0,53.9,1.69,18.9,Sí,Bajar de peso,26/07/2025,1,1
+S10281,32.0,Surco,Básico,7.0,15.0,0,79.0,76.2,1.84,22.5,Sí,Bajar de peso,2022-04-28,0,0
+S11458,24.0,Callao,Estándar,12.0,7.0,5,119.0,,1.66,31.5,N,Salud general,27/05/2024,1,0
+S11978,39.0,Surco,Básico,30.0,10.0,3,79.0,48.9,1.71,16.7,Sí,Ganar músculo,16/10/2024,0,0
+S10452,22.0,Surco,Estándar,4.0,8.0,3,119.0,75.7,1.61,29.2,Sí,,17/05/2023,0,0
+S11379,23.0,Lima Centro,Básico,3.0,11.0,8,79.0,63.9,1.81,19.5,No,,27/05/2022,0,0
+S11676,42.0,San Borja,Estándar,20.0,10.0,3,109.0,71.9,1.61,27.7,Sí,Ganar músculo,10/08/2022,0,0
+S11822,17.0,LOS OLIVOS,Estándar,7.0,7.0,4,119.0,55.1,1.66,20.0,Sí,Bajar de peso,2022-08-25,0,0
+S11619,40.0,Callao,Premium,2.0,7.0,3,179.0,55.1,1.71,18.8,Sí,Ganar músculo,09/02/2024,1,1
+S11020,20.0,Callao,Básico,2.0,12.0,3,69.0,77.3,1.79,24.1,no,Salud general,17-02-22,0,0
+S10715,34.0,San Borja,Estándar,3.0,5.0,2,109.0,73.9,1.69,25.9,Sí,,04/10/2022,3,1
+S10984,16.0,Los Olivos,Básico,19.0,8.0,4,79.0,54.7,1.78,17.3,No,Bajar de peso,2022-06-21,0,0
+S10324,29.0,San Borja,Estandar,6.0,11.0,2,109.0,71.0,1.74,23.5,No,,22/05/2022,1,1
+S11146,34.0,Lima Centro,Estándar,12.0,17.0,1,109.0,,1.7,20.0,si,Ganar músculo,23/05/2022,4,0
+S11741,39.0,Los Olivos,Estándar,1.0,11.0,6,129.0,61.3,1.57,24.9,Sí,Salud general,24-01-24,2,0
+S10028,20.0,Lima Centro,Estándar,14.0,13.0,0,119.0,45.3,1.78,14.3,Sí,Ganar músculo,2022-03-16,0,0
+S11622,34.0,LOS OLIVOS,Básico,10.0,10.0,3,79.0,79.7,1.66,28.9,Sí,Bajar de peso,2025-08-04,0,0
+S10623,33.0, Lima Centro,Básico,15.0,11.0,5,69.0,59.8,1.59,23.7,No,Ganar músculo,20-04-22,0,0
+S10359,22.0,Miraflores,Estándar,4.0,12.0,2,119.0,59.5,1.57,24.1,SI,Salud general,07/11/2025,0,0
+S11947,33.0, Miraflores,ESTÁNDAR,2.0,4.0,2,109.0,,1.65,26.2,No,Salud general,2023-10-25,1,0
+S11855,47.0,Callao,Estándar,7.0,8.0,4,119.0,70.6,1.76,22.8,No,Ganar músculo,17-03-24,1,0
+S10224,36.0,Callao,Premium,28.0,10.0,3,169.0,99.6,1.79,31.1,No,Ganar músculo,01/01/2023,0,0
+S10762,23.0,Los Olivos,Estándar,3.0,8.0,1,109.0,91.8,175.0,35.9,No,Salud general,05/05/2025,0,1
+S10465,,Surco,Básico,15.0,11.0,4,79.0,45.5,1.75,14.9,No,Ganar músculo,13/09/2023,1,0
+S11556,40.0,Surco,Premium,9.0,5.0,1,1190.0,102.4,1.78,32.3,No,Ganar músculo,23/08/2023,0,0
+S11499,40.0,Lima Centro,Básico,1.0,10.0,2,89.0,97.8,1.57,39.7,Sí,Bajar de peso,17/02/2023,0,0
+S11132,19.0,Callao,Estándar,24.0,8.0,0,129.0,59.1,17.0,22.2,Sí,Salud general,2022-06-01,0,0
+S11443,24.0, Surco,Estándar,17.0,4.0,3,119.0,,1.72,,No,Ganar músculo,15/02/2022,1,0
+S10800,42.0,Surco,Premium,12.0,10.0,4,169.0,73.0,1.65,26.8,No,Bajar de peso,2022-10-06,0,0
+S11627,29.0,San Borja,Estándar,1.0,5.0,0,109.0,66.4,1.57,26.9,Sí,Ganar músculo,02/07/2024,0,1
+S11515,42.0,Surco,Básico,10.0,5.0,3,69.0,51.7,1.68,18.3,Sí,Bajar de peso,08/09/2025,0,0
+S11188,32.0,SAN BORJA,Premium,3.0,4.0,3,169.0,69.8,175.0,21.1,Sí,Competencia,09/06/2022,4,1
+S10186,40.0,CALLAO,Premium,3.0,7.0,1,169.0,69.8,1.89,19.5,Sí,Ganar músculo,2024-07-08,0,0
+S10186,40.0,Callao,Premium,3.0,7.0,1,169.0,69.8,1.89,19.5,Sí,Ganar músculo,2024-07-08,0,0
+S11134,30.0,Los Olivos,Estándar,1.0,4.0,3,119.0,70.8,1.7,24.5,Sí,Ganar músculo,10/05/2023,0,0
+S10912,41.0,Los Olivos,Estándar,2.0,8.0,2,109.0,60.2,1.72,20.3,Sí,Bajar de peso,29-10-23,1,0
+S10151,30.0,San Borja,Estándar,9.0,10.0,2,119.0,83.4,1.57,33.8,N,Salud general,2024-08-18,0,0
+S10215,33.0,Los Olivos,Básico,2.0,6.0,0,69.0,71.2,1.56,29.3,Sí,Bajar de peso,2025-09-25,1,0
+S10098,21.0,Miraflores,Básico,4.0,9.0,2,69.0,55.2,1.82,,Sí,Bajar de peso,02/03/2023,0,0
+S11046,25.0,Surco,Básico,7.0,10.0,4,79.0,82.3,1.74,27.2,Sí,Bajar de peso,18/05/2023,0,0
+S11231,45.0,SURCO,Estándar,10.0,3.0,2,119.0,75.2,1.71,25.7,Sí,Salud general,2022-03-30,0,1
+S11247,21.0,Miraflores,Básico,14.0,10.0,2,79.0,61.5,1.79,19.2,Sí,Salud general,22/04/2024,0,0
+S11419,44.0,Miraflores,Básico,27.0,10.0,2,69.0,69.1,1.56,28.4,no,Ganar músculo,06-08-23,0,0
+S11752,36.0,los olivos,Básico,1.0,5.0,2,79.0,66.9,1.55,27.8,Sí,Competencia,2025-05-07,2,0
+S10012,31.0,Callao,Premium,19.0,7.0,2,159.0,74.7,1.53,31.9,Sí,Bajar de peso,2022-01-21,0,0
+S10635,24.0,Miraflores,Estándar,15.0,8.0,4,109.0,60.6,1.57,24.6,No,,02/01/2026,0,0
+S11431,22.0,San Borja,BÁSICO,13.0,3.0,2,79.0,60.2,1.85,17.6,No,Ganar músculo,2025-03-18,0,1
+S10167,39.0,Lima Centro,Estándar,14.0,5.0,1,129.0,79.5,1.61,30.7,SI,Ganar músculo,2022-08-01,0,0
+S10717,25.0,Callao,Estándar,4.0,6.0,2,119.0,70.8,1.75,23.1,No,,07/12/2023,2,1
+S11182,,San Borja,Básico,1.0,7.0,4,89.0,81.0,1.64,30.1,No,Salud general,14/01/2024,0,0
+S10188,,Miraflores,Premium,11.0,6.0,2,179.0,76.5,1.78,24.1,No,Bajar de peso,08/12/2022,0,0
+S11506,48.0,Miraflores,Basico,9.0,,4,79.0,74.6,1.66,27.1,No,Ganar músculo,2022-05-18,0,0
+S11559,36.0,Callao,premium,36.0,9.0,1,159.0,57.8,1.74,19.1,Sí,Ganar músculo,26/07/2025,0,0
+S10043,46.0,Lima Centro,Estándar,16.0,7.0,1,119.0,60.5,1.78,19.1,Sí,Ganar músculo,2024-10-20,0,0
+S11128,,Lima Centro,Premium,3.0,5.0,3,169.0,,1.72,29.2,no,Bajar de peso,2025-10-30,0,0
+S10009,30.0,Surco,Estándar,2.0,9.0,1,119.0,68.3,1.72,23.1,Sí,Bajar de peso,12/06/2022,0,1
+S11380,24.0,Callao,Básico,2.0,6.0,1,69.0,76.4,1.76,24.7,Sí,Salud general,2022-04-02,1,0
+S10147,38.0,Surco,Estándar,38.0,8.0,4,119.0,83.9,1.6,32.8,Sí,Bajar de peso,01-01-23,1,0
+S11611,16.0,San Borja,Premium,8.0,5.0,3,179.0,67.9,1.69,23.8,Sí,,27/03/2023,0,1
+S10013,31.0,Surco,Estándar,23.0,14.0,2,129.0,85.8,1.69,30.0,No,,24/05/2022,0,0
+S10389,38.0,San Borja,Estándar,5.0,3.0,2,109.0,71.3,1.5,31.7,no,Ganar músculo,05-06-24,1,1
+S11693,38.0,Callao,Estándar,1.0,5.0,4,129.0,81.0,1.64,30.1,Sí,Competencia,08-11-23,0,0
+S11316,37.0,San Borja,Básico,1.0,15.0,2,69.0,66.8,1.82,,No,Bajar de peso,21/11/2024,0,0
+S11002,36.0,Miraflores,Básico,47.0,6.0,3,79.0,52.2,1.5,23.2,No,,19/05/2022,0,0
+S11549,,Surco,Premium,18.0,4.0,3,169.0,82.3,1.68,29.2,No,Bajar de peso,19-04-22,1,0
+S11015,35.0,San Borja,Premium,11.0,10.0,2,179.0,88.1,1.79,27.5,No,Bajar de peso,12/01/2022,0,0
+S11758,30.0,Miraflores,Básico,9.0,4.0,4,79.0,62.1,1.81,,Sí,Bajar de peso,2023-10-21,1,1
+S10757,27.0,Los Olivos,Estándar,16.0,9.0,2,109.0,86.2,1.81,26.3,No,Salud general,07/12/2023,0,0
+S11963,30.0,Surco,Estandar,2.0,16.0,2,119.0,72.4,1.73,,No,Salud general,24/05/2022,0,0
+S10470,43.0,Callao,Premium,6.0,8.0,3,169.0,77.2,1.74,25.5,Sí,Bajar de peso,2025-10-19,1,0
+S10619,38.0,Surco,estándar,27.0,8.0,3,109.0,74.7,1.52,32.3,Sí,Bajar de peso,12/12/2023,0,0
+S10602,39.0,san borja,Básico,17.0,9.0,1,79.0,57.8,1.64,21.5,si,Ganar músculo,05/02/2023,0,0
+S10748,22.0,San Borja,Estándar,11.0,3.0,0,119.0,70.2,1.59,27.8,Sí,Bajar de peso,26/10/2024,3,1
+S11599,17.0,Los Olivos,Estándar,5.0,11.0,1,119.0,52.5,1.51,,Sí,Competencia,2024-02-04,0,0
+S10638,39.0, Lima Centro,Estándar,24.0,5.0,3,119.0,66.5,1.68,23.6,No,Salud general,29/11/2022,0,0
+S10758,46.0,Lima Centro,estándar,1.0,9.0,1,119.0,66.1,1.72,22.3,no,Bajar de peso,2022-09-08,1,1
+S10514,,Surco,Básico,1.0,6.0,3,69.0,95.6,1.84,28.2,No,Competencia,2022-07-15,0,1
+S11804,33.0,Callao,Premium,33.0,6.0,6,179.0,56.7,1.71,19.4,SI,Bajar de peso,07/10/2022,0,0
+S11659,31.0,Los Olivos,Básico,16.0,15.0,3,89.0,62.4,1.66,22.6,Sí,Ganar músculo,2025-10-26,0,0
+S11846,36.0,Lima Centro,Premium,11.0,6.0,1,169.0,,1.72,30.5,No,Competencia,25/07/2024,1,1
+S11195,34.0,Surco,Estándar ,6.0,8.0,2,129.0,68.9,1.6,26.9,No,Ganar músculo,12-01-24,0,0
+S10936,21.0,Miraflores,Estándar,2.0,3.0,3,109.0,77.8,1.82,23.5,Sí,Ganar músculo,19/08/2025,1,1
+S10025,50.0,San Borja,Estándar,10.0,9.0,2,119.0,76.6,1.72,25.9,No,,2024-10-17,0,0
+S10658,18.0,CALLAO,Básico,7.0,5.0,0,79.0,63.7,1.66,23.1,No,Bajar de peso,27/01/2022,1,0
+S11497,41.0,Surco,Premium,6.0,12.0,0,179.0,70.7,1.75,23.1,Sí,Ganar músculo,07/09/2024,0,0
+S11034,,Lima Centro,Estándar,40.0,6.0,3,119.0,68.5,1.58,27.4,No,Salud general,20/02/2025,0,0
+S11252,33.0,Miraflores,Premium,4.0,12.0,3,169.0,67.9,1.53,29.0,Sí,Ganar músculo,2023-07-19,2,1
+S10115,49.0,Lima Centro,Estándar,33.0,7.0,0,129.0,98.6,1.51,,Sí,Ganar músculo,26/06/2025,0,1
+S10024,38.0,Callao,Básico,9.0,15.0,4,69.0,94.3,1.76,,Sí,Ganar músculo,31/10/2024,1,0
+S10370,24.0,Lima Centro,Premium,8.0,2.0,3,159.0,66.7,1.69,23.4,Sí,Ganar músculo,2024-07-28,0,1
+S10930,34.0,San Borja,Premium,9.0,8.0,1,179.0,61.8,1.91,,Sí,Bajar de peso,15-04-25,2,1
+S11854,31.0,Lima Centro ,Estándar,25.0,11.0,3,119.0,,1.65,29.6,No,Bajar de peso,27/08/2024,0,1
+S10611,30.0,Miraflores,Básico,7.0,,1,89.0,72.3,1.54,30.5,Sí,Ganar músculo,2025-08-17,0,1
+S11124,40.0,Miraflores,Básico,7.0,6.0,1,89.0,56.2,1.68,19.9,No,Ganar músculo,2022-08-31,0,1
+S10453,32.0,San Borja,Estándar,22.0,1.0,5,119.0,57.9,1.64,21.5,Sí,Bajar de peso,27/05/2024,0,0
+S10096,28.0,Surco,Estándar,13.0,8.0,5,119.0,78.2,1.66,28.4,Sí,Bajar de peso,16/11/2022,1,0
+S10590,23.0,Surco,Estándar,11.0,3.0,4,119.0,65.7,1.72,22.2,No,Ganar músculo,2022-02-05,1,1
+S11488,32.0,Callao,Básico ,28.0,10.0,1,79.0,74.5,1.7,25.8,Sí,Ganar músculo,28/01/2024,1,0
+S11487,39.0,Callao,Premium,2.0,11.0,2,S/ 169,72.8,1.66,26.4,Sí,Salud general,2022-06-21,1,0
+S10099,22.0,Miraflores,Estándar,7.0,6.0,4,119.0,67.6,1.78,21.3,No,Bajar de peso,11/06/2022,0,1
+S11548,25.0,San Borja,Básico,4.0,4.0,6,79.0,60.8,1.68,21.5,No,Ganar músculo,25/01/2022,0,0
+S11535,36.0,Miraflores,Básico,6.0,,4,89.0,63.6,1.75,20.8,No,Bajar de peso,05/07/2022,1,0
+S11363,,Lima Centro,Premium,47.0,5.0,4,169.0,72.4,1.57,29.4,No,Ganar músculo,25/09/2022,1,0
+S10357,,Los Olivos,Premium,3.0,11.0,1,179.0,90.9,1.59,36.0,Sí,Salud general,21/03/2025,1,0
+S11113,42.0,Lima Centro,Estándar,3.0,8.0,4,129.0,82.7,1.67,29.7,Sí,Bajar de peso,2023-04-06,1,0
+S11051,36.0,San Borja,Premium,9.0,7.0,5,179.0,66.7,1.71,22.8,Sí,Bajar de peso,03/09/2023,0,0
+S11796,37.0,Surco ,Básico,15.0,5.0,2,69.0,74.9,1.72,25.3,S,,06/06/2022,1,0
+S11993,39.0,Callao,Estándar,34.0,10.0,3,129.0,,1.47,31.1,No,Salud general,2024-02-02,0,1
+S10828,16.0,Lima Centro,Premium,10.0,10.0,5,159.0,70.0,1.67,25.1,No,Bajar de peso,26/12/2025,0,0
+S10691,16.0,Miraflores,Básico,19.0,5.0,3,69.0,72.5,1.69,25.4,No,Bajar de peso,24/01/2025,1,0
+S11923,35.0,Lima Centro,PREMIUM,1.0,7.0,4,159.0,94.8,1.63,35.7,No,Bajar de peso,18/03/2022,1,1
+S11956,23.0,Los Olivos,Premium,4.0,5.0,3,169.0,64.9,1.69,22.7,No,Competencia,10/01/2023,0,1
+S10977,34.0,Los Olivos,Estándar,1.0,4.0,1,109.0,83.7,1.71,28.6,Sí,,07/05/2024,1,0
+S10270,39.0,San Borja,Premium,46.0,,1,179.0,80.9,1.72,27.3,No,Salud general,2022-07-19,1,0
+S10118,41.0,Miraflores,Premium,4.0,6.0,2,179.0,57.8,1.53,24.7,Sí,Salud general,11/05/2023,0,0
+S11637,40.0,Lima Centro,Básico,8.0,9.0,4,69.0,,1.77,27.3,Sí,,07/04/2023,0,0
+S10117,40.0,Los Olivos,Básico,3.0,12.0,5,89.0,60.5,1.77,19.3,Sí,Competencia,10/05/2023,0,0
+S11215,14,Los Olivos,Premium,7.0,19.0,5,169.0,,1.62,24.8,No,,14/05/2024,0,0
+S11965,37.0,Surco,Estándar,8.0,4.0,3,129.0,63.4,1.78,20.0,No,Salud general,09/03/2025,0,0
+S10500,53.0,Los Olivos,PREMIUM,21.0,,3,169.0,70.2,1.67,25.2,Sí,Bajar de peso,2023-08-03,1,0
+S10933,32.0,Miraflores,Estándar,1.0,16.0,0,119.0,47.7,1.7,16.5,No,Bajar de peso,2022-11-29,1,0
+S11361,16.0,Miraflores,Básico,2.0,5.0,4,79.0,45.0,1.66,16.3,Sí,Competencia,2025-08-08,0,0
+S11892,26.0,Surco,Estándar ,16.0,10.0,1,129.0,94.4,1.61,36.4,No,Salud general,16/12/2025,0,0
+S11121,35.0,Callao,Estándar,16.0,14.0,2,129.0,74.6,1.61,28.8,Sí,Bajar de peso,20/09/2022,1,0
+S10164,59.0, San Borja,Estándar,6.0,9.0,2,119.0,53.7,1.63,20.2,Sí,Ganar músculo,31/01/2024,0,0
+S10855,25.0,Miraflores,Estándar,1.0,9.0,0,129.0,93.5,1.6,36.5,Sí,,2023-03-14,1,0
+S11527,42.0,Los Olivos ,Estándar,5.0,11.0,3,129.0,53.6,1.63,20.2,si,,06/10/2024,0,0
+S11868,50.0,Lima Centro,Estándar,14.0,5.0,1,119.0,48.8,1.65,17.9,Sí,Bajar de peso,23/08/2024,0,0
+S11863,30.0,Miraflores,Premium,14.0,6.0,1,159.0,88.0,1.58,35.3,No,Salud general,06/06/2025,2,1
+S10876,22.0,Los Olivos,Básico,3.0,11.0,1,89.0,60.5,1.53,25.8,No,Bajar de peso,11/04/2024,0,1
+S10378,36.0,Lima Centro,Premium,8.0,5.0,1,169.0,51.1,1.68,18.1,N,Salud general,24/06/2025,1,1
+S10063,18.0,Miraflores,Básico,29.0,,1,89.0,87.5,1.61,,No,Ganar músculo,2023-08-01,1,0
+S11117,42.0,Miraflores,Premium,5.0,11.0,5,179.0,85.1,1.78,26.9,Sí,Bajar de peso,03/11/2025,0,0
+S10718,37.0,Lima Centro,Premium,4.0,2.0,1,169.0,89.7,1.45,42.7,Sí,Salud general,16-01-25,1,1
+S10294,41.0,Miraflores,ESTÁNDAR,19.0,13.0,2,109.0,46.3,1.66,16.8,Sí,Bajar de peso,24/10/2025,1,0
+S11678,26.0,Surco,Premium,11.0,3.0,7,179.0,,1.81,21.6,No,Bajar de peso,30/09/2024,1,0
+S10315,25.0,Miraflores,ESTÁNDAR,19.0,2.0,2,129.0,8.1,1.49,39.1,Sí,Salud general,25/04/2022,0,0
+S10130,16.0,Miraflores,Premium,1.0,16.0,2,169.0,74.1,1.6,28.9,No,Salud general,10/06/2022,0,0
+S10860,16.0,Surco,Estándar,20.0,17.0,2,119.0,76.0,1.72,25.7,No,Bajar de peso,2024-11-04,1,0
+S10189,38.0,Callao,Premium,1.0,9.0,4,169.0,78.6,1.64,29.2,Sí,Salud general,2025-03-15,0,0
+S10027,45.0,Lima Centro,premium,13.0,10.0,2,169.0,76.4,1.55,31.8,no,Bajar de peso,18-09-23,1,0
+S10899,38.0,LIMA CENTRO,Básico,11.0,8.0,3,69.0,54.6,1.49,24.6,Sí,Salud general,2025-07-02,1,0
+S10953,32.0,Miraflores ,Básico,3.0,2.0,4,89.0,93.8,1.69,32.8,Sí,Competencia,01/02/2025,1,1
+S10832,29.0,Los Olivos,Básico,12.0,11.0,2,79.0,51.0,1.75,16.7,Sí,Ganar músculo,08/10/2022,1,0
+S11257,22.0,Miraflores,Estándar,2.0,6.0,1,109.0,,1.53,27.9,No,Bajar de peso,2024-06-16,0,1
+S11306,34.0,San Borja,Premium,11.0,3.0,4,169.0,63.6,1.63,23.9,NO,Ganar músculo,04/12/2022,2,0
+S10789,41.0,Miraflores,Estándar,60.0,6.0,3,119.0,57.3,1.77,18.3,Sí,Bajar de peso,2022-12-15,0,0
+S10769,47.0,los olivos,Estándar,37.0,15.0,5,129.0,75.9,1.63,28.6,No,Salud general,27/08/2024,2,0
+S11610,37.0,SAN BORJA,Premium,3.0,9.0,3,169.0,82.1,1.59,32.5,Sí,Salud general,2023-10-04,0,0
+S11200,57.0,San Borja,Básico,9.0,12.0,2,79.0,56.3,1.57,22.8,Sí,Bajar de peso,18/10/2023,1,0
+S10266,16.0,Surco,Básico,3.0,2.0,3,89.0,69.0,1.69,24.2,No,Ganar músculo,19-02-24,0,1
+S10915,,Miraflores,Básico,1.0,7.0,3,89.0,80.0,1.76,25.8,Sí,Ganar músculo,2023-03-11,0,0
+S11539,30.0,Lima Centro ,Estándar,15.0,5.0,3,129.0,67.9,1.65,24.9,Sí,Salud general,13/08/2025,0,0
+S10075,37.0,Lima Centro,estándar,6.0,8.0,2,119.0,98.1,1.65,36.0,Sí,Bajar de peso,08/07/2022,1,0
+S11477,28.0,Lima Centro,Básico,18.0,13.0,1,89.0,73.3,1.67,26.3,No,Bajar de peso,05-08-24,0,1
+S11422,52.0,Los Olivos,Básico,19.0,3.0,6,79.0,49.9,1.72,16.9,No,Salud general,2025-06-12,1,1
+S10905,16.0,Callao,Básico,7.0,11.0,2,79.0,58.8,1.73,19.6,Sí,Bajar de peso,21/09/2022,0,1
+S10739,22.0,Los Olivos,Básico,2.0,14.0,1,79.0,47.2,1.45,22.4,No,Bajar de peso,28/05/2025,1,0
+S11333,20.0,Miraflores,Premium,25.0,6.0,4,179.0,80.8,1.66,29.3,NO,Bajar de peso,31/07/2024,0,0
+S11952,26.0,San Borja,Estándar,2.0,9.0,1,109.0,77.4,1.89,21.7,No,Bajar de peso,19/06/2025,1,1
+S11795,29.0,Lima Centro,Estándar,9.0,17.0,2,119.0,89.4,1.6,34.9,No,Ganar músculo,06-12-24,0,0
+S11308,29.0,Los Olivos,Premium,5.0,12.0,0,159.0,75.0,1.64,27.9,NO,Salud general,2023-02-26,2,1
+S11347,32.0,Miraflores,Premium ,7.0,9.0,1,179.0,52.0,1.82,15.7,Sí,Bajar de peso,02/12/2023,0,1
+S11815,23.0,Surco,Premium,14.0,2.0,2,169.0,60.1,1.68,21.3,No,Bajar de peso,2024-12-21,0,1
+S11898,29.0,Surco,Premium,27.0,3.0,2,179.0,66.3,1.78,20.9,NO,Salud general,24/06/2022,0,1
+S10180,43.0,Lima Centro,Básico,24.0,8.0,3,79.0,90.0,1.7,31.1,Sí,Ganar músculo,31/12/2023,0,0
+S11626,38.0,Los Olivos,Premium,20.0,5.0,3,179.0,61.3,1.61,23.6,Sí,Ganar músculo,01/12/2025,0,0
+S10738,46.0,Los Olivos,Premium,2.0,9.0,1,179.0,,1.73,24.8,N,Ganar músculo,2024-10-21,0,0
+S10841,,Surco,Básico,26.0,8.0,2,69.0,78.6,1.62,29.9,No,Ganar músculo,2022-09-16,0,0
+S10376,30.0,Miraflores,Premium,4.0,1.0,1,159.0,84.0,1.62,32.0,No,Bajar de peso,31/01/2024,0,1
+S10683,34.0,Lima Centro,Básico,1.0,7.0,4,69.0,82.9,1.8,25.6,Sí,Bajar de peso,23/11/2023,1,0
+S10023,31.0,San Borja,Premium,15.0,3.0,4,159.0,50.3,1.53,21.5,No,Salud general,16/10/2023,0,1
+S10346,40.0,Surco,Estándar,8.0,14.0,2,119.0,75.1,1.7,26.0,No,Salud general,2022-10-20,1,0
+S11686,30.0,San Borja,Básico,17.0,,7,79.0,57.4,1.66,20.8,No,Ganar músculo,27/07/2024,3,1
+S10595,20.0,Surco,Estándar,5.0,8.0,4,129.0,,1.79,19.8,Sí,Salud general,24-10-25,1,1
+S11767,27.0, Miraflores,Básico,16.0,8.0,0,79.0,74.8,1.75,24.4,SI,,04/02/2026,1,0
+S10008,29.0,Los Olivos,Estándar,20.0,7.0,0,119.0,70.4,1.52,30.5,Sí,,20/11/2025,0,1
+S10228,21.0,Los Olivos,Estándar,1.0,12.0,3,129.0,67.9,1.6,26.5,Sí,Ganar músculo,11/08/2022,1,0
+S10489,21.0,Los Olivos,Básico,2.0,7.0,5,79.0,50.1,1.59,19.8,No,Ganar músculo,2024-07-31,0,0
+S10213,,Miraflores,Premium,10.0,6.0,4,169.0,81.9,1.85,,Sí,Salud general,02/02/2022,1,1
+S10868,16.0,Surco,Básico,1.0,11.0,5,S/ 79,,1.64,25.3,Sí,Bajar de peso,2024-01-07,0,0
+S11082,40.0,Miraflores,Básico,6.0,15.0,5,69.0,61.2,1.91,16.8,Sí,Bajar de peso,03/05/2024,0,0
+S10449,33.0,Miraflores,Estándar,8.0,8.0,3,129.0,,1.7,27.6,Sí,Bajar de peso,14/05/2023,2,0
+S11482,39.0,Miraflores,Básico,9.0,9.0,2,89.0,84.3,1.74,27.8,No,Ganar músculo,2023-02-27,0,1
+S10015,26.0,Miraflores,Estándar,42.0,5.0,3,S/ 119,50.0,1.73,16.7,Sí,Bajar de peso,13/06/2022,1,0
+S11516,31.0,Surco,Básico,1.0,9.0,3,79.0,71.2,1.66,25.8,Sí,,02/01/2022,0,0
+S11829,31.0,Los Olivos,Básico,15.0,12.0,3,79.0,67.2,1.76,21.7,No,Salud general,05/08/2024,0,0
+S10684,31.0,Miraflores,Básico,19.0,12.0,2,89.0,75.3,1.6,29.4,Sí,Bajar de peso,11/05/2024,0,0
+S11995,16.0,Los Olivos,Básico,18.0,6.0,1,89.0,52.0,1.73,17.4,Sí,,2025-08-09,1,0
+S11980,36.0,miraflores,Estándar,4.0,5.0,3,129.0,80.1,1.68,28.4,No,Bajar de peso,2025-05-14,1,0
+S11491,30.0,Surco,Básico,2.0,5.0,1,79.0,82.1,1.71,28.1,Sí,Bajar de peso,02-10-23,0,0
+S10546,40.0,San Borja,Estándar,16.0,4.0,2,119.0,81.3,1.61,31.4,No,Bajar de peso,22/06/2025,0,0
+S11191,18.0,Lima Centro,Estándar,10.0,,1,119.0,82.7,1.62,31.5,Sí,Salud general,2022-01-23,3,1
+S10643,30.0,surco,Estándar,17.0,5.0,1,129.0,82.8,1.83,24.7,No,Bajar de peso,24/10/2025,0,1
+S10354,41.0,Callao,Básico,1.0,17.0,1,89.0,78.6,1.59,,Sí,Bajar de peso,23/10/2025,0,0
+S10779,30.0, Surco,Estándar,16.0,4.0,3,119.0,48.9,1.53,20.9,Sí,Salud general,05/05/2025,0,0
+S10207,40.0,Lima Centro,Estándar,1.0,11.0,7,109.0,,1.87,,Sí,Bajar de peso,2024-06-19,0,0
+S11376,22.0,San Borja,Básico,1.0,8.0,3,69.0,66.3,1.66,24.1,NO,Bajar de peso,2025-11-10,1,0
+S11670,46.0,Surco,Estándar,3.0,6.0,2,129.0,82.4,1.72,27.9,No,Ganar músculo,07/08/2024,0,1
+S11696,23.0,SURCO,Básico,2.0,7.0,3,69.0,74.7,1.66,27.1,si,Salud general,2026-01-20,0,0
+S10416,37.0,Miraflores,Básico,5.0,12.0,2,79.0,82.0,1.49,36.9,No,Bajar de peso,17/01/2024,1,1
+S11466,20.0,San Borja,Estándar,4.0,9.0,2,129.0,,1.61,34.1,Sí,Bajar de peso,2025-03-14,0,1
+S11094,24.0,Miraflores,Básico,3.0,6.0,3,89.0,80.9,1.64,30.1,Sí,Salud general,30/07/2024,0,1
+S11205,30.0,Callao,Estándar,29.0,11.0,2,119.0,96.0,1.67,34.4,Sí,Salud general,2026-01-06,0,0
+S10731,43.0,Miraflores,Básico,6.0,11.0,2,69.0,45.0,1.68,15.9,Sí,Bajar de peso,17/12/2023,0,0
+S10442,39.0,Miraflores,Estándar,6.0,4.0,0,109.0,75.1,1.75,24.5,Sí,Bajar de peso,22/07/2025,1,1
+S11861,31.0,Los Olivos,Básico,3.0,7.0,6,79.0,77.7,1.63,29.2,Sí,,12/04/2025,2,0
+S11785,44.0,Lima Centro,Premium,34.0,4.0,0,179.0,67.9,1.68,24.1,Sí,Bajar de peso,2025-05-31,0,1
+S10536,28.0,Lima Centro,Premium,2.0,,2,159.0,62.6,1.8,,No,Salud general,2022-11-16,0,0
+S10348,16.0,Miraflores,Estándar,7.0,19.0,4,119.0,77.8,1.57,31.6,No,Salud general,04/08/2023,0,0
+S10688,51.0,Surco,Estándar,1.0,5.0,1,109.0,55.1,1.72,18.6,Sí,,2022-07-25,1,1
+S10403,38.0,Miraflores,Estándar,16.0,2.0,1,119.0,,1.57,32.7,Sí,,22/11/2025,0,0
+S10362,25.0,San Borja,Estándar,1.0,6.0,1,129.0,76.2,1.83,22.8,No,,28/08/2025,1,1
+S10026,25.0,San Borja,Basico,12.0,6.0,4,69.0,72.5,1.87,20.7,Sí,Bajar de peso,2022-11-01,1,0
+S11532,35.0,Los Olivos,Estándar,21.0,16.0,0,109.0,70.4,1.81,21.5,No,Bajar de peso,31/01/2025,0,0
+S11206,36.0,Lima Centro,Estándar,3.0,8.0,3,119.0,71.8,1.82,21.7,No,Ganar músculo,2023-05-14,0,1
+S10177,28.0,Miraflores,Básico,30.0,8.0,1,79.0,,1.5,24.3,SI,Ganar músculo,2023-01-17,1,1
+S11988,25.0,Surco,Básico,4.0,6.0,3,89.0,56.9,1.79,17.8,Sí,Bajar de peso,2023-03-09,0,0
+S11707,36.0,Los Olivos,Estándar,8.0,9.0,1,129.0,53.2,1.68,,Sí,Bajar de peso,06/07/2024,0,0
+S10983,30.0,Lima Centro,Premium,1.0,8.0,5,179.0,66.1,1.48,30.2,Sí,Ganar músculo,24/12/2024,0,0
+S10742,39.0, Los Olivos,Estándar,11.0,10.0,3,109.0,72.9,1.8,22.5,No,Bajar de peso,2022-02-25,0,1
+S10252,29.0,Surco,Básico,21.0,4.0,1,79.0,65.6,1.53,28.0,Sí,Bajar de peso,19/09/2024,0,0
+S10414,45.0,Miraflores,Estándar,18.0,5.0,2,119.0,79.3,1.71,27.1,No,Ganar músculo,2024-05-24,1,1
+S10558,21.0,Callao,Basico,13.0,8.0,2,79.0,,1.5,26.0,Sí,Bajar de peso,2025-09-18,1,0
+S10553,17.0,Surco,Básico,20.0,12.0,2,79.0,83.7,1.66,30.4,Sí,Salud general,20/12/2024,1,0
+S10193,35.0,Surco,Estándar,300.0,,2,119.0,,1.58,38.3,Sí,Salud general,2025-03-14,0,0
+S11171,18.0,Lima Centro,Estándar,4.0,9.0,3,119.0,63.4,1.66,23.0,Sí,Bajar de peso,2023-02-04,1,0
+S10734,25.0,San Borja,Básico,32.0,8.0,2,79.0,90.6,1.65,33.3,Sí,,2023-11-07,1,1
+S11074,32.0,Los Olivos ,básico,1.0,7.0,1,79.0,,1.69,28.2,No,Ganar músculo,21/12/2022,0,1
+S10445,34.0,Surco,Básico,40.0,5.0,1,S/ 79,84.8,1.71,29.0,Sí,Salud general,05/02/2025,1,0
+S10820,30.0,Miraflores,Básico,16.0,8.0,1,79.0,84.1,1.63,31.7,No,Ganar músculo,28-04-22,0,0
+S11681,33.0,Miraflores,Estándar,3.0,6.0,1,109.0,68.3,1.66,24.8,Sí,Salud general,07/01/2026,0,0
+S11189,32.0, Lima Centro,Premium,34.0,4.0,1,2000.0,72.6,1.63,27.3,Sí,Ganar músculo,27/04/2023,0,0
+S11940,40.0,Lima Centro,Premium,34.0,,0,169.0,84.8,1.72,28.7,Sí,Salud general,28/07/2025,1,1
+S10451,24.0,Surco,Básico,9.0,10.0,2,89.0,56.6,1.5,25.2,Sí,Bajar de peso,19/11/2025,0,0
+S11433,39.0,Surco,Estandar,1.0,2.0,2,119.0,71.2,1.67,25.5,No,,26/03/2023,4,1
+S10464,30.0,San Borja,Premium,32.0,15.0,1,179.0,65.4,1.64,24.3,Sí,Bajar de peso,04-09-22,0,0
+S10716,47.0,Callao,Estándar,21.0,,2,119.0,62.0,1.59,24.5,No,Bajar de peso,26-04-22,1,0
+S10458,30.0,Los Olivos,Básico,23.0,6.0,3,79.0,70.4,1.76,22.7,Sí,Bajar de peso,10/12/2022,0,0
+S11408,40.0,Miraflores,Básico,11.0,8.0,1,79.0,81.0,1.64,30.1,No,Bajar de peso,03/02/2025,1,0
+S10978,36.0,Miraflores,Estándar,3.0,8.0,2,129.0,77.0,1.61,29.7,Sí,Ganar músculo,2023-02-13,0,1
+S11448,19.0,Surco,Básico,14.0,14.0,2,69.0,80.7,1.75,26.4,Sí,Bajar de peso,11/09/2024,1,0
+S11344,22.0,San Borja,Básico,36.0,9.0,2,79.0,72.0,1.8,22.2,No,Salud general,2024-09-13,0,0
+S10369,24.0,Los Olivos,estándar,4.0,6.0,6,129.0,86.3,1.66,31.3,Sí,Salud general,25/11/2022,0,0
+S10484,20.0,San Borja,Básico,19.0,10.0,3,69.0,68.2,1.51,29.9,Sí,Bajar de peso,20/07/2024,1,0
+S10707,41.0,Los Olivos,Básico,2.0,12.0,1,79.0,,1.81,25.4,No,,28/12/2023,0,0
+S11653,24.0,Surco,Premium,9.0,7.0,0,159.0,66.1,1.71,22.6,No,Bajar de peso,09/06/2025,2,1
+S10307,16.0,Los Olivos,Básico,19.0,5.0,1,79.0,65.3,1.64,,No,Salud general,21/02/2024,0,1
+S10285,,Miraflores,Básico ,12.0,6.0,2,79.0,65.4,1.59,,No,,01-12-23,0,0
+S10651,16.0,Miraflores,Básico,6.0,5.0,2,69.0,89.2,1.67,32.0,No,Salud general,04/12/2022,0,0
+S11702,26.0,San Borja,Básico,8.0,7.0,2,79.0,51.5,1.67,18.5,Sí,Ganar músculo,05/02/2024,0,0
+S11765,26.0,Miraflores,Básico,29.0,11.0,2,79.0,65.8,1.48,30.0,Sí,Salud general,21/05/2024,0,0
+S11632,26.0,Surco,Estándar,4.0,2.0,3,119.0,104.8,1.66,38.0,Sí,Bajar de peso,06/06/2024,0,0
+S11283,,Miraflores ,Estándar,18.0,10.0,5,109.0,73.3,1.6,28.6,No,Ganar músculo,18/07/2022,2,0
+S11329,28.0,San Borja,Básico,48.0,,0,79.0,83.1,1.66,30.2,Sí,Bajar de peso,23/11/2024,3,1
+S11461,20.0,Miraflores,Estándar,9.0,4.0,5,119.0,58.4,1.63,22.0,Sí,Salud general,27/03/2023,0,0
+S10657,38.0,Miraflores,Estándar,1.0,9.0,1,119.0,61.0,1.8,18.8,No,Ganar músculo,2024-08-31,1,1
+S10810,44.0,Callao,Estándar,14.0,15.0,4,119.0,63.4,1.71,21.7,No,Ganar músculo,2024-02-06,0,0
+S10699,36.0,Lima Centro,Estándar,8.0,5.0,0,109.0,87.9,1.69,30.8,Sí,Ganar músculo,05/07/2025,0,0
+S11971,31.0,Lima Centro,Premium,19.0,17.0,2,169.0,61.2,1.62,23.3,No,Ganar músculo,2026-01-04,0,0
+S10693,,SAN BORJA,Básico,9.0,11.0,6,79.0,66.7,1.8,20.6,Sí,Ganar músculo,2025-12-09,0,0
+S10746,51.0,Los Olivos,Básico,18.0,13.0,2,89.0,88.0,1.62,33.5,Sí,Salud general,2022-10-14,0,0
+S10672,27.0,Surco,Estándar,3.0,14.0,0,119.0,79.7,1.8,24.6,No,Ganar músculo,01/06/2023,0,0
+S11286,21.0,Lima Centro,Premium,3.0,,3,179.0,48.4,1.7,16.7,Sí,Bajar de peso,08/07/2023,0,0
+S10097,35.0,Lima Centro,estándar,11.0,18.0,4,119.0,81.4,1.69,28.5,No,Salud general,07/05/2022,0,0
+S11384,36.0,Los Olivos,Básico,34.0,5.0,1,89.0,80.3,1.76,25.9,S,Salud general,22/04/2024,0,0
+S11575,23.0,Surco,Premium,34.0,,0,169.0,82.3,1.74,27.2,No,Salud general,21/09/2024,0,1
+S10797,35.0,Miraflores,Basico,600.0,8.0,1,79.0,78.7,1.76,25.4,Sí,Bajar de peso,2023-04-18,1,1
+S10139,16.0,San Borja,Estándar,6.0,8.0,3,109.0,,1.72,25.5,Sí,Bajar de peso,04/01/2026,0,0
+S10835,16.0,Miraflores,Premium,1.0,9.0,2,179.0,67.9,1.63,25.6,Sí,Bajar de peso,05/02/2023,0,0
+S10971,46.0,Los Olivos,Estándar ,1.0,4.0,0,119.0,48.7,1.73,16.3,SI,Salud general,30/01/2023,0,1
+S11298,30.0,Miraflores,Premium,16.0,4.0,3,169.0,62.4,1.69,21.8,Sí,Ganar músculo,11/04/2022,2,1
+S11389,33.0,callao,Básico,3.0,13.0,3,79.0,75.9,1.63,28.6,No,Ganar músculo,29-01-26,0,0
+S11777,27.0,Surco,Básico,1.0,9.0,0,89.0,76.7,1.62,29.2,No,Bajar de peso,30/09/2022,0,1
+S10985,19.0,Los Olivos,Premium,2.0,6.0,2,169.0,59.7,1.79,18.6,No,Bajar de peso,24/10/2025,0,1
+S11210,42.0,San Borja,Estándar,19.0,7.0,3,119.0,60.7,1.69,21.3,No,Salud general,29/06/2023,0,0
+S10802,30.0,Lima Centro,Estándar,8.0,8.0,1,119.0,64.2,1.61,24.8,Sí,Bajar de peso,07/09/2024,2,0
+S10128,29.0,Miraflores,Básico,11.0,8.0,1,79.0,77.6,1.62,29.6,Sí,Ganar músculo,23/07/2023,0,0
+S10720,20.0,San Borja,Premium,1.0,9.0,5,169.0,79.4,1.65,29.2,Sí,Ganar músculo,2023-11-12,0,0
+S10700,16.0,Miraflores ,Estándar,4.0,5.0,3,S/ 129,68.7,1.53,29.3,No,Salud general,2024-09-27,0,0
+S11997,20.0,Miraflores,Estándar ,3.0,10.0,3,119.0,63.2,1.65,23.2,No,Salud general,21/02/2022,1,0
+S11588,28.0,San Borja,Básico,14.0,4.0,3,79.0,,1.62,21.1,Sí,Bajar de peso,2024-06-05,2,0
+S10522,48.0,Miraflores,Básico,2.0,11.0,1,69.0,86.0,1.7,29.8,Sí,Salud general,2023-05-06,0,1
+S10264,33.0,Lima Centro,Premium,2.0,11.0,1,169.0,74.4,1.59,29.4,Sí,Salud general,28-07-24,0,0
+S10166,40.0,Lima Centro,Estándar,17.0,6.0,0,119.0,109.3,1.74,36.1,Sí,Bajar de peso,08/09/2023,1,1
+S11050,29.0, Los Olivos,Estándar,7.0,4.0,3,109.0,60.2,1.59,23.8,Sí,Salud general,10/05/2024,1,0
+S11631,25.0,Surco,Premium,23.0,9.0,1,169.0,74.9,1.68,26.5,Sí,Bajar de peso,19/04/2024,1,0
+S10663,43.0,Lima Centro,Básico,32.0,6.0,1,S/ 79,48.7,1.74,16.1,Sí,Salud general,16/06/2022,0,0
+S10631,28.0,Los Olivos,Premium,13.0,10.0,1,169.0,67.8,1.64,25.2,Sí,Bajar de peso,13/12/2022,0,0
+S10498,38.0,Miraflores,Estándar,1.0,310,1,S/ 119,,1.69,,Sí,Bajar de peso,18-09-24,2,1
+S11687,36.0,Surco,Básico,4.0,9.0,2,89.0,51.2,1.59,20.3,No,Ganar músculo,23-10-24,1,0
+S11591,16.0,Los Olivos,Estándar,6.0,12.0,5,129.0,63.6,1.78,20.1,Sí,Salud general,25/11/2023,0,0
+S11701,14,Lima Centro,Estándar,10.0,13.0,1,119.0,55.4,1.58,22.2,No,Bajar de peso,06-03-24,1,0
+S10948,31.0,Miraflores,Básico,20.0,14.0,2,79.0,80.0,1.86,23.1,Sí,Salud general,22/06/2022,0,0
+S10432,23.0,Lima Centro,Básico,13.0,7.0,0,89.0,69.7,1.57,28.3,Sí,Bajar de peso,25/03/2024,0,1
+S11187,28.0,Lima Centro,Premium,13.0,6.0,1,169.0,70.4,1.52,30.5,Sí,Ganar músculo,29/01/2023,0,0
+S11522,18.0,Surco,Estándar,4.0,10.0,3,129.0,62.8,1.63,23.6,Sí,Salud general,2022-08-27,1,0
+S10068,,Los Olivos,Básico,19.0,11.0,2,89.0,73.9,1.71,25.3,No,Bajar de peso,2024-05-02,1,0
+S10970,37.0,Lima Centro,básico,11.0,4.0,6,89.0,54.3,1.63,20.4,No,Bajar de peso,2023-07-27,0,0
+S10702,27.0,San Borja,Básico,24.0,4.0,0,79.0,71.2,1.66,25.8,Sí,Bajar de peso,17/10/2023,0,0
+S11228,37.0,San Borja,Básico,5.0,16.0,7,89.0,90.1,1.62,,SI,Ganar músculo,16-09-22,0,0
+S11836,,Surco,Estándar,29.0,11.0,2,119.0,76.7,1.72,25.9,No,Ganar músculo,02/07/2025,0,0
+S10573,33.0,Miraflores,Estándar,24.0,5.0,1,109.0,61.4,1.64,22.8,No,Bajar de peso,01/05/2023,0,0
+S10334,20.0,surco,Estándar,19.0,11.0,1,129.0,81.3,1.68,28.8,Sí,Salud general,08/12/2023,1,0
+S10338,25.0,Callao,Estándar,2.0,4.0,2,119.0,63.4,1.71,21.7,No,Competencia,25/11/2023,1,1
+S10882,45.0,Los Olivos,Estándar,1.0,6.0,4,109.0,73.2,1.59,29.0,Sí,Bajar de peso,18/07/2023,2,1
+S10664,30.0,Lima Centro,Estándar,14.0,3.0,2,119.0,67.3,1.73,22.5,Sí,Bajar de peso,2023-06-10,1,1
+S10383,32.0,San Borja,Estándar,19.0,,1,109.0,92.9,1.68,32.9,Sí,Bajar de peso,24-05-23,0,0
+S10967,22.0,San Borja,Estándar,21.0,6.0,2,129.0,92.1,1.61,35.5,Sí,Salud general,29/09/2023,2,1
+S10055,32.0,Los Olivos,Básico,7.0,3.0,4,79.0,71.4,1.71,24.4,Sí,,2024-11-02,1,0
+S11294,27.0,Callao,Básico,29.0,5.0,4,89.0,99.5,1.74,32.9,No,,30/03/2022,0,1
+S11778,26.0,Los Olivos,Básico,3.0,12.0,3,79.0,62.2,1.71,21.3,Sí,Competencia,05/01/2023,0,0
+S10729,25.0,Callao,Básico,1.0,3.0,4,89.0,87.9,1.73,29.4,Sí,Bajar de peso,25/06/2025,1,0
+S11573,33.0,Miraflores ,Estándar,3.0,11.0,1,109.0,73.5,1.69,25.7,Sí,Bajar de peso,18/01/2022,1,1
+S11960,27.0,Lima Centro,Estándar,500.0,9.0,3,119.0,61.4,1.53,26.2,Sí,Ganar músculo,2023-08-24,0,0
+S11724,33.0,Miraflores,Estándar,7.0,15.0,1,129.0,87.0,1.75,28.4,Sí,Salud general,17/08/2024,0,0
+S10170,36.0,Lima Centro,Básico,4.0,8.0,1,69.0,74.8,1.6,29.2,Sí,Bajar de peso,2023-06-18,0,0
+S10173,45.0,San Borja,Básico,15.0,6.0,3,89.0,45.0,1.7,15.6,No,Bajar de peso,2026-01-11,0,0
+S10993,35.0,Lima Centro,Estándar,25.0,8.0,3,109.0,71.1,1.76,23.0,No,Ganar músculo,18/03/2025,0,1
+S10326,21.0,Callao,Básico ,18.0,5.0,6,79.0,82.7,1.68,29.3,No,,2023-08-02,1,0
+S10503,21.0,Callao,Estandar,7.0,5.0,1,109.0,87.5,1.65,32.1,Sí,Bajar de peso,03/12/2023,0,0
+S11102,26.0,Surco,Premium,27.0,4.0,0,159.0,77.2,1.71,26.4,Sí,Bajar de peso,2024-11-22,1,0
+S10409,22.0,Los Olivos,ESTÁNDAR,25.0,1.0,3,119.0,90.5,1.68,32.1,Sí,Ganar músculo,11/07/2022,0,0
+S11987,,lima centro,Premium,20.0,7.0,3,169.0,45.0,1.8,13.9,No,Ganar músculo,2022-04-25,0,1
+S10297,62.0,Lima Centro,Estándar,9.0,8.0,3,129.0,77.0,1.55,32.0,No,Salud general,07/04/2025,1,0
+S11528,17.0,San Borja,Básico ,15.0,7.0,2,79.0,63.3,1.53,27.0,No,Ganar músculo,2025-03-19,0,1
+S10862,31.0,Callao,Básico,1.0,5.0,1,S/ 79,65.9,1.61,25.4,Sí,Bajar de peso,2023-02-06,0,0
+S11173,36.0,Los Olivos,Premium,30.0,15.0,3,159.0,71.1,1.71,24.3,Sí,Bajar de peso,06/03/2023,1,0
+S11277,25.0,San Borja ,Básico,32.0,3.0,1,69.0,103.6,1.67,37.1,No,Salud general,05/09/2022,1,1
+S11397,19.0,Los Olivos,Básico,9.0,5.0,3,69.0,79.3,1.61,30.6,No,Bajar de peso,17/12/2025,1,0
+S10765,29.0,San Borja,Básico,28.0,3.0,1,89.0,77.1,1.53,32.9,Sí,Ganar músculo,2022-03-17,0,0
+S10671,16.0,Los Olivos,Básico,5.0,6.0,2,69.0,48.5,1.45,23.1,No,,19-04-24,0,1
+S10648,17.0,Lima Centro,Estándar,7.0,5.0,3,119.0,90.2,1.53,38.5,No,Salud general,2022-04-15,0,0
+S11071,39.0,SAN BORJA,Estándar,11.0,13.0,2,109.0,87.3,1.66,31.7,Sí,Bajar de peso,2022-06-24,0,0
+S11726,49.0,Callao,Estándar,3.0,4.0,7,109.0,108.5,1.82,32.8,Sí,Ganar músculo,17/02/2022,1,0
+S10725,,Lima Centro,Básico,5.0,,2,69.0,82.7,1.79,25.8,Sí,,05/12/2024,0,0
+S11581,,Lima Centro,Premium,1.0,10.0,1,159.0,57.3,1.68,20.3,No,Salud general,26/09/2024,1,0
+S11886,37.0,LIMA CENTRO,Estándar,6.0,12.0,0,119.0,74.5,1.7,,Sí,Bajar de peso,06/07/2023,1,1
+S10747,34.0,Miraflores,Básico,19.0,10.0,3,79.0,50.6,1.57,20.5,No,Bajar de peso,2026-01-20,0,0
+S10861,44.0,San Borja,Premium,17.0,8.0,1,159.0,67.7,1.69,23.7,Sí,,19/01/2022,2,0
+S10531,41.0,Miraflores ,Básico,18.0,4.0,1,79.0,73.4,1.71,25.1,Sí,Salud general,08/12/2022,0,0
+S10407,49.0,Lima Centro,Premium,31.0,11.0,1,169.0,88.7,1.77,28.3,No,Ganar músculo,06/01/2022,0,0
+S10199,33.0,San Borja,Básico,6.0,3.0,0,790.0,108.0,1.56,,No,,2025-09-21,1,1
+S10473,43.0,Lima Centro,Estándar,38.0,90,2,129.0,75.2,1.71,25.7,Sí,Ganar músculo,16/03/2024,0,0
+S11199,45.0,Lima Centro,Estándar,6.0,7.0,2,119.0,45.0,1.74,14.9,No,Ganar músculo,2024-02-11,0,1
+S11008,45.0,Los Olivos,básico,13.0,4.0,4,89.0,90.7,1.79,28.3,Sí,Competencia,01/01/2025,1,0
+S11744,42.0,Los Olivos,Básico,1.0,7.0,1,89.0,45.0,1.65,16.5,Sí,Salud general,13-09-24,0,0
+S11596,29.0,MIRAFLORES,Básico,8.0,11.0,2,79.0,70.8,1.73,23.7,Sí,Ganar músculo,2023-08-24,0,0
+S10216,25.0,Surco,Básico,35.0,18.0,3,79.0,71.3,1.8,22.0,No,Ganar músculo,27/05/2023,0,0
+S10253,,Miraflores,Básico,15.0,11.0,3,79.0,76.9,1.65,28.2,No,Bajar de peso,29/06/2023,1,0
+S10152,31.0,Surco,Estándar,7.0,4.0,3,129.0,63.6,17.0,22.8,Sí,Salud general,2025-12-11,0,0
+S11307,34.0,Lima Centro,Estándar,7.0,4.0,3,109.0,71.9,1.72,24.3,No,,06/03/2022,1,0
+S10961,33.0,Miraflores,Básico,13.0,4.0,1,89.0,76.9,1.75,25.1,Sí,Salud general,2023-02-02,1,1
+S11764,49.0,Los Olivos,Premium,8.0,,4,159.0,71.8,1.84,21.2,No,Ganar músculo,2023-10-18,1,1
+S11293,24.0,Surco,Estándar,15.0,3.0,6,109.0,48.6,1.79,15.2,Sí,Bajar de peso,2022-09-17,1,1
+S11478,39.0,Surco,Básico,12.0,10.0,4,79.0,53.5,1.68,19.0,Sí,Ganar músculo,19-12-24,1,0
+S11005,36.0,Callao,Básico,9.0,7.0,1,89.0,53.4,1.63,20.1,Sí,Bajar de peso,2024-08-08,2,0
+S11226,46.0,Callao,Básico,1.0,12.0,1,79.0,93.1,1.75,30.4,no,Ganar músculo,27/05/2024,0,0
+S11964,24.0,Miraflores,Básico,1.0,14.0,3,69.0,45.0,1.67,16.1,No,Ganar músculo,02/03/2023,0,0
+S11268,33.0,Miraflores,Premium,60.0,8.0,1,169.0,75.5,1.67,27.1,si,Ganar músculo,24/06/2025,0,1
+S10530,46.0,San Borja,Estandar,60.0,3.0,1,129.0,67.6,1.75,22.1,No,Bajar de peso,23/12/2025,2,1
+S11170,26.0,Surco,Estándar,7.0,6.0,5,119.0,115.3,1.7,39.9,No,,22-07-23,0,1
+S11465,29.0,San Borja,Premium,15.0,,5,159.0,70.4,1.68,24.9,Sí,Ganar músculo,26-10-24,1,1
+S10240,57.0,MIRAFLORES,Estándar,25.0,6.0,1,119.0,84.7,1.7,29.3,Sí,Salud general,2024-09-15,3,0
+S11152,33.0,Miraflores,Estándar,9.0,4.0,0,109.0,77.3,1.73,25.8,Sí,Bajar de peso,2022-06-02,1,0
+S11090,25.0,Los Olivos,Estándar,15.0,14.0,4,119.0,81.5,1.7,28.2,No,Salud general,09/11/2024,0,0
+S10187,30.0,CALLAO,Estándar,3.0,6.0,4,129.0,53.9,1.71,18.4,Sí,Bajar de peso,09/08/2023,1,0
+S10246,,Lima Centro,Estándar,1.0,4.0,1,119.0,73.0,1.67,26.2,No,Bajar de peso,2025-04-20,1,1
+S11346,33.0,Surco,Básico,4.0,8.0,3,69.0,62.5,1.59,24.7,Sí,Ganar músculo,14/07/2025,0,0
+S11427,29.0,Lima Centro,básico,15.0,8.0,3,69.0,66.0,1.62,25.1,No,Bajar de peso,04-08-22,1,0
+S11070,30.0,Callao,Estándar,5.0,4.0,1,119.0,70.3,1.59,27.8,No,Salud general,23/01/2026,2,1
+S10935,34.0,Lima Centro,Básico,3.0,4.0,3,79.0,86.3,1.67,30.9,No,Bajar de peso,2024-05-06,0,0
+S10692,32.0,Surco,Básico,33.0,6.0,2,79.0,67.1,1.75,21.9,Sí,Bajar de peso,2023-04-08,0,0
+S10302,43.0,Callao,Básico,9.0,4.0,2,79.0,72.4,1.81,22.1,No,Bajar de peso,28-04-22,0,0
+S10283,18.0,Lima Centro,BÁSICO,13.0,7.0,3,79.0,96.9,1.68,34.3,No,Bajar de peso,28/05/2022,0,0
+S10946,28.0,Lima Centro,Premium,8.0,10.0,2,169.0,81.0,1.61,31.2,No,Bajar de peso,02/10/2022,0,1
+S10505,37.0,Surco,Estándar,3.0,5.0,2,119.0,68.9,1.73,23.0,No,Bajar de peso,13/07/2022,1,0
+S11982,16.0,Lima Centro,Premium,33.0,14.0,0,169.0,59.8,1.68,21.2,Sí,Bajar de peso,2023-05-02,1,0
+S10321,31.0,Miraflores,Básico,2.0,7.0,2,79.0,60.1,1.76,19.4,Sí,Ganar músculo,2025-03-03,2,1
+S11901,40.0,San Borja,Premium,11.0,8.0,3,169.0,78.8,1.58,31.6,Sí,Bajar de peso,2025-06-04,0,1
+S11577,35.0,San Borja,Estándar,2.0,,3,129.0,72.5,1.62,27.6,No,Bajar de peso,05/11/2024,2,0
+S11834,55.0,Callao,Básico,1.0,8.0,1,89.0,72.6,1.69,25.4,Sí,Salud general,30/10/2022,0,0
+S10621,30.0,Callao,Estándar,38.0,8.0,3,119.0,58.9,1.56,24.2,Sí,Ganar músculo,13/06/2022,0,0
+S11930,34.0,San Borja,Básico,5.0,2.0,1,79.0,66.0,1.7,22.8,Sí,Salud general,29/04/2025,1,1
+S11236,25.0,Lima Centro,Premium,11.0,13.0,5,179.0,63.0,1.68,,No,Ganar músculo,11/02/2024,0,0
+S10122,25.0,Los Olivos,Básico,19.0,6.0,2,79.0,78.8,1.56,32.4,Sí,Bajar de peso,19/09/2024,1,1
+S10856,31.0,Lima Centro,Estándar,14.0,6.0,6,119.0,86.8,1.74,28.7,Sí,Salud general,2022-06-04,0,0
+S10510,35.0,Miraflores,Básico,16.0,10.0,0,79.0,74.2,1.6,29.0,No,Salud general,29/08/2025,1,0
+S10280,47.0,Callao,Estándar,19.0,8.0,1,109.0,74.4,1.74,24.6,No,Bajar de peso,2023-03-04,0,0
+S11674,18.0,San Borja,Premium,5.0,16.0,2,159.0,58.0,1.63,21.8,No,Ganar músculo,18-09-24,1,0
+S11274,29.0,Lima Centro ,Premium,7.0,14.0,6,159.0,85.0,1.85,24.8,No,,04/03/2024,0,0
+S11421,39.0,Miraflores,Estándar,9.0,9.0,3,109.0,60.7,1.78,19.2,No,Salud general,2022-09-08,2,0
+S11027,42.0,Surco,Estándar,34.0,7.0,0,119.0,71.3,1.56,29.3,No,Ganar músculo,2024-05-08,1,0
+S11058,38.0,Callao,Básico,28.0,5.0,2,79.0,58.0,1.53,24.8,Sí,Bajar de peso,07/03/2023,0,0
+S11081,33.0,Lima Centro,Básico,49.0,5.0,3,79.0,60.3,1.53,25.8,Sí,Salud general,06/03/2025,0,0
+S10756,31.0,Lima Centro,Premium,29.0,6.0,0,169.0,90.2,1.75,29.5,no,Salud general,27/12/2022,1,0
+S10677,32.0,Lima Centro,Básico,1.0,11.0,3,69.0,63.9,1.8,19.7,Sí,Salud general,2025-03-06,0,0
+S10518,44.0,Miraflores,Básico,21.0,8.0,3,69.0,51.0,1.77,16.3,No,Ganar músculo,31/12/2023,0,0
+S11203,30.0,San Borja,Estándar ,6.0,5.0,4,119.0,66.6,1.56,27.4,Sí,Ganar músculo,10-11-25,0,0
+S11999,42.0,Surco,Premium,25.0,9.0,1,159.0,86.1,1.77,27.5,Sí,Ganar músculo,09/07/2023,1,1
+S10067,35.0,Miraflores,Básico,8.0,5.0,3,79.0,81.1,1.87,23.2,Sí,Bajar de peso,01/01/2026,0,0
+S10332,36.0,Miraflores,Básico,8.0,3.0,1,69.0,56.9,1.7,19.7,Sí,Ganar músculo,2023-12-21,0,0
+S10568,44.0,San Borja,ESTÁNDAR,4.0,8.0,4,119.0,94.5,1.6,36.9,Sí,Bajar de peso,2023-10-15,0,0
+S10898,46.0, Los Olivos,Estándar,16.0,6.0,2,129.0,78.5,1.83,23.4,No,Bajar de peso,2023-09-18,0,1
+S11227,42.0,Lima Centro,Estándar,7.0,5.0,4,119.0,75.4,1.67,27.0,No,Ganar músculo,10/08/2022,0,0
+S11467,,Surco,Estándar,16.0,9.0,0,119.0,73.3,1.76,23.7,Sí,Salud general,2024-08-15,0,0
+S11750,58.0,Surco,Básico,1.0,6.0,4,79.0,93.5,1.76,30.2,No,Ganar músculo,31/05/2025,1,0
+S10472,33.0,Surco,Estándar,3.0,7.0,3,109.0,94.5,1.75,30.9,Sí,Bajar de peso,11/02/2022,0,0
+S10997,16.0,Callao,Básico,10.0,5.0,2,69.0,84.8,1.78,26.8,Sí,Salud general,23-05-25,1,0
+S10511,64.0,Miraflores,Básico,3.0,6.0,5,79.0,66.8,1.67,24.0,Sí,Bajar de peso,2022-05-10,0,0
+S10477,22.0,Lima Centro,Básico,1.0,7.0,6,89.0,77.6,1.62,29.6,NO,Competencia,2024-06-06,1,0
+S11705,43.0,Lima Centro,básico,4.0,15.0,3,69.0,,1.67,31.1,No,Bajar de peso,15/01/2023,1,0
+S11435,19.0,Lima Centro,premium,3.0,14.0,0,169.0,74.4,1.53,31.8,No,Bajar de peso,13/08/2022,0,0
+S10318,41.0, Lima Centro,Básico,12.0,6.0,2,89.0,60.4,1.63,22.7,Sí,Bajar de peso,31/07/2023,0,0
+S10992,42.0,San Borja,Básico,21.0,11.0,2,79.0,83.8,1.63,31.5,Sí,Ganar músculo,12/12/2024,0,0
+S11904,44.0,San Borja,Básico,2.0,2.0,2,89.0,62.6,1.73,20.9,Sí,Salud general,05/06/2025,0,0
+S11041,41.0,San Borja,Estándar,2.0,6.0,4,S/ 129,65.0,1.68,23.0,No,Bajar de peso,2026-01-15,0,0
+S10581,31.0,San Borja,Básico ,3.0,6.0,5,79.0,78.3,1.68,27.7,No,Bajar de peso,2022-01-06,1,0
+S10132,40.0,Surco,Básico,1.0,7.0,1,79.0,57.8,1.59,22.9,Sí,Ganar músculo,2022-04-27,2,1
+S11768,22.0,Surco,Básico,30.0,10.0,3,89.0,,1.81,,No,,2023-10-15,0,0
+S10879,,Miraflores,Estándar,4.0,4.0,7,119.0,82.7,1.48,37.8,Sí,Ganar músculo,03/07/2022,0,1
+S11295,16.0,Miraflores,Estándar,1.0,3.0,1,119.0,86.0,1.74,28.4,NO,Bajar de peso,18-02-25,0,0
+S11447,37.0,Callao,Estándar,16.0,9.0,2,129.0,66.3,1.65,,Sí,Bajar de peso,04/01/2025,0,1
+S11315,32.0,Surco,Estándar ,7.0,7.0,3,129.0,83.9,1.75,27.4,Sí,Salud general,21/02/2022,1,0
+S10368,18.0,San Borja,ESTÁNDAR,1.0,8.0,2,119.0,62.6,1.67,22.4,Sí,Ganar músculo,14/04/2024,1,0
+S10732,29.0,Callao,Básico,3.0,9.0,2,79.0,62.1,1.72,21.0,Sí,Bajar de peso,2022-11-07,0,0
+S11396,28.0,Los Olivos,Básico,8.0,7.0,6,79.0,81.4,1.53,34.8,Sí,,2025-02-02,1,0
+S10125,46.0,Miraflores,Basico,7.0,6.0,5,89.0,73.7,1.59,29.2,No,Salud general,20/05/2022,1,1
+S11609,22.0,Miraflores,Básico,3.0,10.0,1,79.0,63.2,1.77,20.2,No,Ganar músculo,11/07/2024,0,0
+S11067,34.0,Los Olivos,Premium,13.0,5.0,2,169.0,65.1,1.75,21.3,Sí,Bajar de peso,02-11-23,0,0
+S10256,40.0,Los Olivos,Estándar,1.0,11.0,5,119.0,86.6,1.79,27.0,No,Bajar de peso,16/07/2025,0,0
+S10231,48.0,los olivos,Básico,2.0,10.0,1,89.0,78.6,1.74,26.0,Sí,Salud general,19/04/2024,0,0
+S11139,25.0,Los Olivos,Básico,17.0,9.0,2,79.0,65.6,1.85,19.2,SI,Bajar de peso,2022-03-04,0,0
+S10289,25.0,Surco,Básico,6.0,4.0,1,89.0,75.0,1.68,26.6,Sí,Salud general,05/03/2024,0,0
+S11574,43.0,Lima Centro,Básico,14.0,4.0,2,S/ 79,70.3,1.64,26.1,No,Bajar de peso,24/07/2023,1,0
+S10777,26.0,Miraflores,Estándar,22.0,9.0,1,129.0,,1.75,20.0,Sí,Ganar músculo,07/06/2022,0,0
+S10081,25.0,San Borja,Básico,10.0,17.0,3,79.0,59.9,1.73,20.0,Sí,,2023-03-05,0,0
+S10053,42.0,San Borja,estándar,33.0,3.0,2,129.0,89.7,1.69,31.4,No,Bajar de peso,2023-07-02,1,1
+S10943,35.0,Los Olivos,PREMIUM,7.0,8.0,1,S/ 169,65.3,1.45,31.1,Sí,Bajar de peso,2024-03-24,0,1
+S11109,,los olivos,Estándar,8.0,5.0,2,129.0,,1.47,28.3,No,Ganar músculo,16/12/2025,1,0
+S10557,26.0,Lima Centro,Estándar,9.0,9.0,0,119.0,77.3,1.87,22.1,No,Ganar músculo,16/06/2022,0,0
+S11784,,Lima Centro,Premium,10.0,120,2,179.0,96.3,1.6,,Sí,Competencia,22/12/2025,0,1
+S10040,,Lima Centro,Básico,10.0,5.0,4,79.0,70.1,1.83,20.9,Sí,Bajar de peso,11/11/2023,0,1
+S11158,25.0,San Borja,Básico,35.0,11.0,0,69.0,71.7,1.56,29.5,No,Bajar de peso,15/06/2023,1,0
+S10261,16.0,Callao,Basico,8.0,8.0,2,79.0,70.6,1.61,27.2,Sí,,2022-07-06,0,0
+S10668,33.0,Los Olivos,Estándar,2.0,7.0,4,119.0,74.8,1.72,25.3,SI,Bajar de peso,2023-12-31,0,0
+S10947,16.0,San Borja,Estándar,13.0,5.0,3,S/ 119,54.1,1.74,17.9,No,Bajar de peso,28/09/2025,0,0
+S10083,37.0,Lima Centro,PREMIUM,5.0,16.0,3,179.0,68.7,1.65,25.2,no,Ganar músculo,2025-03-25,0,0
+S11150,36.0,Miraflores,premium,6.0,12.0,2,179.0,72.8,1.62,27.7,Sí,Ganar músculo,21/09/2024,0,0
+S11390,28.0,Lima Centro,premium,7.0,14.0,2,169.0,,1.64,29.0,Sí,Bajar de peso,2022-05-28,2,0
+S11592,27.0,San Borja,Premium,24.0,3.0,1,159.0,79.1,1.82,23.9,N,Bajar de peso,13/10/2025,0,1
+S10857,45.0,Los Olivos,Estándar,5.0,12.0,1,S/ 119,,1.69,25.2,No,Salud general,2023-12-16,1,0
+S10030,20.0,SURCO,Estándar,2.0,8.0,2,129.0,80.6,1.74,26.6,Sí,,10/04/2022,0,1
+S10513,32.0,Lima Centro,Estándar,8.0,7.0,4,119.0,53.3,1.52,23.1,Sí,Bajar de peso,03/09/2024,1,0
+S11028,20.0,Callao,Estándar,1.0,,2,129.0,65.5,1.76,21.1,No,Ganar músculo,22/05/2024,0,0
+S11395,25.0,Los Olivos,Premium,39.0,6.0,0,179.0,75.3,1.61,29.0,Sí,Salud general,16/08/2024,1,0
+S11717,27.0,San Borja,Básico,43.0,5.0,3,89.0,66.7,1.8,20.6,Sí,Bajar de peso,11-04-22,2,0
+S11047,25.0,Callao,estándar,13.0,9.0,1,109.0,68.4,1.54,,No,Salud general,2022-09-16,0,0
+S11493,24.0,San Borja,ESTÁNDAR,9.0,8.0,2,129.0,73.3,1.63,27.6,Sí,Ganar músculo,2022-05-03,0,0
+S11336,23.0,Lima Centro,Estándar,5.0,5.0,2,129.0,68.2,1.61,26.3,No,Salud general,25/03/2022,0,0
+S11633,27.0,Miraflores,Premium,18.0,10.0,3,169.0,90.3,1.59,35.7,Sí,,16/03/2022,1,1
+S10986,,Los Olivos,Básico,7.0,3.0,0,69.0,72.5,1.71,24.8,Sí,Bajar de peso,2023-09-16,1,1
+S11554,42.0,Miraflores,Estándar ,1.0,12.0,3,109.0,74.4,1.75,24.3,Sí,Bajar de peso,05/12/2023,0,0
+S11884,25.0,Miraflores ,Básico,14.0,,2,79.0,58.5,1.68,20.7,No,Ganar músculo,12/10/2023,0,0
+S11924,20.0,Los Olivos,Premium,5.0,8.0,2,169.0,62.4,1.72,21.1,No,Ganar músculo,31/01/2022,1,1
+S10048,58.0,Lima Centro,Estándar,5.0,8.0,2,119.0,65.4,1.72,22.1,Sí,Salud general,16/01/2023,0,0
+S11688,38.0,LOS OLIVOS,Premium,12.0,,2,179.0,81.2,1.65,29.8,Sí,Ganar músculo,2023-04-16,0,0
+S11905,27.0,Miraflores,Básico,6.0,19.0,0,79.0,75.5,1.59,29.9,Sí,Ganar músculo,2023-04-14,0,0
+S10467,16.0,San Borja,Básico,5.0,3.0,2,79.0,74.7,1.74,24.7,No,Bajar de peso,10-01-26,1,1
+S10153,23.0,Miraflores,Estándar,13.0,12.0,1,129.0,73.7,1.68,26.1,si,Salud general,2022-03-27,0,0
+S11608,16.0,Lima Centro,Premium,5.0,5.0,3,169.0,74.9,1.72,25.3,No,Salud general,2024-11-25,0,1
+S11925,49.0,Miraflores,Premium,4.0,5.0,2,169.0,71.7,1.78,22.6,NO,Salud general,2022-03-22,0,0
+S10394,38.0,San Borja,Estándar,10.0,11.0,4,119.0,88.6,1.69,31.0,No,Ganar músculo,24/05/2022,0,0
+S10123,42.0,Callao,Básico,9.0,13.0,1,79.0,74.0,1.68,26.2,No,Ganar músculo,15/03/2024,0,0
+S10355,51.0,San Borja,Estándar,2.0,5.0,1,109.0,77.6,1.5,34.5,No,Ganar músculo,01/02/2026,0,1
+S10134,27.0,Miraflores,Basico,23.0,7.0,4,79.0,90.5,1.69,31.7,No,Bajar de peso,06/11/2024,1,0
+S10268,34.0,Lima Centro,Estándar,1.0,13.0,1,119.0,77.5,1.58,31.0,Sí,Bajar de peso,24/08/2024,0,0
+S10385,35.0,Miraflores,Estándar,36.0,9.0,5,129.0,98.0,1.7,33.9,No,Bajar de peso,18/08/2023,0,1
+S10609,36.0,Lima Centro,Básico,1.0,6.0,1,79.0,65.5,1.82,19.8,Sí,Ganar músculo,07/10/2023,0,1
+S10220,17.0,Callao,Básico,9.0,3.0,3,79.0,65.7,1.73,22.0,Sí,Ganar músculo,13/10/2023,0,1
+S10041,26.0,Callao,Premium,17.0,7.0,2,169.0,70.6,1.55,29.4,Sí,Salud general,27-08-22,0,0
+S10219,21.0,Lima Centro,Premium,8.0,4.0,1,159.0,50.1,1.69,17.5,No,Ganar músculo,05/02/2022,1,1
+S10597,41.0,Miraflores,Premium,14.0,4.0,2,169.0,80.8,1.54,34.1,Sí,Bajar de peso,31/03/2024,1,1
+S11287,30.0,San Borja,Estándar,5.0,4.0,3,119.0,71.2,1.64,26.5,Sí,Bajar de peso,31/10/2022,0,0
+S11276,22.0,Los Olivos,Estándar,6.0,7.0,3,119.0,70.6,1.61,27.2,si,Ganar músculo,2024-02-05,1,0
+S10680,30.0,Los Olivos,Básico,6.0,5.0,1,79.0,79.3,1.59,31.4,Sí,Salud general,26/11/2022,0,0
+S11529,18.0,Surco,Premium,26.0,5.0,1,179.0,63.9,1.7,,Sí,,2024-11-17,1,0
+S11959,24.0,Surco,Estándar,1.0,12.0,1,129.0,62.6,1.84,18.5,Sí,Bajar de peso,17/01/2022,0,0
+S11453,39.0,Miraflores,Premium,7.0,6.0,1,169.0,71.0,1.64,26.4,Sí,Salud general,2022-08-01,0,0
+S10541,18.0,Callao,Básico,4.0,8.0,1,79.0,58.9,1.65,21.6,Sí,Bajar de peso,2023-11-11,0,0
+S11077,18.0,Miraflores,Estándar,1.0,17.0,6,109.0,75.6,1.77,24.1,SI,Ganar músculo,30/04/2023,0,0
+S10885,16.0,Surco,Básico,3.0,15.0,4,69.0,74.2,1.53,31.7,No,Salud general,05/01/2025,2,0
+S11481,34.0,Lima Centro,Estándar,13.0,4.0,1,119.0,49.3,1.62,18.8,No,Bajar de peso,05/10/2023,0,1
+S11932,28.0,Miraflores,Básico,14.0,6.0,2,79.0,70.5,1.63,26.5,Sí,Bajar de peso,12/09/2025,2,1
+S11106,33.0,Miraflores,Estándar,7.0,12.0,5,129.0,71.6,1.67,25.7,No,Competencia,2025-10-08,2,0
+S10981,16.0,Los Olivos,Básico,4.0,9.0,6,69.0,69.6,1.76,22.5,No,Bajar de peso,05/04/2022,2,0
+S11323,37.0,Lima Centro,Premium,1.0,5.0,5,179.0,55.3,1.74,18.3,No,Salud general,24/02/2023,1,1
+S11126,31.0,Surco,Premium,17.0,2.0,4,179.0,45.0,1.67,16.1,No,Ganar músculo,05/03/2023,1,1
+S11120,39.0,Miraflores,Básico,21.0,8.0,6,79.0,,1.72,23.1,No,Bajar de peso,30/04/2025,0,0
+S11618,42.0,Miraflores,Premium,3.0,4.0,3,159.0,90.2,1.68,32.0,Sí,Bajar de peso,24/11/2025,1,0
+S11873,, Lima Centro,Premium,4.0,3.0,4,159.0,,1.62,29.4,Sí,Salud general,30-08-23,2,0
+S11858,31.0,Lima Centro,Básico ,13.0,8.0,3,69.0,,1.72,26.8,Sí,Bajar de peso,21/04/2024,0,0
+S11259,34.0,San Borja,Básico,7.0,5.0,3,69.0,94.8,1.72,32.0,No,Salud general,2024-02-06,0,0
+S11872,45.0,Lima Centro,Básico,9.0,14.0,5,79.0,88.3,1.72,29.8,Sí,Salud general,10/08/2025,0,0
+S11018,36.0,Miraflores,Básico,1.0,8.0,2,79.0,61.9,1.66,22.5,No,Bajar de peso,29/08/2024,0,1
+S10925,27.0,Surco,Estándar,19.0,12.0,2,119.0,65.9,1.61,25.4,No,Competencia,26/12/2025,1,0
+S10951,24.0,Lima Centro,Estándar,11.0,9.0,1,119.0,,1.72,25.3,Sí,Ganar músculo,22/02/2022,0,0
+S10336,39.0,Los Olivos,Básico,5.0,4.0,4,79.0,62.6,1.61,,Sí,,14/11/2022,0,0
+S10232,47.0,Surco,Estándar,3.0,11.0,2,129.0,68.0,1.68,24.1,No,Bajar de peso,2023-04-25,1,1
+S11949,39.0,Lima Centro,Premium,3.0,8.0,1,159.0,76.5,1.72,25.9,No,Ganar músculo,20/04/2022,0,0
+S11457,16.0,Surco,Básico,12.0,4.0,0,89.0,66.7,1.53,,Sí,Salud general,18-11-22,0,0
+S10158,37.0,San Borja,Estándar,1.0,9.0,1,109.0,61.0,1.65,22.4,No,Salud general,15/06/2025,1,1
+S10468,18.0,Lima Centro,Premium,2.0,12.0,5,169.0,87.2,1.77,27.8,Sí,Salud general,15/01/2023,0,0
+S11038,21.0,Miraflores,Basico,1.0,7.0,2,89.0,70.9,1.59,28.0,No,Salud general,2024-07-25,0,0
+S10872,16.0, Callao,Estándar,4.0,11.0,1,129.0,69.1,1.61,26.7,Sí,Competencia,23/07/2025,0,1
+S11660,46.0,San Borja,Estándar,20.0,11.0,7,129.0,94.1,1.45,44.8,No,,08/02/2025,1,0
+S11138,41.0,Lima Centro,Premium ,2.0,8.0,4,179.0,70.5,1.72,23.8,No,Ganar músculo,25/07/2022,1,1
+S11385,23.0,Callao,Básico,2.0,8.0,6,79.0,78.2,1.71,26.7,Sí,Ganar músculo,27/09/2022,0,0
+S11938,38.0,Miraflores,Premium,4.0,11.0,1,159.0,94.1,1.77,30.0,Sí,Bajar de peso,2025-09-18,1,1
+S10585,34.0,Callao,Estándar,38.0,7.0,2,119.0,94.3,1.83,28.2,Sí,,2025-07-25,0,0
+S10205,41.0,Lima Centro,Premium,6.0,5.0,4,169.0,,1.65,,si,Bajar de peso,2022-06-26,0,0
+S10003,46.0,Lima Centro,Estándar,4.0,5.0,1,129.0,66.3,1.71,22.7,Sí,Salud general,2025-04-19,1,1
+S10921,44.0,Surco,Premium,25.0,11.0,3,179.0,90.9,1.7,31.5,Sí,Ganar músculo,29-04-24,1,0
+S11360,37.0, Callao,Estándar,7.0,9.0,1,119.0,69.0,1.75,22.5,si,Bajar de peso,2024-01-28,1,1
+S11159,16.0,Miraflores,Básico,12.0,10.0,5,89.0,64.2,1.68,22.7,No,Competencia,21/01/2022,0,0
+S11895,34.0,Los Olivos,Básico,17.0,12.0,5,69.0,82.2,1.65,30.2,Sí,,2022-07-20,0,0
+S11249,20.0,Lima Centro,Básico,3.0,6.0,0,89.0,60.9,1.66,22.1,No,,06/12/2022,0,0
+S11445,42.0,San Borja,Estándar,18.0,8.0,3,129.0,58.2,1.56,23.9,No,,2024-10-25,0,0
+S10693,,San Borja,Básico,9.0,11.0,6,79.0,66.7,1.8,20.6,Sí,Ganar músculo,2025-12-09,0,0
+S11715,47.0,surco,Premium,10.0,19.0,1,159.0,66.8,1.67,24.0,SI,Salud general,08/10/2022,1,0
+S11695,39.0,Miraflores,Básico,2.0,6.0,3,89.0,73.6,1.74,24.3,Sí,Bajar de peso,14/08/2022,0,0
+S10714,24.0,Miraflores,Estándar,25.0,12.0,3,119.0,90.0,1.62,34.3,No,,2025-08-11,0,1
+S11644,42.0,Callao,Estándar,10.0,3.0,4,129.0,92.8,1.64,34.5,Sí,Bajar de peso,18-12-23,0,0
+S11164,28.0,Miraflores,Básico,11.0,9.0,2,79.0,84.3,1.63,31.7,Sí,Salud general,09/10/2022,1,0
+S11418,42.0,LIMA CENTRO,Básico,7.0,7.0,4,89.0,78.2,1.55,32.5,Sí,Bajar de peso,2023-03-12,0,0
+S10883,38.0,Miraflores,Premium,17.0,10.0,1,159.0,50.4,1.77,16.1,No,Ganar músculo,07/06/2023,0,1
+S11042,29.0,San Borja,Premium,26.0,13.0,2,169.0,74.4,1.75,24.3,Sí,Salud general,02/05/2022,0,0
+S11087,17.0,San Borja,Estándar,9.0,7.0,2,119.0,89.4,1.88,25.3,Sí,Salud general,11/08/2023,0,1
+S11537,42.0,Los Olivos,Premium,3.0,4.0,2,179.0,70.3,1.73,23.5,Sí,Salud general,15-04-22,1,0
+S11232,23.0,Los Olivos,Estándar,8.0,4.0,2,109.0,76.2,1.83,22.8,Sí,Bajar de peso,24/05/2023,0,0
+S11089,21.0,San Borja,Estándar,49.0,10.0,6,119.0,66.6,1.53,28.5,Sí,Bajar de peso,15/12/2025,2,0
+S10157,16.0,Lima Centro,Básico,2.0,7.0,4,69.0,60.3,1.73,20.1,No,Salud general,19/09/2022,0,0
+S11083,40.0,Lima Centro,Básico,20.0,9.0,2,79.0,59.4,1.7,20.6,Sí,Bajar de peso,16-01-25,0,0
+S10523,,Surco,Estándar,9.0,8.0,3,109.0,59.6,1.64,22.2,No,Ganar músculo,2024-08-30,0,1
+S10462,22.0,Lima Centro,Estándar,17.0,6.0,3,129.0,75.2,1.66,27.3,Sí,Bajar de peso,05/08/2022,2,0
+S10652,34.0,Los Olivos,Básico,6.0,5.0,1,79.0,76.0,1.58,30.4,Sí,Bajar de peso,10/09/2022,3,0
+S10160,38.0,Lima Centro,Estándar,15.0,9.0,0,129.0,73.2,1.64,27.2,No,Ganar músculo,2022-01-26,1,1
+S10305,49.0,Surco,Básico,4.0,8.0,2,79.0,99.7,1.84,29.4,No,Ganar músculo,24/04/2024,0,0
+S10656,18.0,Lima Centro,Premium,4.0,8.0,1,169.0,71.7,1.65,26.3,NO,Bajar de peso,22/09/2025,0,0
+S10547,150,Surco,Premium,9.0,5.0,1,169.0,90.2,1.69,31.6,No,Ganar músculo,11/08/2024,1,1
+S10713,24.0,Lima Centro,Estándar,14.0,6.0,0,129.0,60.9,1.75,19.9,Sí,Ganar músculo,15/06/2022,0,0
+S10395,40.0,Miraflores,Estándar,5.0,3.0,1,119.0,57.6,1.63,21.7,No,Ganar músculo,20/10/2023,0,1
+S10783,42.0,Miraflores,Básico,1.0,3.0,4,89.0,88.9,1.68,31.5,Sí,Ganar músculo,21/01/2026,1,1
+S10399,23.0,San Borja,Básico,6.0,23.0,4,69.0,,1.65,29.3,Sí,Bajar de peso,13/04/2025,1,0
+S10798,28.0,Miraflores,Estandar,13.0,15.0,6,109.0,100.2,1.8,30.9,No,Ganar músculo,02/08/2023,2,0
+S11862,28.0,Miraflores,Estándar,2.0,5.0,3,109.0,85.7,1.75,28.0,Sí,Bajar de peso,2024-08-21,0,1
+S10618,18.0,san borja,Básico,20.0,6.0,3,79.0,80.4,1.66,29.2,No,Salud general,29/01/2026,0,0
+S11582,28.0, Lima Centro,BÁSICO,32.0,7.0,4,89.0,80.7,1.77,25.8,Sí,,09/05/2025,0,0
+S10508,38.0,Surco,Basico,3.0,5.0,1,89.0,73.0,1.58,29.2,Sí,Bajar de peso,2022-05-05,1,0
+S11614,,LIMA CENTRO,Estándar,2.0,11.0,1,129.0,49.7,1.76,16.0,Sí,Bajar de peso,18/06/2024,1,0
+S10736,43.0,Miraflores,Estándar,2.0,7.0,1,119.0,45.0,1.58,18.0,SI,Ganar músculo,17/11/2024,1,0
+S11476,41.0,Los Olivos,Premium,33.0,8.0,4,179.0,83.8,1.62,31.9,No,Ganar músculo,17/06/2024,0,0
+S11718,31.0,Los Olivos,Básico,33.0,10.0,2,69.0,74.3,1.62,,Sí,Bajar de peso,27/09/2023,1,0
+S11022,42.0,San Borja,Básico,4.0,12.0,4,79.0,54.5,1.66,19.8,No,Ganar músculo,20/10/2023,0,0
+S10867,49.0,Miraflores,Premium,12.0,8.0,2,169.0,80.3,1.69,28.1,Sí,Bajar de peso,24/07/2024,0,0
+S10459,230,Surco,Básico,2.0,6.0,3,89.0,85.8,1.59,33.9,No,Salud general,2025-07-09,0,0
+S11885,21.0,Miraflores,Estándar,1.0,8.0,2,119.0,73.6,1.58,29.5,N,Competencia,11/08/2025,0,1
+S10062,22.0,Lima Centro,Básico,8.0,16.0,1,79.0,76.1,1.59,30.1,Sí,Bajar de peso,19/05/2025,0,0
+S11881,26.0,miraflores,Estándar,1.0,5.0,1,119.0,55.3,1.72,18.7,Sí,Ganar músculo,27/11/2025,0,0
+S10871,39.0,Los Olivos,básico,5.0,10.0,2,79.0,54.9,1.74,18.1,Sí,Salud general,18/01/2024,1,0
+S11010,25.0,San Borja,Estándar,1.0,11.0,4,129.0,93.4,1.62,,Sí,Bajar de peso,17/04/2022,1,0
+S11625,25.0,miraflores,Premium,11.0,5.0,3,169.0,52.2,1.6,20.4,No,Bajar de peso,2022-04-30,1,0
+S10457,30.0,Callao,Básico,13.0,7.0,2,79.0,89.4,1.89,25.0,No,Bajar de peso,2024-11-03,1,0
+S10730,33.0,Miraflores,Estándar,2.0,5.0,4,129.0,75.0,1.84,22.2,Sí,Bajar de peso,23-01-22,2,1
+S10478,21.0,Surco,Estándar,11.0,9.0,5,119.0,52.8,1.69,18.5,Sí,Salud general,23/05/2023,1,0
+S11088,42.0,Surco,Premium,10.0,10.0,4,169.0,80.5,1.61,31.1,Sí,Salud general,2025-05-08,0,0
+S11927,21.0,Surco,Básico,1.0,12.0,4,69.0,60.7,1.63,22.8,Sí,Competencia,2024-04-04,0,0
+S10870,19.0,Lima Centro,Básico,7.0,8.0,0,89.0,78.0,1.53,33.3,Sí,Ganar músculo,08/12/2025,1,0
+S10790,38.0,Surco,Básico,7.0,8.0,1,89.0,79.6,1.83,23.8,No,Bajar de peso,26/02/2022,0,0
+S10617,39.0, Surco,Básico,8.0,5.0,2,79.0,65.7,1.55,27.3,No,Bajar de peso,05/07/2024,0,1
+S11909,,Miraflores,Básico,11.0,8.0,1,69.0,50.4,1.81,15.4,Sí,,13/06/2025,0,0
+S11994,50.0,San Borja,Premium,3.0,9.0,1,159.0,83.7,1.69,29.3,No,Salud general,27/01/2024,4,1
+S11455,16.0,San Borja,Premium,10.0,21.0,1,169.0,65.3,1.68,23.1,Sí,Ganar músculo,2023-04-04,0,0
+S11638,39.0,Lima Centro,Estándar,7.0,11.0,5,129.0,71.1,1.66,,Sí,Bajar de peso,12/06/2023,0,0
+S11667,,Surco,Estándar,1.0,3.0,4,109.0,73.0,1.82,22.0,Sí,Competencia,23/03/2025,1,0
+S10347,31.0, Callao,Premium,7.0,11.0,0,159.0,89.4,1.72,30.2,Sí,,2022-08-24,0,0
+S11324,17.0,Surco,Estándar,21.0,20.0,3,119.0,66.6,1.62,25.4,Sí,Competencia,04/10/2022,1,0
+S11229,44.0,Los Olivos,Básico,3.0,11.0,1,79.0,81.4,1.64,30.3,No,Salud general,2024-01-28,0,0
+S11704,21.0,Lima Centro,Estándar,33.0,,3,129.0,,1.68,24.3,No,Bajar de peso,25/09/2023,1,0
+S10760,22.0,Miraflores,Estándar,24.0,4.0,1,119.0,,1.81,24.1,Sí,Competencia,03/03/2025,1,0
+S10954,39.0,Lima Centro,Estándar,11.0,6.0,1,119.0,66.6,1.65,24.5,Sí,Bajar de peso,10/09/2025,1,0
+S10446,26.0,Miraflores,Premium,4.0,3.0,3,169.0,71.0,1.61,,Sí,Ganar músculo,2024-03-26,0,0
+S10650,31.0,Lima Centro,Estándar,4.0,5.0,3,129.0,80.7,1.66,29.3,Sí,Bajar de peso,12/09/2023,2,0
+S11267,65.0,Los Olivos,Estándar,3.0,15.0,1,119.0,81.6,1.62,31.1,no,Salud general,04-01-22,0,0
+S11844,29.0,San Borja,Premium,1.0,3.0,2,179.0,84.1,1.73,28.1,S,Ganar músculo,19-05-22,0,0
+S10379,41.0,Surco,Estándar,27.0,6.0,3,119.0,79.4,1.57,32.2,No,Salud general,17/10/2024,0,0
+S10564,58.0,Miraflores,Básico,8.0,9.0,0,79.0,84.6,1.7,29.3,Sí,Salud general,2025-03-01,2,0
+S11368,25.0,Surco,Básico,16.0,4.0,0,69.0,85.6,1.8,26.4,No,Ganar músculo,2025-04-27,2,0
+S11939,41.0,Surco,Premium,13.0,,6,179.0,,1.64,34.1,S,Salud general,12/04/2025,1,0
+S11315,32.0,Surco,Estándar ,7.0,7.0,3,129.0,83.9,1.75,27.4,Sí,Salud general,21/02/2022,1,0
+S10956,26.0,Miraflores ,Estándar,2.0,5.0,1,119.0,73.5,1.86,21.2,No,,14/02/2022,2,1
+S11973,,Callao,Básico,5.0,4.0,3,89.0,77.8,1.77,24.8,No,Bajar de peso,15/12/2022,0,1
+S10282,35.0,SURCO,Básico,20.0,5.0,3,89.0,65.0,1.57,26.4,No,Bajar de peso,09/04/2023,1,0
+S10920,16.0,Surco,Estándar,2.0,3.0,6,119.0,,1.62,21.3,No,Salud general,21-04-22,0,0
+S10231,48.0,los olivos,Básico,2.0,10.0,1,89.0,78.6,1.74,26.0,Sí,Salud general,19/04/2024,0,0
+S11242,30.0, Callao,Estándar ,6.0,11.0,4,119.0,,1.6,17.6,Sí,Salud general,2023-11-26,0,0
+S10382,16.0,Callao,Estándar,48.0,7.0,5,119.0,73.4,1.7,25.4,Sí,Bajar de peso,19/09/2024,0,0
+S11972,28.0,Los Olivos,Estándar,1.0,8.0,2,119.0,91.2,1.7,31.6,Sí,Bajar de peso,06/10/2025,0,0
+S11244,33.0,San Borja,Premium,4.0,9.0,0,159.0,90.4,1.56,37.1,Sí,,2024-12-28,1,1
+S10072,55.0,Lima Centro,Estándar,14.0,3.0,4,119.0,77.1,1.53,32.9,Sí,Bajar de peso,2024-06-21,0,0
+S10070,16.0,San Borja,Básico,60.0,3.0,2,79.0,78.8,1.62,30.0,No,Ganar músculo,25/09/2022,0,0
+S11544,41.0,Los Olivos,Estándar ,20.0,11.0,1,119.0,94.1,1.59,37.2,Sí,Salud general,10/11/2022,0,0
+S11114,17.0,san borja,Premium,53.0,5.0,1,S/ 159,97.5,1.66,35.4,No,Bajar de peso,01/03/2025,0,1
+S10171,38.0,Callao,Básico,2.0,13.0,3,79.0,72.9,1.62,27.8,No,Salud general,18/04/2023,1,0
+S11837,36.0,Lima Centro,Premium,12.0,14.0,1,169.0,92.8,1.73,31.0,Sí,Ganar músculo,26/09/2023,1,0
+S10168,23.0,Callao,Premium,17.0,4.0,4,159.0,64.2,1.64,23.9,No,Bajar de peso,2026-01-12,0,0
+S10493,41.0,San Borja,Estándar,1.0,10.0,4,129.0,56.7,1.64,21.1,Sí,,2024-10-12,1,0
+S11281,41.0,Surco,Básico,2.0,9.0,4,89.0,73.5,1.79,22.9,Sí,Bajar de peso,21/10/2022,0,0
+S11056,35.0,Los Olivos,Básico,14.0,11.0,3,79.0,98.9,1.77,31.6,No,Salud general,03/08/2023,1,0
+S11903,42.0,Los Olivos,Premium,8.0,6.0,1,169.0,56.9,1.69,19.9,No,Ganar músculo,08/02/2024,0,0
+S10893,43.0,Miraflores,Premium,13.0,6.0,0,169.0,63.3,1.7,21.9,Sí,Ganar músculo,2024-01-25,0,0
+S10272,29.0,Lima Centro,Premium,25.0,14.0,2,169.0,82.3,1.8,25.4,No,Bajar de peso,13/06/2025,0,0
+S11327,22.0,Miraflores,Estándar,3.0,5.0,3,109.0,75.9,1.59,30.0,Sí,Salud general,2023-09-01,0,0
+S10420,25.0,Callao,Premium,6.0,10.0,4,169.0,84.3,1.73,28.2,Sí,Competencia,30-08-23,0,0
+S10094,33.0,Los Olivos,Premium,3.0,10.0,1,169.0,75.4,1.79,23.5,N,Bajar de peso,08/08/2022,1,1
+S11401,26.0,Los Olivos,Estándar,2.0,4.0,5,119.0,79.0,1.74,26.1,No,,16-10-22,0,0
+S11624,38.0,San Borja,Estándar,17.0,3.0,2,109.0,62.8,1.69,22.0,Sí,Bajar de peso,24/04/2025,1,0
+S11635,28.0,Lima Centro,Premium,8.0,8.0,2,159.0,57.2,1.61,22.1,Sí,Salud general,2023-09-16,0,1
+S10042,24.0,Miraflores,Premium,4.0,15.0,1,169.0,83.5,1.62,31.8,Sí,Bajar de peso,30-07-24,0,0
+S10056,29.0,Surco,Estándar,38.0,9.0,3,129.0,89.3,1.76,28.8,Sí,Bajar de peso,2023-05-09,1,0
+S11887,33.0,San Borja,Estándar,7.0,6.0,2,119.0,82.6,1.81,25.2,Sí,Bajar de peso,15/06/2022,0,0
+S11690,43.0,SURCO,Estándar,4.0,6.0,1,109.0,60.2,1.74,19.9,Sí,,23/01/2024,0,0
+S11358,29.0,Lima Centro,Básico,8.0,4.0,4,89.0,71.9,1.51,31.5,Sí,Bajar de peso,2025-10-27,0,0
+S11320,34.0,Callao,Premium,450.0,6.0,5,169.0,85.4,1.55,35.5,Sí,Salud general,2022-05-11,0,1
+S10038,37.0,Los Olivos,Básico,19.0,12.0,1,79.0,85.8,1.67,30.8,Sí,Bajar de peso,2023-11-04,0,0
+S10306,31.0,Lima Centro,ESTÁNDAR,16.0,5.0,3,129.0,82.8,1.77,26.4,No,Salud general,2024-10-29,0,0
+S10006,29.0,Los Olivos,Estándar,13.0,4.0,1,129.0,54.6,1.49,24.6,No,Salud general,2023-03-27,2,1
+S10782,31.0,Surco,Básico,12.0,5.0,3,79.0,61.1,1.56,25.1,No,Ganar músculo,17/12/2025,0,0
+S10408,,Surco,Básico,1.0,7.0,2,79.0,,1.6,23.6,Sí,Bajar de peso,04/12/2024,3,0
+S11172,42.0,Miraflores,Premium,7.0,4.0,0,169.0,70.6,1.74,23.3,No,Ganar músculo,04/04/2023,0,1
+S10781,26.0,Miraflores,Básico,27.0,10.0,3,79.0,78.2,1.51,34.3,No,Salud general,2024-01-08,0,0
+S10534,,San Borja,Básico,2.0,11.0,1,79.0,53.7,1.62,20.5,Sí,Ganar músculo,28/12/2025,1,1
+S10583,20.0,Lima Centro,Básico,1.0,4.0,0,69.0,52.1,1.71,17.8,No,Bajar de peso,13/11/2024,0,0
+S11288,41.0,San Borja,Basico,10.0,12.0,5,79.0,58.8,1.86,17.0,Sí,Salud general,27/05/2023,0,0
+S11961,37.0,Lima Centro ,Estándar,1.0,,2,119.0,,1.59,27.3,No,Salud general,16/07/2024,1,1
+S11463,39.0,Surco,Premium,1.0,6.0,4,169.0,64.4,1.65,23.7,Sí,Bajar de peso,02/01/2023,0,0
+S11266,43.0,Los Olivos,Estándar,16.0,9.0,1,119.0,54.2,1.72,18.3,SI,Ganar músculo,24/08/2023,0,0
+S11538,24.0,Surco,Premium,4.0,9.0,4,169.0,,1.69,23.8,No,Ganar músculo,2025-10-14,0,0
+S11104,33.0,Miraflores,Básico,38.0,13.0,3,79.0,98.3,1.63,37.0,No,Salud general,2022-01-13,1,0
+S10813,24.0,Lima Centro,Básico,20.0,6.0,4,79.0,86.5,1.51,37.9,No,Salud general,2024-01-08,1,0
+S10316,23.0,San Borja,Estándar,1.0,8.0,3,109.0,,1.7,25.9,Sí,Ganar músculo,2023-04-21,1,0
+S11319,30.0,Lima Centro,Premium,1.0,9.0,3,169.0,80.9,1.54,34.1,Sí,Salud general,2025-08-16,1,0
+S11772,39.0,Surco,Estándar,25.0,7.0,1,119.0,54.5,1.68,19.3,Sí,Bajar de peso,03/10/2024,2,0
+S10516,21.0,Callao,Estándar,16.0,6.0,1,119.0,69.9,1.88,19.8,SI,Salud general,2025-10-28,2,1
+S11731,33.0,Miraflores,ESTÁNDAR,7.0,3.0,2,109.0,85.7,1.57,,Sí,Ganar músculo,13/08/2023,0,0
+S10533,39.0,Callao,Básico,26.0,6.0,1,79.0,56.6,1.72,19.1,Sí,Competencia,12/12/2025,0,0
+S11075,16.0,Miraflores,PREMIUM,10.0,6.0,2,169.0,91.0,1.6,35.5,No,Bajar de peso,22/05/2022,0,0
+S10271,47.0,Surco,Básico,3.0,6.0,0,79.0,86.7,1.66,,No,Bajar de peso,2023-09-27,1,0
+S10548,18.0,San Borja ,Básico,2.0,4.0,2,79.0,86.9,1.7,,No,Salud general,19/10/2022,0,0
+S10964,48.0,Los Olivos,Básico,1.0,6.0,3,69.0,69.2,1.81,21.1,Sí,Bajar de peso,21/01/2026,0,0
+S11746,30.0,Los Olivos,Estándar,2.0,5.0,0,119.0,74.8,1.71,25.6,No,Bajar de peso,13/01/2026,0,0
+S11677,33.0,Los Olivos,Premium,41.0,4.0,2,159.0,57.3,1.53,24.5,si,Bajar de peso,05-03-24,0,0
+S10598,28.0,Surco,Estándar,8.0,8.0,1,109.0,61.0,1.64,22.7,Sí,Bajar de peso,16/09/2024,0,0
+S11650,41.0, Surco,Estándar,29.0,7.0,4,119.0,45.0,1.76,14.5,Sí,Ganar músculo,06/07/2025,2,0
+S10570,35.0,San Borja,Básico,1.0,9.0,3,79.0,53.7,1.66,19.5,No,Salud general,24/08/2025,2,1
+S10074,43.0,Lima Centro,Básico,7.0,13.0,2,69.0,68.5,1.58,,Sí,Bajar de peso,2023-02-06,0,0
+S10061,22.0,Miraflores,Estándar,43.0,12.0,2,109.0,78.5,1.72,26.5,No,Ganar músculo,26/09/2025,1,0
+S11068,35.0,SAN BORJA,Básico,4.0,3.0,3,79.0,74.9,1.67,26.9,No,Bajar de peso,06/03/2025,0,1
+S10809,30.0,Los Olivos,Básico,39.0,8.0,4,79.0,65.9,1.69,23.1,Sí,,17/11/2024,0,0
+S10244,21.0,Los Olivos,Estándar,7.0,9.0,4,109.0,70.6,1.74,23.3,Sí,Salud general,02/01/2022,0,0
+S11049,19.0,Miraflores,Básico,5.0,,3,79.0,89.2,1.8,27.5,No,Bajar de peso,2023-12-05,0,1
+S11133,27.0,Surco,Estándar,20.0,5.0,3,119.0,45.9,1.77,14.7,Sí,Ganar músculo,18/07/2022,1,0
+S11739,51.0,Lima Centro,Estándar,29.0,6.0,4,119.0,,1.8,20.8,Sí,Bajar de peso,17/05/2025,0,0
+S10105,34.0, Los Olivos,Premium,23.0,5.0,3,S/ 169,85.6,1.82,25.8,No,Salud general,23/07/2024,0,0
+S10673,32.0,Miraflores,Básico,19.0,7.0,4,89.0,77.4,1.76,25.0,Sí,,07/09/2022,0,0
+S10642,23.0, Surco,Estándar,2.0,5.0,1,109.0,,1.66,30.6,Sí,Ganar músculo,01/07/2023,0,0
+S11302,47.0,Callao,Estándar,4.0,6.0,2,119.0,,1.73,23.6,No,,19/10/2023,1,1
+S10665,30.0,Lima Centro,Estándar,15.0,3.0,2,109.0,67.4,1.63,25.4,Sí,Bajar de peso,19-08-22,0,0
+S10509,41.0,Surco,Premium,29.0,9.0,3,159.0,50.9,1.79,15.9,Sí,Bajar de peso,01/11/2024,1,0
+S10131,21.0,SURCO,básico,32.0,14.0,4,69.0,70.1,1.74,23.2,No,Bajar de peso,2022-08-28,0,0
+S10444,17.0,San Borja,Estándar,1.0,1.0,4,119.0,,1.83,23.0,No,,2023-11-03,0,0
+S10866,36.0,San Borja,Básico,2.0,13.0,3,79.0,85.5,1.76,27.6,Sí,Salud general,12/02/2025,0,0
+S10764,,MIRAFLORES,Básico,14.0,8.0,3,79.0,68.0,1.65,25.0,Sí,Salud general,07/01/2023,0,0
+S11917,35.0,SURCO,BÁSICO,21.0,99,1,79.0,60.8,1.61,23.5,Sí,Salud general,2026-01-09,0,0
+S11824,33.0,Lima Centro,estándar,18.0,5.0,5,129.0,103.7,1.81,31.7,No,Salud general,2025-05-05,0,0
+S10057,35.0,Surco,Premium,12.0,9.0,4,169.0,81.7,1.66,29.6,Sí,Bajar de peso,31/07/2022,0,0
+S11700,21.0,Los Olivos,Básico,1.0,5.0,2,89.0,45.0,1.65,16.5,N,,25/04/2023,0,1
+S11616,39.0,Lima Centro,Básico,2.0,10.0,2,89.0,76.8,1.67,27.5,Sí,Ganar músculo,27/07/2024,1,0
+S11280,24.0,SURCO,Básico,34.0,8.0,2,69.0,72.2,1.73,24.1,No,,17/12/2025,2,0
+S10086,25.0,Miraflores,Estándar ,22.0,10.0,2,109.0,65.8,1.59,26.0,Sí,Ganar músculo,2024-04-11,0,1
+S11902,39.0,Los Olivos,ESTÁNDAR,6.0,13.0,1,119.0,79.8,1.68,28.3,Sí,Ganar músculo,2022-05-18,2,0
+S10771,20.0,Los Olivos,Básico,9.0,6.0,4,0.0,73.3,1.59,29.0,NO,Salud general,14-01-24,0,0
+S11261,17.0,Los Olivos,Premium,4.0,9.0,2,159.0,62.6,1.78,19.8,No,Salud general,2025-01-08,1,0
+S10708,54.0,Surco,Estándar,2.0,14.0,2,119.0,57.4,1.63,21.6,Sí,Salud general,13/04/2024,0,0
+S11742,35.0,Lima Centro,Básico,15.0,9.0,1,69.0,83.9,1.75,27.4,Sí,Bajar de peso,2022-06-23,0,0
+S11371,46.0,Surco,Básico,1.0,11.0,2,69.0,70.6,1.73,23.6,No,Bajar de peso,04-07-22,0,0
+S11602,52.0,Miraflores,Estándar,1.0,7.0,2,109.0,78.9,1.76,25.5,Sí,Bajar de peso,01/03/2022,1,0
+S10538,31.0,Los Olivos,Básico,2.0,10.0,4,69.0,66.3,1.49,,No,Bajar de peso,2022-05-24,0,0
+S11471,49.0,Los Olivos,Estándar,1.0,2.0,3,129.0,77.3,1.71,26.4,Sí,Bajar de peso,25/09/2023,2,0
+S11209,,San Borja,Premium,37.0,7.0,4,179.0,55.9,1.74,18.5,No,Bajar de peso,21/08/2023,0,0
+S11593,39.0,Lima Centro,Premium,9.0,4.0,4,179.0,89.2,1.67,32.0,No,Salud general,28/01/2025,0,0
+S11338,16.0,San Borja,Premium,12.0,11.0,3,159.0,67.1,1.63,25.3,No,Salud general,05/10/2022,3,0
+S10418,,Miraflores,Premium,1.0,9.0,3,159.0,76.6,1.7,,Sí,Salud general,04/10/2024,0,0
+S11897,30.0,Lima Centro,básico,5.0,10.0,2,69.0,52.9,1.7,18.3,Sí,Ganar músculo,27/01/2022,0,0
+S11073,32.0,Surco,Básico,12.0,8.0,1,79.0,99.8,1.54,42.1,No,Salud general,23/10/2024,1,1
+S11747,130,Miraflores,Básico,6.0,20.0,2,79.0,68.1,1.67,24.4,Sí,Salud general,2023-10-20,0,0
+S11312,31.0, Lima Centro,Estándar,7.0,6.0,1,109.0,57.6,1.69,20.2,NO,Salud general,2023-12-15,1,0
+S10851,51.0,Lima Centro,Estándar,2.0,4.0,3,129.0,99.5,1.62,37.9,Sí,Bajar de peso,09/09/2025,0,0
+S11793,23.0,Miraflores,Básico,1.0,5.0,2,79.0,53.9,1.77,17.2,Sí,Bajar de peso,2025-01-07,0,0
+S11770,48.0,Lima Centro,Premium,9.0,13.0,4,169.0,58.3,1.67,20.9,Sí,Bajar de peso,19/04/2024,0,0
+S11733,16.0,San Borja,Básico,3.0,9.0,0,79.0,82.1,1.76,26.5,Sí,Ganar músculo,2025-09-15,1,0
+S11808,33.0,San Borja,Básico,18.0,16.0,2,79.0,60.2,1.47,27.9,No,Competencia,11/01/2025,1,0
+S11330,24.0,Lima Centro,Estándar,2.0,8.0,0,129.0,74.4,1.73,24.9,Sí,Ganar músculo,22/04/2023,1,1
+S11773,22.0,Surco,Estándar,14.0,3.0,3,119.0,68.0,1.62,25.9,Sí,Salud general,08-08-24,0,1
+S11841,33.0,Callao,Estándar,7.0,12.0,3,119.0,82.2,1.88,23.3,No,Salud general,27/11/2025,0,0
+S10304,33.0,Los Olivos,Básico,38.0,7.0,1,69.0,94.4,1.55,39.3,No,,13/04/2025,0,1
+S11926,44.0,San Borja,Estándar,5.0,7.0,1,129.0,68.4,1.65,25.1,Sí,Bajar de peso,26/07/2024,2,0
+S11098,34.0,Surco,Estándar,29.0,14.0,1,109.0,81.4,1.78,25.7,No,Salud general,23/05/2025,0,0
+S10335,28.0,Miraflores,Básico,1.0,7.0,4,69.0,94.6,1.64,35.2,Sí,Bajar de peso,11/01/2025,0,0
+S10995,37.0,Miraflores,Estándar,22.0,6.0,2,119.0,54.2,1.77,17.3,Sí,Bajar de peso,14-08-23,1,1
+S10569,43.0,San Borja,Básico,33.0,5.0,1,79.0,60.6,1.73,20.2,No,Ganar músculo,19-09-22,0,0
+S10088,23.0,Los Olivos,Estándar,29.0,8.0,2,119.0,73.8,1.57,29.9,Sí,Bajar de peso,15/06/2023,1,0
+S10874,33.0,Miraflores,Estándar,23.0,4.0,6,S/ 129,64.3,1.74,21.2,No,Salud general,16/12/2022,2,0
+S11180,25.0,Callao,Premium,16.0,7.0,4,169.0,78.8,1.68,27.9,No,Salud general,2023-08-05,2,1
+S11755,20.0,Los Olivos,Premium,11.0,14.0,1,159.0,67.1,1.72,22.7,No,Bajar de peso,2025-11-07,0,0
+S10712,28.0,Miraflores,Básico,9.0,6.0,3,79.0,76.5,1.77,24.4,No,Bajar de peso,2024-11-21,1,1
+S11803,29.0,Surco,Básico,9.0,,1,79.0,78.4,1.62,29.9,Sí,Bajar de peso,2022-03-10,0,0
+S11899,39.0,Callao,Estándar,14.0,8.0,0,0.0,77.8,1.79,24.3,No,Salud general,06/07/2022,0,1
+S11414,40.0,Miraflores,Básico,2.0,3.0,6,69.0,71.0,1.8,21.9,No,Ganar músculo,25/06/2025,0,0
+S10221,26.0,Surco,Estándar,2.0,16.0,6,129.0,,1.57,,Sí,Ganar músculo,29/02/2024,0,0
+S10319,26.0,Los Olivos ,Estándar,5.0,20.0,2,129.0,68.5,1.57,27.8,Sí,Bajar de peso,2024-10-26,0,0
+S11799,31.0,Callao,Básico,4.0,5.0,2,69.0,87.8,1.65,32.2,SI,Ganar músculo,01-02-22,0,0
+S10878,38.0,Los Olivos,Básico,7.0,4.0,6,79.0,87.2,1.6,34.1,No,Ganar músculo,2024-05-28,0,1
+S11847,41.0,Callao,Estándar,5.0,7.0,2,129.0,66.6,1.66,24.2,No,Bajar de peso,2025-10-06,0,0
+S10825,31.0,Lima Centro,Básico,1.0,8.0,3,79.0,53.5,1.72,18.1,Sí,Salud general,2023-01-09,1,0
+S10868,16.0,Surco,Básico,1.0,11.0,5,S/ 79,,1.64,25.3,Sí,Bajar de peso,2024-01-07,0,0
+S11555,27.0,Surco,Estándar,6.0,11.0,2,129.0,72.9,1.73,24.4,Sí,Bajar de peso,2024-11-23,0,0
+S10138,22.0,Callao,Estándar,16.0,3.0,3,109.0,72.5,1.67,26.0,No,Ganar músculo,2023-11-27,1,1
+S10163,23.0,Los Olivos,Premium,1.0,,2,169.0,77.0,1.71,26.3,si,Ganar músculo,2023-01-11,0,0
+S11827,16.0,Miraflores,Premium,7.0,6.0,4,169.0,,1.69,30.6,Sí,,19/11/2022,1,0
+S11484,29.0,LIMA CENTRO,Estándar,36.0,7.0,6,129.0,66.5,1.64,24.7,No,Bajar de peso,12/12/2024,0,0
+S10960,31.0,San Borja,Básico,18.0,5.0,2,89.0,61.7,1.67,22.1,No,Salud general,15/01/2026,0,0
+S11699,24.0,Los Olivos,Básico,25.0,7.0,1,79.0,,1.55,31.6,No,,09/01/2025,0,0
+S11271,23.0,San Borja,Básico,1.0,14.0,3,89.0,65.0,1.62,24.8,No,Salud general,17/07/2024,2,0
+S11208,16.0,Lima Centro,Estándar,33.0,11.0,0,119.0,56.3,1.59,22.3,no,Bajar de peso,2022-07-19,0,0
+S11981,36.0,Lima Centro,Premium,18.0,15.0,2,159.0,70.2,1.72,23.7,No,,02/06/2023,0,0
+S11331,45.0,Callao,Estándar,22.0,7.0,4,129.0,60.7,1.67,21.8,Sí,Salud general,20-08-22,0,0
+S11850,43.0,Lima Centro ,Estándar,2.0,7.0,2,129.0,73.4,1.61,28.3,Sí,Bajar de peso,24/11/2024,0,0
+S10633,33.0,Los Olivos,Básico,4.0,6.0,1,69.0,70.3,1.74,23.2,No,Bajar de peso,22/10/2022,0,0
+S11399,16.0, Surco,Estándar,12.0,8.0,3,109.0,,1.65,27.4,no,,2024-05-26,0,0
+S10655,26.0,San Borja,Estándar,12.0,12.0,5,119.0,78.6,1.82,23.7,Sí,Ganar músculo,26/11/2025,0,0
+S10016,,Lima Centro,Premium,1.0,8.0,0,179.0,82.2,1.51,36.1,No,Bajar de peso,2024-12-01,1,1
+S11671,32.0,Callao,Básico,3.0,11.0,1,69.0,65.2,1.76,21.0,No,Bajar de peso,15/10/2024,0,0
+S11194,28.0,Miraflores,Estándar,5.0,2.0,1,109.0,70.9,1.65,26.0,Sí,Bajar de peso,24/02/2024,0,0
+S10137,,Callao,Básico,10.0,16.0,5,79.0,,1.55,,No,Ganar músculo,27/02/2024,0,0
+S11857,24.0,Surco,Estándar,7.0,16.0,2,119.0,69.9,1.55,29.1,No,Salud general,2024-07-02,0,0
+S10697,30.0,CALLAO,Básico,2.0,13.0,4,79.0,79.0,1.59,31.2,Sí,Competencia,16/07/2022,2,0
+S11097,23.0,Miraflores,Básico,3.0,4.0,2,79.0,53.9,1.59,21.3,Sí,Salud general,23/03/2022,0,1
+S11656,26.0,Callao,Premium,3.0,6.0,1,169.0,61.8,1.51,27.1,Sí,Bajar de peso,21/03/2022,0,0
+S10448,33.0,Lima Centro,Básico,4.0,7.0,3,79.0,76.7,1.73,25.6,No,Ganar músculo,13/04/2023,0,0
+S11945,24.0,Lima Centro,Premium,60.0,17.0,1,169.0,86.8,1.61,33.5,Sí,Bajar de peso,07/03/2023,1,0
+S10327,30.0,Los Olivos,Básico,4.0,14.0,3,79.0,68.1,1.76,22.0,NO,Bajar de peso,13-08-25,0,0
+S10317,33.0,Miraflores,Básico,21.0,4.0,0,79.0,73.9,1.82,22.3,Sí,Salud general,26/01/2022,1,0
+S11566,40.0,Surco,Estándar,17.0,10.0,3,119.0,68.9,1.77,22.0,Sí,Salud general,01/09/2023,1,0
+S10526,18.0,Los Olivos,Estándar,1.0,12.0,1,109.0,66.9,1.69,23.4,No,Salud general,14/10/2024,0,0
+S10087,30.0,Miraflores,Básico,6.0,11.0,3,69.0,78.7,1.7,27.2,Sí,Salud general,27/03/2024,0,0
+S11305,25.0,Surco,Estándar,26.0,5.0,1,119.0,66.8,1.77,21.3,no,Salud general,07/07/2024,1,0
+S10148,32.0,San Borja,Básico,4.0,5.0,5,79.0,60.1,1.59,23.8,Sí,Bajar de peso,05-07-25,2,0
+S11663,24.0, San Borja,Estándar,3.0,3.0,1,109.0,66.6,1.66,24.2,si,Salud general,2025-08-10,0,1
+S11490,28.0,Callao ,Básico,9.0,8.0,3,79.0,76.9,1.66,27.9,Sí,Competencia,2023-08-29,0,0
+S11496,27.0,LIMA CENTRO,Estándar,1.0,4.0,2,129.0,69.4,1.52,30.0,Sí,Salud general,02/06/2022,2,0
+S10365,26.0,Miraflores,Básico,4.0,10.0,3,79.0,88.0,1.72,29.7,Sí,Salud general,19-03-22,1,0
+S10589,25.0,Lima Centro,Básico,1.0,13.0,1,79.0,70.3,1.74,23.2,No,,12/07/2024,0,0
+S11547,49.0,Miraflores,Básico,4.0,6.0,0,79.0,,1.66,24.3,No,Bajar de peso,20/01/2024,1,0
+S10198,33.0,Los Olivos,Básico,25.0,7.0,0,79.0,74.2,1.59,29.4,Sí,,23/04/2024,0,0
+S11946,24.0,Los Olivos,Estándar,2.0,11.0,5,129.0,59.0,1.6,23.0,No,,28/05/2023,1,0
+S10192,,Surco,Básico,43.0,3.0,2,79.0,78.7,1.64,29.3,SI,Ganar músculo,26/08/2023,1,0
+S10404,49.0,Miraflores,Estándar,16.0,5.0,4,119.0,87.8,1.7,30.4,Sí,Ganar músculo,13/11/2022,2,0
+S11849,29.0,Miraflores,Premium,18.0,8.0,7,169.0,62.2,1.55,25.9,No,Salud general,27/12/2025,2,0
+S11728,16.0,San Borja,Estándar ,12.0,11.0,3,119.0,77.7,1.62,29.6,Sí,Salud general,11/06/2024,0,0
+S10483,41.0,Los Olivos,Premium,15.0,9.0,3,169.0,77.1,1.66,28.0,Sí,Ganar músculo,27/07/2024,0,1
+S11495,32.0,Lima Centro,Premium,3.0,8.0,3,179.0,66.1,1.75,21.6,Sí,Bajar de peso,02/06/2022,0,0
+S10791,37.0,Miraflores,Estándar,1.0,3.0,2,S/ 109,87.8,1.74,,Sí,,15-10-25,0,1
+S10799,29.0,Lima Centro,Premium,6.0,12.0,3,179.0,,1.66,25.6,Sí,Salud general,2024-03-12,1,0
+S10384,33.0,Lima Centro,Estandar,8.0,6.0,4,119.0,80.0,1.65,29.4,No,Ganar músculo,15/05/2025,0,0
+S10750,36.0,lima centro,Estándar,3.0,7.0,4,119.0,,1.75,16.6,Sí,Ganar músculo,12/09/2024,2,0
+S10422,42.0,Miraflores,Estándar,20.0,10.0,3,119.0,61.6,1.56,25.3,No,Ganar músculo,28-05-24,1,0
+S10314,34.0,Surco,Estándar,35.0,5.0,2,109.0,,1.64,25.8,Sí,Salud general,12/10/2022,2,0
+S11021,28.0,San Borja,Básico,15.0,4.0,3,89.0,65.4,1.65,24.0,Sí,,17/10/2024,1,0
+S10543,41.0,San Borja,Estándar,10.0,6.0,2,109.0,63.5,1.58,25.4,No,Bajar de peso,09/12/2024,1,1
+S10913,36.0,Callao,Estándar,1.0,6.0,4,109.0,54.4,1.71,18.6,No,Salud general,2023-10-04,0,0
+S10662,35.0,Callao,Premium,7.0,5.0,2,169.0,66.3,1.77,21.2,Sí,Salud general,28-02-24,2,0
+S10902,29.0,San Borja,Premium,6.0,4.0,2,159.0,68.1,1.81,20.8,No,Ganar músculo,18/08/2022,1,0
+S11432,16.0,Los Olivos,Premium,9.0,10.0,1,-119.0,58.3,1.53,24.9,Sí,Bajar de peso,28/04/2023,1,0
+S10685,36.0,Surco,ESTÁNDAR,31.0,7.0,1,129.0,87.7,1.76,28.3,No,Bajar de peso,18/09/2023,0,1
+S11719,27.0,Callao,Básico,5.0,4.0,2,79.0,58.8,1.76,19.0,Sí,Ganar músculo,08/12/2022,0,1
+S10159,,Lima Centro,Básico,7.0,11.0,1,79.0,75.5,1.64,28.1,No,Bajar de peso,29/11/2022,0,0
+S10999,,Los Olivos,Básico,10.0,,1,69.0,77.7,1.83,23.2,Sí,Competencia,24/07/2025,0,1
+S11332,32.0,Callao,Premium,8.0,8.0,2,169.0,59.3,1.66,21.5,Sí,Salud general,2024-02-04,0,0
+S11823,31.0,Miraflores,Básico,10.0,6.0,2,79.0,53.3,1.76,17.2,Sí,Ganar músculo,05/12/2024,0,0
+S10202,32.0,Lima Centro,Básico,2.0,10.0,2,79.0,79.2,1.85,23.1,No,,2024-11-21,0,0
+S11023,47.0,Lima Centro,Premium,15.0,6.0,2,159.0,94.4,1.47,43.7,Sí,Ganar músculo,08/01/2025,0,0
+S11571,38.0,Callao,Estándar,16.0,10.0,4,119.0,45.0,1.56,18.5,Sí,Salud general,10/04/2024,0,0
+S11620,47.0,Los Olivos,Estándar,10.0,,1,109.0,77.5,1.77,24.7,Sí,Ganar músculo,11-06-25,0,0
+S10112,33.0,Lima Centro,Premium,3.0,2.0,3,169.0,62.7,1.84,18.5,Sí,Salud general,16/07/2025,1,0
+S11853,22.0,Miraflores,Básico,1.0,4.0,3,69.0,66.0,1.74,21.8,Sí,Bajar de peso,15/12/2025,1,0
+S11263,38.0,Lima Centro,Premium,6.0,7.0,1,159.0,67.3,1.76,21.7,Sí,Ganar músculo,2022-03-08,1,0
+S10980,31.0,Callao,Básico,2.0,7.0,2,69.0,86.2,1.51,37.8,Sí,Bajar de peso,19-12-23,0,1
+S10922,56.0,Surco,ESTÁNDAR,5.0,8.0,3,109.0,53.3,1.69,18.7,Sí,Bajar de peso,14/02/2023,0,0
+S11766,46.0,Lima Centro,Básico ,2.0,13.0,1,79.0,73.0,1.75,23.8,Sí,Ganar músculo,06-07-25,0,0
+S11774,,Miraflores,Básico,5.0,4.0,3,69.0,45.0,1.57,18.3,Sí,Ganar músculo,18/03/2023,0,0
+S11880,25.0,Lima Centro,BÁSICO,1.0,9.0,2,69.0,52.9,1.65,19.4,No,Ganar músculo,2023-09-30,0,0
+S11413,16.0,Los Olivos,Básico,31.0,4.0,2,79.0,70.5,1.51,30.9,Sí,Salud general,2022-11-25,1,1
+S10815,43.0,Miraflores,Estándar,6.0,5.0,3,119.0,70.9,1.86,20.5,Sí,Salud general,31/03/2025,0,0
+S10447,22.0,Miraflores,Básico,13.0,6.0,2,79.0,55.8,1.75,18.2,No,Competencia,09/09/2024,0,0
+S11801,31.0,San Borja,Básico,2.0,3.0,6,79.0,61.6,1.79,19.2,Sí,Ganar músculo,2025-12-01,0,1
+S10679,52.0,Lima Centro,Básico ,10.0,7.0,4,79.0,89.4,1.66,32.4,Sí,Ganar músculo,09/08/2024,0,0
+S11093,37.0,Surco,Estándar,7.0,6.0,3,109.0,81.3,1.66,29.5,No,Ganar músculo,17/12/2022,0,0
+S10080,47.0,Los Olivos,Básico,10.0,4.0,3,89.0,90.5,1.61,34.9,No,,2023-05-14,1,1
+S11805,21.0,Callao,Estándar,10.0,11.0,3,119.0,60.2,1.85,17.6,No,Salud general,05/05/2022,1,0
+S11375,,San Borja,Básico,7.0,6.0,2,79.0,80.2,1.65,29.5,No,Ganar músculo,25/02/2023,2,0
+S11725,37.0,lima centro,Estándar,4.0,8.0,3,109.0,81.9,1.76,26.4,No,Ganar músculo,02-01-26,1,0
+S10752,26.0,Surco,Estándar,2.0,9.0,0,129.0,70.4,1.69,24.6,Sí,Ganar músculo,15-10-24,0,1
+S11350,,Lima Centro,Premium,1.0,16.0,1,179.0,66.5,1.63,25.0,N,Bajar de peso,17/02/2025,1,0
+S11054,16.0,Miraflores,Estándar,27.0,13.0,6,119.0,69.0,1.6,27.0,No,,28/06/2025,0,0
+S10242,39.0,Los Olivos,Estándar,7.0,8.0,4,119.0,89.3,1.8,27.6,NO,Ganar músculo,18/08/2023,0,0
+S11454,34.0,Lima Centro,Estándar,2.0,8.0,2,129.0,70.3,1.72,23.8,No,Bajar de peso,02-01-23,0,0
+S10641,34.0,Surco,Estándar,3.0,4.0,4,119.0,70.3,1.66,25.5,Sí,Salud general,19/01/2024,1,0
+S10696,43.0, Los Olivos,Premium,600.0,5.0,4,169.0,55.8,1.76,18.0,S,Bajar de peso,19/06/2025,1,0
+S10209,33.0,Los Olivos,Premium,3.0,6.0,1,159.0,81.3,1.61,31.4,Sí,Salud general,10/10/2025,2,1
+S10502,21.0,Lima Centro,Estándar,1.0,12.0,3,119.0,107.6,1.67,38.6,No,Bajar de peso,14/04/2023,2,1
+S10770,23.0,San Borja,Básico,6.0,,4,89.0,89.0,1.56,36.6,Sí,Bajar de peso,13/09/2024,0,0
+S11798,32.0,Callao,Estándar,5.0,3.0,3,109.0,69.8,1.75,22.8,No,Salud general,17/07/2022,1,1
+S10435,31.0,Lima Centro,Estándar,29.0,3.0,3,119.0,60.9,1.78,19.2,Sí,Salud general,2023-11-10,0,0
+S11063,26.0,Callao,Premium,15.0,4.0,3,179.0,88.8,1.8,,Sí,Bajar de peso,14/08/2024,2,0
+S10974,45.0,Callao,Básico,3.0,18.0,2,79.0,50.7,1.8,15.6,Sí,Ganar músculo,2024-06-20,0,0
+S10551,,Surco,Estándar,10.0,14.0,3,109.0,90.6,1.7,31.3,SI,Bajar de peso,21/04/2024,0,0
+S11429,52.0,Callao,Estandar,3.0,4.0,6,129.0,70.4,1.57,28.6,Sí,Bajar de peso,11/06/2024,0,0
+S11438,32.0,SURCO,Básico,6.0,9.0,4,69.0,70.1,1.55,29.2,No,Ganar músculo,10/01/2026,2,0
+S11013,43.0,San Borja,Premium,13.0,4.0,3,159.0,93.6,1.78,29.5,No,Salud general,2023-09-30,0,1
+S11936,18.0,Lima Centro,Básico,23.0,10.0,2,79.0,64.5,1.65,23.7,Sí,Bajar de peso,01/12/2022,0,0
+S10466,34.0,lima centro,Estándar,44.0,6.0,4,119.0,68.5,1.58,27.4,No,Salud general,2024-05-17,1,0
+S11510,35.0,Surco ,Estándar,14.0,13.0,3,109.0,54.1,1.59,21.4,No,Bajar de peso,06/01/2023,0,1
+S11580,40.0,San Borja,Básico,1.0,12.0,3,79.0,66.8,1.68,23.7,No,Ganar músculo,2022-01-13,1,1
+S10277,42.0,Surco,Estándar,31.0,6.0,1,119.0,65.7,1.73,22.0,Sí,Competencia,05/08/2024,0,1
+S11069,16.0,Lima Centro,Básico,12.0,14.0,3,69.0,66.4,1.65,24.4,Sí,Bajar de peso,22-06-24,0,0
+S11017,25.0,Miraflores,Estándar,7.0,8.0,2,119.0,68.4,1.66,24.8,No,,2022-12-21,0,1
+S11353,33.0,Miraflores,Básico,19.0,13.0,5,79.0,81.7,1.53,34.9,No,Bajar de peso,2023-06-14,0,0
+S10722,25.0,Callao,Estándar,14.0,9.0,3,119.0,75.7,1.78,23.9,No,Competencia,17/04/2023,0,0
+S11210,42.0,San Borja,Estándar,19.0,7.0,3,119.0,60.7,1.69,21.3,No,Salud general,29/06/2023,0,0
+S10786,30.0,los olivos,Básico,2.0,,2,79.0,76.7,1.81,23.4,No,Ganar músculo,2025-05-02,0,0
+S11584,,Surco,Premium,3.0,7.0,6,159.0,,1.54,31.8,Sí,,2023-11-23,0,0
+S11340,34.0,Los Olivos,Básico,6.0,9.0,6,79.0,85.5,1.55,35.6,No,Bajar de peso,2025-04-07,1,0
+S11485,31.0,San Borja,Básico,22.0,6.0,2,79.0,89.4,1.57,36.3,No,Ganar músculo,12-09-24,0,0
+S11334,32.0,Los Olivos,Básico,16.0,15.0,3,89.0,57.4,1.7,19.9,No,Bajar de peso,2023-09-12,1,0
+S10906,43.0,Los Olivos,Estándar,1.0,4.0,3,109.0,65.3,1.83,,Sí,Ganar músculo,30/03/2025,0,0
+S10563,33.0,San Borja,Básico,1.0,8.0,1,89.0,71.9,1.54,,SI,Ganar músculo,2025-02-01,0,0
+S10388,38.0,Los Olivos,Estándar,6.0,10.0,2,119.0,48.1,1.45,22.9,Sí,Bajar de peso,27/08/2022,0,0
+S10022,30.0,San Borja,Estándar,38.0,7.0,3,119.0,,1.76,20.3,Sí,Bajar de peso,05/04/2023,1,0
+S11251,16.0,San Borja,Premium,3.0,9.0,4,S/ 169,58.4,1.68,20.7,Sí,Salud general,24/05/2025,0,0
+S10124,39.0,San Borja,Básico,10.0,11.0,2,79.0,78.1,1.77,24.9,Sí,Salud general,2023-11-24,1,0
+S11275,25.0,Lima Centro,Estándar,10.0,5.0,3,129.0,100.6,1.63,37.9,No,Salud general,02/09/2022,0,0
+S10773,28.0,Surco,Básico,33.0,6.0,1,69.0,81.5,1.65,29.9,No,Bajar de peso,2022-02-07,0,0
+S10880,30.0,Lima Centro,Básico,20.0,6.0,2,79.0,60.6,1.93,16.3,Sí,Bajar de peso,16/05/2025,1,1
+S11144,25.0,Surco,Estándar,4.0,7.0,4,109.0,60.6,1.63,22.8,Sí,Bajar de peso,05/10/2025,2,0
+S11166,20.0,Surco,Estándar,7.0,2.0,3,119.0,86.4,1.62,32.9,Sí,Ganar músculo,24/11/2022,1,0
+S10050,48.0,MIRAFLORES,Estándar,11.0,11.0,0,119.0,82.1,1.71,28.1,No,Bajar de peso,17/09/2022,0,1
+S11714,32.0,Surco,Básico,14.0,7.0,3,79.0,71.9,1.7,24.9,No,Salud general,05/02/2025,0,0
+S11709,26.0,Lima Centro,Básico,13.0,9.0,2,69.0,62.4,1.77,19.9,No,Bajar de peso,22/04/2022,0,0
+S11105,31.0,Callao,Premium,22.0,4.0,1,169.0,74.8,1.52,32.4,Sí,Bajar de peso,2023-07-03,1,0
+S10703,37.0,Lima Centro,Estándar,16.0,3.0,3,119.0,69.5,1.64,25.8,Sí,Salud general,12/11/2025,1,1
+S10482,35.0,Miraflores,Estándar,15.0,9.0,4,129.0,91.1,1.57,,no,Bajar de peso,15/09/2023,0,0
+S11145,24.0,Lima Centro,Estándar,4.0,6.0,3,S/ 119,77.2,1.6,30.2,Sí,,28/12/2024,0,0
+S11962,,San Borja,Estándar,1.0,12.0,7,119.0,65.9,1.65,24.2,Sí,Salud general,12-05-23,1,0
+S10066,26.0,Miraflores,Premium,1.0,17.0,0,169.0,97.6,1.77,31.2,Sí,Salud general,2023-11-05,1,0
+S11763,44.0,San Borja,Básico,15.0,9.0,1,79.0,55.2,1.77,17.6,No,,31/05/2022,0,1
+S10733,16.0,Miraflores,Premium,9.0,11.0,0,S/ 179,,1.59,34.1,Sí,Bajar de peso,09/12/2025,2,0
+S11830,22.0,Los Olivos,Estándar,1.0,7.0,0,119.0,53.2,1.81,16.2,Sí,Salud general,28/05/2023,1,0
+S10801,33.0,Miraflores,Estándar,5.0,5.0,4,129.0,61.4,1.65,22.6,No,Bajar de peso,2022-01-08,0,1
+S11753,26.0,San Borja,Básico,11.0,10.0,2,69.0,79.6,1.77,25.4,No,Ganar músculo,21/08/2024,1,0
+S11504,29.0,Lima Centro,BÁSICO,33.0,,5,S/ 89,69.9,1.68,24.8,Sí,Salud general,2022-12-29,0,0
+S10907,35.0,San Borja,Premium,18.0,4.0,1,169.0,82.3,1.75,26.9,No,,01/08/2022,0,1
+S10031,105,Surco,Estándar,15.0,4.0,1,119.0,68.2,1.64,25.4,NO,Competencia,02/06/2023,0,0
+S10417,0,Surco,PREMIUM,12.0,6.0,2,159.0,77.1,1.64,28.7,NO,Bajar de peso,03/09/2024,1,0
+S10881,48.0,Callao,Básico,1.0,,6,79.0,68.0,1.66,24.7,No,Ganar músculo,09/02/2024,0,0
+S10632,46.0,Callao,Básico,4.0,4.0,6,79.0,78.3,1.81,23.9,Sí,,21/06/2025,1,0
+S11600,20.0,Lima Centro,Básico,20.0,15.0,1,69.0,66.9,1.62,25.5,Sí,Salud general,11/03/2022,0,0
+S11473,35.0,surco,Estándar,32.0,7.0,3,109.0,60.4,1.54,25.5,Sí,Salud general,14-08-22,0,0
+S10064,23.0,Miraflores,Premium,10.0,10.0,1,169.0,7.2,1.74,23.5,Sí,Bajar de peso,20/01/2025,1,0
+S11761,29.0,Los Olivos,Estándar,7.0,10.0,0,119.0,67.3,1.67,24.1,NO,Bajar de peso,26/01/2023,1,0
+S11647,22.0,Miraflores,Estándar,1.0,7.0,2,109.0,78.1,1.65,28.7,Sí,Bajar de peso,23/09/2023,1,0
+S10077,25.0,Callao,básico,18.0,,2,79.0,71.0,1.73,,Sí,Ganar músculo,07/01/2022,2,0
+S10491,23.0,LOS OLIVOS,Básico,13.0,3.0,3,69.0,68.3,1.69,23.9,No,Salud general,04/04/2025,0,0
+S11444,21.0,San Borja,Básico,14.0,11.0,3,79.0,74.2,1.77,23.7,No,Salud general,19/08/2022,0,0
+S11576,38.0,San Borja,Básico,14.0,4.0,0,69.0,78.6,1.73,26.3,No,Salud general,2022-06-12,1,0
+S10532,16.0,Lima Centro,Básico,33.0,13.0,3,69.0,78.2,1.84,23.1,Sí,Salud general,11/11/2022,1,0
+S10065,45.0,Callao,Básico,20.0,4.0,0,69.0,63.4,1.64,23.6,Sí,Salud general,21/03/2024,1,0
+S11732,16.0,Miraflores,Básico,6.0,5.0,3,69.0,63.7,1.71,21.8,Sí,Bajar de peso,2023-10-31,1,0
+S10654,38.0,Miraflores,Estándar,2.0,9.0,2,S/ 119,54.0,1.72,18.3,SI,Bajar de peso,09-08-22,0,0
+S10296,35.0,Miraflores,Básico,2.0,7.0,1,89.0,67.0,1.64,24.9,No,Ganar músculo,11/02/2024,0,1
+S10591,43.0,Miraflores,Estándar,8.0,6.0,2,119.0,88.7,1.5,39.4,No,Bajar de peso,2024-11-12,0,0
+S10767,37.0,Miraflores,Básico,14.0,20.0,4,69.0,73.8,1.81,22.5,No,,12/09/2023,0,0
+S11285,42.0,Surco,Básico,7.0,8.0,6,79.0,79.2,1.59,31.3,No,Bajar de peso,01/03/2025,0,0
+S10724,52.0,San Borja,Premium,9.0,,3,169.0,71.8,1.86,20.8,Sí,Bajar de peso,28/11/2023,0,0
+S11459,49.0,Miraflores,Estándar,11.0,3.0,1,119.0,81.8,1.6,32.0,Sí,Salud general,29/04/2025,0,0
+S10626,32.0,Lima Centro,Básico,8.0,7.0,2,79.0,74.0,1.71,25.3,No,Salud general,2025-06-18,0,1
+S11442,26.0,Callao,Estándar,3.0,8.0,4,119.0,86.7,1.56,35.6,Sí,Bajar de peso,27/07/2023,2,1
+S11998,40.0,Lima Centro,Premium,5.0,9.0,2,159.0,77.2,1.78,24.4,No,Salud general,09/10/2023,0,1
+S11212,22.0,callao,Básico,9.0,4.0,5,89.0,93.8,1.7,32.5,Sí,Bajar de peso,2022-10-02,0,1
+S11842,,Callao,Estándar,1.0,6.0,3,119.0,55.9,1.73,18.7,Sí,Bajar de peso,2024-02-10,0,0
+S10251,31.0,Miraflores,Estándar,9.0,7.0,1,119.0,60.3,1.56,24.8,Sí,Bajar de peso,2025-08-13,0,0
+S11869,28.0,Surco,Básico,11.0,11.0,1,79.0,59.1,1.76,19.1,Sí,Bajar de peso,2024-05-18,0,0
+S11345,23.0,Los Olivos,Estándar,18.0,5.0,2,129.0,45.0,1.61,17.4,No,Bajar de peso,19/04/2025,0,1
+S11954,39.0,Surco,Estándar,6.0,4.0,0,129.0,86.5,1.66,31.4,N,Salud general,20-05-22,1,0
+S10982,29.0,Los Olivos,Estandar,10.0,6.0,5,119.0,55.1,1.78,17.4,Sí,Bajar de peso,17/04/2024,0,1
+S11818,23.0,Lima Centro,Estándar,1.0,9.0,2,109.0,57.0,1.59,22.5,Sí,Bajar de peso,01/01/2023,0,0
+S10706,30.0,Los Olivos,Básico,6.0,6.0,3,79.0,76.1,1.53,32.5,S,Salud general,18/10/2024,0,0
+S10487,47.0,Surco,Básico ,24.0,4.0,0,79.0,56.1,1.6,21.9,Sí,Bajar de peso,2024-08-06,0,0
+S10273,37.0,Callao,Básico,4.0,12.0,4,79.0,66.7,1.93,17.9,Sí,Bajar de peso,01-06-22,1,0
+S11558,19.0,Lima Centro,Estándar,13.0,10.0,3,119.0,76.1,1.63,28.6,No,Salud general,25/11/2023,0,0
+S11710,48.0,Miraflores,Básico,11.0,14.0,1,79.0,72.6,1.7,25.1,No,Salud general,12/12/2025,0,0
+S10963,29.0,SURCO,Básico,23.0,4.0,1,89.0,,1.64,22.2,N,,12/12/2023,0,0
+S10877,34.0,Lima Centro,Estandar,2.0,11.0,3,109.0,60.3,1.78,19.0,Sí,,15/11/2025,0,0
+S11436,37.0,Los Olivos,Básico,15.0,3.0,3,69.0,72.6,1.68,25.7,Sí,Ganar músculo,06/08/2025,0,0
+S11860,16.0,Los Olivos,Estándar,1.0,4.0,1,129.0,54.7,1.75,17.9,Sí,Salud general,17/09/2023,0,0
+S10411,31.0,Miraflores,Básico,9.0,3.0,3,69.0,65.4,1.76,21.1,SI,Bajar de peso,2024-09-28,2,0
+S10667,40.0,San Borja,Básico,24.0,12.0,2,89.0,69.4,1.8,21.4,No,Bajar de peso,2023-03-07,1,0
+S11262,39.0,Callao,Básico,8.0,10.0,1,69.0,81.7,1.67,29.3,No,Salud general,27/05/2023,0,0
+S10149,34.0,Lima Centro,Premium,4.0,19.0,3,179.0,55.1,1.83,16.5,No,Bajar de peso,30/10/2023,1,0
+S10644,27.0,San Borja,Básico,5.0,7.0,3,89.0,,1.64,19.1,No,Ganar músculo,25/04/2024,1,1
+S11645,29.0,Callao,Básico,1.0,2.0,1,79.0,68.5,1.66,24.9,no,Ganar músculo,25/02/2024,0,0
+S10218,16.0,Lima Centro,Básico,19.0,6.0,1,89.0,62.4,1.59,24.7,No,Salud general,02/08/2022,0,1
+S10239,53.0,Miraflores,Premium,4.0,310,1,179.0,,1.66,16.3,No,Bajar de peso,03/09/2024,0,0
+S11131,20.0,Los Olivos,Estándar,33.0,2.0,5,109.0,102.6,1.52,44.4,Sí,Salud general,28/09/2025,1,0
+S11216,39.0,Surco,Premium,26.0,7.0,2,159.0,84.7,1.66,30.7,No,Bajar de peso,04/01/2023,1,1
+S10792,31.0,Los Olivos,Premium,1.0,10.0,1,159.0,74.1,1.7,25.6,Sí,Salud general,25/01/2022,2,1
+S10191,28.0,Miraflores,Premium,23.0,10.0,2,179.0,64.4,1.71,22.0,Sí,Ganar músculo,17-11-22,1,0
+S10333,21.0,San Borja,Básico,24.0,7.0,2,79.0,82.8,1.63,31.2,Sí,Bajar de peso,12/12/2024,0,0
+S11352,35.0,Surco,Básico,7.0,,4,69.0,63.3,1.6,24.7,Sí,Ganar músculo,22-03-25,0,0
+S11355,16.0,Miraflores,Estándar,5.0,4.0,2,119.0,77.4,1.5,34.4,Sí,Competencia,22/06/2024,1,1
+S10962,45.0,miraflores,Básico,59.0,3.0,2,79.0,,1.75,19.5,Sí,Ganar músculo,16/11/2023,0,0
+S11351,36.0,Los Olivos,Estándar,5.0,4.0,2,129.0,83.0,1.8,25.6,Sí,Ganar músculo,22/06/2024,0,1
+S11282,30.0,Miraflores,Estándar,46.0,6.0,1,129.0,,1.92,25.0,NO,,13-11-22,0,0
+S11692,32.0,Callao,Estándar,18.0,6.0,4,129.0,71.7,1.69,25.1,No,Ganar músculo,17/01/2023,1,1
+S11864,22.0,Miraflores,Básico,15.0,6.0,2,79.0,61.4,1.8,19.0,No,Ganar músculo,13/05/2024,1,1
+S10582,3,Callao,Premium,1.0,,2,159.0,70.7,1.66,25.7,No,,03/06/2024,1,1
+S11960,27.0,Lima Centro,Estándar,500.0,9.0,3,119.0,61.4,1.53,26.2,Sí,Ganar músculo,2023-08-24,0,0
+S11531,36.0,San Borja,Estándar,5.0,,1,109.0,83.3,1.7,28.8,Sí,Bajar de peso,2023-04-01,0,0
+S10839,34.0,Callao,Básico,1.0,6.0,6,79.0,71.6,1.56,29.4,Sí,Bajar de peso,23/11/2025,0,0
+S10627,26.0,Lima Centro,Estándar,1.0,10.0,0,119.0,56.3,1.53,24.1,No,Bajar de peso,2023-06-15,1,0
+S10323,27.0,Los Olivos,Estándar,9.0,13.0,2,119.0,62.1,1.54,26.2,Sí,Salud general,21/12/2025,1,0
+S11683,36.0,Callao,Premium,1.0,5.0,4,159.0,77.8,1.7,26.9,Sí,Bajar de peso,2023-11-10,0,0
+S11160,22.0,Lima Centro,Premium,5.0,7.0,2,179.0,50.1,1.59,19.8,No,,29-11-25,0,0
+S10778,32.0,Callao,Básico,2.0,5.0,2,69.0,59.9,1.62,22.8,NO,Bajar de peso,15/06/2025,1,0
+S11076,40.0,Surco,Básico,4.0,7.0,3,69.0,57.4,1.69,20.1,Sí,Bajar de peso,24/02/2022,1,1
+S10939,16.0,Callao,Estandar,11.0,5.0,4,119.0,79.7,1.64,29.6,Sí,Salud general,02/08/2022,0,0
+S10437,16.0,Lima Centro,Estándar,23.0,9.0,3,119.0,80.7,1.69,28.3,Sí,Ganar músculo,12/01/2023,1,0
+S10119,37.0,Los Olivos,Premium,5.0,4.0,4,169.0,93.5,1.67,33.5,Sí,Salud general,29/05/2024,0,1
+S11391,31.0,Lima Centro,Estándar,60.0,13.0,4,119.0,64.4,1.64,23.9,Sí,,01/03/2022,1,0
+S11601,24.0,Surco,Premium,26.0,3.0,4,179.0,73.1,1.68,25.9,No,Bajar de peso,2024-01-12,1,1
+S11026,36.0,Lima Centro,Premium,1.0,7.0,5,169.0,,1.71,29.1,No,Bajar de peso,04/06/2023,0,0
+S11253,27.0,San Borja,Básico,4.0,9.0,2,79.0,71.2,1.77,22.7,SI,Salud general,13-10-23,0,0
+S11411,,Miraflores,Estandar,2.0,10.0,3,129.0,81.3,1.56,33.4,No,Bajar de peso,18-07-23,1,0
+S10076,30.0,Callao,Premium,42.0,5.0,3,159.0,49.6,1.58,19.9,Sí,,2023-05-01,0,0
+S11053,41.0,San Borja,Premium,1.0,4.0,0,169.0,54.9,1.59,21.7,Sí,Bajar de peso,14/11/2025,1,1
+S10900,46.0,Callao,Estándar,34.0,7.0,4,109.0,75.7,1.64,28.1,No,Bajar de peso,11/09/2025,2,0
+S10371,28.0,Surco,Estándar,59.0,10.0,4,119.0,58.9,1.59,23.3,No,Ganar músculo,2022-07-19,0,0
+S11913,41.0,Lima Centro,Estándar,4.0,2.0,2,109.0,74.0,1.78,23.4,No,,11/12/2025,0,1
+S11475,24.0,San Borja,Estándar,8.0,8.0,4,119.0,94.1,1.66,34.1,Sí,Bajar de peso,2023-01-04,2,0
+S10275,27.0,Lima Centro,Estándar,10.0,12.0,3,109.0,74.4,1.79,23.2,Sí,Bajar de peso,26-07-23,0,0
+S10941,26.0,Callao,Básico,7.0,4.0,5,79.0,74.7,1.74,24.7,si,Ganar músculo,27/07/2022,0,0
+S10577,32.0,Callao,Básico,5.0,10.0,4,79.0,71.9,1.84,21.2,No,Ganar músculo,20/09/2023,0,0
+S10819,17.0,Surco,Estándar ,11.0,9.0,1,119.0,71.6,1.51,31.4,Sí,Salud general,24/07/2025,0,0
+S11502,39.0,Miraflores,Premium,3.0,15.0,6,179.0,79.4,1.62,30.3,No,Ganar músculo,31-10-25,2,0
+S11524,31.0,Surco,Estándar,21.0,4.0,2,119.0,92.0,1.69,32.2,Sí,Ganar músculo,02/10/2023,2,0
+S11776,38.0,Surco,Estándar,2.0,8.0,2,119.0,85.6,1.53,36.6,No,Bajar de peso,26/08/2024,1,0
+S11412,40.0,Lima Centro,Básico,5.0,8.0,4,79.0,67.6,1.65,24.8,No,Bajar de peso,06/01/2025,0,0
+S10886,35.0,Surco,Básico,6.0,5.0,1,79.0,59.0,1.68,20.9,No,Salud general,01/04/2025,1,0
+S10968,38.0,Miraflores,Básico,4.0,6.0,4,69.0,53.4,1.47,24.7,No,Bajar de peso,09/05/2022,1,1
+S11636,26.0,Los Olivos,Básico,10.0,2.0,1,79.0,80.0,1.58,32.0,Sí,Bajar de peso,22-05-23,1,1
+S10785,24.0,Callao,Básico,22.0,4.0,1,79.0,78.5,1.77,25.1,No,Salud general,09/02/2022,1,1
+S11623,21.0,Lima Centro ,Premium,3.0,13.0,3,179.0,75.7,1.61,29.2,No,Ganar músculo,2024-11-24,2,0
+S11953,,Surco,Básico,8.0,5.0,4,79.0,87.1,1.74,28.8,Sí,Ganar músculo,2023-05-25,1,1
+S11649,,Callao,Premium,9.0,5.0,2,169.0,,1.66,27.9,No,Ganar músculo,2024-11-10,2,1
+S10301,22.0,Callao,Premium,16.0,8.0,1,169.0,70.1,1.71,24.0,Sí,Bajar de peso,22/07/2023,0,0
+S10689,37.0,Miraflores,Estándar,3.0,5.0,5,119.0,85.3,1.71,29.2,SI,Salud general,30-06-22,2,1
+S10812,16.0,Surco,Estándar,17.0,8.0,3,109.0,74.4,1.85,21.7,N,Competencia,2023-03-25,0,1
+S11061,37.0,San Borja,Básico,2.0,3.0,3,79.0,66.2,1.78,20.9,No,Bajar de peso,14/02/2024,0,0
+S11377,46.0,Lima Centro,BÁSICO,39.0,8.0,2,79.0,101.1,1.67,36.3,No,Salud general,22/09/2024,0,0
+S10236,39.0,San Borja,Básico,8.0,10.0,2,S/ 79,82.2,1.61,31.7,Sí,,26/09/2025,2,0
+S11115,24.0,Surco,estándar,10.0,13.0,2,129.0,74.5,1.84,,No,Salud general,31/07/2024,0,0
+S11775,21.0,Surco,Estándar,8.0,4.0,3,119.0,86.0,1.5,38.2,Sí,Salud general,2023-10-18,0,0
+S10499,47.0,Miraflores,Premium,10.0,6.0,2,169.0,64.5,1.62,24.6,Sí,Bajar de peso,13/12/2025,0,0
+S11697,34.0,Los Olivos,Premium,57.0,5.0,4,169.0,75.8,1.73,25.3,No,Salud general,21/03/2023,2,0
+S11079,31.0,San Borja,Estándar,17.0,7.0,1,129.0,73.4,1.57,29.8,No,Ganar músculo,01/01/2022,0,1
+S11326,20.0,miraflores,Básico,28.0,7.0,2,69.0,57.2,1.58,22.9,Sí,Bajar de peso,2022-11-23,0,0
+S10794,42.0,Surco,Premium,2.0,6.0,3,169.0,57.3,1.68,20.3,Sí,Salud general,2024-10-20,0,0
+S11975,39.0,Lima Centro,BÁSICO,4.0,9.0,1,79.0,,1.76,20.9,Sí,,2022-02-19,0,0
+S11567,28.0,Los Olivos,Estándar,28.0,8.0,4,119.0,88.6,1.69,31.0,No,Ganar músculo,21/01/2024,1,0
+S11983,28.0,Surco,Premium,10.0,8.0,1,169.0,56.2,1.65,20.6,No,Bajar de peso,16/07/2025,0,1
+S10990,23.0,Miraflores,Estándar,33.0,7.0,2,119.0,70.2,1.72,23.7,Sí,Ganar músculo,2024-05-14,0,0
+S11403,17.0,Lima Centro,Premium,28.0,4.0,2,179.0,85.7,1.77,27.4,Sí,Bajar de peso,13/08/2023,3,0
+S10934,25.0,LOS OLIVOS,Básico,50.0,4.0,2,89.0,95.5,1.64,35.5,Sí,Bajar de peso,16/01/2025,1,0
+S10387,30.0,Los Olivos,Básico,4.0,18.0,2,79.0,70.8,1.53,30.2,Sí,Ganar músculo,2024-03-04,0,0
+S11708,16.0,Callao,Básico,2.0,3.0,1,79.0,,1.65,28.6,Sí,Salud general,2023-08-25,0,1
+S10390,45.0,Miraflores,Básico ,3.0,9.0,3,69.0,84.0,1.62,32.0,No,Salud general,15/12/2022,2,1
+S10743,16.0,Los Olivos,Estándar,15.0,16.0,3,129.0,74.2,1.79,23.2,Sí,Salud general,01/09/2025,1,0
+S10352,49.0,Miraflores,Básico,400.0,14.0,0,79.0,71.0,1.69,,No,Ganar músculo,23/05/2025,2,0
+S11217,31.0,Los Olivos,Premium,4.0,5.0,2,169.0,80.2,1.74,26.5,Sí,Salud general,25/05/2022,0,0
+S10235,20.0,Callao,Básico,21.0,13.0,3,89.0,67.3,1.63,25.3,SI,Bajar de peso,04/02/2025,0,0
+S11749,45.0,Surco,Básico,1.0,6.0,1,S/ 89,64.8,1.73,21.7,No,Salud general,02/07/2022,0,1
+S10480,18.0,Surco,Básico,12.0,4.0,2,79.0,80.3,1.56,33.0,No,Ganar músculo,06/05/2023,0,0
+S10567,43.0,Lima Centro,Estándar,18.0,12.0,1,109.0,53.2,1.71,,Sí,Bajar de peso,2023-02-25,0,1
+S11140,37.0,Callao,Premium,2.0,8.0,3,169.0,65.5,1.64,24.4,Sí,Ganar músculo,2025-02-16,0,0
+S11723,45.0, Miraflores,Premium,10.0,7.0,0,169.0,72.5,1.59,28.7,No,Ganar músculo,29/10/2023,0,1
+S11914,32.0,Surco,Premium,41.0,13.0,1,169.0,66.6,1.56,27.4,No,Salud general,20/07/2025,1,0
+S11604,23.0,surco,Estándar,3.0,6.0,4,129.0,52.3,1.77,16.7,No,Bajar de peso,27-09-23,1,0
+S10120,43.0,MIRAFLORES,Básico,4.0,4.0,2,79.0,73.3,1.82,22.1,S,Bajar de peso,21/07/2024,0,1
+S11388,33.0,Lima Centro,Estándar,1.0,7.0,1,129.0,,1.75,26.0,No,Bajar de peso,18/01/2025,1,1
+S11771,46.0,surco,Básico,14.0,9.0,3,79.0,86.8,1.64,32.3,Sí,,2025-12-03,0,0
+S11024,47.0,Miraflores,Básico,25.0,6.0,4,79.0,81.5,1.81,24.9,No,Ganar músculo,10/11/2023,0,0
+S11086,23.0,Surco,Estándar,33.0,7.0,3,129.0,78.0,1.63,29.4,NO,Bajar de peso,2022-12-15,2,0
+S11272,49.0,Miraflores,Estándar,16.0,14.0,3,109.0,76.2,1.69,,No,Bajar de peso,10/05/2025,1,0
+S10926,39.0,Lima Centro,Premium,60.0,2.0,2,169.0,64.7,1.67,23.2,S,Bajar de peso,23/08/2024,0,0
+S10515,27.0,Callao,Básico,6.0,16.0,2,79.0,74.0,1.64,27.5,Sí,Salud general,05/03/2024,1,0
+S10223,27.0,Callao ,Premium,6.0,,1,169.0,61.9,1.65,22.7,Sí,Salud general,27/02/2024,0,0
+S11511,25.0,Miraflores,Premium,5.0,7.0,3,179.0,81.6,1.67,29.3,No,Ganar músculo,2024-04-16,2,1
+S10613,55.0,Callao,Básico,18.0,9.0,5,79.0,64.3,1.83,,No,Bajar de peso,22/07/2025,0,0
+S10843,46.0,Surco,Estandar,9.0,8.0,1,119.0,,1.67,17.2,Sí,Bajar de peso,2022-01-17,1,1
+S11245,36.0,Miraflores,Estándar,1.0,6.0,0,119.0,63.9,1.6,25.0,Sí,Salud general,07/07/2023,0,1
+S10052,25.0,Surco,Estándar,10.0,3.0,1,129.0,45.6,1.62,17.4,N,Bajar de peso,20-12-25,1,0
+S11893,36.0,San Borja,Estándar,4.0,12.0,3,109.0,91.8,1.53,39.2,Sí,Salud general,24/08/2023,0,0
+S10485,36.0,Los Olivos,Premium,14.0,15.0,2,169.0,47.0,1.63,17.7,No,Bajar de peso,2026-02-01,0,0
+S11966,26.0,Surco,Estándar,15.0,8.0,3,119.0,90.7,1.84,26.8,No,Ganar músculo,18/01/2026,0,1
+S10818,16.0,San Borja,premium,11.0,9.0,2,169.0,69.3,1.65,25.5,no,Salud general,18/08/2023,0,0
+S11679,32.0,LOS OLIVOS,Estándar,1.0,6.0,7,119.0,56.8,1.7,19.7,No,Bajar de peso,17/08/2023,0,0
+S10155,18.0,Los Olivos ,Premium,47.0,4.0,3,169.0,76.8,1.63,28.9,No,Bajar de peso,14-05-22,1,0
+S11366,27.0,Miraflores,Básico,20.0,4.0,5,89.0,84.3,1.71,28.8,No,Bajar de peso,13/09/2025,0,0
+S10600,41.0,san borja,Premium,57.0,7.0,1,169.0,52.2,1.8,16.1,No,Bajar de peso,02/03/2024,0,0
+S11643,34.0,San Borja,Premium,17.0,7.0,2,169.0,58.2,1.82,17.6,Sí,,25/02/2022,0,0
+S10248,31.0,Surco,Estándar,25.0,4.0,3,109.0,85.7,1.79,26.7,Sí,Salud general,27/04/2023,0,0
+S10761,31.0,Miraflores,Estándar,16.0,17.0,3,119.0,64.6,1.69,22.6,No,Bajar de peso,20-10-22,2,0
+S11877,17.0,Callao,Premium,700.0,6.0,0,169.0,,1.74,28.6,Sí,Ganar músculo,13-08-25,0,0
+S11130,24.0,Callao,Estandar,12.0,10.0,3,109.0,100.4,1.76,32.4,Sí,Bajar de peso,28/10/2024,2,0
+S10542,22.0,San Borja,Estándar,21.0,6.0,2,119.0,,1.59,33.4,Sí,Salud general,2022-12-11,0,0
+S10793,41.0,Callao,Estándar,27.0,8.0,4,119.0,88.6,1.7,30.7,No,Salud general,02/04/2025,0,0
+S11141,19.0,Miraflores,Premium,7.0,4.0,1,S/ 169,,1.67,22.9,No,Salud general,22-07-25,1,1
+S11489,18.0,Surco,Básico,23.0,10.0,5,69.0,85.2,1.49,38.4,No,Bajar de peso,08-10-24,0,0
+S10628,37.0,Lima Centro,Básico,21.0,6.0,2,79.0,84.1,1.66,30.5,No,Salud general,16-11-22,0,0
+S10150,21.0,Los Olivos,Estándar,1.0,14.0,5,119.0,53.6,1.72,18.1,No,Salud general,2025-11-01,0,0
+S11682,35.0,Lima Centro,Premium,6.0,9.0,3,179.0,57.8,1.67,20.7,No,Salud general,21/05/2025,1,0
+S10291,23.0,San Borja,básico,4.0,7.0,3,79.0,75.7,1.64,28.1,Sí,Bajar de peso,2025-06-28,0,0
+S10381,22.0,Surco,Estándar,28.0,13.0,1,129.0,87.7,1.91,,No,Salud general,2022-02-27,1,0
+S10686,43.0,San Borja,Básico,2.0,5.0,3,69.0,84.7,1.76,27.3,No,Salud general,18/04/2023,0,1
+S11367,24.0,Callao,Premium,1.0,16.0,3,169.0,83.9,1.7,29.0,N,Ganar músculo,14/01/2022,0,0
+S11224,26.0, Lima Centro,Básico,22.0,5.0,3,79.0,71.0,1.54,29.9,Sí,,02/09/2024,2,1
+S10897,34.0,miraflores,Premium,5.0,4.0,2,169.0,59.7,1.67,21.4,Sí,Bajar de peso,25/04/2023,0,0
+S10854,21.0,Surco,Estándar,19.0,3.0,2,119.0,57.5,1.71,19.7,Sí,Salud general,01/07/2025,1,1
+S11071,39.0,San Borja,Estándar,11.0,13.0,2,109.0,87.3,1.66,31.7,Sí,Bajar de peso,2022-06-24,0,0
+S10554,26.0,San Borja,Premium,1.0,11.0,4,169.0,,1.68,25.2,No,Ganar músculo,2023-08-18,0,0
+S11564,23.0,Miraflores,Básico,12.0,10.0,2,69.0,,1.63,37.3,Sí,Bajar de peso,2024-03-17,0,0
+S11729,50.0,Lima Centro,Estándar,8.0,3.0,2,129.0,73.9,1.59,29.2,Sí,Bajar de peso,23/08/2022,2,1
+S10891,26.0,Miraflores,Premium,30.0,6.0,4,159.0,81.7,1.66,29.6,Sí,Bajar de peso,26/02/2023,0,0
+S11800,46.0,Miraflores,Básico,16.0,14.0,2,69.0,62.9,1.63,23.7,Sí,Salud general,02/07/2022,0,0
+S10535,35.0,Lima Centro,Estándar,2.0,5.0,3,129.0,96.5,1.68,,Sí,Ganar músculo,09-07-25,0,0
+S11364,25.0,San Borja,Estándar,12.0,3.0,2,119.0,66.9,1.59,26.5,Sí,Salud general,08/01/2024,0,0
+S10615,33.0,Miraflores,Básico,7.0,2.0,2,89.0,67.0,1.72,22.6,No,Ganar músculo,26-12-24,2,1
+S10154,40.0,Miraflores,Estándar,9.0,2.0,4,129.0,74.2,1.61,28.6,Sí,Ganar músculo,20/03/2022,1,0
+S11193,24.0,Surco,Premium,6.0,,1,179.0,63.2,1.55,,Sí,Bajar de peso,25/01/2024,2,0
+S11756,27.0,Miraflores,Básico,9.0,13.0,1,79.0,58.3,1.71,19.9,Sí,Salud general,2022-09-18,0,0
+S11824,33.0,LIMA CENTRO,estándar,18.0,5.0,5,129.0,103.7,1.81,31.7,No,Salud general,2025-05-05,0,0
+S11826,43.0,San Borja,Estándar,16.0,3.0,3,109.0,64.0,1.81,,Sí,Bajar de peso,13/05/2024,0,0
+S10322,35.0,Miraflores,Basico,1.0,16.0,0,79.0,65.7,1.74,21.7,Sí,Bajar de peso,07-10-25,0,0
+S11586,24.0,Miraflores,Básico,13.0,19.0,1,69.0,66.4,1.74,21.9,No,Bajar de peso,15-10-25,0,0
+S11282,30.0,Miraflores,Estándar,46.0,6.0,1,129.0,,1.92,25.0,NO,,13-11-22,0,0
+S10082,33.0,Surco,Estandar,60.0,4.0,2,119.0,66.2,1.65,24.3,no,Bajar de peso,22/02/2023,0,0
+S10512,37.0,San Borja,Premium,18.0,10.0,1,179.0,79.0,1.65,29.0,Sí,Ganar músculo,18/07/2025,1,0
+S11563,48.0,Callao,Estándar,5.0,4.0,1,119.0,88.0,1.65,32.3,No,Bajar de peso,28/05/2024,1,0
+S11520,33.0,Miraflores,Estándar,27.0,8.0,4,109.0,64.1,1.74,21.2,Sí,Bajar de peso,2024-02-10,1,0
+S10929,16.0,San Borja,ESTÁNDAR,4.0,6.0,1,109.0,67.0,1.78,21.1,N,Salud general,26/05/2022,0,1
+S11673,30.0,Los Olivos,Básico,12.0,19.0,2,79.0,88.3,1.6,34.5,No,Ganar músculo,22/10/2023,0,0
+S11357,43.0,Miraflores,Premium,11.0,16.0,1,169.0,77.6,1.66,28.2,Sí,Bajar de peso,03/08/2022,0,0
+S10010,39.0,Los Olivos,Estándar ,14.0,8.0,1,109.0,72.5,1.77,23.1,Sí,Bajar de peso,19/03/2024,1,0
+S10831,30.0,Miraflores,Estándar,12.0,7.0,2,119.0,,1.57,25.1,No,,20/04/2023,1,1
+S10032,40.0,San Borja,Premium,20.0,5.0,2,169.0,76.4,1.68,27.1,Sí,Salud general,20/11/2022,2,0
+S11550,3,San Borja,Básico,3.0,10.0,0,69.0,61.0,1.73,20.4,No,Salud general,31/01/2026,1,0
+S10413,29.0,Miraflores,Premium,7.0,9.0,3,179.0,,1.68,24.1,Sí,Salud general,2022-10-12,0,0
+S10580,40.0,Miraflores,Básico,10.0,8.0,2,79.0,52.8,1.69,18.5,Sí,Salud general,11-08-23,0,0
+S11406,39.0,Lima Centro,Básico,5.0,10.0,3,89.0,79.8,1.66,29.0,No,Salud general,06/03/2025,1,0
+S11589,36.0,Lima Centro,básico,9.0,,1,79.0,47.1,1.72,15.9,Sí,Bajar de peso,23-10-24,0,0
+S11526,36.0,Callao,Estándar,17.0,8.0,2,119.0,86.2,1.65,31.7,Sí,Salud general,2024-05-23,0,0
+S11957,34.0,Los Olivos,Estándar,35.0,5.0,1,119.0,,1.59,25.9,Sí,Salud general,20/12/2024,0,0
+S10614,28.0,Miraflores,Estándar,15.0,3.0,4,129.0,61.0,1.83,18.2,Sí,Salud general,27-01-26,0,1
+S11045,38.0,Miraflores,Estándar,9.0,8.0,3,109.0,76.2,1.62,29.0,Sí,Bajar de peso,20/05/2023,1,1
+S11402,33.0,Miraflores,Estándar,15.0,19.0,5,119.0,63.6,1.76,20.5,Sí,Bajar de peso,29/12/2023,0,0
+S11014,16.0,Callao,Estándar,2.0,10.0,2,129.0,,1.65,27.7,No,,10/09/2025,0,0
+S10089,39.0,Surco,Básico,38.0,5.0,1,79.0,66.5,1.86,19.2,Sí,Ganar músculo,22/07/2023,0,0
+S11743,16.0,SURCO,Básico,11.0,17.0,2,79.0,,1.62,21.3,Sí,Salud general,2024-08-04,1,0
+S10601,31.0,Surco,Premium,22.0,10.0,4,169.0,89.9,1.7,31.1,No,Bajar de peso,2024-11-23,0,0
+S11237,19.0,Surco,Premium,21.0,6.0,2,179.0,71.9,1.65,26.4,No,Bajar de peso,2024-04-15,0,1
+S11888,42.0,Los Olivos,Estándar,47.0,3.0,4,119.0,65.8,1.6,25.7,Sí,Salud general,15/03/2024,0,0
+S10133,17.0,Callao,Estándar,38.0,9.0,4,119.0,68.6,1.56,28.2,Sí,Bajar de peso,11/10/2025,0,0
+S11370,51.0,Callao ,Estándar,2.0,6.0,2,119.0,82.6,1.61,31.9,No,Bajar de peso,2024-12-03,0,0
+S10555,24.0,SAN BORJA,Premium,22.0,5.0,6,169.0,75.2,1.49,33.9,Sí,Salud general,30/11/2025,2,0
+S11031,41.0,San Borja,Básico,13.0,5.0,2,79.0,83.1,1.75,,No,Salud general,21/03/2022,1,1
+S11605,46.0,Los Olivos ,Premium,2.0,11.0,0,169.0,64.6,1.59,25.6,No,Bajar de peso,30/11/2024,0,1
+S10320,24.0,Los Olivos,Básico,15.0,5.0,4,79.0,58.3,1.69,20.4,S,Bajar de peso,2025-02-01,0,1
+S11817,17.0,San Borja,Básico,5.0,3.0,2,69.0,65.0,1.53,27.8,No,Bajar de peso,2024-04-18,0,0
+S11211,40.0,Lima Centro,Premium,5.0,8.0,4,179.0,86.9,1.71,29.7,No,Competencia,01/09/2022,0,1
+S11782,30.0,San Borja ,Básico,11.0,14.0,1,69.0,84.1,1.62,32.0,Sí,Salud general,12/05/2025,0,0
+S10634,36.0,Surco,Estándar,11.0,7.0,0,129.0,,1.7,21.5,No,Bajar de peso,11/11/2022,0,0
+S10552,29.0,San Borja,Estándar,10.0,16.0,2,119.0,77.7,1.68,27.5,Sí,Bajar de peso,08/01/2024,0,0
+S11328,50.0,Miraflores ,Básico,5.0,9.0,2,89.0,74.6,1.58,29.9,No,,2025-04-05,1,1
+S11055,32.0,Miraflores,Estándar,20.0,,3,119.0,82.0,1.72,27.7,No,,11/03/2023,0,0
+S11642,48.0,Surco,Estándar,8.0,5.0,2,119.0,76.7,1.76,24.8,Sí,Salud general,04/08/2023,1,0
+S10796,30.0,San Borja,Premium,9.0,8.0,1,179.0,76.6,1.7,26.5,Sí,,25/07/2025,0,1
+S11703,29.0,Miraflores,Básico ,36.0,85,0,79.0,95.4,1.7,33.0,Sí,,2022-01-22,1,0
+S11264,37.0, Callao,Estándar,60.0,16.0,0,119.0,54.4,1.6,,si,Salud general,2023-02-27,0,0
+S11754,47.0,San Borja,Estándar,5.0,8.0,3,119.0,73.5,1.63,27.7,No,Salud general,31/07/2022,0,1
+S10174,23.0,Miraflores,Estándar,14.0,10.0,1,119.0,81.6,1.82,24.6,Sí,Bajar de peso,21-12-23,0,1
+S10766,29.0,Callao,Estándar,8.0,18.0,2,119.0,92.9,1.74,30.7,No,Salud general,2023-04-19,1,0
+S10245,39.0, Lima Centro,ESTÁNDAR,3.0,11.0,4,129.0,86.0,1.79,26.8,No,Bajar de peso,15-01-22,1,0
+S11080,29.0,Miraflores,Estándar,7.0,5.0,5,109.0,71.6,1.77,22.9,Sí,Bajar de peso,2025-09-25,1,0
+S11781,16.0,Lima Centro,Básico,13.0,7.0,3,S/ 79,81.5,1.67,29.2,No,Bajar de peso,09-05-24,1,0
+S10145,48.0,Callao,Básico,60.0,10.0,3,79.0,72.2,1.66,26.2,No,Salud general,21-05-22,0,0
+S10090,,Los Olivos,Básico,11.0,3.0,1,79.0,62.2,1.72,21.0,No,Ganar músculo,2022-12-15,0,0
+S11416,26.0,Los Olivos,Estándar,14.0,9.0,0,119.0,52.5,1.64,,No,Ganar músculo,12/02/2025,0,0
+S10682,35.0,Lima Centro,Básico,6.0,10.0,1,79.0,65.7,1.65,24.1,No,Salud general,2022-11-17,1,0
+S10310,29.0,Lima Centro,Premium,5.0,15.0,3,169.0,75.2,1.87,21.5,Sí,,2023-06-27,1,0
+S11383,18.0,San Borja,Básico,9.0,7.0,3,69.0,58.4,1.65,21.5,Sí,,13/03/2023,2,0
+S10093,19.0,callao,Básico,9.0,12.0,4,79.0,80.1,1.45,38.1,Sí,Ganar músculo,2026-01-28,2,0
+S11699,24.0,Los Olivos,Básico,25.0,7.0,1,79.0,,1.55,31.6,No,,09/01/2025,0,0
+S10924,,Los Olivos,Premium,15.0,2.0,6,169.0,64.0,1.59,25.3,Sí,,2025-04-23,0,0
+S10808,37.0,San Borja,Estándar,6.0,4.0,0,119.0,55.4,1.76,,S,Salud general,18/11/2023,0,1
+S11035,21.0,Surco,Básico,17.0,7.0,3,69.0,52.1,1.58,20.9,Sí,Bajar de peso,06-03-24,0,0
+S11400,31.0,Callao,Premium,2.0,7.0,2,169.0,73.5,1.66,26.7,Sí,Salud general,2022-05-25,1,0
+S10243,21.0,Los Olivos,Básico,9.0,15.0,0,79.0,93.2,1.68,33.0,No,Salud general,24-05-25,0,0
+S11500,20.0,Callao,Estándar,15.0,8.0,6,119.0,69.4,1.78,21.9,Sí,Salud general,23-07-23,1,0
+S11111,40.0,Miraflores,Básico,21.0,3.0,1,79.0,,1.72,23.2,Sí,Ganar músculo,10/05/2025,1,0
+S10214,33.0,Surco,Básico,1.0,15.0,3,79.0,62.5,1.7,21.6,Sí,Bajar de peso,11-12-25,1,0
+S10577,32.0,Callao,Básico,5.0,10.0,4,79.0,71.9,1.84,21.2,No,Ganar músculo,20/09/2023,0,0
+S11197,31.0,Lima Centro,Estándar,12.0,10.0,3,119.0,71.1,1.72,24.0,No,Ganar músculo,2024-05-18,0,0
+S10998,36.0,San Borja,Premium,2.0,6.0,6,179.0,57.3,1.68,,Sí,Ganar músculo,2025-09-05,0,0
+S10853,27.0,Lima Centro,Básico,8.0,15.0,1,69.0,,1.69,26.9,Sí,Bajar de peso,04/02/2023,0,0
+S10425,21.0,Miraflores,Estándar,7.0,8.0,3,129.0,89.0,1.79,27.8,No,Ganar músculo,2025-05-09,0,0
+S11809,27.0, Lima Centro,Estándar,15.0,5.0,3,129.0,58.8,1.87,16.8,Sí,Salud general,03/05/2025,0,0
+S11142,25.0,Surco,ESTÁNDAR,30.0,15.0,4,119.0,59.5,1.65,21.9,No,Ganar músculo,2024-12-30,0,0
+S11143,32.0,Miraflores,Estándar,1.0,9.0,1,129.0,66.9,1.71,22.9,No,Bajar de peso,27/10/2023,1,1
+S10226,,Lima Centro,Básico,2.0,5.0,1,79.0,87.3,1.71,29.9,Sí,Ganar músculo,2023-05-05,0,0
+S11668,34.0,Los Olivos,Estandar,4.0,6.0,1,109.0,63.3,1.71,21.6,Sí,Bajar de peso,2024-05-08,2,1
+S10000,24.0,Miraflores,Premium,22.0,3.0,2,159.0,63.7,1.77,20.3,Sí,Salud general,11/10/2025,1,1
+S11418,42.0,Lima Centro,Básico,7.0,7.0,4,89.0,78.2,1.55,32.5,Sí,Bajar de peso,2023-03-12,0,0
+S10401,21.0,Los Olivos,Estándar,13.0,4.0,8,129.0,94.4,1.71,32.3,si,Bajar de peso,23/09/2023,0,0
+S11428,29.0,Surco,Básico,1.0,5.0,4,79.0,88.3,1.56,36.3,NO,,2022-09-02,0,0
+S11103,30.0,San Borja,Estándar,3.0,12.0,2,119.0,74.1,1.68,26.3,No,Salud general,07/03/2022,1,1
+S10084,36.0,San Borja,Estándar,11.0,14.0,2,109.0,78.6,1.65,28.9,No,Salud general,2025-11-05,2,0
+S10162,999,Los Olivos,Básico,3.0,6.0,1,0.0,80.7,1.72,27.3,Sí,,17/05/2024,1,0
+S10114,32.0,Miraflores,Premium,1.0,7.0,3,169.0,,1.68,19.8,No,Bajar de peso,07/03/2024,0,1
+S10670,45.0,San Borja,Básico,21.0,5.0,4,69.0,74.2,1.81,22.6,Sí,Ganar músculo,23-12-24,0,0
+S11174,41.0,Miraflores,Básico,25.0,6.0,2,89.0,,1.73,21.4,No,Bajar de peso,28/08/2022,2,0
+S11565,16.0,Lima Centro,Básico,30.0,6.0,0,79.0,,1.7,20.4,Sí,Ganar músculo,18/02/2024,0,0
+S11553,27.0,Lima Centro,Básico,11.0,18.0,4,89.0,65.8,1.57,26.7,Sí,Ganar músculo,31-10-22,0,0
+S11392,33.0,Lima Centro,Básico,19.0,5.0,3,89.0,59.0,1.61,22.8,No,Salud general,2025-03-01,0,1
+S10889,43.0,San Borja,Básico,29.0,14.0,1,79.0,87.7,1.5,39.0,No,Bajar de peso,2024-03-13,1,0
+S11501,35.0,Los Olivos,Básico,6.0,14.0,4,79.0,,1.59,26.2,No,Bajar de peso,29/01/2026,0,0
+S10625,26.0,Callao,Estándar,15.0,16.0,2,109.0,81.8,1.54,34.5,No,Salud general,17/01/2023,0,0
+S11138,41.0,LIMA CENTRO,Premium ,2.0,8.0,4,179.0,70.5,1.72,23.8,No,Ganar músculo,25/07/2022,1,1
+S11568,44.0,Los Olivos,Básico,7.0,12.0,4,69.0,62.2,1.61,24.0,Sí,Ganar músculo,19/05/2022,0,0
+S11149,30.0,Surco,Básico,3.0,8.0,1,89.0,65.5,1.48,29.9,Sí,Bajar de peso,29/10/2024,0,1
+S10952,39.0,Callao,Estándar,7.0,3.0,1,119.0,90.2,1.63,33.9,Sí,Salud general,04/08/2024,2,1
+S10807,39.0,San Borja,Estándar,1.0,14.0,4,119.0,57.0,1.82,17.2,No,Ganar músculo,20/11/2024,0,0
+S10258,40.0,surco,Estándar,3.0,6.0,1,119.0,82.9,1.59,,Sí,Ganar músculo,12/01/2026,2,0
+S10624,18.0,Surco,Premium,23.0,6.0,1,169.0,75.5,1.56,31.0,No,Salud general,2023-01-17,2,1
+S10826,22.0,Lima Centro,Premium,25.0,6.0,6,169.0,78.1,1.7,27.0,No,,2022-07-22,0,0
+S10234,53.0,Surco,Estándar,8.0,4.0,2,119.0,66.8,1.7,23.1,Sí,Ganar músculo,21/03/2023,0,0
+S10135,53.0,Los Olivos,Estándar,7.0,10.0,1,129.0,79.4,1.68,,No,Ganar músculo,15/08/2025,1,0
+S10616,44.0,Miraflores,Básico,13.0,4.0,6,79.0,70.8,1.79,22.1,Sí,Ganar músculo,09/04/2025,0,0
+S11979,29.0,San Borja,Básico,1.0,11.0,3,79.0,72.7,1.71,24.9,Sí,,2025-06-27,0,0
+S10442,39.0,Miraflores,Estándar,6.0,4.0,0,109.0,75.1,1.75,24.5,Sí,Bajar de peso,22/07/2025,1,1
+S10836,21.0,Surco,Básico,1.0,10.0,3,79.0,79.7,1.71,27.3,Sí,Bajar de peso,2024-08-18,0,0
+S10842,44.0,Lima Centro,estándar,20.0,5.0,4,129.0,49.5,1.82,14.9,Sí,Salud general,02/10/2024,0,0
+S10959,21.0,Lima Centro,Básico,14.0,6.0,3,79.0,72.0,1.68,25.5,No,Bajar de peso,04/09/2024,2,1
+S10592,,Lima Centro,Estándar,4.0,8.0,5,119.0,83.8,1.63,31.5,Sí,Ganar músculo,04/03/2024,1,0
+S11314,25.0,Callao ,Básico,18.0,4.0,2,79.0,48.1,1.69,16.8,Sí,Salud general,01/10/2024,0,0
+S11525,31.0,San Borja,Estándar,34.0,10.0,1,109.0,63.1,1.68,22.4,Sí,Ganar músculo,25/06/2022,1,0
+S11562,18.0,San Borja,Estándar,11.0,6.0,3,119.0,74.6,1.67,26.7,Sí,Ganar músculo,12/06/2025,0,1
+S11291,34.0,Surco,Básico,18.0,12.0,2,89.0,67.2,1.62,25.6,Sí,Bajar de peso,08/07/2025,1,0
+S10343,36.0,San Borja,Estándar,9.0,12.0,1,129.0,77.5,1.57,31.4,No,Bajar de peso,20/10/2022,2,1
+S11691,49.0,Miraflores,Básico,5.0,12.0,4,79.0,65.7,1.69,23.0,No,Bajar de peso,30/10/2025,1,0
+S11615,29.0,San Borja,Premium,50.0,11.0,2,159.0,64.1,1.46,30.1,No,Salud general,04/02/2022,0,1
+S10293,25.0,Lima Centro,Básico,6.0,5.0,2,89.0,61.9,1.71,21.2,Sí,Salud general,06/12/2024,0,1
+S10364,42.0,Surco,Básico,2.0,10.0,2,89.0,,1.79,18.4,Sí,Salud general,2023-07-26,0,1
+S10178,32.0,Miraflores,Estándar,18.0,,1,119.0,54.7,1.8,16.9,S,Ganar músculo,01/10/2024,0,0
+S10659,37.0,Miraflores,BÁSICO,27.0,6.0,1,69.0,105.6,1.74,34.9,No,Salud general,27/02/2025,1,0
+S10996,38.0,Lima Centro,Estándar,7.0,10.0,4,119.0,74.7,1.71,25.5,No,Bajar de peso,11/04/2025,0,0
+S10014,34.0,Miraflores,Estándar,9.0,7.0,1,129.0,46.5,1.83,13.9,No,Ganar músculo,29/03/2023,2,1
+S11110,30.0,Lima Centro,Básico,21.0,4.0,3,79.0,77.1,1.59,30.5,No,,08/03/2022,0,0
+S11394,19.0,Miraflores,Premium,6.0,7.0,6,169.0,83.3,1.57,33.8,No,,04/06/2025,0,0
+S10165,23.0,Lima Centro,BÁSICO,25.0,5.0,1,89.0,45.7,1.61,17.6,No,Ganar músculo,25/12/2025,0,0
+S11931,19.0,Miraflores,Estándar,1.0,5.0,3,119.0,67.9,1.55,28.3,Sí,Bajar de peso,2024-10-03,1,1
+S11359,39.0,Los Olivos,Básico,15.0,7.0,4,69.0,64.4,1.49,29.0,No,Competencia,29/12/2023,0,0
+S10059,26.0,Lima Centro,Estándar,6.0,,1,109.0,,1.62,31.7,Sí,Bajar de peso,13/04/2022,0,0
+S10709,48.0,Lima Centro,Premium,4.0,9.0,7,169.0,86.9,1.72,29.4,No,Bajar de peso,18/04/2025,0,0
+S10676,35.0,Lima Centro,Estándar,5.0,10.0,2,129.0,81.3,1.66,29.5,No,Ganar músculo,31-07-23,1,1
+S11378,35.0,San Borja,Premium ,16.0,11.0,5,169.0,63.9,1.66,23.2,Sí,Ganar músculo,2024-04-04,0,0
+S10780,35.0,Surco,Estándar,14.0,4.0,5,109.0,73.9,1.57,30.0,No,Salud general,20-01-22,1,0
+S10424,37.0,Los Olivos,PREMIUM,1.0,7.0,2,169.0,,1.75,32.7,Sí,Salud general,2023-04-27,0,0
+S10292,37.0,Surco,Premium,4.0,4.0,4,169.0,74.0,1.83,22.1,No,Bajar de peso,30/07/2023,0,0
+S11065,,Miraflores,Básico,11.0,5.0,4,89.0,75.6,1.75,24.7,Sí,,2026-01-17,0,0
+S11838,24.0,Surco,Estándar,15.0,12.0,2,109.0,75.3,1.74,24.9,Sí,Ganar músculo,2022-08-05,0,0
+S10329,,Los Olivos,Premium,23.0,4.0,1,179.0,65.6,1.62,25.0,No,Competencia,25/03/2024,1,0
+S10429,62.0,San Borja,Estándar,1.0,1.0,2,119.0,69.8,1.56,28.7,SI,Bajar de peso,30/08/2023,1,1
+S11012,29.0,Miraflores,Premium,1.0,6.0,6,179.0,70.3,1.69,24.6,No,Salud general,10/01/2025,0,0
+S10079,30.0,San Borja,Estandar,12.0,4.0,4,119.0,80.9,1.66,29.4,Sí,Bajar de peso,2025-08-04,0,1
+S11052,34.0,Miraflores,Estándar,24.0,7.0,1,119.0,75.4,1.68,26.7,Sí,Bajar de peso,19-10-22,1,0
+S10937,31.0,Lima Centro,Básico,1.0,10.0,2,69.0,75.3,1.62,28.7,Sí,Bajar de peso,23-10-23,0,1
+S10834,35.0,Miraflores,Estándar,34.0,3.0,4,109.0,65.9,1.69,23.1,No,Salud general,2023-04-18,1,0
+S10749,24.0,Lima Centro,Estándar,36.0,5.0,0,129.0,67.8,1.59,26.8,Sí,,05/04/2023,1,0
+S10890,44.0,San Borja,Premium,1.0,,1,159.0,65.4,1.6,25.5,Sí,Ganar músculo,21/11/2024,0,0
+S10254,34.0, Miraflores,Premium,13.0,6.0,2,159.0,70.1,1.68,24.8,No,Ganar músculo,09/05/2022,1,0
+S11779,27.0,Lima Centro,Estándar,49.0,5.0,4,119.0,91.6,1.71,31.3,NO,Bajar de peso,15/01/2024,0,0
+S11482,39.0,Miraflores,Básico,9.0,9.0,2,89.0,84.3,1.74,27.8,No,Ganar músculo,2023-02-27,0,1
+S11468,38.0,Los Olivos,Estándar,18.0,15.0,1,129.0,65.0,1.61,25.1,Sí,Bajar de peso,09-01-22,0,0
+S11407,16.0,Lima Centro,Premium,14.0,16.0,4,169.0,73.6,1.52,31.9,N,Salud general,10/01/2025,0,0
+S11337,34.0,Lima Centro,Premium,5.0,5.0,1,179.0,62.3,1.63,23.4,No,Bajar de peso,2023-06-01,1,1
+S11108,49.0,San Borja,Estándar,16.0,7.0,3,119.0,,1.76,18.2,No,Competencia,18/11/2025,0,0
+S11598,23.0,Lima Centro,Básico,4.0,11.0,5,79.0,71.2,1.67,25.5,N,Ganar músculo,2025-03-21,0,0
+S10136,40.0,Surco,Estándar,16.0,15.0,4,119.0,74.0,1.82,22.3,No,Salud general,03/02/2025,0,0
+S11135,19.0,Callao,Estándar,44.0,9.0,3,119.0,69.8,1.65,25.6,Sí,Salud general,2023-04-12,0,0
+S11218,44.0,Lima Centro,Básico,6.0,2.0,0,79.0,47.5,1.79,14.8,No,Bajar de peso,2023-07-18,0,1
+S10852,49.0,Lima Centro,Estándar,2.0,14.0,3,119.0,70.5,1.76,22.8,Sí,Bajar de peso,22/01/2025,1,0
+S11202,38.0,San Borja,Estándar,2.0,14.0,1,129.0,54.4,1.6,21.2,No,,30/12/2025,1,0
+S11937,38.0,Lima Centro,Básico ,9.0,8.0,1,79.0,65.6,1.8,20.2,No,Bajar de peso,2024-03-12,1,1
+S10723,25.0,Los Olivos,Premium,1.0,5.0,1,169.0,72.6,1.75,23.7,Sí,Salud general,16/02/2022,0,1
+S10859,41.0,Lima Centro,Estándar,9.0,10.0,2,129.0,72.4,1.73,24.2,Sí,Salud general,18-01-24,0,0
+S10969,,Callao,Básico,5.0,14.0,0,79.0,79.9,1.87,22.8,No,Bajar de peso,25/06/2025,1,0
+S10496,23.0,San Borja,Premium,2.0,10.0,3,179.0,63.3,1.63,23.8,No,Ganar músculo,16/11/2024,1,1
+S10950,,Surco,Estándar,1.0,12.0,2,119.0,70.4,1.8,21.7,Sí,Bajar de peso,21/07/2022,1,1
+S10805,24.0,Callao,Básico,9.0,6.0,2,79.0,,1.74,20.9,Sí,Bajar de peso,22/03/2025,0,0
+S10129,21.0,Lima Centro,Estándar,6.0,7.0,2,119.0,70.6,1.73,23.6,No,Bajar de peso,10/09/2023,2,0
+S10337,26.0,Surco,Estándar,1.0,8.0,2,119.0,,1.61,26.1,No,Ganar músculo,28/11/2023,0,1
+S10730,33.0,Miraflores,Estándar,2.0,5.0,4,129.0,75.0,1.84,22.2,Sí,Bajar de peso,23-01-22,2,1
+S10608,35.0,Miraflores,Premium,2.0,14.0,1,159.0,61.9,1.67,22.2,Sí,Ganar músculo,04/12/2024,1,0
+S11148,32.0,Surco,Estándar,9.0,8.0,8,109.0,61.1,1.66,22.2,No,Ganar músculo,2022-10-31,1,0
+S10195,17.0,Los Olivos,Estándar,2.0,4.0,0,129.0,71.3,1.77,22.8,Sí,Ganar músculo,2023-12-26,0,1
+S11250,46.0,SAN BORJA,Estándar,6.0,5.0,2,109.0,84.4,1.57,34.2,No,Ganar músculo,13/06/2024,0,1
+S11292,22.0,San Borja,Estándar,18.0,3.0,6,109.0,68.2,1.7,,No,Bajar de peso,30/09/2023,0,0
+S10874,33.0,Miraflores,Estándar,23.0,4.0,6,S/ 129,64.3,1.74,21.2,No,Salud general,16/12/2022,2,0
+S10909,44.0,Surco,Estándar,12.0,9.0,4,109.0,720.0,1.76,,Sí,Bajar de peso,2024-10-25,0,0
+S10584,24.0,San Borja,Básico,7.0,11.0,4,79.0,71.9,1.71,,Sí,Bajar de peso,24-04-24,0,0
+S10103,28.0,Callao,Estándar,1.0,8.0,2,119.0,,1.61,33.7,Sí,Salud general,24-10-22,0,0
+S11617,31.0,Lima Centro,Estándar,1.0,9.0,2,109.0,59.6,1.47,27.6,No,Bajar de peso,2023-12-25,1,1
+S11900,44.0,Los Olivos ,Básico,32.0,4.0,3,69.0,66.0,1.65,24.2,No,Salud general,16-07-22,0,0
+S11970,23.0,Callao,Básico,2.0,9.0,4,89.0,83.4,1.77,26.6,Sí,Salud general,2024-06-29,0,1
+S10719,20.0,Surco,Basico,2.0,3.0,5,79.0,75.8,190.0,28.2,Sí,Ganar músculo,2023-02-13,2,1
+S10884,52.0,Miraflores,Basico,1.0,6.0,3,69.0,67.3,1.68,23.8,No,Ganar músculo,30/11/2022,0,0
+S10776,,miraflores,Premium,2.0,13.0,0,169.0,78.5,1.52,34.0,Sí,Bajar de peso,30/07/2024,1,0
+S11569,31.0,Callao,Premium,20.0,200,4,169.0,,1.75,25.3,No,Ganar músculo,18-04-25,1,0
+S10849,42.0,Lima Centro,Premium,1.0,9.0,2,179.0,,1.66,27.4,No,Salud general,2024-05-08,0,1
+S10894,45.0,Surco ,estándar,9.0,7.0,1,119.0,81.9,1.6,32.0,No,Ganar músculo,2023-08-22,0,0
+S10227,25.0,San Borja,Estándar,10.0,5.0,1,129.0,77.4,1.69,27.1,NO,Bajar de peso,28/03/2024,1,0
+S11933,37.0,Los Olivos,Básico,7.0,9.0,2,69.0,99.6,1.73,33.3,N,Salud general,2024-11-05,0,1
+S11325,32.0,SAN BORJA,Premium,60.0,4.0,2,169.0,74.9,1.45,35.6,No,Bajar de peso,02/03/2025,1,0
+S11299,30.0,Los Olivos,Básico,23.0,,2,69.0,53.5,1.65,19.7,Sí,Bajar de peso,02/01/2024,0,1
+S10126,34.0,Surco,Básico,14.0,11.0,1,79.0,84.4,1.71,28.9,Sí,Bajar de peso,2025-12-17,1,0
+S10405,36.0,Lima Centro,Básico,1.0,7.0,2,69.0,69.6,1.65,25.6,Sí,Bajar de peso,11/04/2023,2,1
+S10775,41.0,San Borja,Estándar,24.0,8.0,2,129.0,66.8,1.89,18.7,Sí,Ganar músculo,2022-07-23,2,1
+S10821,16.0,San Borja,Básico,16.0,,1,69.0,69.1,1.65,25.4,No,Bajar de peso,10-06-24,0,1
+S10711,43.0,Callao,Básico,7.0,12.0,1,79.0,69.0,1.47,31.9,Sí,,22/02/2024,1,0
+S11941,19.0,Surco,Estándar,13.0,4.0,3,129.0,,1.56,38.1,No,Bajar de peso,26/07/2025,1,1
+S11060,,Callao,Premium,3.0,5.0,2,159.0,68.4,1.55,28.5,Sí,Bajar de peso,2025-10-10,1,0
+S11163,16.0,Surco,Premium,27.0,6.0,4,159.0,62.0,1.69,21.7,Sí,Ganar músculo,31/10/2023,3,1
+S10303,48.0,Surco,Premium,4.0,9.0,4,159.0,,1.67,35.0,No,,15/11/2022,1,1
+S10267,19.0,Lima Centro,Estándar,15.0,3.0,4,119.0,67.4,1.69,23.6,No,Salud general,20/07/2022,1,1
+S11557,35.0,Callao,Básico,3.0,16.0,4,89.0,720.0,1.78,16.6,Sí,Ganar músculo,01/06/2022,0,0
+S10545,34.0,Miraflores,Estándar,7.0,12.0,0,119.0,,1.62,36.8,Sí,Ganar músculo,28/01/2023,0,0
+S10212,41.0,Callao,Premium,1.0,8.0,1,159.0,66.8,1.71,22.8,Sí,Ganar músculo,2022-07-04,0,0
+S10896,25.0,Los Olivos,Premium,5.0,9.0,4,S/ 159,71.9,1.7,24.9,Sí,Ganar músculo,07/11/2024,1,0
+S11492,26.0,Surco,Estándar,1.0,6.0,3,109.0,96.6,1.66,35.1,Sí,Bajar de peso,14/06/2025,0,0
+S11222,25.0,Surco,Estándar,21.0,7.0,1,119.0,86.8,1.52,37.6,Sí,Ganar músculo,06/02/2023,0,0
+S10916,30.0,Callao,Básico,8.0,18.0,2,79.0,74.8,1.56,30.7,No,Salud general,23/11/2022,0,0
+S11551,28.0,San Borja,Estándar,6.0,12.0,2,119.0,101.0,1.68,35.8,No,Competencia,02/04/2022,0,0
+S10675,16.0,San Borja,Estándar,25.0,13.0,0,119.0,74.1,1.78,23.4,Sí,Ganar músculo,2022-11-30,1,0
+S11289,37.0,San Borja,Estándar,4.0,5.0,3,119.0,85.6,1.86,24.7,Sí,Bajar de peso,26/07/2025,0,0
+S10814,14,Lima Centro,Premium,4.0,7.0,5,179.0,76.4,1.8,23.6,Sí,Bajar de peso,03/05/2023,0,0
+S11265,26.0,Miraflores,Premium,6.0,10.0,4,169.0,100.8,1.74,33.3,No,Salud general,13/10/2022,0,0
+S10342,120,lima centro,Premium,8.0,14.0,6,159.0,88.1,1.64,32.8,No,Salud general,25-12-23,1,0
+S10549,16.0,Los Olivos,Básico,26.0,5.0,4,89.0,59.8,1.79,18.7,No,Ganar músculo,2025-10-30,0,0
+S11410,20.0,lima centro,Estándar,26.0,5.0,2,119.0,95.9,1.6,37.5,Sí,Bajar de peso,28/03/2024,0,1
+S11214,,San Borja,básico,36.0,9.0,2,79.0,60.0,1.86,17.3,Sí,,22/04/2023,0,0
+S10966,16.0,San Borja,Estándar,3.0,15.0,5,109.0,74.4,1.58,29.8,No,Bajar de peso,2025-11-18,0,0
+S11230,35.0,Los Olivos,Básico,30.0,9.0,3,89.0,61.7,1.68,21.9,Sí,Bajar de peso,19/01/2026,0,0
+S10295,31.0,Lima Centro,Básico,2.0,2.0,4,89.0,72.9,1.78,23.0,No,Salud general,03/12/2025,0,1
+S10695,42.0,Lima Centro,Premium,30.0,6.0,2,169.0,79.1,1.71,27.1,Sí,Bajar de peso,02/10/2023,0,0
+S11452,42.0,Surco,Básico,2.0,7.0,1,79.0,65.2,1.75,21.3,Sí,Bajar de peso,07/07/2023,0,0
+S10073,26.0,Los Olivos,Básico,6.0,14.0,2,79.0,62.5,1.74,20.6,No,Salud general,24/05/2023,1,0
+S10605,35.0,Surco,Estándar,1.0,9.0,2,109.0,63.1,1.68,22.4,No,Salud general,07/05/2022,0,1
+S10104,46.0,San Borja,Estándar,3.0,7.0,3,S/ 129,70.2,1.61,27.1,Sí,,21/07/2024,1,0
+S10645,18.0,Lima Centro,Premium,31.0,7.0,1,169.0,63.0,1.86,18.2,Sí,Bajar de peso,24/12/2024,2,0
+S11404,23.0,San Borja,Premium,8.0,11.0,2,169.0,72.0,1.71,24.6,No,Bajar de peso,09-08-23,0,1
+S10858,20.0,Surco,Básico,6.0,8.0,2,79.0,70.0,1.62,26.7,Sí,Salud general,25/01/2022,0,0
+S11040,,San Borja,Premium,17.0,9.0,3,169.0,97.1,1.81,29.6,Sí,Salud general,23/07/2024,0,0
+S10439,,Callao,Estándar,1.0,11.0,4,119.0,64.0,1.76,20.7,Sí,Ganar músculo,2025-05-23,0,0
+S11019,27.0,Lima Centro,Básico,57.0,4.0,2,79.0,59.7,1.85,17.4,Sí,Ganar músculo,04/05/2025,1,0
+S10091,16.0,Callao,Basico,1.0,14.0,2,89.0,90.2,1.71,30.8,No,Bajar de peso,02/09/2022,0,0
+S11112,24.0,Surco,Estándar,5.0,5.0,2,119.0,73.0,1.56,30.0,Sí,Bajar de peso,18/04/2024,0,0
+S11802,40.0,Surco,Básico,10.0,15.0,0,79.0,88.7,1.6,34.6,Sí,,2023-10-30,0,0
+S10908,27.0,Lima Centro,Premium,3.0,9.0,1,179.0,81.6,1.63,30.7,Sí,Salud general,2022-01-06,0,0
+S11474,23.0,Callao,Premium,12.0,5.0,1,159.0,68.9,1.66,25.0,No,Ganar músculo,2023-01-11,0,1
+S10102,,Callao,estándar,17.0,8.0,3,109.0,63.9,1.77,20.4,No,Bajar de peso,08/09/2024,0,0
+S10238,37.0,Surco,Estándar,1.0,3.0,2,119.0,71.2,1.72,24.1,No,Bajar de peso,20/08/2023,0,1
+S11748,32.0,Los Olivos,Premium,3.0,5.0,3,169.0,68.5,1.59,27.1,No,Bajar de peso,2024-08-01,0,0
+S10942,26.0,Surco,Estándar,6.0,11.0,2,109.0,64.9,1.61,25.0,Sí,,05/03/2025,0,0
+S11270,23.0,Miraflores,Premium,2.0,9.0,3,179.0,72.5,1.7,,Sí,Bajar de peso,2023-02-04,1,1
+S10938,29.0,Surco,Estándar,13.0,12.0,1,S/ 129,45.0,1.82,13.6,Sí,Ganar músculo,02/02/2023,1,0
+S11738,35.0,Lima Centro,Estándar,5.0,16.0,0,S/ 119,49.0,1.77,15.6,Sí,Bajar de peso,09/05/2025,0,0
+S11181,29.0,Callao,Estándar,8.0,9.0,1,129.0,78.7,1.74,26.0,Sí,Bajar de peso,2025-03-10,0,0
+S11503,39.0,Los Olivos,Premium,2.0,5.0,1,169.0,82.7,1.84,24.4,No,Salud general,12/07/2023,0,1
+S11669,45.0,Lima Centro,Estándar,2.0,10.0,4,129.0,74.6,1.73,24.9,Sí,Bajar de peso,2024-06-22,0,0
+S10005,29.0,Callao,Premium,5.0,14.0,1,159.0,78.0,1.66,28.3,Sí,Ganar músculo,2023-02-20,0,0
+S11866,27.0,Surco,Premium,1.0,3.0,3,169.0,75.1,1.56,30.9,Sí,Ganar músculo,17/04/2025,0,1
+S10965,40.0,San Borja,Básico,1.0,4.0,3,79.0,65.4,1.6,25.5,Sí,Bajar de peso,2024-12-11,0,0
+S10018,31.0,Lima Centro,Estándar,42.0,7.0,2,119.0,69.0,1.85,20.2,No,Salud general,2023-04-02,1,1
+S11430,28.0,Miraflores,Premium,30.0,11.0,3,179.0,73.9,1.61,28.5,Sí,Bajar de peso,25-02-23,1,1
+S10121,27.0,San Borja,básico,1.0,6.0,1,79.0,78.1,1.67,28.0,No,Bajar de peso,2025-09-15,0,1
+S10661,22.0,Callao,Básico,21.0,22.0,3,69.0,83.4,1.63,31.4,Sí,Ganar músculo,21/01/2025,0,0
+S10573,33.0,Miraflores,Estándar,24.0,5.0,1,109.0,61.4,1.64,22.8,No,Bajar de peso,01/05/2023,0,0
+S10274,,Lima Centro,Estándar,8.0,6.0,2,119.0,,1.69,24.1,No,Bajar de peso,28/01/2025,0,0
+S10433,,Lima Centro,Básico,1.0,5.0,5,69.0,71.6,1.56,29.4,Sí,Salud general,21/10/2023,0,1
+S10811,31.0,San Borja,Estándar,14.0,13.0,4,119.0,101.0,1.9,28.0,Sí,Bajar de peso,29/06/2024,2,0
+S11300,33.0,Los Olivos,Básico,5.0,8.0,2,69.0,66.1,1.59,26.1,Sí,Salud general,2022-02-18,0,0
+S11335,18.0,Miraflores,Básico,11.0,7.0,1,69.0,68.6,1.62,26.1,No,Bajar de peso,04/04/2024,0,0
+S11920,,SAN BORJA,Estándar,2.0,11.0,1,109.0,76.2,1.56,31.3,No,Ganar músculo,01/04/2023,1,0
+S11943,35.0,Surco,Básico,11.0,,1,79.0,59.4,1.53,25.4,Sí,Ganar músculo,10/06/2022,0,0
+S11570,32.0,Surco,Estándar,6.0,5.0,1,119.0,68.5,1.65,25.2,Sí,Ganar músculo,10/01/2024,0,0
+S10181,38.0,Lima Centro,Básico,8.0,13.0,6,79.0,56.6,1.6,22.1,No,Bajar de peso,06/02/2022,0,0
+S10184,40.0,Lima Centro,Básico,8.0,3.0,2,69.0,,1.6,33.0,No,Bajar de peso,23/06/2022,0,0
+S10406,,Surco,Premium,3.0,3.0,2,159.0,,1.59,27.9,No,Bajar de peso,15/04/2023,0,0
+S10865,41.0,Surco,Estándar,35.0,10.0,1,109.0,,1.57,25.3,No,Competencia,06-11-24,0,0
+S11630,25.0,Callao,Estándar,5.0,10.0,4,109.0,66.3,1.77,21.2,No,,01/10/2023,1,0
+S11716,23.0,Los Olivos,Básico,14.0,7.0,2,79.0,,1.69,32.7,Sí,Ganar músculo,2023-02-27,0,0
+S10520,41.0,Surco,Básico,1.0,4.0,2,79.0,64.2,1.75,21.0,No,Bajar de peso,11/12/2023,0,0
+S11003,39.0,Surco,Premium,19.0,10.0,6,169.0,90.7,1.74,30.0,No,Bajar de peso,04/02/2025,1,0
+S10380,46.0,Surco,Básico,11.0,8.0,2,79.0,87.4,1.82,26.4,No,Bajar de peso,2024-08-21,1,0
+S11434,44.0,Los Olivos,Estándar,6.0,4.0,3,119.0,77.5,1.57,31.4,Sí,Salud general,29/06/2025,2,1
+S11658,20.0, Surco,Básico,12.0,14.0,2,79.0,61.5,1.7,21.3,NO,Ganar músculo,2022-11-10,1,0
+S11393,55.0,Surco,Estandar,5.0,12.0,2,109.0,62.9,1.59,,Sí,Salud general,10/12/2023,0,0
+S11424,21.0,Los Olivos,Básico,5.0,9.0,3,79.0,63.2,1.77,20.2,Sí,Ganar músculo,03/01/2024,0,0
+S11612,34.0,Surco,Básico,9.0,11.0,4,89.0,58.6,1.75,,Sí,Bajar de peso,01/04/2024,0,0
+S10427,20.0,Lima Centro ,Estándar,30.0,7.0,5,S/ 119,64.5,1.84,19.1,Sí,Salud general,2024-05-12,0,0
+S10078,45.0,Surco,Estándar,11.0,10.0,2,119.0,52.5,1.71,18.0,Sí,Bajar de peso,27/03/2023,2,0
+S11597,34.0,Los Olivos,básico,45.0,10.0,4,89.0,69.0,1.73,23.1,No,Ganar músculo,02/04/2023,1,0
+S11009,27.0,Miraflores,Básico,5.0,4.0,3,79.0,97.5,1.84,28.8,Sí,,11-05-23,0,0
+S10367,37.0,lima centro,Premium,15.0,8.0,2,159.0,,1.6,23.7,Sí,Salud general,2022-07-08,1,1
+S11661,60.0, San Borja,Básico,30.0,4.0,1,79.0,82.9,1.48,37.8,Sí,Salud general,18/01/2023,0,0
+S10607,52.0,Miraflores,Básico,11.0,7.0,3,69.0,59.4,1.77,19.0,Sí,Bajar de peso,03/10/2024,0,0
+S11832,31.0,San Borja,Premium,2.0,5.0,5,179.0,85.3,1.69,29.9,Sí,Ganar músculo,2025-04-23,0,1
+S11701,14,LIMA CENTRO,Estándar,10.0,13.0,1,119.0,55.4,1.58,22.2,No,Bajar de peso,06-03-24,1,0
+S11682,35.0,Lima Centro,Premium,6.0,9.0,3,179.0,57.8,1.67,20.7,No,Salud general,21/05/2025,1,0
+S11057,35.0,Surco,Básico,1.0,4.0,2,69.0,74.5,1.81,22.7,Sí,Bajar de peso,10/05/2023,0,0
+S11440,31.0,Surco ,Básico,60.0,16.0,2,89.0,68.0,1.7,23.5,Sí,Bajar de peso,2022-08-31,0,0
+S11514,,San Borja,Premium,21.0,6.0,1,169.0,76.8,1.62,29.3,No,,21/01/2022,2,1
+S11585,22.0,Los Olivos,Básico,4.0,5.0,2,79.0,69.5,1.63,26.2,Sí,Salud general,2022-08-15,0,1
+S11091,36.0,Surco,Premium,9.0,6.0,2,169.0,71.5,1.68,25.3,Sí,Salud general,18/04/2022,1,1
+S11560,32.0,Lima Centro,Estándar,4.0,12.0,1,119.0,53.9,1.62,20.5,No,Salud general,2025-09-07,0,0
+S11101,37.0,Callao,Premium,3.0,5.0,2,179.0,68.2,1.68,24.2,No,Salud general,18-01-25,0,0
+S11129,,Miraflores,Estándar,16.0,4.0,2,129.0,63.0,1.6,24.6,Sí,Ganar músculo,22/03/2024,1,1
+S11235,21.0,Lima Centro,Estándar,21.0,2.0,7,119.0,72.8,1.61,28.1,NO,Salud general,12/03/2025,1,0
+S11814,38.0,Los Olivos,Premium,9.0,14.0,5,159.0,101.4,1.67,36.4,Sí,Ganar músculo,2025-11-23,1,0
+S10958,34.0,Lima Centro,Premium,4.0,11.0,5,159.0,66.2,1.84,19.6,Sí,Ganar músculo,2024-05-10,0,0
+S11662,24.0,Miraflores,Estándar,16.0,1.0,2,129.0,75.6,1.58,30.3,No,Salud general,17/10/2024,2,1
+S10559,32.0,Lima Centro,Premium,4.0,4.0,4,179.0,65.2,1.74,21.5,Sí,Bajar de peso,23/03/2025,0,0
+S10846,,Callao,Premium,6.0,8.0,1,159.0,45.0,1.62,17.1,No,Bajar de peso,09/10/2025,2,0
+S11792,16.0,Lima Centro,Estándar,9.0,5.0,5,119.0,81.1,1.65,29.8,No,Bajar de peso,10/10/2022,0,0
+S10690,35.0,San Borja,Estándar,33.0,12.0,6,109.0,51.3,1.77,16.4,No,Ganar músculo,01/05/2025,0,0
+S11519,38.0,Callao,Estándar,11.0,7.0,1,119.0,106.7,1.76,34.4,No,Ganar músculo,22/12/2023,0,0
+S11992,27.0,Los Olivos,Básico,31.0,8.0,1,79.0,84.0,1.71,28.7,Sí,Bajar de peso,30/05/2023,0,0
+S11918,,Surco,Premium,4.0,4.0,2,169.0,80.1,1.74,26.5,Sí,Bajar de peso,2023-02-19,0,0
+S11759,25.0,Callao,Premium,20.0,4.0,5,169.0,,1.84,21.6,Sí,Bajar de peso,2022-01-04,1,0
+S10436,33.0,Callao,Premium,3.0,,2,179.0,90.4,1.7,31.3,No,Ganar músculo,17/12/2022,0,1
+S10490,37.0,Surco,Básico,17.0,7.0,3,79.0,67.6,1.76,21.8,No,Salud general,22/08/2024,1,0
+S11761,29.0,LOS OLIVOS,Estándar,7.0,10.0,0,119.0,67.3,1.67,24.1,NO,Bajar de peso,26/01/2023,1,0
+S11890,44.0, Los Olivos,Premium,1.0,4.0,3,159.0,81.4,1.49,36.7,Sí,Bajar de peso,03/07/2022,1,1
+S11629,34.0,Los Olivos,Estándar,42.0,9.0,2,119.0,45.0,1.67,16.1,No,,22/05/2025,0,1
+S11387,30.0,Miraflores,Estándar,6.0,3.0,1,109.0,64.6,1.58,25.9,Sí,Salud general,2024-03-21,0,0
+S10069,34.0,Los Olivos,Básico,3.0,4.0,4,89.0,73.0,1.72,24.7,No,Bajar de peso,26-04-22,0,0
+S11572,33.0,Lima Centro,Estándar,6.0,7.0,3,119.0,97.2,1.65,,Sí,Ganar músculo,10/04/2022,2,0
+S10808,37.0,San Borja,Estándar,6.0,4.0,0,119.0,55.4,1.76,,S,Salud general,18/11/2023,0,1
+S11184,36.0,Los Olivos,Básico,6.0,14.0,1,69.0,76.1,1.45,36.2,No,Ganar músculo,16/03/2023,2,0
+S10011,37.0,Miraflores,Premium,55.0,5.0,4,159.0,96.6,1.82,29.2,No,Bajar de peso,17/07/2023,2,1
+S10144,23.0,Los Olivos,Estándar,7.0,7.0,2,129.0,70.0,1.67,,Sí,Bajar de peso,05-11-25,2,1
+S10917,41.0,Miraflores,Básico,8.0,12.0,1,89.0,71.3,1.64,26.5,Sí,Bajar de peso,2022-11-25,0,0
+S11541,43.0,San Borja,Premium,25.0,6.0,0,159.0,50.7,1.7,17.5,Sí,Bajar de peso,2022-11-23,1,0
+S11451,33.0,Lima Centro,Estándar,1.0,6.0,2,119.0,70.5,1.54,29.7,Sí,Salud general,06-02-26,0,0
+S10639,30.0,Los Olivos,Estándar,34.0,5.0,2,109.0,50.2,1.81,15.3,No,,2022-11-19,0,0
+S10176,46.0,Surco,Estándar,1.0,3.0,3,109.0,72.6,1.62,27.7,No,Ganar músculo,2025-01-03,1,1
+S10994,36.0,Surco,Premium,13.0,5.0,1,169.0,73.8,1.73,24.7,No,Ganar músculo,01/06/2025,1,1
+S10440,51.0,San Borja,Básico,11.0,,3,69.0,62.6,1.64,23.3,Sí,Salud general,10/02/2024,0,0
+S10521,28.0,Miraflores,Estándar,11.0,10.0,2,129.0,61.1,1.53,26.1,No,Ganar músculo,22-04-23,1,0
+S10718,37.0,Lima Centro,Premium,4.0,2.0,1,169.0,89.7,1.45,42.7,Sí,Salud general,16-01-25,1,1
+S11996,39.0,Miraflores,Básico,14.0,16.0,2,69.0,,1.5,,No,Salud general,19/05/2025,1,0
+S11712,35.0,San Borja,Premium,5.0,22.0,1,179.0,70.5,1.56,29.0,Sí,Ganar músculo,01/12/2023,0,0
+S11004,20.0,Lima Centro,Básico,2.0,11.0,2,69.0,89.0,1.69,31.2,Sí,Bajar de peso,17/04/2023,0,1
+S11255,39.0,Callao,Estandar,1.0,10.0,5,129.0,61.8,1.72,,Sí,Ganar músculo,2024-05-14,0,0
+S11234,35.0,Los Olivos,Estándar ,4.0,7.0,1,119.0,80.5,1.8,24.8,S,Salud general,18/07/2022,1,1
+S11664,35.0,Los Olivos,Básico,8.0,2.0,0,69.0,72.9,1.64,27.1,No,Bajar de peso,2022-11-28,0,1
+S10143,34.0,Los Olivos,Premium,5.0,5.0,2,169.0,94.9,1.61,36.6,Sí,Competencia,2023-09-06,0,1
+S10753,21.0,Los Olivos,Premium,17.0,8.0,2,169.0,94.6,1.78,29.9,Sí,Bajar de peso,02/12/2023,1,0
+S10519,30.0,Lima Centro,Premium,1.0,5.0,5,179.0,84.5,1.46,39.6,Sí,Salud general,26/03/2025,2,1
+S10587,16.0,SURCO,Básico,6.0,,3,S/ 79,75.8,1.74,25.0,Sí,Bajar de peso,14/10/2024,0,0
+S11322,,Lima Centro,Básico,3.0,9.0,4,79.0,62.2,1.68,22.0,Sí,Ganar músculo,17/01/2026,1,0
+S10822,41.0,Miraflores,Estándar,8.0,5.0,5,119.0,80.7,1.79,25.2,No,Ganar músculo,2023-01-06,0,0
+S11790,24.0,Surco,Básico,1.0,16.0,4,79.0,,1.7,28.1,S,Bajar de peso,14-01-25,0,0
+S10428,,San Borja,Estándar,1.0,6.0,2,119.0,65.5,1.71,22.4,Sí,Ganar músculo,12/10/2024,0,0
+S10612,24.0,Miraflores,Estándar,11.0,,2,109.0,55.8,1.62,21.3,No,Salud general,13/01/2025,0,1
+S11505,23.0,Los Olivos,Premium,17.0,7.0,2,179.0,69.3,1.68,24.6,Sí,,2023-10-26,1,1
+S11783,21.0,San Borja,estándar,2.0,8.0,2,119.0,69.5,1.62,26.5,si,Ganar músculo,10/12/2024,0,0
+S11032,41.0,Surco,Básico,3.0,6.0,4,79.0,79.6,1.79,24.8,No,Salud general,08/04/2025,0,0
+S10156,,LOS OLIVOS,Premium,19.0,9.0,0,169.0,59.1,1.64,22.0,No,,17/06/2024,2,1
+S10539,34.0,Lima Centro,Estándar,7.0,6.0,6,109.0,71.6,1.62,27.3,No,Bajar de peso,2023-07-01,1,1
+S11530,,Lima Centro,Estándar ,275.0,5.0,3,119.0,88.9,1.66,32.3,No,Salud general,2025-08-12,0,1
+S11460,41.0,Los Olivos,BÁSICO,9.0,2.0,3,89.0,82.6,1.56,33.9,No,Ganar músculo,25/05/2022,3,1
+S11290,,Los Olivos,Estándar,2.0,6.0,6,109.0,,1.64,25.8,Sí,Bajar de peso,2026-01-12,1,1
+S10461,36.0,San Borja,Básico,26.0,21.0,1,69.0,54.1,1.77,17.3,Sí,Bajar de peso,2023-05-12,1,0
+S10576,29.0,Surco,Básico,21.0,11.0,2,79.0,77.0,1.73,25.7,No,Salud general,28/01/2026,1,0
+S11362,19.0,Miraflores,Básico,8.0,5.0,2,79.0,78.4,1.75,25.6,Sí,,17/04/2024,0,0
+S10255,20.0,San Borja,Básico,21.0,6.0,2,79.0,65.8,1.73,22.0,Sí,Bajar de peso,30/06/2023,0,0
+S10979,16.0,Lima Centro,Básico,35.0,11.0,2,69.0,104.0,1.56,42.7,Sí,Bajar de peso,16/01/2026,2,0
+S11185,33.0,Surco,Estándar,8.0,8.0,5,109.0,77.5,1.67,27.8,Sí,Bajar de peso,20/09/2025,0,0
+S11006,31.0,Los Olivos,Premium,21.0,9.0,2,169.0,53.3,1.5,23.7,Sí,,29/06/2022,0,0
+S11521,16.0,Lima Centro,Básico,17.0,6.0,3,79.0,,1.65,31.7,No,,27/05/2023,0,0
+S11689,16.0,Miraflores,Premium,2.0,6.0,1,179.0,79.6,1.46,37.3,No,Ganar músculo,14/09/2024,2,0
+S10560,62.0,Lima Centro,Básico,37.0,4.0,2,79.0,,1.58,30.8,No,Salud general,11/01/2023,0,1
+S10208,38.0,Los Olivos,Estándar,4.0,7.0,2,129.0,52.4,1.6,20.5,Sí,Ganar músculo,2022-09-16,1,0
+S10910,16.0,Los Olivos,Premium,24.0,7.0,1,169.0,64.6,1.66,23.4,No,,2024-03-01,0,0
+S11311,36.0, Miraflores,Premium,3.0,2.0,2,169.0,74.0,1.65,27.2,Sí,Salud general,04/10/2022,1,1
+S10001,34.0,Lima Centro,Básico,14.0,5.0,3,79.0,,1.8,19.1,Sí,Bajar de peso,2024-05-13,1,0
+S11365,27.0,Los Olivos,Premium,20.0,10.0,4,169.0,81.5,1.68,28.9,No,Bajar de peso,21/09/2024,1,0
+S10269,32.0,Lima Centro,Estándar,22.0,5.0,0,109.0,97.7,1.63,36.8,No,Bajar de peso,31/05/2022,0,0
+S10265,25.0,Los Olivos,Estándar,13.0,,1,129.0,75.9,1.73,,No,Ganar músculo,2024-03-16,0,1
+S10914,30.0,Los Olivos,Estándar,16.0,6.0,4,109.0,102.3,1.57,41.5,Sí,Salud general,08/05/2025,1,0
+S10230,30.0,Surco ,Básico,6.0,4.0,2,79.0,79.9,1.64,29.7,No,Ganar músculo,17/08/2022,0,0
+S11977,38.0,Miraflores,Premium,7.0,10.0,4,169.0,78.2,1.57,31.7,No,Ganar músculo,05-12-24,0,0
+S11119,25.0,San Borja ,Estándar,5.0,7.0,3,129.0,71.5,1.74,23.6,No,Bajar de peso,31-08-24,0,0
+S10631,28.0,Los Olivos,Premium,13.0,10.0,1,169.0,67.8,1.64,25.2,Sí,Bajar de peso,13/12/2022,0,0
+S10864,31.0,San Borja,Basico,30.0,7.0,1,69.0,88.7,1.83,26.5,No,Bajar de peso,2025-07-07,0,0
+S11066,32.0,Miraflores,Estándar,6.0,5.0,6,119.0,65.6,1.73,21.9,No,Bajar de peso,30/06/2023,0,1
+S10873,56.0,San Borja,Premium,10.0,4.0,2,179.0,72.5,1.68,25.7,Sí,Salud general,2022-04-12,0,0
+S11867,24.0,Los Olivos,Estándar,18.0,5.0,1,119.0,99.5,1.69,34.8,S,Bajar de peso,09-11-24,0,0
+S10398,34.0, San Borja,Básico,14.0,2.0,2,69.0,66.5,1.61,25.7,Sí,Salud general,2024-01-20,0,0
+S11878,20.0,Callao,Básico,2.0,4.0,2,79.0,69.0,1.61,26.6,Sí,Bajar de peso,2024-02-06,0,0
+S11652,36.0,San Borja,Básico,24.0,7.0,0,69.0,79.9,1.68,28.3,No,Ganar músculo,2026-01-14,0,0
+S10045,39.0,Lima Centro,Premium,7.0,14.0,2,169.0,66.5,1.68,23.6,Sí,Ganar músculo,2022-01-18,0,0
+S10161,61.0,Lima Centro,Básico,8.0,4.0,2,79.0,87.7,1.68,31.1,Sí,Bajar de peso,2024-07-22,0,1
+S10991,28.0,Lima Centro,Premium,11.0,3.0,2,179.0,83.5,1.79,26.1,Sí,,15/11/2022,0,0
+S10727,30.0,Callao,Estándar,15.0,10.0,5,119.0,67.9,1.8,21.0,No,,2023-03-02,0,0
+S10629,42.0,Callao,Estándar,9.0,5.0,5,119.0,56.7,1.69,19.9,SI,Salud general,2022-11-29,1,1
+S10288,37.0,Lima Centro,Estándar,6.0,6.0,3,109.0,79.3,1.74,26.2,No,Salud general,11/07/2022,1,0
+S11613,32.0,Callao,Básico,2.0,5.0,1,69.0,75.7,1.78,23.9,No,Salud general,22/06/2025,1,1
+S11059,20.0,Surco,Básico,280.0,14.0,0,1190.0,68.9,1.67,24.7,No,,25/09/2024,0,0
+S11131,20.0,Los Olivos,Estándar,33.0,2.0,5,109.0,102.6,1.52,44.4,Sí,Salud general,28/09/2025,1,0
+S10575,19.0,Miraflores,Premium,14.0,6.0,3,169.0,7.2,1.68,27.6,Sí,Salud general,2022-09-13,0,0
+S10850,,Los Olivos,Estándar,16.0,12.0,1,129.0,76.7,1.76,24.8,No,Competencia,31/03/2024,1,0
+S11339,39.0,lima centro,básico,1.0,8.0,4,69.0,,1.7,28.3,Sí,Ganar músculo,09/11/2025,2,0
+S11942,16.0,Lima Centro,Básico,28.0,9.0,2,69.0,72.3,1.76,23.3,Sí,Salud general,28/02/2025,0,0
+S10911,,Callao,Estándar,23.0,2.0,4,119.0,71.8,1.57,29.1,No,Bajar de peso,11/12/2022,1,1
+S11254,26.0,Miraflores,Estándar,5.0,17.0,1,109.0,84.1,1.56,34.6,No,Bajar de peso,27/01/2025,1,0
+S11833,,Los Olivos,Estándar,2.0,16.0,5,119.0,53.3,1.62,20.3,SI,Salud general,2023-10-06,0,0
+S11722,21.0,Los Olivos,Premium,22.0,10.0,3,179.0,76.1,1.55,31.7,Sí,Bajar de peso,10-11-23,0,0
+S11871,44.0,Miraflores,Estándar,3.0,,1,119.0,70.7,1.74,23.4,No,Ganar músculo,2024-11-01,0,1
+S11735,36.0,Surco,Estándar,13.0,10.0,1,119.0,62.4,1.5,27.7,Sí,Bajar de peso,31/10/2024,0,0
+S10932,30.0,San Borja,básico,1.0,,5,79.0,80.1,1.46,37.6,No,Bajar de peso,08/09/2025,1,0
+S11100,39.0,Surco,Básico,2.0,5.0,2,79.0,,1.75,25.2,Sí,Ganar músculo,08/12/2024,0,0
+S11657,27.0,Lima Centro,Básico,3.0,6.0,2,69.0,64.6,1.73,21.6,Sí,Ganar músculo,07/12/2022,1,0
+S11207,21.0,Surco,Básico,11.0,5.0,4,89.0,73.1,1.65,26.9,Sí,Bajar de peso,2023-09-12,1,1
+S10247,19.0,Callao,Básico,38.0,5.0,3,89.0,70.8,1.76,,No,Salud general,2022-12-03,0,0
+S11843,27.0,Lima Centro,BÁSICO,6.0,6.0,5,89.0,72.9,1.79,22.8,si,,2024-10-30,0,0
+S11678,26.0,Surco,Premium,11.0,3.0,7,179.0,,1.81,21.6,No,Bajar de peso,30/09/2024,1,0
+S10476,36.0,Lima Centro,Estándar,14.0,9.0,3,129.0,74.6,1.8,23.0,Sí,,11/11/2022,0,1
+S11694,25.0,San Borja,Básico,22.0,6.0,10,79.0,97.6,1.81,29.8,No,Ganar músculo,27-02-24,0,0
+S10085,20.0,Lima Centro,Estándar,11.0,18.0,4,119.0,,1.88,24.0,No,Salud general,31/03/2025,1,0
+S10469,33.0,Surco,Estándar,14.0,12.0,1,119.0,55.1,1.72,18.6,No,,24/06/2024,1,0
+S10225,30.0,Callao,Estándar,7.0,14.0,4,S/ 129,85.5,1.63,32.2,Sí,Bajar de peso,31-08-24,0,0
+S10774,,Miraflores,Premium,10.0,16.0,4,159.0,74.1,1.78,23.4,Sí,Salud general,02/10/2025,0,0
+S10331,37.0,Los Olivos,Premium,10.0,11.0,1,179.0,78.8,1.77,25.2,No,Salud general,2024-10-25,0,0
+S10233,47.0,Miraflores,Basico,27.0,5.0,6,79.0,86.1,1.64,32.0,Sí,Bajar de peso,2023-03-01,0,0
+S10588,41.0, Surco,Básico,12.0,12.0,1,79.0,75.1,1.63,28.3,No,,07/11/2025,0,0
+S10475,25.0,Lima Centro,Premium,2.0,13.0,1,179.0,88.5,1.63,33.3,Sí,Bajar de peso,02-04-25,2,0
+S11284,20.0,Surco,Estandar,7.0,4.0,1,119.0,60.6,1.85,17.7,SI,Bajar de peso,14/06/2023,1,0
+S11921,24.0,Miraflores,Estándar,6.0,14.0,3,109.0,87.5,1.78,27.6,No,Bajar de peso,26/02/2025,1,0
+S10599,46.0,San Borja,Premium,9.0,6.0,5,169.0,71.5,1.54,30.1,No,Ganar músculo,25/11/2024,1,0
+S10421,47.0,Los Olivos,Premium,21.0,8.0,3,179.0,,1.62,27.4,No,Ganar músculo,21/09/2023,0,1
+S11711,23.0,Miraflores,Básico,3.0,14.0,2,69.0,,1.67,21.1,No,Ganar músculo,2023-01-31,0,0
+S10182,43.0,Lima Centro,Estándar,6.0,5.0,1,129.0,57.9,1.63,21.8,No,Ganar músculo,2023-08-13,2,1
+S10988,18.0,Callao,Premium,9.0,7.0,5,179.0,57.6,1.83,,N,,12/05/2024,1,0
+S11000,36.0,Surco,Básico,5.0,15.0,1,69.0,78.8,1.76,25.4,Sí,Ganar músculo,2024-04-12,2,0
+S11641,21.0,Callao,Estándar,17.0,8.0,2,109.0,45.0,1.65,16.5,Sí,Ganar músculo,05/04/2025,0,0
+S11356,26.0,San Borja,Premium,6.0,15.0,2,169.0,74.2,1.59,29.4,No,Bajar de peso,14/06/2024,0,0
+S11462,28.0,Los Olivos,Básico,28.0,4.0,2,69.0,85.7,1.61,33.1,Sí,Salud general,24/04/2025,0,0
+S10049,64.0,Callao,Premium,6.0,12.0,4,179.0,66.1,1.57,,Sí,Bajar de peso,04/05/2023,0,0
+S11928,16.0,Miraflores,Estándar,32.0,4.0,4,109.0,65.0,1.61,25.1,No,Bajar de peso,01/04/2024,0,0
+S11029,22.0,Miraflores,Estándar,38.0,5.0,6,129.0,64.6,1.7,22.4,Sí,,26/04/2022,1,0
+S10529,32.0,Los Olivos,Estándar,3.0,7.0,5,109.0,68.8,1.61,26.5,Sí,Bajar de peso,22/04/2023,0,0
+S11258,36.0,Los Olivos,Estándar,3.0,6.0,1,129.0,73.6,1.82,22.2,No,Bajar de peso,26/08/2024,0,0
+S10486,31.0,Los Olivos,Estándar,2.0,,2,119.0,67.7,1.64,25.2,Sí,Salud general,17/08/2023,1,0
+S11636,26.0,Los Olivos,Básico,10.0,2.0,1,79.0,80.0,1.58,32.0,Sí,Bajar de peso,22-05-23,1,1
+S10497,21.0,San Borja,Premium,1.0,5.0,3,169.0,70.2,1.69,24.6,Sí,Salud general,10/09/2024,0,0
+S11646,44.0,Surco,Básico,14.0,10.0,1,89.0,70.7,1.84,20.9,No,Salud general,2025-08-03,0,0
+S10106,32.0,San Borja,Estándar,33.0,8.0,3,129.0,79.3,1.65,29.1,No,Bajar de peso,20/11/2024,0,0
+S10443,30.0,Callao,Premium,17.0,3.0,4,169.0,83.6,1.63,31.5,Sí,Salud general,2023-10-13,1,0
+S11512,36.0,Los Olivos,Premium,3.0,5.0,1,159.0,73.2,1.65,26.9,No,Salud general,03/10/2023,0,0
+S10646,34.0,callao,Estándar,39.0,7.0,1,119.0,106.2,1.66,38.5,No,Salud general,27/10/2023,0,1
+S11036,41.0,Los Olivos,Premium,3.0,10.0,3,159.0,66.9,1.66,24.3,No,,13/09/2023,0,0
+S11762,16.0,Lima Centro,Básico,8.0,6.0,0,79.0,77.6,1.66,28.2,No,Ganar músculo,12/09/2023,0,0
+S10726,32.0,Callao,Premium,6.0,9.0,4,179.0,64.6,1.83,19.3,No,Bajar de peso,07/07/2024,0,1
+S10190,33.0, Callao,Estándar,1.0,7.0,1,119.0,61.1,1.71,20.9,Sí,Bajar de peso,15/04/2022,0,1
+S11788,30.0,Surco,Estándar,24.0,5.0,4,109.0,79.7,1.64,29.6,S,Ganar músculo,29/07/2022,0,0
+S11856,37.0,Lima Centro,Basico,4.0,4.0,4,69.0,65.3,1.81,19.9,S,Ganar músculo,21/08/2024,1,0
+S10282,35.0,Surco,Básico,20.0,5.0,3,89.0,65.0,1.57,26.4,No,Bajar de peso,09/04/2023,1,0
+S10029,34.0,Lima Centro,Estándar,1.0,8.0,2,119.0,58.7,1.61,,No,Salud general,29/04/2024,0,1
+S10169,46.0,Miraflores,Básico,13.0,14.0,1,69.0,57.2,1.55,23.8,No,Bajar de peso,29-07-25,0,0
+S11001,40.0,San Borja,Estándar,8.0,2.0,2,109.0,59.8,1.62,22.8,Sí,Ganar músculo,12/01/2026,0,0
+S11204,48.0,Los Olivos,Estándar,1.0,9.0,3,109.0,53.6,1.61,20.7,No,Ganar músculo,24-03-23,0,1
+S10100,16.0,san borja,Básico,6.0,6.0,3,69.0,98.8,1.72,33.4,S,Salud general,06/07/2022,0,0
+S10197,36.0,Miraflores,Premium,2.0,6.0,6,169.0,79.1,1.73,26.4,No,Competencia,27-10-25,0,1
+S10495,16.0,lima centro,Estándar,1.0,8.0,3,129.0,,1.57,28.8,Sí,Bajar de peso,31/10/2025,1,0
+S11745,34.0,Lima Centro,Premium,7.0,13.0,2,169.0,61.2,1.65,22.5,Sí,Salud general,2022-07-08,0,0
+S10647,31.0,Lima Centro,Básico,1.0,5.0,2,79.0,60.9,1.73,20.3,No,Salud general,16/07/2022,1,1
+S10987,54.0,Callao,Premium,1.0,9.0,1,179.0,67.7,1.67,24.3,No,Ganar músculo,03-07-25,0,0
+S10044,38.0,Surco,Premium,11.0,7.0,2,179.0,56.1,1.65,20.6,No,Bajar de peso,26/09/2023,0,0
+S11989,37.0,Miraflores,Estándar,14.0,4.0,2,119.0,88.6,1.63,33.3,No,Bajar de peso,2025-10-10,1,1
+S10710,41.0,San Borja,Premium,6.0,8.0,3,169.0,67.5,1.66,24.5,No,Ganar músculo,2025-11-11,0,0
+S10373,50.0,Los Olivos,Premium,360.0,7.0,2,179.0,52.7,1.74,17.4,No,Bajar de peso,15/07/2023,4,0
+S10678,42.0,Los Olivos,Estandar,4.0,6.0,4,119.0,65.8,1.72,22.2,No,Salud general,12/12/2024,2,0
+S10566,45.0,Miraflores,Estándar,1.0,12.0,0,119.0,76.6,1.65,28.1,Sí,Bajar de peso,27-11-25,0,0
+S11672,46.0,Miraflores,Estándar,29.0,7.0,1,109.0,83.8,1.67,30.0,Sí,Competencia,12/03/2024,1,1
+S11821,21.0,Surco,Premium,14.0,3.0,2,169.0,64.1,1.74,21.2,Sí,Bajar de peso,07/12/2025,2,1
+S10847,36.0, Lima Centro,Básico,3.0,6.0,2,89.0,59.9,1.73,20.0,No,Salud general,22-11-25,1,0
+S10460,51.0,Lima Centro,Básico,9.0,3.0,2,89.0,65.1,1.59,,Sí,,15/03/2025,1,1
+S11437,28.0,Callao,Básico,25.0,14.0,2,89.0,78.6,17.0,27.2,Sí,Competencia,18/02/2025,0,0
+S11155,33.0,Lima Centro,Premium,5.0,13.0,3,179.0,66.6,1.65,24.5,Sí,Ganar músculo,06/02/2023,2,0
+S10039,41.0,San Borja,BÁSICO,4.0,4.0,2,69.0,69.0,1.64,25.7,Sí,Salud general,01/03/2022,0,0
+S10434,44.0,lima centro,Estándar,8.0,6.0,0,109.0,73.7,1.52,31.9,Sí,Ganar músculo,17/07/2025,1,0
+S10973,46.0,Los Olivos,Premium,2.0,12.0,2,179.0,64.8,1.58,26.0,No,Ganar músculo,21/03/2025,1,0
+S11239,,Callao,Premium,5.0,10.0,3,169.0,61.9,1.65,22.7,Sí,,07/07/2022,0,0
+S11007,31.0,Surco,Estándar,1.0,4.0,3,119.0,,1.74,28.5,Sí,Bajar de peso,30/09/2024,0,0
+S11579,43.0,Los Olivos,Básico,3.0,5.0,0,79.0,102.0,1.74,,No,Salud general,11-04-23,0,0
+S11590,19.0,Surco,Estándar,26.0,8.0,3,129.0,79.7,1.78,25.2,Sí,Salud general,2024-10-13,0,0
+S11786,,Lima Centro,Premium,6.0,12.0,4,179.0,82.5,1.67,29.6,Sí,Bajar de peso,2025-04-25,0,0
+S11498,30.0,Los Olivos,Premium,27.0,6.0,2,179.0,52.2,1.7,18.1,Sí,Bajar de peso,16/05/2024,2,0
+S10456,25.0,Lima Centro,Básico,4.0,14.0,2,69.0,69.2,1.64,25.7,No,Bajar de peso,2025-12-01,1,0
+S11835,21.0,San Borja,Básico,1.0,9.0,3,69.0,99.0,180.0,41.7,No,,2025-01-27,0,1
+S10260,33.0,Callao,Estandar,31.0,8.0,4,129.0,68.6,1.64,25.5,Sí,Ganar músculo,20/11/2022,0,0
+S11840,40.0,Los Olivos,Básico,15.0,6.0,3,79.0,67.8,1.76,21.9,No,Ganar músculo,21/07/2024,0,0
+S10035,39.0,Surco,Básico,4.0,6.0,2,79.0,70.9,1.82,21.4,Sí,Ganar músculo,19/05/2025,0,0
+S10827,22.0,Los Olivos,Básico,14.0,15.0,3,69.0,72.7,1.57,29.5,No,Bajar de peso,2022-02-26,0,0
+S11935,39.0, San Borja,Estándar,7.0,8.0,1,129.0,75.0,1.71,25.6,Sí,Salud general,10/08/2023,1,0
+S10309,21.0,Callao,Estándar,4.0,6.0,0,129.0,53.1,1.56,21.8,N,,17-08-23,1,0
+S10276,30.0,Los Olivos,Estándar,280.0,4.0,5,109.0,62.3,1.66,22.6,Sí,,05/07/2025,2,1
+S10636,30.0,Lima Centro,Estándar,41.0,5.0,4,109.0,61.7,1.75,20.1,Sí,Bajar de peso,2023-11-25,0,1
+S10654,38.0,Miraflores,Estándar,2.0,9.0,2,S/ 119,54.0,1.72,18.3,SI,Bajar de peso,09-08-22,0,0
+S10622,37.0,Miraflores,Básico,16.0,5.0,1,79.0,71.7,1.59,28.4,Sí,,25/07/2025,1,1
+S11859,32.0,Miraflores,BÁSICO,1.0,12.0,1,89.0,67.9,1.67,24.3,No,Salud general,27/05/2025,2,0
+S10844,38.0,Lima Centro,Estándar,5.0,1.0,4,119.0,64.1,1.79,20.0,Sí,Salud general,04-07-24,1,1
+S10393,47.0,Lima Centro,Premium,3.0,6.0,5,159.0,65.4,1.74,,Sí,Bajar de peso,20/06/2025,1,0
+S11769,23.0,Lima Centro,Estándar,12.0,6.0,2,109.0,61.1,1.6,23.9,Sí,Bajar de peso,09/06/2024,1,1
+S10107,37.0,Miraflores,Estándar,6.0,6.0,1,129.0,71.9,1.77,22.9,Sí,Competencia,29/01/2025,0,1
+S10349,42.0,Los Olivos,Básico,4.0,7.0,3,69.0,57.3,1.69,20.1,Sí,Salud general,18-03-22,0,0
+S10524,37.0,Lima Centro ,Premium,2.0,14.0,3,169.0,68.5,1.64,25.5,Sí,Bajar de peso,2024-11-07,2,0
+S10784,45.0,Miraflores,Premium,5.0,8.0,3,169.0,92.3,1.56,37.9,No,Competencia,2025-12-22,1,1
+S10047,,Surco,Estándar,14.0,5.0,3,119.0,72.1,1.52,31.2,Sí,Salud general,2022-09-06,1,1
+S10203,,San Borja,Estándar,3.0,,2,109.0,66.6,1.73,22.3,No,Salud general,20/05/2023,1,1
+S10671,16.0,LOS OLIVOS,Básico,5.0,6.0,2,69.0,48.5,1.45,23.1,No,,19-04-24,0,1
+S11655,29.0,Surco,Básico,13.0,7.0,2,69.0,61.3,1.66,22.2,Sí,Bajar de peso,02/10/2023,0,0
+S10021,39.0,Surco,Básico,16.0,8.0,2,79.0,63.7,1.58,25.5,No,,2023-11-17,0,0
+S10402,33.0,Lima Centro,Estándar,6.0,6.0,3,129.0,55.3,1.62,21.1,Sí,Bajar de peso,2025-10-26,0,0
+S11107,20.0,San Borja,Básico,3.0,8.0,2,69.0,46.3,1.73,15.5,Sí,Bajar de peso,2023-10-14,1,1
+S11154,41.0,Lima Centro,Premium,44.0,9.0,3,159.0,90.3,1.73,30.2,No,Ganar músculo,25-02-25,0,0
+S11439,25.0,Lima Centro,Premium,23.0,5.0,2,159.0,,1.7,25.9,No,Salud general,07-04-25,1,1
+S11624,38.0,SAN BORJA,Estándar,17.0,3.0,2,109.0,62.8,1.69,22.0,Sí,Bajar de peso,24/04/2025,1,0
+S10989,,Callao,Básico,14.0,6.0,5,79.0,58.9,1.77,18.8,no,Bajar de peso,12/09/2025,0,0
+S11865,35.0,SAN BORJA,Premium,3.0,2.0,0,179.0,69.7,1.88,19.7,Sí,Bajar de peso,2025-01-14,1,0
+S10741,34.0,Miraflores,Premium,999.0,3.0,3,159.0,72.2,1.62,27.5,No,Ganar músculo,2023-02-14,0,0
+S11721,16.0,Surco,Básico,1.0,10.0,6,79.0,75.8,1.69,26.5,Sí,Competencia,2023-05-13,3,0
+S11310,18.0, San Borja,Premium,27.0,99,4,169.0,66.5,1.6,26.0,No,Bajar de peso,2024-06-04,0,1
+S11147,21.0,Los Olivos,Básico,8.0,9.0,4,79.0,56.6,1.7,19.6,Sí,Bajar de peso,25/03/2024,1,0
+S10033,43.0,Los Olivos,Estándar,4.0,7.0,0,119.0,58.8,1.69,20.6,Sí,Ganar músculo,15/10/2023,2,1
+S10787,31.0,SAN BORJA,Premium,3.0,4.0,1,179.0,65.1,1.64,24.2,No,Bajar de peso,08/04/2024,1,1
+S11540,22.0,Miraflores,Básico,5.0,9.0,0,89.0,68.9,1.58,27.6,Sí,Ganar músculo,28-03-22,2,0
+S10923,37.0,Lima Centro,Estándar,4.0,10.0,2,109.0,79.8,1.69,27.9,No,Salud general,16/06/2024,1,1
+S11043,23.0,miraflores,Básico,8.0,4.0,2,89.0,,1.62,21.6,No,Salud general,2022-05-21,1,0
+S11986,32.0,San Borja,Premium,4.0,16.0,0,169.0,82.3,1.59,32.6,No,,08/11/2024,0,0
+S11243,32.0,CALLAO,Estándar,6.0,8.0,4,109.0,79.8,1.83,23.8,No,Ganar músculo,2024-07-21,0,0
+S11915,40.0,Surco,Estándar,2.0,12.0,5,119.0,77.9,1.5,34.6,No,Salud general,15/01/2022,1,0
+S10579,29.0,San Borja,Básico ,4.0,7.0,1,79.0,80.3,1.68,28.5,No,Salud general,25/11/2024,1,0
+S10481,34.0,Surco,Premium,7.0,5.0,3,169.0,,1.61,25.2,Sí,,23/11/2022,1,1
+S10931,29.0,Lima Centro,Estándar,10.0,7.0,1,119.0,96.2,1.72,32.5,No,Salud general,06/06/2023,2,1
+S10356,21.0,San Borja,Estándar,3.0,7.0,6,129.0,59.8,1.59,23.7,No,Salud general,18/04/2025,0,0
+S11685,33.0,Los Olivos,Premium,1.0,4.0,2,169.0,75.2,1.62,28.7,Sí,Salud general,15/07/2025,0,0
+S11248,32.0,Lima Centro,Estándar,8.0,5.0,0,109.0,57.4,1.82,17.3,No,Bajar de peso,2024-01-01,1,1
+S10759,43.0,Lima Centro,Básico,14.0,11.0,4,69.0,98.1,1.77,31.3,No,Salud general,28/12/2022,1,0
+S10092,16.0,Lima Centro,Estándar,12.0,5.0,6,129.0,,1.7,30.9,Sí,Salud general,21-11-24,1,0
+S11175,34.0,LOS OLIVOS,Básico,22.0,6.0,1,89.0,,1.79,22.6,No,Bajar de peso,2022-01-14,0,0
+S11415,26.0,Lima Centro,Premium,4.0,9.0,4,169.0,76.3,1.78,24.1,Sí,,16/12/2023,0,0
+S11341,40.0,Los Olivos,estándar,1.0,7.0,3,119.0,97.1,1.53,41.5,No,Bajar de peso,04/05/2022,0,0
+S11472,24.0,San Borja,Básico,3.0,10.0,5,89.0,86.0,1.72,29.1,Sí,Ganar músculo,28/07/2022,0,0
+S10803,38.0,Callao,Estándar,8.0,5.0,1,129.0,,1.82,22.8,Sí,Bajar de peso,27-08-22,0,0
+S10745,34.0,Los Olivos,Estándar,24.0,10.0,2,129.0,81.4,1.78,25.7,No,Bajar de peso,24/01/2026,1,0
+S11546,46.0, Surco,Básico,4.0,12.0,1,79.0,76.4,1.71,26.1,Sí,Salud general,2023-09-08,1,0
+S10279,43.0,Callao ,Básico,2.0,4.0,3,69.0,54.5,1.65,20.0,No,,2025-01-13,0,0
+S11607,38.0,San Borja,Estandar,10.0,7.0,2,129.0,51.3,1.64,19.1,Sí,Salud general,24/04/2023,0,0
+S10764,,Miraflores,Básico,14.0,8.0,3,79.0,68.0,1.65,25.0,Sí,Salud general,07/01/2023,0,0
+S10604,29.0,CALLAO,Estándar,8.0,8.0,3,129.0,81.6,1.69,28.6,Sí,Salud general,20/12/2023,2,0
+S11044,42.0, LIMA CENTRO,Estándar,2.0,5.0,2,109.0,80.0,1.6,31.2,No,,2024-05-01,0,1
+S11373,31.0,Surco,Premium,5.0,10.0,3,179.0,90.1,1.56,37.0,No,Bajar de peso,2024-05-23,3,0
+S11951,27.0,Callao,Estándar,16.0,5.0,3,109.0,55.3,1.67,19.8,Sí,Ganar músculo,08/03/2024,1,0
+S11398,18.0,Lima Centro,Premium,10.0,12.0,1,169.0,66.8,1.72,22.6,No,Bajar de peso,2023-10-30,0,0
+S10400,17.0,Miraflores,Estándar,9.0,8.0,0,109.0,81.5,1.59,32.2,Sí,Bajar de peso,07/01/2026,0,1
+S11728,16.0,San Borja,Estándar ,12.0,11.0,3,119.0,77.7,1.62,29.6,Sí,Salud general,11/06/2024,0,0
+S10257,54.0,Surco,Básico,4.0,5.0,3,69.0,80.0,1.75,26.1,No,Ganar músculo,23/10/2022,1,0
+S10944,28.0,San Borja,Estándar,27.0,5.0,3,129.0,61.2,1.75,20.0,Sí,,17/10/2024,1,0
+S11875,30.0,SAN BORJA,Estándar,19.0,4.0,2,119.0,51.6,1.62,19.7,Sí,Bajar de peso,16/07/2025,2,1
+S11096,26.0,Callao,Premium,1.0,11.0,4,159.0,64.2,1.66,23.3,Sí,Bajar de peso,09/05/2023,0,0
+S11219,35.0,Lima Centro,Básico,1.0,8.0,1,79.0,83.1,1.73,27.8,No,Salud general,2023-12-17,1,0
+S11507,30.0,Lima Centro,Estándar,6.0,3.0,4,119.0,83.2,1.61,32.1,Sí,Competencia,19/10/2024,0,1
+S11879,53.0,Surco,Estándar,1.0,,2,129.0,68.0,1.82,20.5,No,Ganar músculo,05/03/2022,0,0
+S11161,28.0,Los Olivos,Básico,1.0,3.0,5,69.0,77.7,1.63,29.2,Sí,Ganar músculo,15/02/2024,0,1
+S10494,36.0,Surco,Premium,58.0,3.0,4,159.0,86.0,1.68,,No,Bajar de peso,17/01/2023,1,1
+S10772,46.0,San Borja,Premium,19.0,17.0,2,179.0,95.6,1.78,30.2,Sí,Bajar de peso,25/04/2024,1,0
+S10550,,Los Olivos,Premium,4.0,12.0,5,179.0,53.8,1.69,18.8,No,Bajar de peso,02-07-22,1,0
+S11486,22.0,Surco,Estándar,16.0,13.0,2,129.0,69.3,1.65,25.5,No,Salud general,13/12/2024,1,0
+S10201,,San Borja,Premium,9.0,,4,159.0,80.4,1.82,24.3,Sí,Salud general,2025-07-20,0,0
+S10312,,Lima Centro,Premium,1.0,4.0,1,179.0,72.6,1.81,22.2,Sí,Ganar músculo,07/11/2022,1,1
+S10290,35.0,Callao,Básico,8.0,6.0,2,89.0,79.7,1.74,26.3,Sí,Bajar de peso,2024-05-29,1,1
+S11984,20.0,San Borja,Estándar,5.0,14.0,5,119.0,87.4,1.62,33.3,Sí,,20/08/2022,1,0
+S11213,16.0,San Borja,Premium,29.0,5.0,2,159.0,71.3,1.74,23.6,Sí,Bajar de peso,2023-06-17,0,0
+S10763,51.0,San Borja,ESTÁNDAR,36.0,4.0,1,119.0,96.6,1.64,35.9,Sí,Ganar músculo,31/05/2024,0,0
+S11136,30.0,Los Olivos,Estándar,35.0,4.0,1,109.0,,1.51,30.3,Sí,Bajar de peso,11/10/2025,2,0
+S10949,24.0,Miraflores,Estándar,5.0,10.0,4,119.0,54.1,1.72,18.3,Sí,Salud general,19/01/2024,1,1
+S10183,25.0,Lima Centro,Premium,9.0,7.0,3,179.0,62.1,1.6,24.3,No,Salud general,17-01-23,2,1
+S11176,35.0,San Borja,Estándar,5.0,12.0,1,129.0,70.3,1.7,24.3,Sí,Bajar de peso,20/03/2025,1,0
+S11848,25.0,Callao,Premium,1.0,9.0,7,169.0,92.4,1.74,,Sí,Bajar de peso,2022-04-18,0,0
+S11349,45.0,Miraflores,Básico,9.0,7.0,3,69.0,64.6,1.62,24.6,N,Bajar de peso,09/09/2022,1,1
+S11727,16.0,San Borja,Básico,12.0,9.0,1,79.0,53.6,1.62,20.4,No,Competencia,2024-09-17,1,1
+S11068,35.0,San Borja,Básico,4.0,3.0,3,79.0,74.9,1.67,26.9,No,Bajar de peso,06/03/2025,0,1
+S11468,38.0,Los Olivos,Estándar,18.0,15.0,1,129.0,65.0,1.61,25.1,Sí,Bajar de peso,09-01-22,0,0
+S11811,24.0,San Borja,Básico ,4.0,10.0,7,89.0,78.1,1.55,32.5,NO,Salud general,20/03/2025,1,0
+S11030,45.0,San Borja,Básico,17.0,8.0,5,69.0,81.6,1.66,29.6,No,Bajar de peso,12/04/2022,0,0
+S10250,41.0,San Borja,Estandar,15.0,10.0,1,119.0,63.2,1.5,28.1,No,Salud general,2022-11-28,1,0
+S10823,31.0,Callao,Estándar,20.0,7.0,2,119.0,55.8,1.63,21.0,Sí,,15/03/2024,1,0
+S11099,46.0,Lima Centro,Básico,1.0,9.0,2,69.0,72.1,1.61,27.8,No,Ganar músculo,2022-10-13,1,0
+S11536,32.0,San Borja,Básico,3.0,,3,79.0,76.5,1.6,29.9,No,Ganar músculo,12/07/2024,1,0
+S10940,20.0,San Borja,Estándar,41.0,19.0,7,119.0,73.7,1.64,27.4,Sí,Bajar de peso,20/05/2024,2,0
+S10391,16.0,San Borja,Básico,47.0,12.0,2,79.0,81.6,1.67,29.3,N,Bajar de peso,22/03/2022,1,0
+S11919,25.0,Callao,Estándar,10.0,13.0,2,119.0,61.1,1.9,16.9,Sí,,31/03/2023,0,1
+S11456,36.0,san borja,Estándar,11.0,12.0,2,119.0,65.7,1.58,26.3,No,Salud general,23/01/2022,1,1
+S11092,19.0,San Borja,Básico,45.0,9.0,3,79.0,81.7,1.63,30.8,No,Ganar músculo,16/02/2024,1,0
+S11926,44.0,San Borja,Estándar,5.0,7.0,1,129.0,68.4,1.65,25.1,Sí,Bajar de peso,26/07/2024,2,0
+S10904,35.0,San Borja,Estandar,3.0,6.0,1,109.0,45.0,1.66,16.3,Sí,Ganar músculo,24/02/2023,1,0
+S10366,26.0,SURCO,Estándar,31.0,7.0,3,109.0,53.0,1.69,18.6,No,Bajar de peso,2024-09-21,0,0
+S10345,30.0,San Borja,Premium,6.0,10.0,1,169.0,89.7,1.74,29.6,Sí,Salud general,2025-06-05,0,0
+S11372,41.0,Miraflores,Estándar,9.0,9.0,1,119.0,76.7,1.45,36.5,No,Ganar músculo,29/07/2025,0,0
+S11639,30.0,San Borja,Premium,2.0,8.0,2,159.0,89.1,1.67,31.9,Sí,Ganar músculo,2023-01-02,1,0
+S10919,39.0,Surco,Básico,14.0,310,2,79.0,51.4,1.63,19.3,Sí,Ganar músculo,10/11/2022,1,0
+S10211,36.0,San Borja,Básico,2.0,19.0,3,79.0,70.5,1.76,22.8,No,Bajar de peso,2022-04-09,1,0
+S11603,19.0,San Borja,Básico,9.0,,1,79.0,65.5,1.75,21.4,No,Ganar músculo,23-05-24,1,0
+S10537,32.0,Miraflores,Premium,1.0,14.0,0,169.0,75.2,1.72,25.4,Sí,Salud general,04/05/2023,0,0
+S11220,34.0,Lima Centro,Estándar,4.0,7.0,4,119.0,62.5,1.57,25.4,Sí,Bajar de peso,01/03/2025,0,0
+S10175,16.0,Miraflores,Básico,21.0,15.0,0,79.0,63.7,1.71,21.8,Sí,Ganar músculo,20/09/2022,0,0

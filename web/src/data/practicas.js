@@ -221,7 +221,7 @@ export const MATERIAL_CLASE = [
     tipo: 'Presentación',
     extension: '36 diapositivas',
     resumen:
-      'Las tres librerías del bloque (pandas, matplotlib y scikit-learn), el diccionario de datos, la limpieza y transformación, y el análisis exploratorio para entender los datos, encontrar patrones y sacar conclusiones. Incluye tres prácticas en Colab y el taller de la etapa 1 de la AA2.',
+      'Las tres librerías del bloque (pandas, matplotlib y scikit-learn), el diccionario de datos, la limpieza y transformación, y el análisis exploratorio para entender los datos, encontrar patrones y sacar conclusiones. Incluye tres prácticas en Colab, el taller de la etapa 1 de la AA2 y una base de datos con errores para practicar todo el análisis.',
     objetivos: [
       'Usar pandas, matplotlib y scikit-learn para cargar, transformar y graficar datos.',
       'Construir un diccionario de datos y aplicar limpieza: duplicados, nulos, atípicos y tipos de dato.',
@@ -241,6 +241,16 @@ export const MATERIAL_CLASE = [
         nombre: 'Sesion3_Python_Calidad_EDA.pdf',
         tipo: 'PDF',
         peso: '1.2 MB',
+        destacado: true,
+      },
+      {
+        etiqueta: 'Base de datos de práctica: gimnasio_socios.csv',
+        detalle:
+          '2 060 socios de una cadena de gimnasios y 16 columnas. Variable objetivo: abandono. Trae errores a propósito: duplicados, textos inconsistentes, nulos, valores imposibles, atípicos y tipos mal guardados. Aplica en ella todo el análisis de la sesión',
+        archivo: 'material/sesion3/gimnasio_socios.csv',
+        nombre: 'gimnasio_socios.csv',
+        tipo: 'CSV',
+        peso: '187 KB',
         destacado: true,
       },
       {
