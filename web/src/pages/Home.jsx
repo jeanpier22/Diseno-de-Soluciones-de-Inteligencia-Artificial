@@ -16,7 +16,24 @@ function Estadistica({ icono: Icono, valor, etiqueta }) {
   )
 }
 
+function SeccionMateriales({ titulo, descripcion, items }) {
+  if (items.length === 0) return null
+  return (
+    <section className="mx-auto max-w-6xl px-5 pb-14 sm:px-8 lg:px-12">
+      <h2 className="text-2xl font-bold text-slate-900 dark:text-white sm:text-3xl">{titulo}</h2>
+      <p className="mt-2 text-slate-600 dark:text-slate-400">{descripcion}</p>
+      <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {items.map((m, i) => (
+          <MaterialCard key={m.id} material={m} indice={i} />
+        ))}
+      </div>
+    </section>
+  )
+}
+
 export default function Home() {
+  const diapositivas = MATERIAL_CLASE.filter((m) => m.tipo === 'Presentación')
+  const otros = MATERIAL_CLASE.filter((m) => m.tipo !== 'Presentación')
   const disponibles = PRACTICAS.filter((p) => p.estado === 'disponible').length
 
   return (
@@ -101,22 +118,19 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ------------------------------------------------------ Diapositivas */}
+      <SeccionMateriales
+        titulo="Diapositivas"
+        descripcion="Presentaciones de cada sesión, para ver en línea o descargar en PDF y PowerPoint."
+        items={diapositivas}
+      />
+
       {/* --------------------------------------------------- Material de clase */}
-      {MATERIAL_CLASE.length > 0 && (
-        <section className="mx-auto max-w-6xl px-5 pb-14 sm:px-8 lg:px-12">
-          <h2 className="text-2xl font-bold text-slate-900 dark:text-white sm:text-3xl">
-            Material de clase
-          </h2>
-          <p className="mt-2 text-slate-600 dark:text-slate-400">
-            Presentaciones de cada sesión y cuadernos de apoyo para practicar.
-          </p>
-          <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {MATERIAL_CLASE.map((m, i) => (
-              <MaterialCard key={m.id} material={m} indice={i} />
-            ))}
-          </div>
-        </section>
-      )}
+      <SeccionMateriales
+        titulo="Material de clase"
+        descripcion="Cuadernos, prompts y bases de datos de apoyo para practicar."
+        items={otros}
+      />
 
     </>
   )
