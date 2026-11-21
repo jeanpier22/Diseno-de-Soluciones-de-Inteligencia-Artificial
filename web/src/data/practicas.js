@@ -147,7 +147,7 @@ export const MATERIAL_CLASE = [
   },
   {
     id: 'sesion1',
-    titulo: 'Sesión 1 · Regresión con ayuda de IA',
+    titulo: 'Prompts · Regresión con ayuda de IA',
     subtitulo: 'Prompts para Colab: de la regresión lineal a la polinómica',
     estado: 'disponible',
     tipo: 'Prompts',
@@ -368,6 +368,17 @@ export const MATERIAL_CLASE = [
       },
     ],
   },
+]
+
+/**
+ * Diapositivas por sesion, en orden. `material` es el id de MATERIAL_CLASE que
+ * contiene la presentacion; con null la sesion se muestra como "Proximamente".
+ */
+export const SESIONES_DIAPOSITIVAS = [
+  { numero: 1, titulo: 'Introducción a la IA', temas: 'Historia, aplicaciones, tipos de IA y casos de éxito', material: null },
+  { numero: 2, titulo: 'Flujo de trabajo de soluciones con IA', temas: 'Recolección, entrenamiento, evaluación y despliegue', material: null },
+  { numero: 3, titulo: 'Python, calidad de datos y EDA', temas: 'pandas, matplotlib, scikit-learn, limpieza, diccionario de datos y análisis exploratorio', material: 'sesion3' },
+  { numero: 4, titulo: 'Ingeniería de características', temas: 'Selección, PCA, re-escalado y exposición de la Evidencia 2', material: 'sesion4' },
 ]
 
 export const getMaterial = (id) => MATERIAL_CLASE.find((m) => m.id === id)

@@ -1,8 +1,9 @@
-import { BookOpenCheck, FlaskConical, GraduationCap, Sparkles } from 'lucide-react'
+import { ArrowRight, BookOpenCheck, FlaskConical, GraduationCap, Sparkles } from 'lucide-react'
 import PracticaCard from '../components/PracticaCard'
 import MaterialCard from '../components/MaterialCard'
 import CertusLogo from '../components/CertusLogo'
-import { CURSO, MATERIAL_CLASE, PRACTICAS } from '../data/practicas'
+import { Link } from 'react-router-dom'
+import { CURSO, getMaterial, MATERIAL_CLASE, PRACTICAS, SESIONES_DIAPOSITIVAS } from '../data/practicas'
 
 function Estadistica({ icono: Icono, valor, etiqueta }) {
   return (
@@ -13,6 +14,56 @@ function Estadistica({ icono: Icono, valor, etiqueta }) {
         <div className="text-xs text-brand-100/80">{etiqueta}</div>
       </div>
     </div>
+  )
+}
+
+function Diapositivas() {
+  return (
+    <section className="mx-auto max-w-6xl px-5 pb-14 sm:px-8 lg:px-12">
+      <h2 className="text-2xl font-bold text-slate-900 dark:text-white sm:text-3xl">Diapositivas</h2>
+      <p className="mt-2 text-slate-600 dark:text-slate-400">
+        Presentaciones de cada sesión, en orden. Se ven en línea y se descargan en PDF y PowerPoint.
+      </p>
+      <ul className="card mt-8 divide-y divide-slate-100 overflow-hidden dark:divide-slate-800">
+        {SESIONES_DIAPOSITIVAS.map((s) => {
+          const m = s.material && getMaterial(s.material)
+          const fila = (
+            <>
+              <span className="grid h-12 w-12 shrink-0 place-items-center rounded-xl bg-gradient-to-br from-teal-500 to-brand-700 text-lg font-bold text-white">
+                {s.numero}
+              </span>
+              <span className="min-w-0 flex-1">
+                <span className="block font-bold text-slate-900 dark:text-white">
+                  Sesión {s.numero} · {s.titulo}
+                </span>
+                <span className="block text-sm text-slate-500 dark:text-slate-400">{s.temas}</span>
+              </span>
+              {m ? (
+                <span className="hidden shrink-0 items-center gap-1 text-sm font-semibold text-brand-600 dark:text-brand-300 sm:inline-flex">
+                  {m.extension}
+                  <ArrowRight className="h-4 w-4" />
+                </span>
+              ) : (
+                <span className="shrink-0 rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold text-slate-500 dark:bg-slate-800 dark:text-slate-400">
+                  Próximamente
+                </span>
+              )}
+            </>
+          )
+          return (
+            <li key={s.numero}>
+              {m ? (
+                <Link to={`/material/${m.id}`} className="flex items-center gap-4 p-4 transition hover:bg-slate-50 dark:hover:bg-slate-800/50">
+                  {fila}
+                </Link>
+              ) : (
+                <div className="flex items-center gap-4 p-4 opacity-70">{fila}</div>
+              )}
+            </li>
+          )
+        })}
+      </ul>
+    </section>
   )
 }
 
@@ -32,7 +83,6 @@ function SeccionMateriales({ titulo, descripcion, items }) {
 }
 
 export default function Home() {
-  const diapositivas = MATERIAL_CLASE.filter((m) => m.tipo === 'Presentación')
   const otros = MATERIAL_CLASE.filter((m) => m.tipo !== 'Presentación')
   const disponibles = PRACTICAS.filter((p) => p.estado === 'disponible').length
 
@@ -119,11 +169,7 @@ export default function Home() {
       </section>
 
       {/* ------------------------------------------------------ Diapositivas */}
-      <SeccionMateriales
-        titulo="Diapositivas"
-        descripcion="Presentaciones de cada sesión, para ver en línea o descargar en PDF y PowerPoint."
-        items={diapositivas}
-      />
+      <Diapositivas />
 
       {/* --------------------------------------------------- Material de clase */}
       <SeccionMateriales
