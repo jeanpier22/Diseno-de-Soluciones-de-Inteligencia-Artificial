@@ -324,6 +324,57 @@ export const MATERIAL_CLASE = [
     ],
   },
   {
+    id: 'sesion6',
+    titulo: 'Sesión 6 · Del modelo a la API',
+    subtitulo: 'Tema 10 · Implementación y despliegue de modelos',
+    estado: 'disponible',
+    tipo: 'Presentación',
+    extension: '17 diapositivas',
+    resumen:
+      'Cómo llevar un modelo entrenado a producción: guardar el pipeline, exponerlo como API REST con FastAPI, probarlo en local, compartirlo con ngrok y empaquetarlo en una imagen Docker. Incluye el proyecto completo para VS Code, con un formulario web como frontend, y el taller de la sesión.',
+    objetivos: [
+      'Guardar un pipeline entrenado como artefacto (.joblib) junto con su metadata.',
+      'Exponer el modelo como una API REST con FastAPI y validar las entradas con Pydantic.',
+      'Probar la API en local, compartirla con ngrok y empaquetarla en una imagen Docker.',
+    ],
+    temas: ['FastAPI', 'API REST', 'ngrok', 'Docker', 'Despliegue'],
+    documento: {
+      src: 'material/sesion6/Sesion6_Del_Modelo_a_la_API.pdf',
+      paginas: 17,
+      peso: '0.5 MB',
+    },
+    descargas: [
+      {
+        etiqueta: 'Presentación en PDF',
+        detalle: 'Las 17 diapositivas de la sesión',
+        archivo: 'material/sesion6/Sesion6_Del_Modelo_a_la_API.pdf',
+        nombre: 'Sesion6_Del_Modelo_a_la_API.pdf',
+        tipo: 'PDF',
+        peso: '0.5 MB',
+        destacado: true,
+      },
+      {
+        etiqueta: 'Proyecto para VS Code (.zip)',
+        detalle:
+          'API del modelo de abandono lista para correr: entrenamiento, FastAPI, formulario web, pruebas, Dockerfile y docker-compose. Sigue el README.md paso a paso',
+        archivo: 'material/sesion6/Proyecto_API_Modelo.zip',
+        nombre: 'Proyecto_API_Modelo.zip',
+        tipo: 'ZIP',
+        peso: '57 KB',
+        destacado: true,
+      },
+      {
+        etiqueta: 'Presentación editable (.pptx)',
+        detalle: 'Versión original en PowerPoint',
+        archivo: 'material/sesion6/Sesion6_Del_Modelo_a_la_API.pptx',
+        nombre: 'Sesion6_Del_Modelo_a_la_API.pptx',
+        tipo: 'PPTX',
+        peso: '0.8 MB',
+        destacado: false,
+      },
+    ],
+  },
+  {
     id: 'cuadernos',
     titulo: 'Cuadernos de Colab',
     subtitulo: 'Material de apoyo para practicar',
@@ -389,6 +440,8 @@ export const SESIONES_DIAPOSITIVAS = [
   { numero: 2, titulo: 'Flujo de trabajo de soluciones con IA', temas: 'Recolección, entrenamiento, evaluación y despliegue', material: null },
   { numero: 3, titulo: 'Python, calidad de datos y EDA', temas: 'pandas, matplotlib, scikit-learn, limpieza, diccionario de datos y análisis exploratorio', material: 'sesion3' },
   { numero: 4, titulo: 'Ingeniería de características', temas: 'Selección, PCA, re-escalado y exposición de la Evidencia 2', material: 'sesion4' },
+  { numero: 5, titulo: 'Construcción y evaluación de modelos', temas: 'Modelos lineales, árboles, boosting, SVM, métricas y validación', material: null },
+  { numero: 6, titulo: 'Implementación de modelos', temas: 'API REST con FastAPI, ngrok, Docker y despliegue', material: 'sesion6' },
 ]
 
 export const getMaterial = (id) => MATERIAL_CLASE.find((m) => m.id === id)
