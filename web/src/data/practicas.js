@@ -279,7 +279,7 @@ export const MATERIAL_CLASE = [
     subtitulo: 'Bloque 2 · Tema 7 y exposición de la Evidencia 2',
     estado: 'disponible',
     tipo: 'Presentación',
-    extension: '24 diapositivas',
+    extension: '25 diapositivas',
     resumen:
       'Selección de características, extracción con PCA y re-escalado lineal y no lineal. La sesión cierra con el taller de la etapa 2 de la AA2 y las exposiciones por equipo de la Evidencia 2.',
     objetivos: [
@@ -290,17 +290,17 @@ export const MATERIAL_CLASE = [
     temas: ['Selección', 'PCA', 'Re-escalado', 'Evidencia 2'],
     documento: {
       src: 'material/sesion4/Sesion4_Ingenieria_Caracteristicas_E2.pdf',
-      paginas: 24,
-      peso: '0.8 MB',
+      paginas: 25,
+      peso: '0.9 MB',
     },
     descargas: [
       {
         etiqueta: 'Presentación en PDF',
-        detalle: 'Las 24 diapositivas de la sesión',
+        detalle: 'Las 25 diapositivas de la sesión',
         archivo: 'material/sesion4/Sesion4_Ingenieria_Caracteristicas_E2.pdf',
         nombre: 'Sesion4_Ingenieria_Caracteristicas_E2.pdf',
         tipo: 'PDF',
-        peso: '0.8 MB',
+        peso: '0.9 MB',
         destacado: true,
       },
       {
@@ -309,7 +309,7 @@ export const MATERIAL_CLASE = [
         archivo: 'material/sesion4/Sesion4_Ingenieria_Caracteristicas_E2.pptx',
         nombre: 'Sesion4_Ingenieria_Caracteristicas_E2.pptx',
         tipo: 'PPTX',
-        peso: '1.3 MB',
+        peso: '0.8 MB',
         destacado: false,
       },
       {
