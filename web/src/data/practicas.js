@@ -221,7 +221,7 @@ export const MATERIAL_CLASE = [
     tipo: 'Presentación',
     extension: '36 diapositivas',
     resumen:
-      'Las tres librerías del bloque (pandas, matplotlib y scikit-learn), el diccionario de datos, la limpieza y transformación, y el análisis exploratorio para entender los datos, encontrar patrones y sacar conclusiones. Incluye tres prácticas en Colab, el taller de la etapa 1 de la AA2 y una base de datos con errores para practicar todo el análisis.',
+      'Las tres librerías del bloque (pandas, matplotlib y scikit-learn), el diccionario de datos, la limpieza y transformación, y el análisis exploratorio para entender los datos, encontrar patrones y sacar conclusiones. Incluye tres prácticas en Colab, el taller de la etapa 1 de la AA2 y dos bases de datos con errores para practicar todo el análisis.',
     objetivos: [
       'Usar pandas, matplotlib y scikit-learn para cargar, transformar y graficar datos.',
       'Construir un diccionario de datos y aplicar limpieza: duplicados, nulos, atípicos y tipos de dato.',
@@ -251,6 +251,16 @@ export const MATERIAL_CLASE = [
         nombre: 'gimnasio_socios.csv',
         tipo: 'CSV',
         peso: '187 KB',
+        destacado: true,
+      },
+      {
+        etiqueta: 'Reto de limpieza: tienda_online_clientes.csv',
+        detalle:
+          '6 270 clientes de una tienda online y 20 columnas. Variable objetivo: recompra. Base más grande y más sucia: duplicados, nulos y marcadores como N/A, textos inconsistentes, fechas en varios formatos, números guardados como texto, valores imposibles, atípicos y totales que no cuadran. Tu trabajo es dejarla lista para modelar',
+        archivo: 'material/sesion3/tienda_online_clientes.csv',
+        nombre: 'tienda_online_clientes.csv',
+        tipo: 'CSV',
+        peso: '718 KB',
         destacado: true,
       },
       {
