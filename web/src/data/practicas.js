@@ -331,7 +331,7 @@ export const MATERIAL_CLASE = [
     tipo: 'Presentación',
     extension: '17 diapositivas',
     resumen:
-      'Cómo llevar un modelo entrenado a producción: guardar el pipeline, exponerlo como API REST con FastAPI, probarlo en local, compartirlo con ngrok y empaquetarlo en una imagen Docker. Incluye el proyecto completo para VS Code, con un formulario web como frontend, y el taller de la sesión.',
+      'Cómo llevar un modelo entrenado a producción: guardar el pipeline, exponerlo como API REST con FastAPI, probarlo en local, compartirlo con ngrok y empaquetarlo en una imagen Docker. Incluye el proyecto completo para VS Code, separado en backend y frontend, y el taller de la sesión.',
     objetivos: [
       'Guardar un pipeline entrenado como artefacto (.joblib) junto con su metadata.',
       'Exponer el modelo como una API REST con FastAPI y validar las entradas con Pydantic.',
@@ -356,11 +356,11 @@ export const MATERIAL_CLASE = [
       {
         etiqueta: 'Proyecto para VS Code (.zip)',
         detalle:
-          'API del modelo de abandono lista para correr: entrenamiento, FastAPI, formulario web, pruebas, Dockerfile y docker-compose. Sigue el README.md paso a paso',
+          'Proyecto separado en backend/ (FastAPI, entrenamiento, pruebas) y frontend/ (página del negocio con las 7 características, ilustraciones y formulario), más Dockerfile y docker-compose. Sigue el README.md paso a paso',
         archivo: 'material/sesion6/Proyecto_API_Modelo.zip',
         nombre: 'Proyecto_API_Modelo.zip',
         tipo: 'ZIP',
-        peso: '57 KB',
+        peso: '69 KB',
         destacado: true,
       },
       {
