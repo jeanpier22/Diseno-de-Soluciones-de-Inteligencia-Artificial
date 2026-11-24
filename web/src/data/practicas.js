@@ -481,6 +481,44 @@ export const MATERIAL_CLASE = [
     ],
   },
   {
+    id: 'guia-despliegue',
+    titulo: 'Guía paso a paso · Despliega tu modelo',
+    subtitulo: 'Del modelo entrenado a una API en internet, desde cero',
+    estado: 'disponible',
+    tipo: 'Guía',
+    extension: '10 capítulos',
+    resumen:
+      'Guía para seguir sin ayuda de ninguna IA: crear el proyecto, entrenar y guardar el modelo, construir la API con FastAPI y un frontend sencillo, probarlo en local, compartirlo con ngrok, empaquetarlo con Docker y desplegarlo en Render con una URL permanente. Cada archivo se crea desde cero, con el código para copiar, cada comando explicado y una tabla de errores frecuentes. Incluye el proyecto final para comparar.',
+    objetivos: [
+      'Crear desde cero un proyecto con backend (FastAPI) y frontend (HTML) que usa un modelo entrenado.',
+      'Probar la API en local, compartirla con ngrok y empaquetarla en una imagen Docker.',
+      'Subir el proyecto a GitHub y desplegarlo en Render con una URL pública permanente.',
+    ],
+    temas: ['FastAPI', 'Frontend', 'ngrok', 'Docker', 'GitHub', 'Render'],
+    documento: null,
+    descargas: [
+      {
+        etiqueta: 'Guía completa (.zip)',
+        detalle:
+          'Los 10 capítulos en Markdown, los datos (gimnasio_socios.csv) y el proyecto_final completo para comparar. Empieza por el README.md',
+        archivo: 'material/guia-despliegue/Guia_Despliegue_Paso_a_Paso.zip',
+        nombre: 'Guia_Despliegue_Paso_a_Paso.zip',
+        tipo: 'ZIP',
+        peso: '130 KB',
+        destacado: true,
+      },
+      {
+        etiqueta: 'Leer la guía en GitHub',
+        detalle: 'Se lee directo en el navegador, con los capítulos enlazados entre sí',
+        archivo: `https://github.com/${REPO}/tree/main/Guia_Despliegue_Paso_a_Paso`,
+        tipo: 'GITHUB',
+        peso: 'en línea',
+        externo: true,
+        destacado: true,
+      },
+    ],
+  },
+  {
     id: 'cuadernos',
     titulo: 'Cuadernos de Colab',
     subtitulo: 'Material de apoyo para practicar',
